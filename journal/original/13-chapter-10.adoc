@@ -38,7 +38,7 @@ I was moved, before I left the place, to give forth several papers as a warning 
 and all that so misspend their time.
 One of which was thus directed:--
 
-[.alt]
+[.blurb]
 === "`This is to go abroad among them who are given, to pleasure and wantonness.
 
 "`The sins of Sodom and Gomorrah were pride, fulness of bread, and abundance of idleness.
@@ -1672,7 +1672,7 @@ and want of the water of life.`"
 About the same time was written the following paper,
 to distinguish between true and false fasts:--
 
-[.alt]
+[.blurb]
 === Concerning the true Fast and the false.
 
 "`To all you that are keeping fasts, who' smite with the fist of wickedness,

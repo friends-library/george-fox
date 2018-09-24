@@ -528,7 +528,7 @@ laying before them the evil of persecution, and persuading them to Christian mod
 and "`to do unto others in matters of religion as they would be done unto.`"
 Which papers were as follows:--
 
-[.alt]
+[.blurb]
 === "`To Peter Hendricks at Amsterdam, and to Friends at Dantzic who are under persecution.
 
 [.salutation]
@@ -604,7 +604,7 @@ G+++.+++ F.
 [.signed-section-context-close]
 Southgate, the 28th of the 2nd Mouth, 1680.
 
-[.alt]
+[.blurb]
 === "`To the Magistrates of Dantzic:--Christian Shroder, President of the Council, and Emanuel Dilger, N. Gadecken, and N. Fraterus, Deputies of the Council, and the rest of the Magistrates and Priests.
 
 "`We have seen your order, and your breathing out persecution against that little flock,
@@ -795,7 +795,7 @@ In which time I sometimes visited Friends at Kingston,
 and wrote divers things for the service of truth and Friends.
 One was an epistle to Friends in Barbadoes; as follows:--
 
-[.alt]
+[.blurb]
 === "`To all Friends in Barbadoes, that are convinced of God's truth.'
 
 "`My desires are that ye may live and walk in his peaceable truth,
@@ -971,7 +971,7 @@ I was moved to give forth the following paper, as a reproof to such,
 and an exhortation and warning to all Friends to beware of,
 and keep out of those snares:--
 
-[.alt]
+[.blurb]
 === "`To all that profess the Truth of God.
 
 "`My desires are, that you may walk in humility in it.

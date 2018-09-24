@@ -19,7 +19,7 @@
 About this time I was moved to write a paper, and send it among the professors;
 as follows:--
 
-[.alt]
+[.blurb]
 === "`To all professors of Christianity.
 
 "`All they that professed Jesus Christ in words, and yet heard him not when he was come,
@@ -157,7 +157,7 @@ footnote:[The address of George Fox,
 in which their habiliments, vanities, and pastimes are minutely depicted.`"]
 directed--
 
-[.alt]
+[.blurb]
 === "`To such as follow the World's Fashions.
 
 "`What a world is this! how doth the devil garnish himself!
@@ -1103,7 +1103,7 @@ against the truth and people of God at this time;
 and great the contempt and disdain they showed of Friends' plainness.
 Wherefore I was moved to write the following, and sent it forth:--
 
-[.alt]
+[.blurb]
 === "`An Epistle to Churches gathered into outward forms, upon the earth.
 
 "`All ye churches gathered into outward forms upon the earth,

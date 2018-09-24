@@ -826,7 +826,7 @@ and charged with things of so high a nature, she was concerned,
 looking upon it to be an injury offered to herself.
 Whereupon she wrote the following lines, and distributed them:--
 
-[.alt]
+[.blurb]
 === "`To all Magistrates, concerning the wrong taking up, and imprisoning of George Fox at Lancaster.
 
 "`I do inform the governors of this nation, that Henry Porter, mayor of Lancaster,
@@ -1031,7 +1031,7 @@ and to warn him to restrain the profaneness and
 looseness that had got up in the nation on his return.`"
 It was thus:--
 
-[.alt]
+[.blurb]
 === "`To the King.
 
 [.salutation]

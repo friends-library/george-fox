@@ -271,7 +271,7 @@ that comes with Gertrude Dirick Nieson and George Keith's wife, to visit thee.`"
 [.signed-section-signature]
 G+++.+++ F.
 
-[.alt]
+[.blurb]
 === The Princess Elizabeth's Answer.
 
 [.salutation]
@@ -1069,7 +1069,7 @@ I wrote also from thence, "`A Warning to the Inhabitants of the City of Oldenbur
 which was lately burnt down;`" also,
 "`A Warning to the Inhabitants of the City of Hamburg,`" both of which were as follows
 
-[.alt]
+[.blurb]
 === A Warning to the Magistrates and People of the City of Oldenburg.
 
 [.salutation]
@@ -1185,7 +1185,7 @@ G+++.+++ F.
 [.signed-section-context-close]
 Amsterdam, the 19th of the 7th Month, 1677
 
-[.alt]
+[.blurb]
 === "`A Warning to the Magistrates, Priests, and People, of the City of Hamburg, to humble themselves before the Lord, and not be high-minded.
 
 [.salutation]
@@ -1312,7 +1312,7 @@ pointing out the true causes of war, and its incompatibility with Christian prin
 Before the year ended, a peace was concluded.]
 as follows:--
 
-[.alt]
+[.blurb]
 === "`For the Ambassadors, that are met to treat for Peace at the City of Nimeguen, in the States' dominions.
 
 "`Christ Jesus saith, 'Blessed are the peace-makers,
@@ -1450,7 +1450,7 @@ See Sewell's _History,_ vol. ii., 420-425.]
 And several other books I wrote, in answer to priests and others of Hamburg, Dantzic,
 and other places, to clear the truth and Friends from their charges and false slanders.
 
-[.alt]
+[.blurb]
 === "`An Epistle concerning true Fasting, true Prayer, true Honour, and against Persecution, and for the true Liberty in Christ Jesus; that all may have a care, that the apostle hath not bestowed his labour in vain upon you in your observing of Days, Months, Times, Feasts, and Years, and of coming under the beggarly elements and the yoke of bondage again, and of bringing and forcing people into them.
 
 "`Where did ever Christ or his apostles command any believers

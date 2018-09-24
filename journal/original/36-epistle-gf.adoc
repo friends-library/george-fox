@@ -1,7 +1,7 @@
 [#gf-epistle, short="Epistle of George Fox"]
 == An Epistle of George Fox's,
 
-[.alt]
+[.blurb]
 === Written with His Own Hand, and Left Sealed up with This Superscription, viz., "`Not to be Opened Before the Time;`" Which After His Decease Being Opened, Was Thought Meet To Be Printed, viz.:--
 
 [.offset]

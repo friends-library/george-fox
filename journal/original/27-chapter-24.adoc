@@ -38,7 +38,7 @@ to persuade the magistrates to moderation towards Dissenters,
 and take off their edge to persecution.
 That it should have its full service, I directed it--
 
-[.alt]
+[.blurb]
 === "`To all the Rulers, Magistrates, and Law-makers in England, Scotland, and Ireland, from the highest to the lowest; and to all other Magistrates everywhere, in that which is called Christendom; desiring their health, peace, tranquillity, life, and salvation in Christ Jesus, the Lord of Glory, and Lamb of God, who takes away the sins of the world, who is the King of kings, and Lord of lords, to whom all power in heaven and in earth is given; and who will reward every man according to his words and works.
 
 "`You that bear the name of Christian magistrates, my desire is,
@@ -210,7 +210,7 @@ in which the glorious presence and power of the Lord was eminently felt and enjo
 [.offset]
 Some time after the Yearly Meeting it came upon me to write the following epistle:--
 
-[.alt]
+[.blurb]
 === "`To the Men's and Women's Quarterly Meetings that are gathered in the name and power of Jesus.
 
 "`Christ, the second Adam, who is both Head and Husband of his church, the Redeemer,
@@ -534,7 +534,7 @@ But whatever they were that stood to be chosen,
 I observed heat and strife in the spirits of the people that were to choose;
 wherefore I wrote a few lines to be spread amongst them, directed thus:--
 
-[.alt]
+[.blurb]
 === "`To the People who are choosing Sherifs in London.
 
 "`People,--All keep in the gentle and peaceable wisdom of God,

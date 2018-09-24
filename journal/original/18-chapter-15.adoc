@@ -1308,7 +1308,7 @@ After this it came upon me to write to the judges, and other magistrates,
 concerning their "`giving evil words and nicknames to such as
 were brought before them;`" which was after this manner:--
 
-[.alt]
+[.blurb]
 === "`To all judges, or other officers whatsoever, in the whole world, who profess yourselves to be Christians.
 
 [.salutation]
@@ -1464,7 +1464,7 @@ tell us sometimes of the late plot in the North,
 we gave forth the following paper to stop their mouths,
 and to clear truth and Friends therefrom.
 
-[.alt]
+[.blurb]
 === "`A Testimony from the people of God, whom the world calls Quakers, to all magistrates and officers of what sort soever, from the highest to the lowest.
 
 "`We are peaceable, and seek the peace, good, and welfare of all,

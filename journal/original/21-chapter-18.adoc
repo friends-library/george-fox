@@ -590,7 +590,7 @@ Whereupon we drew up a paper, to go forth in the name of the people called Quake
 for the clearing of truth and Friends from those false reports.
 It was directed thus:--
 
-[.alt]
+[.blurb]
 === "`For the Governor of Barbadoes, with his Council and Assembly, and all others in power, both civil and military, in this Island; from the people called Quakers.
 
 "`Whereas many scandalous lies and slanders have been cast upon us, to render us odious;

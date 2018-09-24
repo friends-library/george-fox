@@ -892,7 +892,7 @@ disobey and break the command of Christ and the apostle.
 And I was moved of the Lord to give forth a paper against swearing, which I had about me,
 to the grand and petty juries; which was as follows:--
 
-[.alt]
+[.blurb]
 === "`Concerning Swearing.
 
 "`Take heed of giving people oaths to swear: for Christ our Lord and Master saith,
@@ -1026,7 +1026,7 @@ He did read it, and the judge, justices, and whole court were silent;
 for the people were eager to hear it.
 It was as follows:--
 
-[.alt]
+[.blurb]
 === Peter Ceely, one of the Justices of the Peace of this County, to the Keeper of His Highness's Jail at Launceston, or his lawful Deputy in that behalf. Greeting:--
 
 "`I send you herewithal by the bearers hereof, the bodies of Edward Pyot of Bristol,
@@ -1413,7 +1413,7 @@ being sensible of the injustice and envy of Judge Glynne to us at our trial,
 and willing to lay the weight thereof upon him, and make him sensible thereof also,
 wrote an epistle to him on behalf of us all, thus:--
 
-[.alt]
+[.blurb]
 === "`To John Glynne, Chief Justice of England.
 
 [.salutation]
@@ -2067,7 +2067,7 @@ Now from the sense I had of the snare that was laid, and mischief intended,
 in setting up those watches at the time to stop and take up Friends,
 it came upon me to give forth the following, as--
 
-[.alt]
+[.blurb]
 === "`An Exhortation and Warning to the Magistrates.
 
 "`All ye powers of the earth, Christ is come to reign, and is among you,
@@ -2762,7 +2762,7 @@ Then he urged, that we should promise
 "`to go home, if the Lord permitted;`"
 whereupon Edward Pyot wrote him the following letter:--
 
-[.alt]
+[.blurb]
 === "`To Major-General Desborough.
 
 [.salutation]
@@ -2808,7 +2808,7 @@ Edward Pyot.
 Some time having elapsed after the foregoing was delivered him,
 and he not giving any order for our discharge, I also wrote to him, as follows:--
 
-[.alt]
+[.blurb]
 === "`To Major-General Besborough.
 
 [.salutation]

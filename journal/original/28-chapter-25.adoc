@@ -516,7 +516,7 @@ And as a further discovery of the working of that seducing spirit,
 and a warning to all Friends to beware of it,
 I was moved to write the following epistle:--
 
-[.alt]
+[.blurb]
 === "`To all the elect, faithful, called, and chosen of God, the flock and heritage of God, who have been acquainted with the dealings of the Lord, and have kept your habitations in his life, power, and truth, being built upon the holy, heavenly rock and foundation, Christ Jesus, who was the foundation of the prophets and apostles; which foundation stands sure.
 
 "`Many foundations have been laid since the apostles' days,
@@ -975,7 +975,7 @@ and some for particular service; as letters to the King of Denmark and Duke of H
 on behalf of Friends that were sufferers in their dominions; of the latter,
 the following is a copy:--
 
-[.alt]
+[.blurb]
 === "`For the Duke of Holstein, whom I entreat, in the love of God, to read over this, which is sent in love to him.
 
 "`I understand that formerly, by some evil-minded persons, it was reported to thee,

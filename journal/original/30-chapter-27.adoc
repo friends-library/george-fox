@@ -223,7 +223,7 @@ At this time I went with my son-in-law William Mead,
 to his countryhouse called Gooses in Essex, where I stayed about two weeks;
 and among other services I had there, I wrote the following paper:--
 
-[.alt]
+[.blurb]
 === "`A Distinction between the True Offering and Sacrifice, and the False, in the Old and New Covenant.
 
 "`The Lord saith, 'He that sacrificeth to any God, save unto the Lord only,

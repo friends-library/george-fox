@@ -210,7 +210,7 @@ and sent some copies to the king and council; others were sold in the streets,
 and at the Exchange.
 Which declaration was some years after reprinted, and is as follows:--
 
-[.alt]
+[.blurb]
 === A Declaration from the harmless and innocent people of God, called Quakers, against all sedition, plotters, and fighters in the world: for removing the ground of jealousy and suspicion from magistrates and people concerning tears and fightings.
 
 [.signed-section-context-open]
@@ -433,7 +433,7 @@ and all that wrong us, we leave to the Lord.
 This is to clear our innocency from the aspersion cast upon us,
 that we are seditious or plotters.`"
 
-[.alt]
+[.blurb]
 === Added in the reprinting.
 
 [.salutation]
@@ -1341,7 +1341,7 @@ and got it delivered to the king,
 that he might understand how we were dealt with by his officers.
 It was directed thus:--
 
-[.alt]
+[.blurb]
 === "`For the King.
 
 [.salutation]

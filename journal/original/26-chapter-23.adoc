@@ -378,7 +378,7 @@ London, the 26th of the 3rd Month, 1678.
 [.offset]
 The letter to the King of Poland mentioned is as follows:--
 
-[.alt]
+[.blurb]
 === "`To Johannes III. King of Poland, etc.
 
 [.salutation]
@@ -628,7 +628,7 @@ which was written by Tertullian, upon the same subject;
 which are not only for the Christian religion,
 but against all persecution for religion.`"
 
-[.alt]
+[.blurb]
 === "`Dear Peter Hendricks, John Claus, J. Rawlins, and all the rest of Friends in Amsterdam, Friesland, and Rotterdam, to whom is my love in the Seed of life, that is over all.
 
 "`I Received your letter with one from Dantzic: I have written something directed to you,

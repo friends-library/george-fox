@@ -120,7 +120,7 @@ who had opposed the order of the gospel,
 and had stirred up much strife and contention in Westmorland.`"
 Wherefore I was moved to write a few lines, particularly to Friends there.
 
-[.alt]
+[.blurb]
 === "`This is for Friends in Westmorland.
 
 "`All live in the power of God, in his Light and Spirit, which first convinced you;
@@ -821,7 +821,7 @@ G+++.+++ F.
 [.signed-section-context-close]
 Swarthmore, the 5th of the 8th Month, 1676.
 
-[.alt]
+[.blurb]
 === Narrative of the spreading of Truth, and of the opposition thereto.
 
 "`The truth sprang up first to us, so as to be a people to the Lord,

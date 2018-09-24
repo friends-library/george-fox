@@ -99,7 +99,7 @@ in order to stir up the pure mind,
 and raise a holy care and watchfulness in them over themselves, and one another,
 for the honour of truth:--
 
-[.alt]
+[.blurb]
 === "`To you all, Friends everywhere, scattered abroad.
 
 "`In the measure of the life of God, wait for wisdom from God, even from Him,
@@ -257,7 +257,7 @@ and now sent abroad out of the North country.
 The sense of their service being very weighty upon me,
 I was moved to give forth the following paper:--
 
-[.alt]
+[.blurb]
 === "`To Friends in the Ministry.
 
 "`All Friends everywhere, Know the Seed of God, which bruiseth the seed of the serpent,

@@ -319,7 +319,7 @@ I wrote a letter to the King of Poland on behalf of Friends at Dantzic,
 who had long been under grievous sufferings.
 A copy whereof follows:--
 
-[.alt]
+[.blurb]
 === "`To John the Third, King of Poland, great Duke of Lithuania, Russia, and Prussia, Defender of the city of Dantzic, etc. Concerning the innocent and afflicted people, in scorn called Quakers, who are now fed with bread and water in Bridewell of the aforesaid city, under close confinement, where their friends, wives, and children, are hardly suffered to come to see them,
 
 [.salutation]
@@ -451,7 +451,7 @@ not only with respect to outward things relating to this world,
 but with respect to religious matters also.
 A copy of which follows:--
 
-[.alt]
+[.blurb]
 === Concerning Judging.
 
 "`'The natural man receiveth not the things of the Spirit of God,
@@ -1031,7 +1031,7 @@ A little after it came upon me to write something
 concerning the state of the true church,
 and of the true members thereof, as follows:--
 
-[.alt]
+[.blurb]
 === "`Concerning the Church of Christ being clothed with the Sun, and having the Moon under her feet.
 
 "`They are living members, living stones, built up a spiritual household,

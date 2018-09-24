@@ -953,7 +953,7 @@ Anthony Pearson being then in Carlisle,
 and perceiving that they did not intend to bring me, as was expected, upon my trial,
 wrote a letter to the judges, directed as follows:--
 
-[.alt]
+[.blurb]
 === To the Judges of Assize and Jail-delivery for the Northern Parts, sitting at Carlisle.
 
 "`You are raised up to do righteousness and justice,

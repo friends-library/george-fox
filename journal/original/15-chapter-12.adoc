@@ -844,7 +844,7 @@ calling themselves Protestants,
 were at the same time persecuting their Protestant neighbours and friends at home.
 That which I wrote to them was after this manner:--
 
-[.alt]
+[.blurb]
 === "`To the Heads and Governors of this Nation, who have put forth a Declaration for keeping a day of solemn, Fasting and Humiliation, for the persecution (as you say) of divers people beyond the seas, professing the Reformed religion, which, ye say, hath been transmitted unto them from their ancestors.
 
 "`A Profession of the Reformed religion may be transmitted to generations,

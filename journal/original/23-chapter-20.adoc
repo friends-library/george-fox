@@ -95,7 +95,7 @@ and glorious, powerful meetings we had at that time,
 for the Lord's infinite power and life was over all.
 In the fresh openings whereof, I was moved to declare of
 
-[.alt]
+[.blurb]
 === Three Estates, and Three Teachers,
 
 Viz: "`God was the first teacher of man and woman in Paradise;
@@ -316,7 +316,7 @@ and Thomas Lower for company with me; and though he had nothing to lay to our ch
 sent us both to Worcester jail, by a strange sort of mittimus;
 a copy of which here follows:--
 
-[.alt]
+[.blurb]
 === "`To the constables of Tredington, in the said county of Worcester, and to all constables and tithing-men of the several townships and villages within the said parish of Tredington, and to the keeper of the jail for the county of Worcester.
 
 "`Complaint being made to me,

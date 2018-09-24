@@ -261,7 +261,7 @@ About this time I was moved to give forth the following,
 to go amongst the convinced and tender people, to manifest the deceits of the world,
 and how the priests have deceived the people:--
 
-[.alt]
+[.blurb]
 === To all you that love the Lord Jesus Christ with a pure and naked heart, and the generation of the righteous.
 
 "`Christ was ever hated; and the righteous for his sake.

@@ -711,7 +711,7 @@ After a little time, I wrote a letter to the council,
 to lay before them their unchristian dealing in banishing me, an innocent man,
 that sought their salvation and eternal good; a copy of which letter here follows:--
 
-[.alt]
+[.blurb]
 === "`To the Council of Edinburgh,
 
 "`Ye that sit in council, and bring before your judgment-seat the innocent, the just,

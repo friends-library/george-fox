@@ -40,7 +40,7 @@ May, 2018
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === Short Glossary of Terms:
 
 Papist::
