@@ -77,7 +77,7 @@ at a dispute held there by Robert Barclay, and George Keith,
 with some of the scholars of that university.^
 footnote:[Some particulars of the controversy here alluded to,
 may be seen in Barclay`'s _Works;_ also in Jaffray`'s _Diary,_
-p. 328-330. The students who were convinced issued a written declaration,
+p+++.+++ 328-330. The students who were convinced issued a written declaration,
 stating the grounds of their change, which remains on record.]
 
 Among others Colonel Kirby paid me a visit, who had been one of my great persecutors;
