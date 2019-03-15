@@ -99,6 +99,9 @@ in order to stir up the pure mind,
 and raise a holy care and watchfulness in them over themselves, and one another,
 for the honour of truth:--
 
+[.embedded-content-document.epistle]
+--
+
 [.blurb]
 === "`To you all, Friends everywhere, scattered abroad.
 
@@ -163,6 +166,8 @@ wait upon the Lord Jesus for the crown that is immortal, and that fadeth not awa
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 "`This is to be sent amongst all Friends in tie truth, the flock of God,
 to be read at their meetings.`"
@@ -256,6 +261,9 @@ into Wales, and others different ways; for above sixty ministers had the Lord ra
 and now sent abroad out of the North country.
 The sense of their service being very weighty upon me,
 I was moved to give forth the following paper:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To Friends in the Ministry.
@@ -429,6 +437,8 @@ which is the girdle.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 About this time Rice Jones of Nottingham (who had been a Baptist, and was turned Banter),
 and his company, began to prophesy against me, giving out,
