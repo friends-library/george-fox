@@ -323,8 +323,11 @@ and that nature which holdeth it up.`"
 Again a concern came upon me to write to the magistrates of Derby;
 which I did as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
-Friends,
+"`Friends,
 
 "`I desire you to consider in time whom ye do imprison;
 for the magistrate is set for the punishment of evil-doers,

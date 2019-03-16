@@ -920,7 +920,7 @@ Some little time after I wrote to them again:--
 --
 
 [.salutation]
-Friends,
+"`Friends,
 
 "`Would you have me to be bound to my good behaviour from drunkenness, or swearing,
 or fighting, or adultery, and the like? The Lord hath redeemed me from all these things;
@@ -941,7 +941,7 @@ as follows:--
 --
 
 [.salutation]
-Friends,
+"`Friends,
 
 "`Had you known who sent me to you, ye would have received me;
 for the Lord sent me to warn you of the woes that are coming upon you;
@@ -965,6 +965,8 @@ But love mercy, and true judgment, and justice, for that the Lord delights in.
 I do not write with hatred to you; but to keep my conscience clear;
 take heed how you spend your time.`"
 
+--
+
 [.offset]
 I was moved also to write again to the priests of Derby:--
 
@@ -972,7 +974,7 @@ I was moved also to write again to the priests of Derby:--
 --
 
 [.salutation]
-Friends,
+"`Friends,
 
 "`You profess to be the ministers of Jesus Christ in words,
 but you show by your fruits what your ministry is.
@@ -1042,7 +1044,7 @@ who was both a justice and a preacher, as was hinted before:--
 --
 
 [.salutation]
-Friend,
+"`Friend,
 
 "`Do not cloak and cover thyself; there is a God, who knoweth thy heart,
 and will uncover thee; he seeth thy way.
