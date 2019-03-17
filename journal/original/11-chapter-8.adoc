@@ -19,6 +19,9 @@
 About this time I was moved to write a paper, and send it among the professors;
 as follows:--
 
+[.embedded-content-document.paper]
+--
+
 [.blurb]
 === "`To all professors of Christianity.
 
@@ -148,6 +151,8 @@ dost make thyself manifest to thy children.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 My spirit was greatly burdened to see the pride, that existed in the nation,
 even among professors,
 and in the sense thereof I was moved to give forth the following paper,^
@@ -156,6 +161,9 @@ footnote:[The address of George Fox,
 "`draws a vivid picture of a fine lady and gentleman of the Commonwealth,
 in which their habiliments, vanities, and pastimes are minutely depicted.`"]
 directed--
+
+[.embedded-content-document.paper]
+--
 
 [.blurb]
 === "`To such as follow the World`'s Fashions.
@@ -255,10 +263,15 @@ That is not accepted with the Lord, which is accepted in their eye.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Moreover it came upon me about this time from the Lord,
 to write a short paper and send forth, as an exhortation and warning to the Pope,
 and all kings and rulers in Europe; as follows:--
+
+[.embedded-content-document.paper]
+--
 
 [.salutation]
 "`Friends,
@@ -317,6 +330,8 @@ or of his cross, which is the power of God manifest in the inward parts.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 Besides this I was moved to write a letter to the Protector,
 to warn him of the mighty work the Lord hath to do in the nations,
 and of the shaking of them; and to beware of his own wit, craft, subtilty, and policy,
@@ -329,6 +344,9 @@ There was about this time an order for the trying of ministers (so called),
 and for approving, or ejecting them out of their places or benefices;
 whereupon I wrote a paper to the justices, and other commissioners,
 who were appointed to that work, as follows:--
+
+[.embedded-content-document.paper]
+--
 
 [.salutation]
 "`Friends,
@@ -427,6 +445,8 @@ This is from a lover of your souls, and one that desires your eternal good.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 After I had made some stay in the city of London,
 and cleared myself of what service lay upon me at that time there,
@@ -1390,3 +1410,4 @@ which is sufficient in all temptations, to lead out of them, and to keep over th
 
 [.signed-section-signature]
 G+++.+++ F.
+//Not sure what I should do with all of this in the footnote.

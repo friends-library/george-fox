@@ -312,6 +312,9 @@ a Friend who lived in Ireland,
 having some drawings upon his spirit to come over into England to see me, met with me;
 by whom I wrote to the few Friends then convinced in the north of Ireland, as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`Friends,
 
@@ -323,6 +326,8 @@ that nothing may rule in you but the life, which stands in the Lord God.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 When these few lines were read amongst the Friends in Ireland at their meeting,
 the power of the Lord came upon all in the room.
@@ -645,6 +650,9 @@ A copy of which follows:--
 [.small-break]
 '''
 
+[.embedded-content-document.paper]
+--
+
 "`The mighty day of the Lord is come, and coming,
 wherein all hearts shall be made manifest,
 and the secrets of every one`'s heart shall be revealed by the light of Jesus,
@@ -675,6 +683,8 @@ and will preserve you from the evils of the world, and all the deceivers in it.`
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 This paper a Friend who was then with me had;
 and when we were gone three or four miles from Market-Jew towards the West,
@@ -892,6 +902,9 @@ disobey and break the command of Christ and the apostle.
 And I was moved of the Lord to give forth a paper against swearing, which I had about me,
 to the grand and petty juries; which was as follows:--
 
+[.embedded-content-document.paper]
+--
+
 [.blurb]
 === "`Concerning Swearing.
 
@@ -958,6 +971,8 @@ saith Christ.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 This paper passing among them from the jury to the justices,
 they presented it to the judge; so that when we were called before the judge,
@@ -1026,6 +1041,9 @@ He did read it, and the judge, justices, and whole court were silent;
 for the people were eager to hear it.
 It was as follows:--
 
+[.embedded-content-document.paper]
+--
+
 [.blurb]
 === Peter Ceely, one of the Justices of the Peace of this County, to the Keeper of His Highness`'s Jail at Launceston, or his lawful Deputy in that behalf. Greeting:--
 
@@ -1049,6 +1067,8 @@ Given under my hand and seal, at St. Ives, the eighteenth day of January, 1655.`
 
 [.signed-section-signature]
 P+++.+++ Ceely.
+
+--
 
 When it was read I spoke thus to the judge and justices:
 "`Thou that sayest thou art chief justice of England, and you justices know,
@@ -1412,6 +1432,9 @@ and had a good understanding in the laws and rights of the people,
 being sensible of the injustice and envy of Judge Glynne to us at our trial,
 and willing to lay the weight thereof upon him, and make him sensible thereof also,
 wrote an epistle to him on behalf of us all, thus:--
+
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === "`To John Glynne, Chief Justice of England.
@@ -2000,6 +2023,8 @@ Edward Pyot.
 [.signed-section-context-close]
 From the Jail in Launceston, the 14th day of the 5th Month, 1656.
 
+--
+
 By this letter the reader may observe how contrary to law we were made to suffer:
 but the Lord, who saw the integrity of our hearts to him,
 and knew the innocency of our cause, was with us in our sufferings, bore up our spirits,
@@ -2066,6 +2091,9 @@ This shamed him so, that from that time he meddled little with the servants of t
 Now from the sense I had of the snare that was laid, and mischief intended,
 in setting up those watches at the time to stop and take up Friends,
 it came upon me to give forth the following, as--
+
+[.embedded-content-document.paper]
+--
 
 [.blurb]
 === "`An Exhortation and Warning to the Magistrates.
@@ -2143,6 +2171,8 @@ as they say who are out of the truth, and set up their watches against it.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 Besides this general warning,
 there coming to my hand a copy of a warrant issued from the Exeter sessions,
 in express terms, "`for apprehending all Quakers,`"
@@ -2154,6 +2184,9 @@ which was after this manner:--
 
 [.small-break]
 '''
+
+[.embedded-content-document.letter]
+--
 
 "`Whereas a warrant was granted last sessions, held at Exeter,
 on the eighteenth day of the fifth month, 1656,
@@ -2321,6 +2354,8 @@ You have imprisoned the innocent, and let the others go free.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 When I had sent abroad the foregoing,
 so great a sense came upon me of the veil of darkness that was
 over the priests and professors of Christianity,
@@ -2328,6 +2363,9 @@ that I was moved to give forth the following, as an awakening warning to them:--
 
 [.small-break]
 '''
+
+[.embedded-content-document.letter]
+--
 
 "`Blindness hath happened to the professed Christians of the
 letter now-a-days,-as blindness happened to the Jews,
@@ -2544,6 +2582,8 @@ against the gospel practice, and contrary to the manner and order of the saints.
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 We continued in prison till the next assize; before which time divers Friends,
 both men and women, were sent to prison, that had been taken up by the watches.
 When the assize came on, several of these were called before the judge, and indicted;
@@ -2612,6 +2652,9 @@ and his aunt have undergone for the truth`'s sake.
 [.offset]
 About this time I was moved to give forth the following
 exhortation to Friends in the ministry:--
+
+[.embedded-content-document.epistle]
+--
 
 [.salutation]
 "`Friends,
@@ -2719,6 +2762,8 @@ where glory and life is.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 After the assizes, the sheriff, with some soldiers, came to guard a woman to execution,
 that was sentenced to die; and we had much discourse with them.
 One of them wickedly said,
@@ -2761,6 +2806,9 @@ When he came, he offered us our liberty, if we would say,
 Then he urged, that we should promise
 "`to go home, if the Lord permitted;`"
 whereupon Edward Pyot wrote him the following letter:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To Major-General Desborough.
@@ -2805,8 +2853,13 @@ that justice thou mayest do to the just and innocent in prison.`"
 [.signed-section-signature]
 Edward Pyot.
 
+--
+
 Some time having elapsed after the foregoing was delivered him,
 and he not giving any order for our discharge, I also wrote to him, as follows:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To Major-General Besborough.
@@ -2883,6 +2936,8 @@ But who goeth out of the power of God, loseth his freedom.
 
 [.signed-section-context-close]
 "`The 13th of the 6th Month, 1656.`"
+
+--
 
 After this Major Desborough came to the Castle-Green,
 and played at bowls with the justices and others.
