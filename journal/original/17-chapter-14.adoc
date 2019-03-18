@@ -177,6 +177,9 @@ and of their innocency towards God and man,
 I was moved to send the following epistle to them, as a word of consolation,
 and advised them to send up an account of their sufferings:--
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 "`My Dear Friends,
 
@@ -204,11 +207,16 @@ G+++.+++ F.
 [.signed-section-context-close]
 London, the 28th of the 11th Month, 1660.
 
+--
+
 Having lost our former declaration in the press,
 we hastily drew up another against plots and fighting, got it printed,
 and sent some copies to the king and council; others were sold in the streets,
 and at the Exchange.
 Which declaration was some years after reprinted, and is as follows:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === A Declaration from the harmless and innocent people of God, called Quakers, against all sedition, plotters, and fighters in the world: for removing the ground of jealousy and suspicion from magistrates and people concerning tears and fightings.
@@ -433,6 +441,11 @@ and all that wrong us, we leave to the Lord.
 This is to clear our innocency from the aspersion cast upon us,
 that we are seditious or plotters.`"
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Added in the reprinting.
 
@@ -448,6 +461,8 @@ all plotting and fighting with carnal weapons.
 And if any by departing from the truth should do so,
 this is our testimony in the truth against them, and will stand over them,
 and the truth will be clear of them.`"
+
+--
 
 [.small-break]
 '''
@@ -873,6 +888,9 @@ for he only is able to deliver, to save,
 and to support all that sincerely put their trust in him.
 Here follows a copy of the mandamus:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`Charles R.
 
@@ -904,6 +922,8 @@ By his Majesty`'s command.
 
 [.signed-section-signature]
 "`William Morris.`"
+
+--
 
 Some time after this several New England magistrates came over, with one of their priests.
 We had several discourses with them concerning their murdering our Friends,
@@ -1005,6 +1025,9 @@ Now the bishops and priests being busy and eager to set up their form of worship
 and compel all to come to it, I was moved to give forth the following paper,
 to open the nature of the true worship, which Christ set up, and which God accepts:--
 
+[.embedded-content-document.paper]
+--
+
 "`Christ`'s worship is free in the Spirit to all men;
 and such as worship in Spirit and in truth, are they whom God seeks to worship him;
 for he is the God of truth, and is a Spirit, and the God of the spirits of all flesh.
@@ -1051,6 +1074,8 @@ the end of every one`'s work is seen, of what sort it is.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 About this time many Papists and Jesuits began to fawn upon Friends,
 and talked where they came,
@@ -1225,6 +1250,9 @@ or of inward fascinations and snares of the enemy.]
 Wherefore feeling the judgment of truth rise against it,
 I gave forth the following as a warning to all that were concerned therein
 
+[.embedded-content-document.letter]
+--
+
 "`Whosoever is tainted with this spirit of John Perrot, it will perish.
 Mark his and their end,
 who are turned into those outward things and janglings about them,
@@ -1245,6 +1273,8 @@ that your memorial be not rooted out from among the righteous.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 Among the exercises and troubles Friends had from without,
 one was regarding Friends`' marriages, which sometimes were called in question.
@@ -1291,6 +1321,9 @@ Upon that occasion Friends published in print "`The grounds and reasons why
 they refused to swear;`" besides which I was moved to issue these few lines,
 to be given to the magistrates:--
 
+[.embedded-content-document.letter]
+--
+
 "`The world saith, '`Kiss the book;`'
 but the book saith, '`Kiss the Son, lest he be angry.`'
 And the Son saith,
@@ -1304,6 +1337,8 @@ and the way to God.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 Now there being very many Friends in prison in the nation,
 Richard Hubberthorn and I drew up a paper concerning them,^
@@ -1340,6 +1375,9 @@ They were also often overrun with lice and other vermin.]
 and got it delivered to the king,
 that he might understand how we were dealt with by his officers.
 It was directed thus:--
+
+[.embedded-content-document.paper]
+--
 
 [.blurb]
 === "`For the King.
@@ -1413,12 +1451,17 @@ which are by no means wanting in proper courtesy.--(Marsh.)]
 [.signed-section-signature]
 G+++.+++ F. and R. H.
 
+--
+
 I mentioned before, that in the year 1650,
 I was kept prisoner six months in the house of correction at Derby,
 and that the '`keeper of the prison, a cruel man,
 and one that had dealt very wickedly towards me, was smitten in himself,
 the plagues and terrors of the Lord falling upon him because thereof.
 This man, being afterwards convinced of truth, wrote me the following letter:--.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Dear Friend,
@@ -1452,6 +1495,8 @@ and all Christian Friends with thee, in haste, I rest, thine, in Christ Jesus,
 
 [.signed-section-context-close]
 Derby, 22nd of 4th Month, 1662.
+
+--
 
 There were two of our Friends in prison in the Inquisition at Malta, both women;
 Catherine Evans and Sarah Cheevers.^
@@ -1564,6 +1609,9 @@ yet persecution was very hot, and several Friends died in prison.
 Whereupon I gave forth a little paper concerning the grounds and rise of persecution;
 which was thus:--
 
+[.embedded-content-document.paper]
+--
+
 "`All the sufferings of the people of God in all ages were,
 because they could not join in the national religions and worships,
 which men had made and set up;
@@ -1583,6 +1631,8 @@ and against his apostles and disciples, who were in the Spirit and power of Chri
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 After I had made some stay in London,
 and had cleared myself of those services that at that time lay upon me there,
@@ -1922,6 +1972,9 @@ And being sensible bow great a grief and
 exercise it would be to Friends to part with him,
 I wrote the following lines for the staying and settling of their minds:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`Friends,
 
@@ -1935,6 +1988,8 @@ and so enjoy him in the life that doth not change, which is invisible.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 Thence I passed to Little Port and the Isle 0f Fly; where the ex-mayor, with his wife,
 and the wife of the then mayor of Cambridge, came to the meeting.

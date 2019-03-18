@@ -1017,6 +1017,9 @@ and many Friends being at this time in Lancaster jail committed by him,
 and some having died in prison,
 we that were then prisoners had it upon us to write to him, as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`O Justice Fleming!
 
@@ -1216,8 +1219,13 @@ cruelties practised against the early Quakers,
 the reader is referred to the two closely printed folio volumes,
 entitled Besse`'s _Sufferings._]
 
+--
+
 Besides this, which went in the name of many,
 I sent him also a line subscribed by myself only, and directed--
+
+[.embedded-content-document.letter]
+--
 
 [.letter-heading]
 To Daniel Fleming.
@@ -1231,6 +1239,8 @@ lest the hand of the Lord be turned against thee!`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 It was not long after this ere Fleming`'s wife died,
 and left him thirteen or fourteen motherless children.
@@ -1307,6 +1317,9 @@ a drunken preacher of his society.
 After this it came upon me to write to the judges, and other magistrates,
 concerning their "`giving evil words and nicknames to such as
 were brought before them;`" which was after this manner:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To all judges, or other officers whatsoever, in the whole world, who profess yourselves to be Christians.
@@ -1451,6 +1464,8 @@ so far as appears by Scripture, either amongst Heathens, Jews, or Christians?`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 Before the next assizes, there was a quarter-sessions held at Lancaster by the justices;
 to which though we were not brought,
 I put Friends upon drawing up an account of their sufferings,
@@ -1463,6 +1478,9 @@ And because some evil-minded magistrates would
 tell us sometimes of the late plot in the North,
 we gave forth the following paper to stop their mouths,
 and to clear truth and Friends therefrom.
+
+[.embedded-content-document.paper]
+--
 
 [.blurb]
 === "`A Testimony from the people of God, whom the world calls Quakers, to all magistrates and officers of what sort soever, from the highest to the lowest.
@@ -1579,9 +1597,14 @@ and peace, and through him ye will overcome all that is in the fall.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 I wrote also another epistle to Friends, to warn them to keep out of the spirit,
 that wrought in John Perrot and his company against the truth:--
+
+[.embedded-content-document.epistle]
+--
 
 [.salutation]
 "`Dear Friends,
@@ -1607,6 +1630,8 @@ who is the First and the Last, the Amen; in whom farewell.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 In the sixth month, the assizes were held again at Lancaster, and the same judges,
 Twisden and Turner, came that circuit again;
@@ -2029,6 +2054,9 @@ I was moved to give forth the following lines concerning tithes:--
 [.small-break]
 '''
 
+[.embedded-content-document.letter]
+--
+
 "`In the time of the law, they that did not bring their tithes into the store-house,
 robbed God; then there was not meat in their house;
 therefore the Lord commanded '`to bring them into his house,
@@ -2084,6 +2112,8 @@ and all the oppressors of God`'s people whatsoever, whether ye will hear or forb
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 After the assize,
 Colonel Kirby and some other justices were very uneasy with my being at Lancaster;
@@ -2623,6 +2653,9 @@ and gave me the following passport:--
 [.small-break]
 '''
 
+[.embedded-content-document.letter]
+--
+
 "`Permit the bearer hereof, George Fox, late a prisoner here,
 and now discharged by His Majesty`'s order, quietly to pass about his lawful occasions,
 without any molestation.
@@ -2633,6 +2666,8 @@ Jordan Croslands,
 
 [.signed-section-context-close]
 Governor of Scarbro`' Castle.
+
+--
 
 After I was released,
 I would have made the governor a present for the
@@ -2679,6 +2714,7 @@ some under miserable huts and hovels, many without a rag or necessary utensils,
 bed or board; who, from delicateness, riches,
 or easy accommodations in stately and well-furnished houses,
 were now reduced to extremest misery and poverty,`" etc., vol. i. p. 372-374.]
+//Should the footnote end here ^^?
 Then I saw the Lord God was true and just in his word,
 which he had showed me before in Lancaster jail,
 when I saw the angel of the Lord with a glittering sword drawn southward,

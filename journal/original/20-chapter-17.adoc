@@ -145,6 +145,9 @@ even with audible voices, making melody in their hearts.
 [.offset]
 At which time I was moved to declare to Friends in the ministry, as follows:--
 
+[.embedded-content-document.letter]
+--
+
 "`Sound, sound abroad, ye faithful servants of the Lord, and witnesses in his name,
 ye prophets of the Highest, and angels of the Lord!
 Sound ye all abroad in the world, to the awakening and raising of the dead,
@@ -194,6 +197,8 @@ and have their sentence and reward according to their works.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 To James Hutchinson`'s in Ireland came many great persons,
 desiring to discourse with me about election and reprobation.
@@ -452,6 +457,9 @@ about "`putting out poor children to trades.`"
 Wherefore I sent the following epistle to the
 quarterly meetings of Friends in all counties:--
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 "`My Dear Friends,
 
@@ -499,6 +507,8 @@ G+++.+++ F.
 [.signed-section-context-close]
 London, 1st of 11th Month, 1669.
 
+--
+
 I stayed not long in London; but having visited Friends,
 and finding things there quiet and well, the Lord`'s power being over all,
 I passed into Essex, and Hertfordshire, where I had many precious meetings.
@@ -528,6 +538,9 @@ and others concerned therein in the country.
 "`Which letter Sarah Fell going down with her brother and sister Rous,
 carried with her to Lancaster; and by them I wrote to my wife, as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`My Dear Heart In The Truth And Life, That Changeth Not,
 
@@ -544,6 +557,8 @@ So no more, but my love in the holy Seed.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 The declaration here mentioned was a printed sheet,
 written upon occasion of a new persecution stirred up.
@@ -597,6 +612,9 @@ that we were not such a people, nor our meeting such as were described in that a
 I wrote also another short paper on the occasion of that act against meetings,
 opening our case to the magistrates, as follows:--
 
+[.embedded-content-document.paper]
+--
+
 "`O Friends, consider this act, which limits us to five.
 Is this doing as ye would be done by?
 Would ye be so served yourselves?
@@ -633,6 +651,8 @@ and cause us to suffer.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 As I had endeavoured to soften the magistrates,
 and to take off the sharpness of their edge in the execution of the act,
 so it was upon me to write a few lines to Friends "`to
@@ -642,6 +662,9 @@ This I did in the following epistle:--
 
 [.small-break]
 '''
+
+[.embedded-content-document.epistle]
+--
 
 "`My dear Friends, Keep in the faith of God above all outward things, and in his power,
 that hath given you dominion over all.
@@ -673,6 +696,8 @@ G+++.+++ F.
 [.signed-section-context-close]
 London, 12th of 2nd Month, 1670.
 
+--
+//Not sure where the footnote ends in this either. 
 On the First-day after the act came in force,
 I went to the meeting at Grace-church-street,
 where I expected the storm was most likely to begin.
@@ -889,6 +914,7 @@ cause of Christ.`"
      Of human nature--who appeared as meek
      And harmless as an infant--was compelled
      To dwell in loathsome prisons.`" `
+     // ^^ Does this need to be formatted differently?
 He was six times in jail,
 some of his imprisonments being long,
 yet borne with great quietness and constancy of mind.
@@ -1054,6 +1080,9 @@ Though by reason of my weakness, I could not travel amongst Friends as I used to
 yet in the motion of life,
 I sent the following lines as an encouraging testimony to them:--
 
+[.embedded-content-document.testimony]
+--
+
 [.salutation]
 "`My Dear Friends,
 
@@ -1077,6 +1106,8 @@ So be faithful, and live in that which doth not think the time long`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 After some time it pleased the Lord to allay the heat of this violent persecution;
 and I felt in spirit an overcoming of the spirits of those men-eaters,
@@ -1157,6 +1188,9 @@ And though I knew Friends would be clear of their blood,
 yet I could not but mourn over them,
 and gave forth these few lines following concerning them:--
 
+[.embedded-content-document.letter]
+--
+
 "`We have given them a visitation, have faithfully warned them,
 have declared to them our innocency and uprightness,
 and that we never did any hurt to the king, nor to any of his people.
@@ -1183,6 +1217,8 @@ Blessed be the name of the Lord our God for ever.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 While I continued at Enfield, a sense came upon me of a hurt that sometimes happened,
 by persons under the profession of truth coming out of one country into another,
@@ -1190,6 +1226,9 @@ to take a husband or wife amongst Friends, where they were strangers,
 and it was not known whether they were clear and orderly, or not.
 And it opened in me to recommend the following method
 unto Friends for preventing such inconveniences:--
+
+[.embedded-content-document.letter]
+--
 
 "`All Friends that marry, whether they be men or women,
 if they come out of another nation, island, or county,
@@ -1220,6 +1259,8 @@ G+++.+++ F.
 
 [.signed-section-context-close]
 14th of 1st Month, 1670-1671.
+
+--
 
 When I had recovered, so that I could walk a little,
 I went from Enfield to Gerrard Roberts`'s again,
@@ -1255,3 +1296,4 @@ G+++.+++ F.
 
 [.signed-section-context-close]
 This Prayer was written at night, the 17th of the 2nd Month, 1671.
+//THis above shouldn't be embedded, shoul it? Since it's a prayer? but it's signed!
