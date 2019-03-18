@@ -110,8 +110,11 @@ I was moved to write several letters to the magistrates, priests, and professors
 thereabouts, who had raised persecution before;
 that which I sent to Justice Sawrey was after this manner:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
-"`Friend,
+Friend,
 
 "`Thou wast the first beginner of all the persecution in the North;
 thou wast the beginner and the maker of the people tumultuous.
@@ -182,10 +185,15 @@ Thy back must be bowed down always; for thy table is already become thy snare.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 This Justice Sawrey, who was the first persecutor in that country, was afterwards drowned.
 
 [.offset]
 I wrote also to William Lampitt, the priest of Ulverstone, thus:--
+
+[.embedded-content-document.letter]
+--
 
 "`The word of the Lord to thee, O Lampitt! who art a deceiver,
 surfeited and drunk with the earthly spirit, rambling up and down in the Scriptures,
@@ -221,10 +229,15 @@ thou wilt witness me to have been a friend of thy soul.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Having thus cleared my conscience to the justice, and to the priest of Ulverstone,
 who had raised the first persecution in that country,
 it was upon me to send this warning in writing to the people of Ulverstone in general.
+
+[.embedded-content-document.letter]
+--
 
 "`Consider, O people! who are within the parish of Ulverstone;
 I was moved of the Lord to come into your public places to speak among you,
@@ -306,11 +319,16 @@ and going abroad, to shun all occasion of sin and evil.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 As the foregoing was directed to all the inhabitants of Ulverstone in general,
 so it was upon me to write also to those more particularly,
 that most constantly followed W. Lampitt, the priest.
 To these I wrote thus:--
+
+[.embedded-content-document.letter]
+--
 
 "`The word of the Lord God to all the people that follow priest Lampitt,
 who is a blind guide.
@@ -364,11 +382,16 @@ nor ever escape the terror of the Lord, in the state you are in, who hate the li
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Amongst the chief hearers and followers of this priest Lampitt of Ulverstone,
 was one Adam Sands, who was a very wicked, false man,
 and would have destroyed truth and its followers if he could.
 To him I was moved to write thus:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Adam Sands,
@@ -393,10 +416,15 @@ and a seeker of thy eternal good.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 This Adam Sands afterwards died miserably.
 
 [.offset]
 I was moved also to write to priest Tatham.
+
+[.embedded-content-document.letter]
+--
 
 "`The word of the Lord to thee, priest Tatham,
 who art found out of the doctrine of Christ; having the chiefest place in the assembly,
@@ -460,6 +488,8 @@ and if ever thy eye see repentance, this thy condemnation thou must own.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 I wrote also to Burton, priest of Sedbergh, much to the same purpose,
 he being in the same evil ground, nature, and practice.
@@ -954,6 +984,9 @@ Anthony Pearson being then in Carlisle,
 and perceiving that they did not intend to bring me, as was expected, upon my trial,
 wrote a letter to the judges, directed as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === To the Judges of Assize and Jail-delivery for the Northern Parts, sitting at Carlisle.
 
@@ -996,6 +1029,8 @@ and hath neither professed nor avowed them.`"
 
 [.signed-section-signature]
 Anthony Pearson.
+
+--
 
 Notwithstanding this letter,
 the judges were resolved not to suffer me to be brought before them;
@@ -1089,6 +1124,9 @@ I was moved to send the following paper,
 as a public challenge to all those that belied the truth and me behind my back,
 to come forth and make good their charge:--
 
+[.embedded-content-document.paper]
+--
+
 "`If any in Westmorland, or Cumberland, or elsewhere, that profess Christianity,
 and pretend to love God and Christ, are not satisfied concerning the things of God,
 which I, who am called George Fox, have spoken and declared,
@@ -1114,6 +1152,8 @@ and the hand of the Lord be turned against you.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 While I thus lay in the dungeon at Carlisle, the report raised at the time of the assize,
 "`that I should be put to death,`" was gone far and near;
 insomuch that the parliament then sitting, which, I think,
@@ -1124,6 +1164,9 @@ About the same time I wrote also to the justices at Carlisle,
 that had cast me into prison,
 and that persecuted Friends at the instigation of the priests for tithes;
 expostulating the matter with them thus:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Friends, Thomas Craston and Cuthbert Studholm,
@@ -1240,12 +1283,17 @@ You have no way to escape.
 For he hath appeared, who is '`the first and the last, the beginning and the ending,
 the Alpha and the Omega; he that was dead, is alive again, and lives for evermore!`'`"
 
+--
+
 [.offset]
 I mentioned before, that Gervase Benson and Anthony Pearson,
 though they had been justices of the peace,
 were not permitted to come to me in the prison;
 whereupon they jointly wrote a letter to the magistrates, priests,
 and people at Carlisle, concerning my imprisonment; which was thus:--
+
+[.embedded-content-document.letter]
+--
 
 "`Him, who is called George Fox, who is persecuted by rulers and magistrates,
 by justices, by priests, and by people,
@@ -1323,6 +1371,8 @@ Gervase Benson.
 
 [.signed-section-signature]
 Anthony Pearson.
+
+--
 
 Not long after this, the Lord`'s power came over the justices,
 and they were made to set me at liberty.

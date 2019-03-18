@@ -321,6 +321,9 @@ So when they had wearied themselves in examining me,
 they committed me and one other man to the House of Correction in Derby for six months,
 as blasphemers; as appears by the following mittimus:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 To the Master of the House of Correction in Derby, greeting.
 
@@ -345,6 +348,8 @@ Ger. Bennet,
 [.signed-section-signature]
 Nath. Barton.
 
+--
+
 Now did the priests bestir themselves in their pulpits to preach up sin for term of life;
 and much of their work was to plead for it; so that people said,
 never was the like heard.
@@ -366,6 +371,9 @@ so that they could get no advantage of me, which they wondered at.
 Not long after my commitment,
 I was moved to write both to the priests and magistrates of Derby.
 And first to the priests.
+
+[.embedded-content-document.letter]
+--
 
 O friends, I was sent unto you to tell you, that if you had received the gospel freely,
 you would minister it freely without money or price:
@@ -392,7 +400,12 @@ they loved to be called Rabbi, and so do you.
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 I wrote to the magistrates who committed me to this effect:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Friends,
@@ -417,11 +430,16 @@ lest ye be found fighters against God.
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 Now, after I had thus far cleared my conscience to them, I waited in holy patience,
 leaving the event to God, in whose will I stood.
 After some time I was moved to write again to the justices that had committed me,
 to lay their evils before them, that they might repent.
 One of them, Nathaniel Barton, was a colonel, a justice, and a preacher.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Friends,
@@ -453,10 +471,15 @@ O come down, and sit in the dust!
 The Lord is coming with power, and he will throw down every one that is lifted up,
 that he alone may be exalted.
 
+--
+
 [.offset]
 As I had thus written unto them jointly, so, after some time,
 I wrote to each of them by himself.
 To Justice Bennet thus:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Friend,
@@ -483,7 +506,12 @@ evil communication corrupteth good manners; awake to righteousness, and sin not.
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 That to Justice Barton was in these words:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Friend,
@@ -500,10 +528,15 @@ which those had backslidden from.
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 Having written to the justices and to the priests,
 it was upon me to write to the Mayor of Derby also; who,
 though he did not sign the mittimus, had a hand with the rest in sending me to prison.
 To him I wrote after this manner:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Friend,
@@ -539,8 +572,13 @@ One fared deliciously every day, and the other was a beggar.
 O friend, mind these things, for they are near;
 and see whether thou be not in Dives state.
 
+--
+
 [.offset]
 I wrote also to the court at Derby thus:--
+
+[.embedded-content-document.letter]
+--
 
 "`I am moved to write unto you, to take heed of oppressing the poor in your courts,
 or laying burthens upon poor people, which they cannot bear; and of imposing false oaths,
@@ -553,9 +591,14 @@ Therefore take heed of all these things betimes.
 The Lord`'s judgments are all true and righteous; and he delighteth in mercy.
 So love mercy, dear people, and consider in time.`"
 
+--
+
 [.offset]
 Likewise to the ringers of the bells in the steeple-house, called St. Peter`'s, in Derby,
 I sent these few lines:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Friends,
@@ -567,6 +610,8 @@ Therefore look at the love of God now, while you have time;
 for it bringeth to loathe all vanities and worldly pleasures.
 O consider! Time is precious.
 Fear God, and rejoice in him, who hath made heaven and earth.
+
+--
 
 [.asterism]
 '''
@@ -656,6 +701,9 @@ and send it forth to be spread abroad both amongst Friends and other tender peop
 for the opening of their understandings in the way of truth,
 and directing them to the true teacher in themselves.
 It was as follows:--
+
+[.embedded-content-document.paper]
+--
 
 "`The Lord doth show unto man his thoughts,
 and discovereth all the secret workings in man.
@@ -774,9 +822,14 @@ which is perfect and plain, shall be lord; for he is beloved of God.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 I wrote another paper about the same time,
 and sent it forth amongst the convinced people as follows:
+
+[.embedded-content-document.paper]
+--
 
 "`The Lord Is King over all the earth!
 Therefore, all people, praise and glorify your King in true obedience, in uprightness,
@@ -791,6 +844,8 @@ When they hear his voice, they rejoice and are obedient; they also sing for joy.
 O, their hearts are filled with everlasting triumph!
 They sing, and praise the eternal God in Zion; their joy man shall never take from them.
 Glory to the Lord God for evermore!`"
+
+--
 
 [.offset]
 But many that had been convinced of the truth, turned aside,
@@ -838,8 +893,11 @@ and they had required sureties for my good behaviour
 it came upon me to write to tho justices again;
 which I did as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
-"`Friends,
+Friends,
 
 "`See what it is in you that doth imprison; see, who is head in you; and see,
 if something do not accuse you? Consider, you must be brought to judgment.
@@ -853,8 +911,13 @@ Therefore take heed of pleasures, and deceits, and pride; and look not at man,
 but at the Lord; for '`Look unto me, all ye ends of the earth, and be ye saved,
 saith the Lord.`'`"
 
+--
+
 [.offset]
 Some little time after I wrote to them again:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Friends,
@@ -868,9 +931,14 @@ nor any other can justly accuse of these things; praised be the Lord!
 I can look to no man for my liberty, but to the Lord alone,
 who hath all men`'s hearts in his hand.`"
 
+--
+
 [.offset]
 And after some time, not finding my spirit clear of them, I wrote to them again,
 as follows:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Friends,
@@ -897,8 +965,13 @@ But love mercy, and true judgment, and justice, for that the Lord delights in.
 I do not write with hatred to you; but to keep my conscience clear;
 take heed how you spend your time.`"
 
+--
+
 [.offset]
 I was moved also to write again to the priests of Derby:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Friends,
@@ -925,10 +998,15 @@ and not the nature of Jesus Christ.
 I write with no hatred to you; but that you may weigh yourselves,
 and see how you pass your time.`"
 
+--
+
 [.offset]
 Thus having cleared my conscience to the priests,
 it was not long before a concern came upon me to write again to the justices,
 which I did as follows:--
+
+[.embedded-content-document.letter]
+--
 
 "`I am moved to warn you to take heed of giving way to your own wills.
 Love the cross; and satisfy not your own minds in the flesh; but prize your time,
@@ -956,9 +1034,14 @@ and keep you in the fear of the Lord.
 O look at the mercies of God, and prize them, and do not turn them into wantonness.
 O eye the Lord, and not earthly things!`"
 
+--
+
 [.offset]
 Besides this, I wrote the following to Colonel Barton,
 who was both a justice and a preacher, as was hinted before:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Friend,
@@ -1017,3 +1100,5 @@ and that ye may dwell upon the earth alone;
 these things are in the ears of the Lord of Hosts.
 Woe unto him that covetously getteth evil-gotten goods into his house,
 that he may set his nest on high, to escape from the power of evil.`"
+
+--

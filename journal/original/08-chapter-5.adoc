@@ -1511,6 +1511,9 @@ and which is here added for the reader`'s further satisfaction in this matter:--
 [.small-break]
 '''
 
+[.embedded-content-document.letter]
+--
+
 "`Dear friends and brethren in the Lord Jesus Christ, my dear love unto you all,
 desiring you may be kept steadfast in the Lord Jesus Christ,
 and in the power of his love, boldly to witness forth the truth,
@@ -1601,6 +1604,8 @@ J+++.+++ N.
 
 [.signed-section-context-close]
 Written from Kellet, the 30th of the 8th Month, 1652.
+
+--
 
 At this time I was in a fast, and was not to eat until this work of God,
 which then lay weighty upon me, was accomplished.

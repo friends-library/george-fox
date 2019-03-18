@@ -323,6 +323,9 @@ and that nature which holdeth it up.`"
 Again a concern came upon me to write to the magistrates of Derby;
 which I did as follows:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`Friends,
 
@@ -370,6 +373,8 @@ shall be the headstone of the corner.
 O friends, lay these things to heart, and let them not seem light things to you.
 I write to you in love, to mind the laws of God and your own souls,
 and to do as the holy men of God did.`"
+
+--
 
 [.small-break]
 '''
