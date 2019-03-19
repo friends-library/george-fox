@@ -111,7 +111,7 @@ how contrary they acted therein to the apostles`' doctrine and practice,
 and to bring them to more moderation.
 Thus it was:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`Is it not better for you,
@@ -235,7 +235,7 @@ I was also moved to give forth the following epistle to Friends,
 to stir them up to be bold and valiant for the truth,
 and to encourage them in their sufferings for it:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`All Friends and brethren everywhere, now is the day of your trial,
@@ -666,7 +666,7 @@ to petition the council against me.
 Now, when I came from the meeting to the inn where I lodged,
 an officer belonging to the council brought me the following order:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 [.signed-section-context-open]

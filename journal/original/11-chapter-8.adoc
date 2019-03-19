@@ -896,6 +896,9 @@ Amongst other services for the Lord, which then lay upon me in the city,
 I was moved to give forth a paper to those that made a scorn of trembling and quaking;
 which is as follows:--
 
+[.embedded-content-document.paper]
+--
+
 "`The word of the Lord to all you that scorn trembling, and quaking; who scoff at, scorn,
 stone, and belch forth oaths against, those who are trembling and quaking;
 threatening them, and beating them.
@@ -1118,10 +1121,15 @@ G+++.+++ F.
 [.signed-section-context-close]
 This is to go abroad among the scattered ones, and among the world.
 
+--
+
 Great was the rage and enmity of professors, as well as profane,
 against the truth and people of God at this time;
 and great the contempt and disdain they showed of Friends`' plainness.
 Wherefore I was moved to write the following, and sent it forth:--
+
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === "`An Epistle to Churches gathered into outward forms, upon the earth.
@@ -1251,6 +1259,8 @@ which above your heads is set.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 This year came out the oath of abjuration, by which many Friends suffered;
 and several went to speak to the Protector about it; but he began to harden.
@@ -1258,6 +1268,9 @@ And sufferings increasing upon Friends,
 by reason that envious magistrates made use of that oath as a snare to catch Friends in,
 who, they knew, could not swear at all; I was moved to write to the Protector,
 as follows:--
+
+[.embedded-content-document.letter]
+--
 
 "`The magistrate is not to bear the sword in vain,
 who ought to be a terror to evil-doers;
@@ -1352,12 +1365,17 @@ and all that is contrary to God may by his light be condemned.
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 But sufferings and imprisonments continuing and increasing,
 and the Protector (under whose name they were inflicted),
 hardening himself against the complaints that were made to him,
 I was moved to issue the following amongst Friends,
 to bring the weight of their sufferings more heavy upon the heads of the persecutors:--
+
+[.embedded-content-document.letter]
+--
 
 "`Who is moved by the power of the Lord to offer
 himself to the justice for his brother or sister,
@@ -1384,9 +1402,14 @@ Given forth from the Spirit of the Lord through,`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Besides this, I wrote also a short epistle to Friends,
 as an encouragement to them in their several exercises; which was as follows;--
+
+[.embedded-content-document.epistle]
+--
 
 [.salutation]
 "`My Dear Friends,
@@ -1410,4 +1433,5 @@ which is sufficient in all temptations, to lead out of them, and to keep over th
 
 [.signed-section-signature]
 G+++.+++ F.
-//Not sure what I should do with all of this in the footnote.
+
+--

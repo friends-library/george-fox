@@ -858,7 +858,7 @@ calling themselves Protestants,
 were at the same time persecuting their Protestant neighbours and friends at home.
 That which I wrote to them was after this manner:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 [.blurb]
@@ -1068,7 +1068,7 @@ I was moved to send them the following lines, as a reproof of their hypocrisy:--
 [.small-break]
 '''
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`O Friends, do not cloak and cover yourselves;
@@ -1242,7 +1242,7 @@ of which a copy here follows:--
 [.small-break]
 '''
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`My dear Friends, wherever scattered abroad, in prison or out of prison; fear not,
@@ -1384,7 +1384,7 @@ At this my spirit was greatly grieved, and the Lord, I found, was highly offende
 Then did I write the following lines, and sent among them, to reprove their wickedness,
 and warn them to repent:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`O friends, what are ye doing!
@@ -1418,7 +1418,7 @@ And a great care being upon me, lest any young or ignorant people,
 that might sometimes come amongst us, should be drawn into that snare,
 I was moved to give forth the following epistle as a warning unto all such:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`All Friends everywhere, keep out of plots and bustling, and the arm of flesh;
@@ -1508,10 +1508,7 @@ it came upon me from the Lord, to write a few lines on that occasion,
 and send them forth, as a caution to all amongst us.
 Of which this is a copy:
 
-[.small-break]
-'''
-
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`All Friends everywhere, take heed to keep out of the powers of the earth,
@@ -1635,7 +1632,7 @@ but they rejecting counsel, and slighting those visitations of love to them,
 I was moved now, before they were quite overturned, to lay their backsliding, hypocrisy,
 and treacherous dealing before them, thus:
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`Friends, now are the prophecies fulfilled and fulfilling upon you,
