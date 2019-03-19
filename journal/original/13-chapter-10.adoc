@@ -38,6 +38,9 @@ I was moved, before I left the place, to give forth several papers as a warning 
 and all that so misspend their time.
 One of which was thus directed:--
 
+[.embedded-content-document.paper]
+--
+
 [.blurb]
 === "`This is to go abroad among them who are given, to pleasure and wantonness.
 
@@ -74,10 +77,15 @@ Hear this, ye that are given to pleasures, and read your examples.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Another paper,
 upon my taking notice of the bowlers that came to sport themselves in the Castle-Green,
 was as follows:--
+
+[.embedded-content-document.paper]
+--
 
 "`The word of the Lord to all you vain and idle-minded people, who are lovers of sports,
 pleasures, foolish exercises, and recreations, as you call them; consider of your ways,
@@ -120,6 +128,8 @@ Given forth in Launceston Jail, in Cornwall.
 
 [.signed-section-context-close]
 To the Bowlers in the Green.
+
+--
 
 Being released from our imprisonment we got horses and rode towards Humphrey Lower`'s,
 and met him on the road.
@@ -835,6 +845,9 @@ Now after I had visited most parts of the nation, and was come to London again,
 finding that evil spirit at work, which had drawn J. N. and his followers out from truth,
 to run Friends into heats about him, I wrote a short epistle to Friends, as follows:--
 
+[.embedded-content-document.epistle]
+--
+
 "`To all the elect seed of God called Quakers, where the death is brought into the death,
 and the elder is servant to the younger, and the elect is known,
 which cannot be deceived, but obtains victory.
@@ -857,9 +870,14 @@ And therefore in the Seed of life live, which bruiseth the Seed of death.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 I also wrote another short epistle to Friends,
 to encourage them to keep up their meetings in the Lord`'s power;
 of which epistle a copy here follows:--
+
+[.embedded-content-document.epistle]
+--
 
 [.salutation]
 "`Dear Friends,
@@ -887,6 +905,8 @@ and be possessors thereof.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 About this time many mouths were opened in our meetings,
 to declare the goodness of the Lord,
@@ -895,6 +915,9 @@ sometimes utter a few words in thanksgiving and praises to God.
 That no disorder might arise from this in our meetings,
 I was moved to write an epistle to Friends, by way of advice in that matter.
 And thus it was:--
+
+[.embedded-content-document.epistle]
+--
 
 "`All my dear friends in the noble Seed of God, who have known his power, life,
 and presence among you,
@@ -1007,9 +1030,14 @@ Feel that set over all, which hath the promise and blessing of God for ever.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 About this time I received some lines from a high professor,
 concerning the way of Christ, to which I returned the following answer:--
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 "`Friend,
@@ -1133,6 +1161,8 @@ This thou shalt remember, when thy time thou hast spent.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Great opposition did the priests and professors make
 about this time against the light of Christ Jesus,
@@ -1143,6 +1173,9 @@ that they might keep them still in a dependence on their teaching.
 Wherefore I was moved of the Lord to give forth the following lines,
 for the opening of the minds and understandings of people,
 and to manifest the blindness and darkness of their teachers:--
+
+[.embedded-content-document.address]
+--
 
 "`To all you professors, priests, and teachers, who are in darkness,
 and know not the Spirit in prison, nor the light that shines in darkness,
@@ -1435,6 +1468,8 @@ and cast into the fire.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 Having stayed some time in London,
 and visited the meetings of Friends in and about the city,
 and cleared myself of what services the Lord had at that time laid upon me there,
@@ -1672,6 +1707,9 @@ and want of the water of life.`"
 About the same time was written the following paper,
 to distinguish between true and false fasts:--
 
+[.embedded-content-document.paper]
+--
+
 [.blurb]
 === Concerning the true Fast and the false.
 
@@ -1854,6 +1892,8 @@ the glory of the Lord is the reward.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 We passed into Wales through Montgomeryshire, and so into Radnorshire,
 where there was a meeting like a leaguer, for multitudes.

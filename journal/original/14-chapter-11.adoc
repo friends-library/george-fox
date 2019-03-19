@@ -26,6 +26,9 @@ as follows:--
 [.small-break]
 '''
 
+[.embedded-content-document.epistle]
+--
+
 "`All Friends of the Lord everywhere, whose minds are turned in towards the Lord,
 take heed to the light within you, which is the light of Christ; which, as ye love it,
 will call your minds inward, that are abroad in the creatures:
@@ -94,6 +97,8 @@ So fare ye well, and God Almighty bless, and guide, and keep you in his wisdom.`
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 About this time Friends,
 that were moved of the Lord to go to the steeple-houses and markets, to "`reprove sin,
@@ -105,6 +110,9 @@ to be spread amongst people, to show them,
 how contrary they acted therein to the apostles`' doctrine and practice,
 and to bring them to more moderation.
 Thus it was:--
+
+[.embedded-content-document.address]
+--
 
 "`Is it not better for you,
 that have cast into prison the servants and children of the Lord God,
@@ -220,10 +228,15 @@ hath discovered them.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 I was also moved to give forth the following epistle to Friends,
 to stir them up to be bold and valiant for the truth,
 and to encourage them in their sufferings for it:--
+
+[.embedded-content-document.epistle]
+--
 
 "`All Friends and brethren everywhere, now is the day of your trial,
 now is the time for you to be valiant,
@@ -326,9 +339,12 @@ the top and corner-stone; in which is my love to you, and in which I rest--Your 
 [.signed-section-signature]
 G+++.+++ F.`"
 
+[.postscript]
 "`Postscript--And, Friends, be careful how ye set your feet among the tender plants,
 that are springing up out of God`'s earth; lest ye tread upon them, hurt, bruise,
 or crush them in God`'s vineyard.`"
+
+--
 
 [.small-break]
 '''
@@ -650,6 +666,9 @@ to petition the council against me.
 Now, when I came from the meeting to the inn where I lodged,
 an officer belonging to the council brought me the following order:--
 
+[.embedded-content-document.legal]
+--
+
 [.signed-section-context-open]
 "`Thursday, the 8th of October, 1657, at his Highness`'s Council in Scotland.
 
@@ -661,6 +680,8 @@ in the forenoon.
 
 [.signed-section-signature]
 E+++.+++ Dowsing, Clerk of the Council.
+
+--
 
 When he had delivered me the order, he asked me, "`whether I would appear or not?`"
 I did not tell him whether I would or not;
@@ -709,6 +730,9 @@ visiting Friends there and thereabouts, and strengthening them in the Lord.
 After a little time, I wrote a letter to the council,
 to lay before them their unchristian dealing in banishing me, an innocent man,
 that sought their salvation and eternal good; a copy of which letter here follows:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To the Council of Edinburgh,
@@ -784,6 +808,8 @@ Such magistrates were deceived by flattery.`"
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 When this was delivered, and read amongst them, some of them, I heard,
 were troubled at what they had done,
