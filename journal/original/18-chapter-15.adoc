@@ -1318,7 +1318,7 @@ After this it came upon me to write to the judges, and other magistrates,
 concerning their "`giving evil words and nicknames to such as
 were brought before them;`" which was after this manner:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 [.blurb]
@@ -2051,10 +2051,7 @@ And there being several Friends in prison at Lancaster
 and other prisons for not paying tithes,
 I was moved to give forth the following lines concerning tithes:--
 
-[.small-break]
-'''
-
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`In the time of the law, they that did not bring their tithes into the store-house,
@@ -2650,10 +2647,7 @@ and without requiring bonds or sureties for my peaceable living,
 being satisfied that I was a man of a peaceable life, he discharged me freely,
 and gave me the following passport:--
 
-[.small-break]
-'''
-
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 "`Permit the bearer hereof, George Fox, late a prisoner here,
@@ -2714,7 +2708,6 @@ some under miserable huts and hovels, many without a rag or necessary utensils,
 bed or board; who, from delicateness, riches,
 or easy accommodations in stately and well-furnished houses,
 were now reduced to extremest misery and poverty,`" etc., vol. i. p. 372-374.]
-//Should the footnote end here ^^?
 Then I saw the Lord God was true and just in his word,
 which he had showed me before in Lancaster jail,
 when I saw the angel of the Lord with a glittering sword drawn southward,

@@ -215,7 +215,7 @@ and sent some copies to the king and council; others were sold in the streets,
 and at the Exchange.
 Which declaration was some years after reprinted, and is as follows:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 [.blurb]
@@ -463,9 +463,6 @@ this is our testimony in the truth against them, and will stand over them,
 and the truth will be clear of them.`"
 
 --
-
-[.small-break]
-'''
 
 This declaration somewhat cleared the dark air that was over the city and country.
 And soon after the king gave forth a proclamation,
@@ -888,7 +885,7 @@ for he only is able to deliver, to save,
 and to support all that sincerely put their trust in him.
 Here follows a copy of the mandamus:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 [.salutation]
@@ -1250,7 +1247,7 @@ or of inward fascinations and snares of the enemy.]
 Wherefore feeling the judgment of truth rise against it,
 I gave forth the following as a warning to all that were concerned therein
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`Whosoever is tainted with this spirit of John Perrot, it will perish.
@@ -1321,7 +1318,7 @@ Upon that occasion Friends published in print "`The grounds and reasons why
 they refused to swear;`" besides which I was moved to issue these few lines,
 to be given to the magistrates:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`The world saith, '`Kiss the book;`'
@@ -1972,7 +1969,7 @@ And being sensible bow great a grief and
 exercise it would be to Friends to part with him,
 I wrote the following lines for the staying and settling of their minds:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 [.salutation]

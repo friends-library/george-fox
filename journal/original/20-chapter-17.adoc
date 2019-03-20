@@ -145,7 +145,7 @@ even with audible voices, making melody in their hearts.
 [.offset]
 At which time I was moved to declare to Friends in the ministry, as follows:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`Sound, sound abroad, ye faithful servants of the Lord, and witnesses in his name,
@@ -660,9 +660,6 @@ strengthen and encourage them to stand fast in their testimony,
 and bear, with Christian patience and content, the suffering that was coming upon them.`"
 This I did in the following epistle:--
 
-[.small-break]
-'''
-
 [.embedded-content-document.epistle]
 --
 
@@ -697,7 +694,7 @@ G+++.+++ F.
 London, 12th of 2nd Month, 1670.
 
 --
-//Not sure where the footnote ends in this either. 
+
 On the First-day after the act came in force,
 I went to the meeting at Grace-church-street,
 where I expected the storm was most likely to begin.
@@ -914,7 +911,6 @@ cause of Christ.`"
      Of human nature--who appeared as meek
      And harmless as an infant--was compelled
      To dwell in loathsome prisons.`" `
-     // ^^ Does this need to be formatted differently?
 He was six times in jail,
 some of his imprisonments being long,
 yet borne with great quietness and constancy of mind.
@@ -1080,7 +1076,7 @@ Though by reason of my weakness, I could not travel amongst Friends as I used to
 yet in the motion of life,
 I sent the following lines as an encouraging testimony to them:--
 
-[.embedded-content-document.testimony]
+[.embedded-content-document.epistle]
 --
 
 [.salutation]
@@ -1188,7 +1184,7 @@ And though I knew Friends would be clear of their blood,
 yet I could not but mourn over them,
 and gave forth these few lines following concerning them:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 "`We have given them a visitation, have faithfully warned them,
@@ -1227,7 +1223,7 @@ and it was not known whether they were clear and orderly, or not.
 And it opened in me to recommend the following method
 unto Friends for preventing such inconveniences:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.epistle]
 --
 
 "`All Friends that marry, whether they be men or women,
@@ -1271,6 +1267,9 @@ the Lord`'s power upheld and enabled me to declare his eternal Word of life.
 [.offset]
 About this time I was moved to pray to the Lord as follows:--
 
+[.embedded-content-document.prayer]
+--
+
 "`O Lord God Almighty!
 Prosper truth, and preserve justice and equity in the land!
 Bring down all injustice and iniquity, oppression and falsehood,
@@ -1296,4 +1295,5 @@ G+++.+++ F.
 
 [.signed-section-context-close]
 This Prayer was written at night, the 17th of the 2nd Month, 1671.
-//THis above shouldn't be embedded, shoul it? Since it's a prayer? but it's signed!
+
+--

@@ -224,7 +224,6 @@ but to save the men, and the goods for them; and so deny yourselves,
 G+++.+++ F.
 
 --
-//Not sure what to do with this postscript and the letter above it. I'm thinking it should be this way even though he signed it twice?
 
 This paper had good service among the people;
 and Friends have endeavoured much to save the lives of the crews in times of wrecks,
@@ -383,7 +382,7 @@ rude mid troublesome at Friends`' meetings in many places,
 whereof complaint being made to him, he gave forth the following order,
 which somewhat restrained them:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 [.signed-section-context-open]
@@ -959,9 +958,6 @@ the rock and foundation, that changeth not.`"
 Much on this wise I declared to them, and they were quiet and very attentive.
 Afterwards I gave forth a paper concerning True Religion, as follows:--
 
-[.small-break]
-'''
-
 [.embedded-content-document.paper]
 --
 
@@ -1226,10 +1222,7 @@ containing the matter charged against me in the mittimus, to the king,
 that he might see for what I was committed.
 The return of the sheriff of Lancaster was thus:--
 
-[.small-break]
-'''
-
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 "`By virtue of his Majesty`'s writ, to me directed, and hereunto annexed, I certify,
@@ -1262,7 +1255,7 @@ being satisfied of my innocency,
 commanded his secretary to send an order to Judge Mallet for my release; which he did,
 thus:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 "`It is his Majesty`'s pleasure, that you give order for releasing,
@@ -1285,7 +1278,7 @@ Judge Mallet forthwith sent his warrant to the
 marshal of the King`'s Bench for my release,
 as follows:--
 
-[.embedded-content-document.letter]
+[.embedded-content-document.legal]
 --
 
 "`By virtue of a warrant, which this morning I have received from the Right Hon.
