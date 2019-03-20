@@ -120,6 +120,9 @@ if they should be upon a wreck,
 and people should strive to get what they could from them, and not regard their lives.
 A copy of this paper here follows:--
 
+[.embedded-content-document.paper]
+--
+
 [.salutation]
 "`Friends And People,
 
@@ -219,6 +222,8 @@ but to save the men, and the goods for them; and so deny yourselves,
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 This paper had good service among the people;
 and Friends have endeavoured much to save the lives of the crews in times of wrecks,
@@ -377,6 +382,9 @@ rude mid troublesome at Friends`' meetings in many places,
 whereof complaint being made to him, he gave forth the following order,
 which somewhat restrained them:--
 
+[.embedded-content-document.legal]
+--
+
 [.signed-section-context-open]
 "`St. James`'s, the 9th of March,1659.
 
@@ -386,6 +394,8 @@ they doing nothing prejudicial to the Parliament or Commonwealth of England.
 
 [.signed-section-signature]
 "`George Monk.`"
+
+--
 
 After the meeting at Edward Pyot`'s I passed to Oldeston, to Nails-Worth,
 and to Nathaniel Crisp`'s; where there was a large meeting,
@@ -711,6 +721,9 @@ I wrote a plain answer, in vindication of my innocency in each particular; as fo
 [.small-break]
 '''
 
+[.embedded-content-document.letter]
+--
+
 "`I am a prisoner at Lancaster, committed by Justice Porter.
 A copy of the mittimus I cannot get, but such expressions I am told are in it,
 as are very untrue;
@@ -821,10 +834,15 @@ and receive this as a warning of love to you.
 [.signed-section-signature]
 "`George Fox.`"
 
+--
+
 Upon my being taken and forcibly carried away from Margaret Fell`'s house,
 and charged with things of so high a nature, she was concerned,
 looking upon it to be an injury offered to herself.
 Whereupon she wrote the following lines, and distributed them:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To all Magistrates, concerning the wrong taking up, and imprisoning of George Fox at Lancaster.
@@ -852,6 +870,8 @@ So I desire to have this searched out.
 
 [.signed-section-signature]
 "`Margaret Fell.`"
+
+--
 
 After this Margaret Fell determined to go to London,
 to speak with the king about my being taken, and to show him the manner of it,
@@ -938,8 +958,8 @@ the rock and foundation, that changeth not.`"
 Much on this wise I declared to them, and they were quiet and very attentive.
 Afterwards I gave forth a paper concerning True Religion, as follows:--
 
-[.small-break]
-'''
+[.embedded-content-document.paper]
+--
 
 "`True Religion is the true rule, and right way of serving God;
 a pure stream of righteousness, flowing from the image of God;
@@ -958,8 +978,13 @@ and spotted; whose fatherless, and widows, and strangers beg up and down the str
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Soon after I gave forth a paper against persecution, as follows:--
+
+[.embedded-content-document.paper]
+--
 
 "`The Papists, Common-Prayer-men, Presbyterians, Independents,
 and Baptists persecute one another about their own inventions, their mass, common-prayer,
@@ -991,10 +1016,15 @@ which are his, to keep them.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 Whilst I was kept in Lancaster jail, I was moved to give forth the following paper,
 "`for staying the minds of any such as might be hurried
 or troubled about the change of government:`"--
+
+[.embedded-content-document.paper]
+--
 
 "`All Friends, let the dread and majesty of God fill you!
 And as concerning the changing of times and governments, let not that trouble any of you;
@@ -1024,12 +1054,17 @@ Amen.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+--
+
 [.offset]
 I was moved also to write to the king,
 to "`exhort him to exercise mercy and forgiveness towards his enemies,
 and to warn him to restrain the profaneness and
 looseness that had got up in the nation on his return.`"
 It was thus:--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === "`To the King.
@@ -1065,6 +1100,8 @@ be merciful and forgive; this is the way to overcome, and obtain the kingdom of 
 
 [.signed-section-signature]
 G+++.+++ F.
+
+--
 
 It was long before the sheriff would yield to remove me to London,
 unless I would seal a bond to him, and bear their charges; which I still refused to do.
@@ -1185,8 +1222,8 @@ containing the matter charged against me in the mittimus, to the king,
 that he might see for what I was committed.
 The return of the sheriff of Lancaster was thus:--
 
-[.small-break]
-'''
+[.embedded-content-document.legal]
+--
 
 "`By virtue of his Majesty`'s writ, to me directed, and hereunto annexed, I certify,
 that before the receipt of the said writ, George Fox, in the said writ mentioned,
@@ -1210,11 +1247,16 @@ as by the aforesaid writ is required.
 [.signed-section-signature]
 '`George Chetham, Esq., Sheriff.`"
 
+--
+
 [.offset]
 On perusal of this, and consideration of the whole matter, the king,
 being satisfied of my innocency,
 commanded his secretary to send an order to Judge Mallet for my release; which he did,
 thus:--
+
+[.embedded-content-document.legal]
+--
 
 "`It is his Majesty`'s pleasure, that you give order for releasing,
 and setting at full liberty, the person of George Fox, late a prisoner in Lancaster jail,
@@ -1228,11 +1270,16 @@ Dated at Whitehall, the 24th of October, 1660.
 [.signed-section-context-close]
 For Sir Thomas Mallet, Knight, one of the Justices of the King`'s Bench.
 
+--
+
 [.offset]
 When this order was delivered,
 Judge Mallet forthwith sent his warrant to the
 marshal of the King`'s Bench for my release,
 as follows:--
+
+[.embedded-content-document.legal]
+--
 
 "`By virtue of a warrant, which this morning I have received from the Right Hon.
 Sir Edward Nicholas, Knight, one of his Majesty`'s principal secretaries,
@@ -1248,6 +1295,8 @@ Given under my hand, the 25th day of October, in the year of our Lord God, 1660.
 
 [.signed-section-context-close]
 To Sir John Lenthal, Knight, Marshal of the King`'s Bench, or his deputy.
+
+--
 
 Thus, after being a prisoner more than twenty weeks,
 I was freely set at liberty by the king`'s command,

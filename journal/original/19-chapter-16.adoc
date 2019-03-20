@@ -724,6 +724,9 @@ working and striving to get up to disturb the church of Christ.
 Next morning I was moved to write a few lines to Friends as a warning thereof,
 as follows:--
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 "`Dear Friends,
 
@@ -743,6 +746,8 @@ G+++.+++ F.
 
 [.signed-section-context-close]
 Minehead in Somersetshire, 22nd of 4th Month, 166S.
+
+--
 
 Next day several Friends of Minehead accompanied us as
 far as Barnstaple and Appledon in Devonshire,
@@ -1144,6 +1149,9 @@ being misinformed that I was to be there, got a warrant,
 and made great disturbance at that meeting; of which Isaac Lindley, who was there,
 gave me an account in the following letter:--
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 "`G. F.,
 
@@ -1159,6 +1167,8 @@ and beat some Friends, and then took me before a magistrate, but he set me at li
 
 [.signed-section-signature]
 Isaac Lindley.
+
+--
 
 Then I visited Friends at Whitby and Scarbro'`. When at Scarbro'`,
 the governor hearing I was come, sent to invite me to his house, saying,
