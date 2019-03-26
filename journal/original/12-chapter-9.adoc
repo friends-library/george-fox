@@ -647,9 +647,6 @@ Before we left the town I wrote a paper,
 to be sent to the seven parishes at the Land`'s End.
 A copy of which follows:--
 
-[.small-break]
-'''
-
 [.embedded-content-document.paper]
 --
 
@@ -2181,9 +2178,6 @@ I was moved to write an answer thereunto, and send it abroad,
 for clearing truth and Friends from the slanders therein cast upon them,
 and to manifest the wickedness of that persecuting spirit from whence it proceeded;
 which was after this manner:--
-
-[.small-break]
-'''
 
 [.embedded-content-document.letter]
 --
