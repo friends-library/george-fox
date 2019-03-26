@@ -728,8 +728,8 @@ that sought their salvation and eternal good; a copy of which letter here follow
 [.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`To the Council of Edinburgh,
+[.letter-heading]
+To the Council of Edinburgh
 
 "`Ye that sit in council, and bring before your judgment-seat the innocent, the just,
 without showing the least cause what evil I have done,
