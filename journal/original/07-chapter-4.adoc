@@ -376,9 +376,6 @@ and to do as the holy men of God did.`"
 
 --
 
-[.small-break]
-'''
-
 Great was my exercise and travail in spirit, during my imprisonment here,
 because of the wickedness that was in this town; for though some were convinced,
 yet the generality were a hardened people;
@@ -386,8 +383,8 @@ and I saw the visitation of God`'s love pass away from them.
 I mourned over them;
 and it came upon me to give forth the following lamentation for them:--
 
-[.small-break]
-'''
+[.embedded-content-document.address]
+--
 
 "`O Derby! as the waters run away when the flood-gates are up,
 so doth the visitation of God`'s love pass away from thee, O Derby!
@@ -410,8 +407,7 @@ so deceit bears with deceit; and yet they profess Christ in words.
 O the deceit that is within thee! it doth even break my
 heart to see how God is dishonoured in thee, O Derby!`"
 
-[.small-break]
-'''
+--
 
 After I had seen the visitation of God`'s love pass away from this place,
 I knew that my imprisonment here would not continue long;
