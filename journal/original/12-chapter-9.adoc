@@ -1430,11 +1430,11 @@ being sensible of the injustice and envy of Judge Glynne to us at our trial,
 and willing to lay the weight thereof upon him, and make him sensible thereof also,
 wrote an epistle to him on behalf of us all, thus:--
 
-[.embedded-content-document.epistle]
+[.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`To John Glynne, Chief Justice of England.
+[.letter-heading]
+To John Glynne, Chief Justice of England
 
 [.salutation]
 "`Friend,
@@ -2801,8 +2801,8 @@ whereupon Edward Pyot wrote him the following letter:--
 [.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`To Major-General Desborough.
+[.letter-heading]
+To Major-General Desborough
 
 [.salutation]
 "`Friend,
@@ -2852,8 +2852,8 @@ and he not giving any order for our discharge, I also wrote to him, as follows:-
 [.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`To Major-General Besborough.
+[.letter-heading]
+To Major-General Besborough
 
 [.salutation]
 "`Friend,

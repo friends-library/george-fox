@@ -1373,11 +1373,11 @@ and got it delivered to the king,
 that he might understand how we were dealt with by his officers.
 It was directed thus:--
 
-[.embedded-content-document.paper]
+[.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`For the King.
+[.letter-heading]
+For the King
 
 [.salutation]
 "`Friend,

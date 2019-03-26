@@ -265,8 +265,8 @@ I was moved to give forth the following paper:--
 [.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`To Friends in the Ministry.
+[.letter-heading]
+To Friends in the Ministry
 
 "`All Friends everywhere, Know the Seed of God, which bruiseth the seed of the serpent,
 and is above the seed of the serpent; which Seed sins not,

@@ -1063,8 +1063,8 @@ It was thus:--
 [.embedded-content-document.letter]
 --
 
-[.blurb]
-=== "`To the King.
+[.letter-heading]
+To the King
 
 [.salutation]
 "`King Charles,
