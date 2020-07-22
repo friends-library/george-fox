@@ -859,13 +859,13 @@ It shook the earthly and airy spirit,
 in which they held their profession of religion and worship,
 so that it was a dreadful thing unto them, when it was told them,
 "`The man in leather breeches is come.`"^
-footnote:[The leathern garments worn by George Fox were
+footnote:[The leather garments worn by George Fox were
 chosen by him for their simplicity and durability;
 and though they often subjected their wearer to ridicule and abuse,
 he had no motive beyond the above-mentioned for choosing such a garb.
 Many persons have been amused,
 if not offended at him for having worn such a dress when he was a young man.
-In those days leathern garments for working men
+In those days leather garments for working men
 may not have been so singular as some suppose.
 It is a well authenticated fact, that an eminent merchant of the city of London,
 about 150 years ago, travelled on foot from Newcastle, in search of a livelihood,
@@ -878,6 +878,7 @@ sharing in all the civic honours of the corporation.
 The firm which he established still continues to conduct a flourishing business,
 at a warehouse in Thames Street,
 which is familiarly known in the trade by
+// lint-disable obsolete-spellings "Leathern"
 "`The Leathern Doublet;`" a representation of the founder`'s original dress
 being fixed as a sign in front of the building.]
 At the hearing thereof the priests, in many places, would get out of the way;
