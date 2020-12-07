@@ -482,8 +482,7 @@ G+++.+++ F.
 [.blurb]
 ==== To William Ames.
 
-Dear.
-William, thou hast a fine compass in Holland and Germany,
+Dear William, thou hast a fine compass in Holland and Germany,
 and under the prince of Palatin`'s government:
 and there is a seed in Poland that desires Friends.
 So in the seed be faithful, which is immortal,
@@ -1172,7 +1171,10 @@ and blessed shall be his children after him.`"
 Prov. 20:7
 
 "`Unjust weights, and unjust measures, both these are an abomination to the Lord.`"
-Verse 10. G. F.
+Verse 10.
+
+[.signed-section-signature]
+G+++.+++ F.
 
 [.centered]
 === Letter 201.
