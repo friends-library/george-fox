@@ -134,6 +134,7 @@ G+++.+++ F.
 [.centered]
 === Letter 188.
 
+[.salutation]
 Friends,
 
 Live in the seed of God that destroys the devil,
@@ -396,6 +397,7 @@ Let this be sent abroad, that all may read it over.
 [.blurb]
 ==== A general epistle to Friends.
 
+[.salutation]
 Friends,
 
 In the fear of the Lord God live, departing from sin and evil,
@@ -529,6 +531,7 @@ G+++.+++ F.
 [.centered]
 === Letter 195.
 
+[.salutation]
 Friends,
 
 All that are moved of the Lord by his power, light, and life, to go into other nations,
@@ -688,6 +691,7 @@ Lancaster prison, the 2d of the 5th month, 1660.
 [.centered]
 === Letter 199.
 
+[.salutation]
 Friends,
 
 The matter concerning not putting off the hat in prayer,
@@ -1158,6 +1162,7 @@ Verse 10. G. F.
 [.centered]
 === Letter 201.
 
+[.salutation]
 Dear Friends,
 
 In the stillness and silence of the power of the Almighty dwell, which never varies,

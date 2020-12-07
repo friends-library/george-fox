@@ -566,6 +566,7 @@ From Mendlesham, this 11th day of the 1st month.
 [.centered]
 === Letter 210.
 
+[.salutation]
 Friends,
 
 Trust not in man, nor in the arm of flesh, neither put confidence in them,
@@ -603,6 +604,7 @@ G+++.+++ F.
 [.centered]
 === Letter 211.
 
+[.salutation]
 Friends,
 
 All ye that have known the way of truth, and tasted of the power of the same,
@@ -1144,6 +1146,7 @@ G+++.+++ F.
 [.centered]
 === Letter 220.
 
+[.salutation]
 Friends,
 
 Truth is that which is pure, and is that which the serpent is out of;

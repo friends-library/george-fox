@@ -409,6 +409,7 @@ G+++.+++ F.
 [.centered]
 === Letter 309.
 
+[.salutation]
 Friends,
 
 Seek the peace of all men; which peace is in Christ,
@@ -442,6 +443,7 @@ G+++.+++ F.
 [.centered]
 === Letter 310.
 
+[.salutation]
 Friends,
 
 In everything give thanks to the Lord; for from him every good thing you do receive;
@@ -466,6 +468,7 @@ G+++.+++ F.
 [.blurb]
 ==== For the men and women`'s meetings in Barbados.
 
+[.salutation]
 Dear Friends,
 
 Let all things be done in love, and in the spirit of Christ,
@@ -1050,6 +1053,7 @@ Swarthmore in Lancashire, the 12th of the 12th month, 1675.
 [.blurb]
 ==== To Friends in Barbados.
 
+[.salutation]
 Dear Friends,
 
 To whom is my love in the holy truth; my desire is, that you may all be valiant for it,
@@ -1119,6 +1123,7 @@ to be read in their Quarterly Meetings; and you may read it in your own.
 [.centered]
 === Letter 316.
 
+[.salutation]
 Dear Friends,
 
 All that feel the life, and power, and spirit of the living God,

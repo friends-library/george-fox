@@ -6,6 +6,7 @@
 [.blurb]
 ==== An epistle to be read in the men and women`'s meetings.
 
+[.salutation]
 Dear Friends,
 
 My love in the Lord Jesus Christ (to you all) in whom I have laboured,
@@ -498,6 +499,7 @@ London, the 3d of the 4th month, 1678.
 [.centered]
 === Letter 351.
 
+[.salutation]
 Friends,
 
 Know what the Lord doth require of you, and all have a sense of that in yourselves,

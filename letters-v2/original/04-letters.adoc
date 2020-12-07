@@ -617,6 +617,7 @@ Swarthmore, the 5th of the 9th month.
 [.blurb]
 ==== An encouragement to all the faithful women`'s meetings in the world, who assemble together in the fear of God, for the service of the truth. Wherein they may see how the holy men encouraged the holy women, both in the time of the law, and in the time of the gospel; though selfish and unholy men may seek to discourage them. But go on in the name and power of Christ, and prosper.
 
+[.salutation]
 Friends,
 
 You may read in the old world, how one family after another, till Noah`'s time,

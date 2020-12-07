@@ -252,6 +252,7 @@ This to go among Friends everywhere.
 [.centered]
 === Letter 286.
 
+[.salutation]
 Friends,
 
 When you are met together in the name of Jesus your saviour,
@@ -292,6 +293,7 @@ G+++.+++ F.
 [.centered]
 === Letter 287.
 
+[.salutation]
 Friends,
 
 Consider, you that have known the mercies of the Lord God, and of Jesus Christ.
@@ -458,6 +460,7 @@ G+++.+++ F.
 [.blurb]
 ==== To all the women`'s meetings, that are believers in the truth.
 
+[.salutation]
 Friends,
 
 Keep your women`'s meetings in the power of God, which the devil is out of;
@@ -752,6 +755,7 @@ G+++.+++ F.
 [.centered]
 === Letter 296.
 
+[.salutation]
 Friends,
 
 All keep your meetings in the power of the Lord God, that hath gathered you;
@@ -861,6 +865,7 @@ Bristol, the 1st of the 6th month, 1673.
 [.blurb]
 ==== To Friends at Jamaica.
 
+[.salutation]
 Friends,
 
 We do hear that some, professing truth amongst you,

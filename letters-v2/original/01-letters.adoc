@@ -371,6 +371,7 @@ G+++.+++ F.
 [.blurb]
 ==== To ministering Friends.
 
+[.salutation]
 Friends,
 
 All ye that believe in the light, as Christ hath commanded,
@@ -424,6 +425,7 @@ G+++.+++ F.
 [.blurb]
 ==== Not to be over thoughtful of the things of this world.
 
+[.salutation]
 Friends,
 
 Did not God provide for man and woman before he made them?

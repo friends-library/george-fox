@@ -3,6 +3,7 @@
 [.centered]
 === Letter 1.
 
+[.salutation]
 Friends,
 
 Forsake the company of wild people, and choose the company of sober men,
@@ -18,6 +19,7 @@ G+++.+++ F.
 [.centered]
 === Letter 2.
 
+[.salutation]
 Friends,
 
 The children of the devil, how expert are they in evil, in all deceit in his kingdom;
@@ -73,6 +75,7 @@ G+++.+++ F.
 [.blurb]
 ==== A little note to Friends at first.
 
+[.salutation]
 Friends,
 
 There is an eye, that hath looked to see the good seed, that was sown, and queried,
@@ -173,6 +176,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends.
 
+[.salutation]
 Friends,
 
 No one is justified, breaking the commands of Christ; no one is justified,
@@ -194,6 +198,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends at Swarthmore.
 
+[.salutation]
 Friends,
 
 Love that which judgeth the carnal mind, and crosseth it,
@@ -207,6 +212,7 @@ G+++.+++ F.
 [.centered]
 === Letter 8.
 
+[.salutation]
 Dear Friends,
 
 Those that will live godly in Christ Jesus, must suffer persecution.
@@ -221,6 +227,7 @@ G+++.+++ F.
 [.centered]
 === Letter 9.
 
+[.salutation]
 Friends,
 
 That which is set up by the sword, is held up by the sword;
@@ -251,6 +258,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to stand still in trouble, and see the strength of the Lord.
 
+[.salutation]
 Friends,
 
 Whatever ye are addicted to, the tempter will come in that thing;
@@ -301,6 +309,7 @@ G+++.+++ F.
 [.centered]
 === Letter 12.
 
+[.salutation]
 Friends,
 
 If ye love the light, and walk in it, ye love Christ, and will all walk in unity together.
@@ -493,6 +502,7 @@ G+++.+++ F.
 [.centered]
 === Letter 17.
 
+[.salutation]
 Dear Friends,
 
 Prize your time, and the love of the Lord to your souls above all things;
@@ -754,6 +764,7 @@ G+++.+++ F.
 [.centered]
 === Letter 23.
 
+[.salutation]
 Friends,
 
 Fear not the powers of darkness, but keep your meetings,
@@ -951,6 +962,7 @@ G+++.+++ F.
 [.blurb]
 ==== Concerning Marriages.
 
+[.salutation]
 Friends,
 
 All they who act contrary to the light which comes from Christ Jesus, and hate it,
@@ -1037,6 +1049,7 @@ G+++.+++ F.
 [.blurb]
 ==== Concerning Tithes.
 
+[.salutation]
 Friends,
 
 The counsel of the living God to you all is,
@@ -1131,6 +1144,7 @@ G+++.+++ F.
 [.centered]
 === Letter 31.
 
+[.salutation]
 Dear Friends,
 
 Mind the steadfast guide to the Lord, where we do all meet in the eternal spirit,

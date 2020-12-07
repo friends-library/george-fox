@@ -3,6 +3,7 @@
 [.centered]
 === Letter 133.
 
+[.salutation]
 Friends,
 
 Towards all men walk in wisdom, and be gentle to all men;
@@ -106,6 +107,7 @@ G+++.+++ F.
 [.centered]
 === Letter 137.
 
+[.salutation]
 Friends,
 
 Let God`'s wisdom have the stay of your minds, and let it be the end of all your words;
@@ -140,6 +142,7 @@ G+++.+++ F.
 [.blurb]
 ==== To the prisoners.
 
+[.salutation]
 Friends,
 
 Ye that are the prisoners of the Lord Jesus Christ in out-ward bonds,
@@ -172,6 +175,7 @@ G+++.+++ F.
 [.centered]
 === Letter 139.
 
+[.salutation]
 Friends,
 
 Know the praying in the spirit, and with the understanding;
@@ -373,6 +377,7 @@ G+++.+++ F.
 [.centered]
 === Letter 144.
 
+[.salutation]
 Friends,
 
 Get not knowledge in the unsanctified and unregenerated part;
@@ -389,6 +394,7 @@ G+++.+++ F.
 [.centered]
 === Letter 145.
 
+[.salutation]
 Friends,
 
 Where there is strife among any of you, mind the light to judge it down and condemn it;
@@ -429,6 +435,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Ireland.
 
+[.salutation]
 Friends,
 
 Feel all of you the power of the Lord God in yourselves to guide your minds up to God,
@@ -453,6 +460,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Wales.
 
+[.salutation]
 Friends,
 
 Live in the wisdom of the Lord, for that is it which doth preserve you pure, lively,
@@ -674,6 +682,7 @@ G+++.+++ F.
 [.centered]
 === Letter 151.
 
+[.salutation]
 Friends,
 
 There was a time when the apostles preached Christ that died at Jerusalem;
@@ -856,6 +865,7 @@ G+++.+++ F.
 [.blurb]
 ==== Concerning the Light.
 
+[.salutation]
 Friends,
 
 Ye that be turned to the light in it wait, in it meet together,
@@ -978,6 +988,7 @@ G+++.+++ F.
 [.centered]
 === Letter 157.
 
+[.salutation]
 Friends,
 
 By the wisdom of God were all things made,

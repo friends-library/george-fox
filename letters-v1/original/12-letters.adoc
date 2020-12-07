@@ -763,6 +763,7 @@ G+++.+++ F.
 [.centered]
 === Letter 225.
 
+[.salutation]
 Friends,
 
 Keep in the power of the Lord, which will bring you over all, to the fine linen,
@@ -929,6 +930,7 @@ Lancaster prison the 6th day.
 [.centered]
 === Letter 229.
 
+[.salutation]
 Friends,
 
 Let not your knowledge be after the flesh, but in the spirit.
@@ -974,6 +976,7 @@ G+++.+++ F.
 [.centered]
 === Letter 230.
 
+[.salutation]
 Friends,
 
 Stand still and see, be still and hear, sit at Jesus`' feet, and choose the better thing;

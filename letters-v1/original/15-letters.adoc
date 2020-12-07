@@ -198,6 +198,7 @@ G+++.+++ F.
 [.centered]
 === Letter 260.
 
+[.salutation]
 Dear Friends,
 
 If the truth make you free, then are ye free indeed.
@@ -566,6 +567,7 @@ G+++.+++ F.
 [.centered]
 === Letter 261.
 
+[.salutation]
 Friends,
 
 To call men "`masters`" or "`gracious lord,`" and putting off the hat to them,

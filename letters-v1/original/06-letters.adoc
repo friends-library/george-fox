@@ -465,6 +465,7 @@ G+++.+++ F.
 [.blurb]
 ==== An Epistle to Friends, that with the light they may see their salvation.
 
+[.salutation]
 Friends,
 
 All to the light, which Jesus Christ hath enlightened you withal, take heed,
@@ -507,6 +508,7 @@ G+++.+++ F.
 [.centered]
 === Letter 87.
 
+[.salutation]
 Friends,
 
 In the power of the Lord go forth, and gather with it into the fold,
@@ -539,6 +541,7 @@ G+++.+++ F.
 [.centered]
 === Letter 88.
 
+[.salutation]
 Friends,
 
 Meet together, waiting upon the Lord, that nothing but the life may reign among you;
@@ -558,6 +561,7 @@ To be read among all Friends at their meetings.
 [.blurb]
 ==== For Plymouth.
 
+[.salutation]
 Friends,
 
 Keep your meetings, that in the truth ye may reign, and in the power spread it abroad.
@@ -571,6 +575,7 @@ G+++.+++ F.
 [.centered]
 === Letter 90.
 
+[.salutation]
 Friends,
 
 All ye whose minds are turned with the light towards Jesus Christ, from whence it comes,
@@ -787,6 +792,7 @@ G+++.+++ F.
 [.blurb]
 ==== A warning to Friends to keep to the light, out of deceit and strife, in unity.
 
+[.salutation]
 Friends,
 
 I warn and exhort you all in the presence of the Lord God,
@@ -838,6 +844,7 @@ G+++.+++ F.
 [.blurb]
 ==== To all that make mention of the name of the Lord, and that profess his living truth.
 
+[.salutation]
 Friends,
 
 A warning and charge to you all from the presence of the living God,
@@ -879,6 +886,7 @@ G+++.+++ F.
 [.blurb]
 ==== Concerning all such as set up outward crosses.
 
+[.salutation]
 Friends,
 
 In the power of the Lord God dwell and live, that over all the world ye may stand,

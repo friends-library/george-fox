@@ -70,6 +70,7 @@ G+++.+++ F.
 [.blurb]
 ==== An exhortation to set up women`'s meetings.
 
+[.salutation]
 Friends,
 
 Keep your meetings in the power of the Lord God, that hath gathered you;
@@ -850,6 +851,7 @@ who was glorified with the Father before the world began.
 [.blurb]
 ==== A warning to all to keep out of the vain fashions of the world, which lead them below the serious life; and not to fashion themselves according to the world.
 
+[.salutation]
 Friends,
 
 Keep out of the vain fashions of the world; let not your eyes, and minds,

@@ -92,6 +92,7 @@ G+++.+++ F.
 [.blurb]
 ==== An epistle to be read amongst Friends.
 
+[.salutation]
 Friends,
 
 You that are believers in the light, which is the life in Christ,

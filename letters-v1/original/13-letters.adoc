@@ -196,6 +196,7 @@ G+++.+++ F.
 [.centered]
 === Letter 235.
 
+[.salutation]
 Friends,
 
 You who now come to suffer by a land flood, keep on the rock, for there is safety,
@@ -621,6 +622,7 @@ G+++.+++ F.
 [.centered]
 === Letter 240.
 
+[.salutation]
 Friends,
 
 All outward things, figures, types, shadows, and inventions,

@@ -23,6 +23,7 @@ G+++.+++ F.
 [.centered]
 === Letter 162.
 
+[.salutation]
 Friends,
 
 Keep your meetings in the power of God, and in his wisdom,
@@ -335,6 +336,7 @@ London, the 11th of the 3d month, 1658.
 [.blurb]
 ==== To Friends at Worcester.
 
+[.salutation]
 Friends,
 
 Every one of you having a light from the son of God, wait in it,
@@ -360,6 +362,7 @@ G+++.+++ F.
 [.blurb]
 ==== An Epistle General to them who are of the royal priesthood and chosen generation; given forth from the movings of the power and spirit of truth, and now made public. To be sent abroad among the saints scattered in Old and New England, Germany, Holland, Ireland, Scotland, Barbados, and Virginia, for them to read in the fear of the Lord.
 
+[.salutation]
 Friends,
 
 Let all that ye do be done in the name of the Lord Jesus Christ,
@@ -1017,6 +1020,7 @@ G+++.+++ F.
 [.centered]
 === Letter 183.
 
+[.salutation]
 Friends,
 
 Dwell in patience, and in the power, life, and wisdom of God, and in peace, and love,

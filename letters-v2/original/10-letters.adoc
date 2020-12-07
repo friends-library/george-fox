@@ -6,6 +6,7 @@
 [.blurb]
 ==== To the Monthly and Quarterly Meeting in England, etc.
 
+[.salutation]
 Friends,
 
 Be all faithful in your testimony against tithes,
@@ -438,6 +439,7 @@ G+++.+++ F.
 [.blurb]
 ==== An epistle to all Friends everywhere.
 
+[.salutation]
 Friends,
 
 This is the word of the Lord unto you all.
@@ -1092,6 +1094,7 @@ G+++.+++ F.
 [.blurb]
 ==== An epistle to Friends, against pride, haughtiness, and the vain customs and fashions of the world.
 
+[.salutation]
 Friends,
 
 Here you may see how the holy men of God testify, against pride, haughtiness,

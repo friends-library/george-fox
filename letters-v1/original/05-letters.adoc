@@ -482,6 +482,7 @@ G+++.+++ F.
 [.blurb]
 ==== An exhortation to Friends, not to make flesh their arm.
 
+[.salutation]
 Friends,
 
 Make not flesh your arm by carnal reasonings, consultations,
@@ -498,6 +499,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to keep in the fear of the Lord.
 
+[.salutation]
 Friends,
 
 Every particular, mind that which is pure of God in you, to guide you up to God,
@@ -525,6 +527,7 @@ G+++.+++ F.
 [.centered]
 === Letter 61.
 
+[.salutation]
 Friends,
 
 Dwell all in the immortal seed of God, which is heir of the promise of God,
@@ -829,6 +832,7 @@ G+++.+++ F.
 [.centered]
 === Letter 68.
 
+[.salutation]
 Friends,
 
 Know the life and power of God in yourselves, and one in another,
@@ -876,6 +880,7 @@ G+++.+++ F.
 [.centered]
 === Letter 70.
 
+[.salutation]
 Friends,
 
 I do judge all that in all, which is contrary to the life and power of God,
@@ -903,6 +908,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to live in the power of God, in Christ that never fell.
 
+[.salutation]
 Dear Friends,
 
 All be faithful in the everlasting seed, in which ye have life and power,

@@ -417,6 +417,7 @@ G+++.+++ F.
 [.centered]
 === Letter 119.
 
+[.salutation]
 Friends,
 
 Wait in the life, which will keep you above words, and keep your minds up to God,
@@ -461,6 +462,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to take care of such, who suffer for owning the truth.
 
+[.salutation]
 Friends,
 
 Dwell in the wisdom and power of God, by which all things must be ordered to his glory,
@@ -493,6 +495,7 @@ G+++.+++ F.
 [.centered]
 === Letter 122.
 
+[.salutation]
 Friends,
 
 To that which is pure, I speak, in which is unity, where no defiled thing shall enter.
@@ -525,6 +528,7 @@ G+++.+++ F.
 [.blurb]
 ==== Men in the fall are in the wars and strife, but truth restores and brings into peace.
 
+[.salutation]
 Dear Friends,
 
 My love is to you all in the everlasting seed of God, that never changes, nor falls,

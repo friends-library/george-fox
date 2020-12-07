@@ -6,6 +6,7 @@
 [.blurb]
 ==== To Friends, that their minds go not out from the spirit of God.
 
+[.salutation]
 Friends,
 
 When your minds go forth from the pure spirit of God, and are drawn out from it,
@@ -189,6 +190,7 @@ G+++.+++ F.
 [.centered]
 === Letter 34.
 
+[.salutation]
 Friends,
 
 I do warn you in the presence of the living God,
@@ -281,6 +283,7 @@ G+++.+++ F.
 [.centered]
 === Letter 36.
 
+[.salutation]
 Friends,
 
 Take your heavenly censers, and offer up your spiritual prayers to the Almighty God,
@@ -387,6 +390,7 @@ G+++.+++ F.
 [.blurb]
 ==== An Epistle to the travellers in the Lord`'s way, with a Testimony against the false prophets, and those that hold them up.
 
+[.salutation]
 Friends,
 
 All are to receive your spiritual bread and water from the Father of life,
@@ -564,6 +568,7 @@ G+++.+++ F.
 [.centered]
 === Letter 40.
 
+[.salutation]
 Friends,
 
 I warn and charge you all, to be faithful in the measure of the life of God,
@@ -585,6 +590,7 @@ G+++.+++ F.
 [.centered]
 === Letter 41.
 
+[.salutation]
 Friends,
 
 To you all this exhortation is from the word of the Lord: Dwell in the life,
