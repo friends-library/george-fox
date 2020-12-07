@@ -1128,6 +1128,7 @@ London, the 10th of the 4th month, 1685.
 [.blurb]
 ==== To Friends in Pennsylvania.
 
+[.salutation]
 Dear friends,
 
 I am glad to hear of the good Yearly Meeting at Rhode Island,
@@ -1177,6 +1178,7 @@ Bednal-Green, the 10th of the 9th month, 1685.
 [.blurb]
 ==== To Friends of the Ministry in Pennsylvania and New Jersey.
 
+[.salutation]
 Dear friends,
 
 With my love to you all, and all the rest of Friends; I was glad to hear from you;

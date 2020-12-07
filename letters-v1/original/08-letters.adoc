@@ -95,6 +95,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to dwell in that which keeps peace.
 
+[.salutation]
 Dear friends,
 
 Dwell in that which keeps your peace, and comprehends the deceit,
@@ -772,6 +773,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends beyond sea, that have Blacks and Indian Slaves.
 
+[.salutation]
 Dear friends,
 
 I was moved to write these things to you in all those plantations.
@@ -1130,6 +1132,7 @@ G+++.+++ F.
 [.centered]
 === Letter 159.
 
+[.salutation]
 Dear friends,
 
 All dwell in the everlasting seed of God, Christ Jesus,

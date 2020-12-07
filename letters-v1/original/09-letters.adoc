@@ -149,6 +149,7 @@ G+++.+++ F.
 [.blurb]
 ==== To the church of God in Scotland.
 
+[.salutation]
 Dear friends,
 
 In the power and light is my love to you all, in which the virtue, life, holiness,

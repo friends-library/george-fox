@@ -428,6 +428,7 @@ Swarthmore, the 26th of the 7th month, 1678.
 [.blurb]
 ==== - To Friends in the County of 0xford.
 
+[.salutation]
 Dear friends,
 
 Keep in the Lord`'s power, that his kingdom stands in, and in righteousness, and peace,

@@ -834,6 +834,7 @@ G+++.+++ F.
 [.centered]
 === Letter 276.
 
+[.salutation]
 Dear friends,
 
 Live in peace, and love, and patience with one another, for that doth edify the body,

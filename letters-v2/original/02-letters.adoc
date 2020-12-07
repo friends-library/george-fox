@@ -218,6 +218,7 @@ G+++.+++ F.
 [.centered]
 === Letter 285.
 
+[.salutation]
 Dear friends,
 
 This is the counsel of the Lord to you all,
@@ -576,6 +577,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in New England, Virginia, and Barbados.
 
+[.salutation]
 Dear friends,
 
 Be faithful in the power of the Lord God, in what you know,
@@ -822,6 +824,7 @@ G+++.+++ F.
 [.centered]
 === Letter 297.
 
+[.salutation]
 Dear friends,
 
 Keep in the power of the Lord; for if you lose that,
@@ -945,6 +948,7 @@ G+++.+++ F.
 [.centered]
 === Letter 300.
 
+[.salutation]
 Dear friends,
 
 Let your faith stand in the power of God,
@@ -1097,6 +1101,7 @@ Worcester Prison, the 2d of the 7th month, 1673.
 [.blurb]
 ==== To all the Women`'s Meetings.
 
+[.salutation]
 Dear friends,
 
 This is the day for all to take your possessions, that know the gospel, the power of God,

@@ -3,6 +3,7 @@
 [.centered]
 === Letter 303.
 
+[.salutation]
 Dear friends,
 
 All be faithful in the eternal power of God that is over all; I say,

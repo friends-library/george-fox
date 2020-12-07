@@ -68,6 +68,7 @@ G+++.+++ F.
 [.blurb]
 ==== To all Friends, prisoners.
 
+[.salutation]
 Dear friends and brethren,
 
 The seed of God feel all in yourselves, which is the heir of the power of God,
@@ -703,6 +704,7 @@ G+++.+++ F.
 [.centered]
 === Letter 213.
 
+[.salutation]
 Dear friends,
 
 In the life and power of God dwell, by which ye were raised,
@@ -1123,6 +1125,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Ireland.
 
+[.salutation]
 Dear friends and brethren,
 
 Let patience possess your souls, and in the seed of God dwell;

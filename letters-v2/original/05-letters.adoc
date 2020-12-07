@@ -326,6 +326,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Cumberland.
 
+[.salutation]
 Dear friends,
 
 Who are gathered in the name of Jesus, by whom all things were made and created,
@@ -600,6 +601,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends at Dantzie.
 
+[.salutation]
 Dear friends,
 
 In the love of God, and the Lord Jesus Christ, look above all your outward sufferings,
@@ -665,6 +667,7 @@ Swarthmore, the 17th of the 3d month, 1676.
 [.blurb]
 ==== To Friends in Holland.
 
+[.salutation]
 Dear friends,
 
 To whom is my love in the seed of life, that bruises the head of the seed of death;

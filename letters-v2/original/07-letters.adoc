@@ -3,6 +3,7 @@
 [.centered]
 === Letter 357.
 
+[.salutation]
 Dear friends,
 
 All live the life of the true christians, and not the life of old Adam,
@@ -44,6 +45,7 @@ G+++.+++ F.
 [.centered]
 === Letter 358.
 
+[.salutation]
 Dear friends,
 
 With my love to you in the holy peaceable truth that never changes, nor admits of evil,

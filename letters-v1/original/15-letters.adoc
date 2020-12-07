@@ -76,7 +76,8 @@ G+++.+++ F.
 [.centered]
 === Letter 257.
 
-Dear friends.
+[.salutation]
+Dear friends,
 
 Be faithful in the service of God, and mind the Lord`'s business, and be diligent,
 so will the power of the Lord be brought over all those that have gainsayed it.
@@ -106,6 +107,7 @@ Let this be read in all your meetings.
 [.centered]
 === Letter 258.
 
+[.salutation]
 Dear friends,
 
 In the truth of God that changeth not, is my love to you,

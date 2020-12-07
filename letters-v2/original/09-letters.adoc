@@ -44,6 +44,7 @@ London, the 17th of the 4th month, 1682.
 [.blurb]
 ==== To Friends in Barbados.
 
+[.salutation]
 Dear friends,
 
 In all your meetings, see that the Lord God be glorified, and have an eye to his glory,
@@ -147,6 +148,7 @@ The 26th day of the 8th month, 1682.
 [.blurb]
 ==== To Friends in New Jersey and Pennsylvania.
 
+[.salutation]
 Dear friends,
 
 With my dear love to you all, in God`'s holy peaceable truth; and my desires are,
@@ -1023,6 +1025,7 @@ Read this in your Quarterly Meeting at York.
 [.blurb]
 ==== To the Six Weeks Meeting in Barbados.
 
+[.salutation]
 Dear friends,
 
 In Christ in whom we have peace, purity, holiness, and righteousness,
@@ -1086,6 +1089,7 @@ Kingston, the 7th of the 9th month, 1683.
 [.blurb]
 ==== To suffering Friends in prison at Bristol.
 
+[.salutation]
 Dear friends,
 
 With my love to all the prisoners and the faithful, as though I named them.

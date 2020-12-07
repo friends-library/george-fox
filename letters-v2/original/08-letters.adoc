@@ -132,6 +132,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in America.
 
+[.salutation]
 Dear friends,
 
 My love to you all in the holy peaceable truth; and my desires are,
@@ -203,6 +204,7 @@ London, the 7th of the 12th month, 1680.
 [.blurb]
 ==== To Friends in Yorkshire.
 
+[.salutation]
 Dear friends,
 
 In the Lord`'s power and holy spirit, feel his presence amongst you,
@@ -258,6 +260,7 @@ G+++.+++ F.
 [.blurb]
 ==== A letter to the captives who meet together to worship God in Algiers.
 
+[.salutation]
 Dear friends,
 
 I understand by a letter from a Friend, a captive amongst you,
@@ -359,6 +362,7 @@ London, the 17th of the 1st month, 1682.
 [.blurb]
 ==== To Friends in Burlington, West Jersey.
 
+[.salutation]
 Dear friends,
 
 The Lord by his mighty hand and power having brought you to that place,
@@ -693,6 +697,7 @@ London, the 18th of the 12th month, 1681.
 [.blurb]
 ==== To Friends in Carolina.
 
+[.salutation]
 Dear friends,
 
 With my love to all the faithful and tender Friends in Christ, the holy seed,

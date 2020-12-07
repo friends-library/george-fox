@@ -326,6 +326,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Nevis, and the Carribee Islands.
 
+[.salutation]
 Dear friends,
 
 To you all in Nevis, and the Carribee Islands thereabouts,

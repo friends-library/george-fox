@@ -827,6 +827,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Holland.
 
+[.salutation]
 Dear friends in the peaceable truth,
 
 The glory of God all mind, in all your lives and conversations,

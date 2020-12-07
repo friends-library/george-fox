@@ -648,6 +648,7 @@ G+++.+++ F.
 [.centered]
 === Letter 197.
 
+[.salutation]
 Dear friends,
 
 In the power of the Lord dwell, which will keep you all in unity, dwelling in it;
@@ -676,6 +677,7 @@ G+++.+++ F.
 [.centered]
 === Letter 198.
 
+[.salutation]
 Dear friends,
 
 Keep over all that, which tends to strife, in the seed Christ,

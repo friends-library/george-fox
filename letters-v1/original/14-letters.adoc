@@ -48,6 +48,7 @@ London, the 16th of the 9th month, 1666.
 [.centered]
 === Letter 247.
 
+[.salutation]
 Dear friends,
 
 Dwell in the gentle wisdom of the Lord God, which is easy to be entreated;
@@ -1177,6 +1178,7 @@ London, the 1st of the 7th month, 1667.
 [.blurb]
 ==== To Friends in Holland.
 
+[.salutation]
 Dear friends,
 
 In the everlasting power of the Lord God I salute all the faithful and upright,
