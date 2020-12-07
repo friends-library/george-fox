@@ -1,3 +1,14 @@
+[quote.epigraph, , Rev. 1:11]
+____
+What thou seest, write in a book, and send it into the seven churches.
+____
+
+[quote.epigraph, , 2 Cor. 1:11]
+____
+For we write none other things unto you than what you have read and acknowledged,
+and I trust you shall acknowledge even unto the end.
+____
+
 == Epistles
 
 === EPISTLE I.
@@ -650,7 +661,7 @@ G+++.+++ F.
 
 From Judge Fell`'s in Lancashire, the 31st of 11th month, 1652.
 
-=== XXL.
+=== XXI.
 --To Friends at Kendal.
 
 To that of God in you I speak, that ye may watch over the weak,
@@ -3900,7 +3911,7 @@ Therefore consider in your life time, how much time ye have spent in hearing the
 and what assurance ye have of the eternal inheritance which never fades away!
 G+++.+++ F.
 
-=== LXXXVL. --To Friends in London.
+=== LXXXVI. --To Friends in London.
 
 There is something drawing towards you, see to it.
 Take heed of the earth, and keep atop of that which will cumber the mind;
@@ -4179,7 +4190,7 @@ And let this be sent among Friends, to be read in all their meetings.
 
 G+++.+++ F.
 
-=== XCVIL. -- To a Friend.
+=== XCVII. -- To a Friend.
 
 Stand in the will of God, with thy own will offered up, as his was who said,
 "`Not my will, but thine be done.`"
