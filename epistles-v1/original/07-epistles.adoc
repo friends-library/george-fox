@@ -122,6 +122,7 @@ And the mind which is forward, judge, and dwell in the peaceable way;
 and that ye may be patterns in your imprisonments to them
 which be out of the image of the son of God.
 
+[.signed-section-context-close]
 To the prisoners in Exon; written whilst J. N. was there, with many more in prison.
 
 [.signed-section-signature]
@@ -133,6 +134,7 @@ G+++.+++ F.
 [.blurb]
 ==== A warning from the Lord for plainness of speech to be used. (To go among Friends.)
 
+[.salutation]
 Friends of God and brethren,
 
 This is a warning to you all from the Lord God and Jesus Christ, that all that ye speak,
@@ -622,6 +624,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 124.
 
+[.salutation]
 My Friends,
 
 Be faithful and keep your meetings; and in that light wait, which comes from the head,
@@ -1190,4 +1193,5 @@ and power.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Let this be read among Friends.

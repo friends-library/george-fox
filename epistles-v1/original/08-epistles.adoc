@@ -329,6 +329,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 142.
 
+[.salutation]
 All my dear friends,
 
 Keep up your heads above the waters and the sea, in which there is a tempest.
@@ -664,6 +665,7 @@ and here the first Adam and the second Adam are known and seen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Let this be read amongst Friends everywhere.
 
 [.centered]
@@ -981,6 +983,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to keep in that which is savoury.
 
+[.salutation]
 All Friends,
 
 I do warn and charge you in the presence of the living God, in his wisdom and life keep,
@@ -1184,4 +1187,5 @@ but the word of the Lord will have no end, but endureth forever.
 So, feed upon the milk of the word, ye babes,
 that ye may live by that which comes from it, which doth endure.
 
+[.signed-section-signature]
 G+++.+++ F.
