@@ -1,5 +1,6 @@
 == Introduction
 
+[.blurb]
 === A Testimony, how the Lord sent G. F. forth at first, in the year 1643.
 
 When the Lord first sent me forth in the year 1643,
@@ -50,6 +51,7 @@ and his people in it, to the praise of God, who is the revenger of his chosen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.blurb]
 === Concerning the first spreading of the truth, and how that many were imprisoned, etc.
 
 And the truth sprang up first (to us,
@@ -337,6 +339,7 @@ Amen!
 [.signed-section-signature]
 G+++.+++ F.
 
+[.blurb]
 === Upon the Fourth-day of the First month, 1650, I felt the power of the Lord to spread over all the world in praise.
 
 Praise, honour, and glory be to the.
