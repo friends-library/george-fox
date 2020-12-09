@@ -722,6 +722,7 @@ To whom be all praise, honour, and glory forever!
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 From Judge Fell`'s in Lancashire, the 31st of 11th month, 1652.
 
 [.centered]
@@ -1194,4 +1195,5 @@ who is Lord over all, to be Lord over all in you.
 And so the Lord God of power keep you all!
 Farewell.
 
+[.signed-section-signature]
 G+++.+++ F.
