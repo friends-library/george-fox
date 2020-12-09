@@ -877,6 +877,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends at Malton.
 
+[.salutation]
 All my dear friends at Malton,
 
 Mind that which is pure in you, that ye may grow up in the power, out of the form.
@@ -1189,4 +1190,5 @@ in the still life, patient, to the answering the good in all,
 to the refreshing one of another, and not to the stumbling.
 But mind that which keepeth in unity, in the life, though never so little.
 
+[.signed-section-signature]
 G+++.+++ F.
