@@ -6,6 +6,7 @@
 [.blurb]
 ==== An answer to a letter sent to G. F. concerning the voluntary contribution to the king.
 
+[.salutation]
 Friend,
 
 To the thing thou queriest of me, concerning this matter, my answer is:
@@ -106,6 +107,7 @@ and doth inherit the same in which is the fellowship with God, and one with anot
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 22nd of the 3d month, 1661.
 
 [.centered]
@@ -148,7 +150,12 @@ which was before it was, and will remain when it is gone.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 From a lover of your souls, and your everlasting good.
+
+====
 
 [.centered]
 === Epistle 205.
@@ -419,11 +426,17 @@ in the spirit of God.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this be carefully copied over, and sent amongst Friends.
+
+====
 
 [.centered]
 === Epistle 206.
 
+[.salutation]
 My dear friends,
 
 Look above all sufferings that are outward, at the seed of God,
@@ -528,6 +541,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, in and about Norfolk and Lyn, etc.
 
+[.salutation]
 My dear friends,
 
 In the power of God and his immortal seed dwell, in which ye all will have life eternal,
@@ -570,6 +584,7 @@ So my love in the everlasting seed of God is to you all.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 From Mendlesham, this 11th day of the 1st month.
 
 [.centered]
@@ -895,7 +910,12 @@ where all the sheep and lambs feed; in that the Lord God Almighty preserve you!
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let copies be sent to Virginia and Maryland.
+
+====
 
 [.centered]
 === Epistle 215.
@@ -1241,4 +1261,5 @@ And that copies of the paper may be read in meetings,
 and the copies of the papers to be sent to the men`'s
 meetings in the countries where they live.
 
+[.signed-section-signature]
 G+++.+++ F.
