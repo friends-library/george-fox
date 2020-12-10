@@ -80,8 +80,13 @@ So no more, but my love in the holy seed, that is over all.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 To be read in all Friends`' Meetings.
 And send copies of this to Maryland, Virginia, Barbados, New England, etc.
+
+====
 
 [.centered]
 === Epistle 281.
@@ -140,6 +145,7 @@ My love is to all faithful Friends.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 2d of the 11th month, 1670.
 
 [.centered]
@@ -254,7 +260,12 @@ which condemns him for evil.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 This to go among Friends everywhere.
+
+====
 
 [.centered]
 === Epistle 285.
@@ -724,8 +735,14 @@ So no more but my love.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Read this in your men and women`'s meeting.
 
+====
+
+[.signed-section-context-close]
 Maryland, the 24th of the 12th month, 1672.
 
 [.centered]
@@ -879,6 +896,7 @@ and live in love, for that doth edify you.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Bristol, the 1st of the 6th month, 1673.
 
 [.centered]
@@ -1091,8 +1109,14 @@ who was the foundation of the prophets and apostles.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this be read in your men`'s and women`'s meetings, and copies kept in their books.
 
+====
+
+[.signed-section-context-close]
 Worcester Prison, the 2d of the 7th month, 1673.
 
 [.centered]
@@ -1226,4 +1250,5 @@ and the poor, a feast or a dinner, and obey Christ, the heavenly man`'s doctrine
 though it do cross old earthly Adam`'s will and practices; and though he be angry,
 never heed him, but obey the Lord.
 
+[.signed-section-signature]
 G+++.+++ F.
