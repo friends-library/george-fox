@@ -124,6 +124,7 @@ A general epistle to them all, from Colchester in England.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 10th day of the 11th month, 1662.
 
 [.centered]
@@ -181,7 +182,11 @@ for all things in heaven, and things in earth, must bow at the name of Jesus,
 must bow at the power of God, before they be reconciled in one.
 So bow at the name of Jesus.
 
-2dly.
+[.numbered-group]
+====
+
+[.numbered]
+_2dly._
 You must bow at the cross of Christ, which is the power of God,
 which since the apostles`' days the apostate christians have lost;
 and therefore they bow to a cross, a stick, a stone, a piece of iron, a piece of wood.
@@ -207,7 +212,8 @@ and the world is dead to you; dead to the world through the power of the cross,
 and the world is dead from the power of the cross,
 (in which power is the fellowship of the cross of Christ.)
 
-3dly.
+[.numbered]
+_3dly._
 The fellowship of the gospel, the power of God,
 expels away all that which hath darkened the understanding, darkened the mind,
 darkened the heart;
@@ -272,7 +278,8 @@ that when a storm comes, or a tempest, they fly from their church and fellowship
 But the gospel stands, the church in God stands, the pillar and ground of truth;
 which the gates of hell cannot prevail against.
 
-4thly.
+[.numbered]
+_4thly._
 The worship of God is In the spirit and in the truth,
 that is the public worship which Christ set up;
 he preached it when he put down the worship at the mountain, and at Jerusalem, and said,
@@ -317,7 +324,8 @@ who worship in the truth and in the spirit, are over all these worships.
 For truth is before they all were,
 (and the spirit,) and will stand when they are all gone.
 
-5thly.
+[.numbered]
+_5thly._
 To pray in the spirit, this was public, the public prayer set up among the christians;
 the temple was the public place of prayer among the Jews; but to pray in the spirit,
 is the public prayer set up by the apostles: every man,
@@ -343,7 +351,8 @@ is that which brings people to lift up their eyes to the Lord in spirit and trut
 and to watch and pray, by which they know temptations;
 and the spirit giveth them understanding, and wisdom, and power to withstand them.
 
-6thly.
+[.numbered]
+_6thly._
 Singing in the spirit is public; every man and every woman in the whole world,
 they must not grieve it, nor vex it, if they sing in it; and this is public.
 But they that go from the spirit of God within, they go into the particular singing,
@@ -354,7 +363,8 @@ because it is not done in the spirit; for the true fellowship in singing, in pra
 in worshipping of God, is in the spirit of God, which the devil is out of;
 for in that is the bond of peace.
 
-7thly.
+[.numbered]
+_7thly._
 The teachers of the world told us (who called themselves ministers
 of Christ) that they had received a gift from Christ,
 who ascended on high, and led captivity captive;
@@ -498,23 +508,42 @@ but he sets them down in himself, who never fell,
 a safer state than Adam was in before he fell.
 Now who sit here in the heavenly places in Christ Jesus, the first and the last,
 the beginning and ending, the safe place, in the wisdom of God.
+
+====
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ They see where Adam and Eve sat before they fell; blessed, and in a good state,
 in the image of God, in righteousness and holiness.
+
+[.numbered]
 2+++.+++ They see where Adam and Eve sat in the fall, with their sons and daughters,
 fallen from righteousness and holiness, and the image of God, where they have no peace,
 neither do they see God, nor have dominion over the creation.
+
+[.numbered]
 3+++.+++ They see where the Jews sat, in the types, figures, and shadows, and temples,
 and oaths, in the offerings and sacrifices,
 and there were to sit till Christ the substance came to end them all;
 which Christ the substance was before they were.
+
+[.numbered]
 4+++.+++ They see where the apostles sat in the heavenly places in Christ Jesus,
 the substance of all the types, figures, and shadows, who ended them all,
 and was before them all, and will be when they are all gone.
+
+[.numbered]
 5+++.+++ They see where the Gentiles sit, in the traditions, inventions, idols`' temple,
 which God never commanded.
+
+[.numbered]
 6+++.+++ They see where all the apostate christians have sat since the apostles`' days,
 in the rudiments, inventions, handiworks, and traditions, and cannot sit long in them,
 therefore turn one against another.
+
+[.numbered]
 7+++.+++ Now the age is come that the kindness and riches of the Lord are seen,
 which were manifest among the apostles and saints
 who sat in the heavenly places in Christ Jesus,
@@ -538,6 +567,8 @@ which seed (Christ) bruiseth and destroyeth the serpent`'s head, the devil,
 and his works; and in him (Christ) the saints sit,
 in whom they have the pastures of life, that floweth over all, death,
 and was before it was, and the power of it.
+
+[.numbered]
 8+++.+++ So, as new-born babes desire the sincere milk of the word, that you may grow thereby,
 (mark,) the milk that comes from the word which was in the beginning,
 by that milk is the growth, and not in the traditions, handle not them,
@@ -663,6 +694,8 @@ and inherit it, and so inherit their teacher that bringeth salvation,
 and so come to enjoy salvation, and inherit Christ, in whom are the light and life,
 and in him is the sitting down in the salvation.
 
+====
+
 All keep to the beauty of holiness; for in holiness lies your beauty;
 and the fruits of righteousness is a tree of life,
 and the name of the Lord is a strong tower, and the righteous flee into it,
@@ -671,6 +704,7 @@ and are safe.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 From Cockford in Essex the 12th day of the 11th month, 1662.
 
 [.centered]
@@ -781,9 +815,14 @@ their day is ended; and then they are reckoned withal, and paid,
 and then the people of God`'s day approaches,
 wherein according to their works they shall have the rewards of life eternal.
 
+[.postscript]
+====
+
 P+++.+++ S.
 
 The power of God is over all, and they that keep in it, it will carry them over all.
+
+====
 
 [.signed-section-signature]
 G+++.+++ F.
@@ -791,6 +830,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 225.
 
+[.salutation]
 My dear friends,
 
 In the everlasting seed and covenant of life, be valiant for the truth upon the earth,
@@ -847,7 +887,12 @@ that never fell.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 And dear Friends keep low, for there is no danger.
+
+====
 
 [.centered]
 === Epistle 226.
@@ -872,6 +917,7 @@ the life that was with the Father before the world began.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 9th month, 1663.
 
 [.centered]
@@ -933,6 +979,7 @@ but the birth of the spirit reigns over it, farewell.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Lancaster prison the 6th day.
 
 [.centered]
@@ -1045,6 +1092,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 230.
 
+[.salutation]
 My dear friends,
 
 Be faithful to the Lord God every one, in the truth and power of God,
@@ -1100,9 +1148,15 @@ the amen and faithful witness.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this go among Friends, and dwell in peace and love, forbearing one another,
 and so full the law of Christ.
 
+====
+
+[.signed-section-context-close]
 From Lancaster Castle, the 1st month, 1664.
 
 [.centered]
@@ -1313,7 +1367,11 @@ Now saith the Lord to the serpent, "`Upon thy belly shalt thou go,
 and dust shall be thy meat all the days of thy life.`"
 So you may see how the serpent got into Adam and Eve by disobedience.
 
-Secondly.
+[.numbered-group]
+====
+
+[.numbered]
+_Secondly._
 He ruleth in all Adam`'s sons`' and daughters`' hearts that are disobedient to the light,
 the truth, the power of God in themselves, and he darkens their hearts and minds,
 and makes them envious; and from him they have their devilish earthly wisdom,
@@ -1331,7 +1389,8 @@ if he goes upon his belly, how go they that he rules?
 Better than the ruler, think you?
 Must the ruled go better than the ruler?
 
-Thirdly.
+[.numbered]
+_Thirdly._
 If this ruler`'s meat be dust, that rules in the hearts of the disobedient,
 which got into Adam and Eve`'s heart by disobedience, what feed the ruled upon then,
 if the ruler`'s meat be dust?
@@ -1392,6 +1451,8 @@ and rules in the hearts of Adam and Eve`'s sons and daughters, Who are in disobe
 And so Christ the second Adam must rule in people`'s hearts, who are in the obedience,
 as he doth in all that have power, and enjoy life.
 
+====
+
 And so be valiant and faithful for the truth upon the earth,
 serving the Lord in a new life, that is in Christ Jesus that never fell,
 out of the old life of Adam in the fall; for the old life is in Adam in the fall,
@@ -1431,4 +1492,5 @@ Therefore keep chaste in the power of God over them all,
 that your lives and conversations may judge them in such things,
 who devour those things upon their lusts, which God hath given to the service of man.
 
+[.signed-section-signature]
 G+++.+++ F.
