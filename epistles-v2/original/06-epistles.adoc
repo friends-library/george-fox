@@ -148,11 +148,13 @@ which the world cannot take away.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 13th of the 9th month, 1677.
 
 [.centered]
 === Epistle 334.
 
+[.salutation]
 My dear friends,
 
 To whom is my love in the everlasting seed, that reigns over all,
@@ -203,6 +205,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 12th of the 5th month, 1677.
 
 [.centered]
@@ -211,6 +214,7 @@ The 12th of the 5th month, 1677.
 [.blurb]
 ==== To Friends at Sussex.
 
+[.salutation]
 My dear friends,
 
 To whom is my love, and to the rest of Friends that aways.
@@ -238,6 +242,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 8th of the 5th month, 1677.
 
 [.centered]
@@ -420,6 +425,7 @@ So with my love in the everlasting seed.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 26th of the 7th month, 1678.
 
 [.centered]
@@ -465,6 +471,7 @@ G+++.+++ F.
 [.blurb]
 ==== To the Yearly Meeting in Yorkshire.
 
+[.salutation]
 My friends,
 
 In the service, and in the work of the Lord Jesus Christ, the second Adam, in his power,
@@ -502,6 +509,7 @@ So with my love in the Lord Jesus Christ.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 3d of the 4th month, 1678.
 
 [.centered]
@@ -544,8 +552,14 @@ Such deserve his judgment.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Send this abroad among Friends, to be read in their meetings.
 
+====
+
+[.signed-section-context-close]
 Swarthmore, the 11th month, 1678.
 
 [.centered]
@@ -704,6 +718,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 6th of the 12th month, 1678.
 
 [.centered]
@@ -1040,6 +1055,7 @@ he gave them power to become the sons of God.`"
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore in Lancashire, the 30th of the 11th month, 1678.
 
 [.centered]
@@ -1159,6 +1175,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 10th month, 1679,
 
 [.centered]
@@ -1260,4 +1277,5 @@ Blessings and praises, with all glory and thanks, be unto him, who hath all powe
 majesty, and dominion, now, henceforth, and forever.
 Amen.
 
+[.signed-section-signature]
 G+++.+++ F.

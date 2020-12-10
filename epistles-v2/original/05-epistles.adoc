@@ -384,6 +384,7 @@ who is over him that makes to suffer, and will be when he is gone.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Marshgrange, the 6th of the 4th month, 1676.
 
 [.centered]
@@ -553,6 +554,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+SSCC
 Swarthmore, the 5th month, 1676.
 
 [.centered]
@@ -561,6 +563,7 @@ Swarthmore, the 5th month, 1676.
 [.blurb]
 ==== To Friends in Virginia and Maryland.
 
+[.salutation]
 My dear friends,
 
 All dwell in the love of God, and in his power and truth,
@@ -729,6 +732,7 @@ that by it they may be made God`'s freemen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 2nd of the 7th month, 1676.
 
 [.centered]
@@ -737,6 +741,7 @@ Swarthmore, the 2nd of the 7th month, 1676.
 [.blurb]
 ==== To Friends in Maryland and Virginia.
 
+[.salutation]
 My dear friends,
 
 Be valiant for the truth, and the power of it, in the spirit and faith of Jesus,
@@ -800,6 +805,7 @@ So, with my love in the Lord Jesus Christ unto you all, in whom I have laboured,
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 19th of the 12th month, 1676.
 
 [.centered]
@@ -855,11 +861,13 @@ So with my love to all.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 4th of the 1st month, 1676.
 
 [.centered]
 === Epistle 330.
 
+[.salutation]
 My friends,
 
 All you that do know God and Christ your teacher,
@@ -896,6 +904,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 331.
 
+[.salutation]
 My dear friends and brethren,
 
 That faith, which is the gift of God, which all the saints lived in,
@@ -1227,4 +1236,5 @@ who is ascended above all, that he might fill all things: who is over all,
 the beginning and ending, and lives and reigns from everlasting to everlasting,
 the Amen.
 
+[.signed-section-signature]
 G+++.+++ F.
