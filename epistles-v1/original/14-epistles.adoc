@@ -43,6 +43,7 @@ and vessels fitted to receive the treasures of the Lord.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 16th of the 9th month, 1666.
 
 [.centered]
@@ -460,8 +461,13 @@ was before death and impatient spirits were.
 
 === Concerning the worship of God, and the Jew outward, and the inward Jew`'s offering, with their garments.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ There was a worship at Jerusalem.
 
+[.numbered]
 2+++.+++ There was a worship at the mountain, where Jacob`'s well was.
 Jacob went down into Egypt with his family, and he died in Egypt,
 and his sons carried him out of Egypt, and buried him in the land of Canaan,
@@ -533,6 +539,8 @@ but that is and was the public and universal worship, set up by Christ the secon
 to the sons of Adam in the fall, which brings every man and woman to truth,
 and the spirit of God in their own hearts,
 in that spirit and truth they must worship God.
+
+====
 
 But, cries the world, did not they pray in the temple, the Jew outward,
 and must not you pray in the temple?
@@ -1170,6 +1178,7 @@ which gathers to God.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 1st of the 7th month, 1667.
 
 [.centered]
@@ -1213,4 +1222,5 @@ to take away the reproach of their transgressions from Friends.
 And let the faithful Friends amongst you meet together,
 to consider and take care about these things.
 
+[.signed-section-signature]
 G+++.+++ F.

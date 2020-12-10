@@ -284,6 +284,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 236.
 
+[.salutation]
 My dear Friends and brethren,
 
 The Lord is with you all everywhere, who suffer for his name and truth`'s sake,
@@ -1004,6 +1005,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in Barbados, Virginia, Maryland, New England, and elsewhere.
 
+[.salutation]
 O friends!
 
 You all that have tasted of the power of the Lord God, and of his truth, that is pure,
@@ -1075,10 +1077,15 @@ For God who is low, is not the author of strife and confusion, but of peace.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 So, I desire you to let copies of this be sent into Virginia, Maryland, and New England,
 to be read among Friends in all their meetings.
 Things are pretty well here, Friends being in love and unity,
 and the dread of the Lord God is amongst us, who reigns and will reign.
+
+====
 
 [.centered]
 === Epistle 244.
@@ -1406,4 +1413,5 @@ feeding upon every word that proceeds out of the mouth of God,
 having every one`'s ear attentive to his voice:
 in this you grow up in the life that is eternal.
 
+[.signed-section-signature]
 G+++.+++ F.
