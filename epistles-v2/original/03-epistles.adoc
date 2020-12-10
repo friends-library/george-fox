@@ -78,8 +78,14 @@ and is worthy of all.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Read this amongst Friends in their meetings.
 
+====
+
+[.signed-section-context-close]
 Worcester, 1673.
 
 [.centered]
@@ -100,6 +106,7 @@ that doth surround your camps and tabernacles.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, 1673.
 
 [.centered]
@@ -283,6 +290,7 @@ of whose kingdom there is no end, who is God over all, blessed forever.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Kingston, the 1st of the 7th month, 1674.
 
 [.centered]
@@ -539,6 +547,7 @@ who is over all, God blessed forever and ever.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 15th of the 3d month.
 
 [.centered]
@@ -637,6 +646,7 @@ and in all their assemblies (his church) which he is the head of.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Worcester Jail, the 14th of the 9th month, 1674.
 
 [.centered]
@@ -1058,6 +1068,7 @@ So, no more, but my love to you all.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore in Lancashire, the 12th of the 12th month, 1675.
 
 [.centered]
@@ -1131,8 +1142,13 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 And Friends you may send a copy of this to the Carribee Islands,
 to be read in their Quarterly Meetings; and you may read it in your own.
+
+====
 
 [.centered]
 === Epistle 315.
@@ -1291,4 +1307,5 @@ So with my love.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 10th month, 1675.

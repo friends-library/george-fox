@@ -247,7 +247,11 @@ and come to know the "`three that bear record in
 heaven,`" and the "`three that bear record on earth,
 the spirit, the water, and the blood.`"
 
-First, the spirit that beareth witness in the earth, which mortifies them,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ the spirit that beareth witness in the earth, which mortifies them,
 which circumcises them, which leads them into all truth;
 in which spirit is their fellowship, and a bond of peace,
 that keeps down that which troubles them;
@@ -260,7 +264,8 @@ and by which spirit they sing praises to God who is a spirit,
 by which spirit they have an understanding, the spirit of wisdom and knowledge,
 which is to know God, and Jesus Christ whom he hath sent, which is life eternal.
 
-2dly.
+[.numbered]
+_2dly._
 They come to know the water, which is a witness in the earth;
 by which water they are washed, their minds, their souls, their spirits,
 and in their bodies, with this pure water.
@@ -274,6 +279,8 @@ And so the children of the light, that believe in the light, their bodies, their
 their spirits, and their minds are washed clean in this pure, clean, holy water,
 that comes from above, from the pure holy God,
 which is one of these witnesses in the earth.
+
+====
 
 The third witness is his blood, with which the hearts of people are sprinkled,
 and their consciences are sprinkled with the blood of Jesus.
@@ -668,6 +675,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 273.
 
+[.salutation]
 My dear friends,
 
 In the pure and undefiled life all live, in the holy seed that changes not,
@@ -854,6 +862,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 276.
 
+[.salutation]
 My dear friends,
 
 When you were formerly in a profession, you took your servants, your apprentices,
@@ -1220,4 +1229,5 @@ that toss the chaff abroad in the world.
 I say, in Christ sit down, in him who was before the world was,
 for out of him is all wearisomeness, but in him ye have rest.
 
+[.signed-section-signature]
 G+++.+++ F.
