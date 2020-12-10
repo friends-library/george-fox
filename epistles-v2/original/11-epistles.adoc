@@ -6,7 +6,11 @@
 [.blurb]
 ==== An epistle to all the prisoners and sufferers for the name of the Lord Jesus Christ and his worship.
 
-"`The word of God is not bound.`" 2 Tim. 2:9.
+[quote.scripture, , 2 Tim. 2:9]
+____
+
+The word of God is not bound.
+____
 
 Dear friends, in the seed of life that is over all, whom the Lord doth support,
 and hath supported by his eternal arm and power to stand for his glory;
@@ -205,6 +209,7 @@ and in fear walk before him.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 3d day of the 10th month, 1684.
 
 [.postscript]
@@ -441,13 +446,22 @@ that his people may be one,) in whom they have rest, life, peace, and salvation 
 through Jesus Christ.
 Amen.
 
-"`Let your conversation or practice be without covetousness,`" etc. Heb. 13:5.
+[quote.scripture, , Heb. 13:5]
+____
 
-"`Only let your conversation be as becometh the gospel of Christ.`" Phil. 1:17.
+Let your conversation or practice be without covetousness,
+____
+
+[quote.scripture, , Phil 1:17]
+____
+
+Only let your conversation be as becometh the gospel of Christ.
+____
 
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 4th of the 2nd month, 1685.
 
 [.centered]
@@ -478,6 +492,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Kingston, the 13th of the 10th month, 1685.
 
 [.centered]
@@ -693,6 +708,7 @@ the Lamb of God, the saints have their rest and peace, and can sing hallelujah.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Bednal Green, the 14th of the 4th month, 1685.
 
 [.centered]
@@ -1120,6 +1136,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 10th of the 4th month, 1685.
 
 [.centered]
@@ -1170,6 +1187,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Bednal-Green, the 10th of the 9th month, 1685.
 
 [.centered]
@@ -1221,4 +1239,5 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Enfield, the 30th of the 5th month, 1685.

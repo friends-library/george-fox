@@ -27,6 +27,7 @@ which is farther than the law to be looked at.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 9th of the 4th month, 1683.
 
 [.centered]
@@ -138,6 +139,7 @@ So with my love to you.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Gousey in Essex, the 10th of the 2nd month, 1683.
 
 [.centered]
@@ -631,6 +633,7 @@ This you may read amongst the children of the light, and of the day.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Dolston, the 13th of the 10th month, 1683.
 
 [.centered]
@@ -762,8 +765,14 @@ So the Lord preserve you faithful to himself.
 [.signed-section-signature]
 G+++.+++ F.
 
-Let us hear as often as you can how things are with you
+[.postscript]
+====
 
+Let us hear as often as you can how things are with you.
+
+====
+
+[.signed-section-context-close]
 London, the 4th of the 3d month, 1684.
 
 [.centered]
@@ -866,6 +875,7 @@ This charity keeps all God`'s people in the heavenly love and unity.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Amsterdam, the 14th of the 4th month, 1683.
 
 [.centered]
@@ -1013,6 +1023,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 27th of the 3d month, 1684.
 
 [.centered]
@@ -1768,4 +1779,5 @@ the love of the Father is not in him.`"
 
 ====
 
+[.signed-section-signature]
 G+++.+++ F.
