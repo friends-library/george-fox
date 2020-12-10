@@ -432,7 +432,7 @@ Swarthmore, the 26th of the 7th month, 1678.
 === Epistle 338.
 
 [.blurb]
-==== - To Friends in the County of 0xford.
+==== To Friends in the County of Oxford.
 
 [.salutation]
 Dear friends,

@@ -530,6 +530,7 @@ So with my love in the seed of life to all Friends in the island.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, in Lancashire, the 25th of the 8th month, 1676.
 
 [.centered]
@@ -554,7 +555,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
-SSCC
+[.signed-section-context-close]
 Swarthmore, the 5th month, 1676.
 
 [.centered]
@@ -662,6 +663,7 @@ and Christ, and one another; in that live and dwell.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 17th of the 3d month, 1676.
 
 [.centered]
