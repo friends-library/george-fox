@@ -21,6 +21,7 @@ So no more but my love in him.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Worcester Prison, the 21st of the 9th month, 1673.
 
 [.centered]
@@ -294,11 +295,7 @@ G+++.+++ F.
 Kingston, the 1st of the 7th month, 1674.
 
 [.centered]
-=== Epistle 307.
-
-[.blurb]
-==== ^
-footnote:[Given forth in the time of his sickness in Worcester prison, 1674.]
+=== Epistle 307.footnote:[Given forth in the time of his sickness in Worcester prison, 1674.]
 
 My dear friends in England, and all parts of the word; the gospel,
 Which is the power of God, which you have received from the beginning, keep in it,
