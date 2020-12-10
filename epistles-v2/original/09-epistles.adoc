@@ -36,6 +36,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 17th of the 4th month, 1682.
 
 [.centered]
@@ -140,6 +141,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 26th day of the 8th month, 1682.
 
 [.centered]
@@ -351,6 +353,7 @@ But we are not of them who draw back unto perdition,
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 From Kingston upon Thames, the 2nd of the 9th month, 1682.
 
 [.centered]
@@ -397,6 +400,7 @@ Psalm 97, 98. and 149. cl.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 22nd of the 9th month, 1682.
 
 [.centered]
@@ -528,6 +532,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Edmonton, in Middlesex county, the 23d of the 11th month, 1682.
 
 [.centered]
@@ -547,15 +552,23 @@ For every creature of God is good, and ought to be received with thanksgiving.
 But if you do give, or let men or women have so much wine, brandy, strong liquors,
 strong beer, or ale, till they be drunk, or to make them drunk:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ You destroy the good creatures of God.
 
+[.numbered]
 2+++.+++ You destroy them that have not power over their lusts, no more than a rat or a swine,
 who will drink till they are drunk.
 
+[.numbered]
 3+++.+++ You are a great cause of ruining them in their healths, purses, and estates,
 (their children and families) in feeding of them in their lusts,
 by letting them have more than doth them good;
 which also tends to bring God`'s judgments upon you, to your own ruin and destruction.
+
+====
 
 For many when they are full of wine, beer, or strong liquors,
 then they will call for music, pipe, and harp,
@@ -1017,7 +1030,12 @@ In him is my love to you all, as though I named you.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Read this in your Quarterly Meeting at York.
+
+====
 
 [.centered]
 === Epistle 373.
@@ -1079,8 +1097,14 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 You may read this in your Monthly or Quarterly Meetings.
 
+====
+
+[.signed-section-context-close]
 Kingston, the 7th of the 9th month, 1683.
 
 [.centered]
@@ -1123,6 +1147,7 @@ And so with my love in the seed, in which you and all nations are blessed.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 From Dolstan, the 6th of the 10th month, 1683.
 
 [.centered]
@@ -1190,4 +1215,5 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 23d of the 12th month, 1683.

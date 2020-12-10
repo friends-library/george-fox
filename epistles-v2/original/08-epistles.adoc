@@ -121,6 +121,7 @@ Amen.
 
 From your friend and brother in the kingdom and patience of Jesus.
 
+[.signed-section-context-close]
 Worplesdom, the 22nd of the 5th month, 1680.
 
 [.signed-section-signature]
@@ -196,6 +197,7 @@ who is worthy of all, forever and evermore.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 7th of the 12th month, 1680.
 
 [.centered]
@@ -249,6 +251,7 @@ let it be done in the name and power of Jesus, to the glory of God the Father,
 that created all, and takes care for all, blessed forever.
 Amen.
 
+[.signed-section-context-close]
 London, the 6th of the 4th month, 1680.
 
 [.signed-section-signature]
@@ -354,6 +357,7 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 17th of the 1st month, 1682.
 
 [.centered]
@@ -469,7 +473,12 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Read this in your assembly, and in your meetings.
+
+====
 
 [.centered]
 === Epistle 357.
@@ -509,6 +518,7 @@ from whom ye have blessing and life.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 20th of the 12th month, 1681.
 
 [.centered]
@@ -603,6 +613,7 @@ let him refrain his tongue from speaking evil, and his lips that he speak no gui
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 21st of the 9th month, 1681.
 
 [.centered]
@@ -689,6 +700,7 @@ So fare ye well in the Lord.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 18th of the 12th month, 1681.
 
 [.centered]
@@ -1135,6 +1147,7 @@ for the earth shall be full of the knowledge of the Lord, as the waters cover th
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 27th of the 8th month, 1681.
 
 [.centered]
@@ -1202,4 +1215,5 @@ and show forth christianity in the possession of it, above the outside professor
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 From Dolston, the 24th of the 7th month, 1682.

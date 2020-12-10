@@ -547,6 +547,7 @@ And so do praise God, and his son that liveth forever, and sing Hallelujah.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 10th month, 1679.
 
 [.centered]
@@ -555,6 +556,7 @@ Swarthmore, the 10th month, 1679.
 [.blurb]
 ==== An Epistle to Friends, for them to read.
 
+[.salutation]
 My dear friends,
 
 The peaceable truth live in, which you have received from Jesus your saviour,
@@ -1210,4 +1212,5 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 3d of the 9th month, 1679.
