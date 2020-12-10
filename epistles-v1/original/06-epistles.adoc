@@ -570,8 +570,12 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
-[.signed-section-context-close]
+[.postscript]
+====
+
 To be read among all Friends at their meetings.
+
+====
 
 [.centered]
 === Epistle 89.

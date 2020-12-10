@@ -552,8 +552,8 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in the North.
 
-[.blurb]
-=== All Friends in Westmoreland, Cumberland, Bishopric, New Castle-side, Northumberland, and Lancashire,
+[.salutation]
+All Friends in Westmoreland, Cumberland, Bishopric, New Castle-side, Northumberland, and Lancashire,
 
 Wait in the measure of the spirit of the living God,
 that with it all your minds may be guided up to the living God, and to it take heed,
@@ -1186,8 +1186,12 @@ and lose your crown; which none receives, but he that continues to the end.
 [.signed-section-signature]
 G+++.+++ F.
 
-[.signed-section-context-close]
+[.postscript]
+====
+
 Let this go to all the churches of the saints.
+
+====
 
 [.centered]
 === Epistle 48.
