@@ -1198,5 +1198,9 @@ and power.
 [.signed-section-signature]
 G+++.+++ F.
 
-[.signed-section-context-close]
+[.postscript]
+====
+
 Let this be read among Friends.
+
+====
