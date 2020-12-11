@@ -52,6 +52,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 163.
 
+[.salutation]
 My dear friends,
 
 Live in the life in which is the unity and peace one with another,
@@ -79,6 +80,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to keep their meetings.
 
+[.salutation]
 My dear friends,
 
 Keep your meetings in the power of the Lord God,
@@ -201,6 +203,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 167.
 
+[.salutation]
 My dear friends,
 
 Be not carried away by good words and fair speeches, nor the affectionate part,
@@ -336,8 +339,14 @@ and live in the mystery of the fellowship of the gospel, which is everlasting.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 This is to go to all the meetings of Friends among them to be read.
 
+====
+
+[.signed-section-context-close]
 London, the 11th of the 3d month, 1658.
 
 [.centered]
@@ -501,6 +510,7 @@ The scriptures which ye do speak, and show forth in your books, are owned,
 but your imaginations of them we deny; but they are all owned in themselves and places.
 So they are all ours, which end in Christ, who is ours, and in him we are that remaineth.
 
+[.offset]
 The mass is the Papists`' sacrifice, that they kill about.
 
 The common-prayer is the Episcopals`' sacrifice, that they persecute and kill about.
@@ -525,13 +535,17 @@ such may crucify Christ in themselves afresh.
 Therefore mind the daily suffering which the seed had, and have unity with that;
 so ye may rise with that, which destroyeth that which causeth it to suffer.
 
+[.offset]
 The Papist cries, higher powers, help, help, or else my mass will go down,
 and all my ceremonies.
 
+[.offset]
 The Episcopal man cries, help, help, higher powers, or else my common-prayer goes down.
 
+[.offset]
 The Presbyterian cries, help, help, higher powers, or else my directory will go down.
 
+[.offset]
 The Independent, and Anabaptist, and others cry, help, help, higher powers,
 or else our framed faith, (which is our eleven days`' work,) will down,
 and we shall not stand.
@@ -759,6 +773,7 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends, to serve one another in love, in outward things.
 
+[.salutation]
 My dear friends,
 
 In the order and wisdom of life order all things to God`'s glory,
@@ -791,7 +806,12 @@ to clothe and cover you.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 This is for the men`'s meeting.
+
+====
 
 [.centered]
 === Epistle 176.
@@ -919,16 +939,31 @@ and so hath unity, and that hath the kingdom.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 All Friends, ye must come into a temperance above all the world.
+
+[.offset]
 And all Friends, ye must come into a patience above all the world.
+
+[.offset]
 And all Friends, ye must come into a moderation above all the world.
 
+[.offset]
 And all Friends, ye must come into a wisdom above all the world.
+
+[.offset]
 And all Friends, ye must come into a knowledge above all the world.
+
+[.offset]
 And all Friends, ye must come into an understanding above all the world.
 
+[.offset]
 And all Friends, ye must come into a sobriety, and gravity,
 and a seasoned state above all the world.
+
+====
 
 [.signed-section-signature]
 G+++.+++ F.
@@ -969,7 +1004,8 @@ G+++.+++ F.
 [.centered]
 === Epistle 180.
 
-Friends
+[.salutation]
+Friends,
 
 Live in the unchangeable power of God, which will keep you in righteousness, and truth,
 and love, and unity, and dominion over all the unclean spirits, and rough ways,
@@ -1012,9 +1048,14 @@ and nakedness of heart and spirit are lived in and life is fed upon.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 And so, if any Friends have friends or relations beyond sea, send them books or papers,
 and be diligent to spread the truth; and send Latin books, or French books,
 or other books, to Leghorn, France, Poland, Italy, Norway, Low Countries, etc.
+
+====
 
 [.centered]
 === Epistle 181.
@@ -1022,6 +1063,7 @@ or other books, to Leghorn, France, Poland, Italy, Norway, Low Countries, etc.
 [.blurb]
 ==== To Friends beyond the sea.
 
+[.salutation]
 My dear hearts,
 
 Do your business faithfully, and fear not the amazement of men,
@@ -1198,4 +1240,5 @@ who profess Christ and the apostles`' writings,
 but are without the life and from the seed of God;
 these are one with them who put Christ to death, and knew not the authority of the seed.
 
+[.signed-section-signature]
 G+++.+++ F.
