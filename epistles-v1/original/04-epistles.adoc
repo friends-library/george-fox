@@ -169,6 +169,9 @@ and to it in you all take heed, that your hearts may be joined together to God,
 and all that is contrary condemned.
 And so, the Lord God Almighty preserve and keep you all in wisdom!
 
+[.postscript]
+====
+
 P+++.+++ S.
 
 Friends, a warning from the Lord to you all, in wisdom to walk,
@@ -185,6 +188,8 @@ in that which comes from him by whom the world was made;
 who to all your souls is a Friend, from whence the refreshing is received.
 So the Lord God Almighty preserve and keep you all, that in his life, dread,
 and power ye may be preserved.
+
+====
 
 [.signed-section-signature]
 G+++.+++ F.
@@ -327,7 +332,6 @@ the power of God manifested in you.
 And keep out of all false liberties,
 and that which would lead you out of the fear of God;
 and in that ye will be preserved in the sense of the power and the truth of God in
-
 your own hearts.
 In that every one watch, through which knowledge and virtue is ministered unto you,
 and peace from the God of virtue and peace.
@@ -548,8 +552,9 @@ G+++.+++ F.
 [.blurb]
 ==== To Friends in the North.
 
-All Friends in Westmoreland, Cumberland, Bishopric, New Castle-side, Northumberland,
-and Lancashire,
+[.salutation]
+All Friends in Westmoreland, Cumberland, Bishopric,
+New Castle-side, Northumberland, and Lancashire,
 
 Wait in the measure of the spirit of the living God,
 that with it all your minds may be guided up to the living God, and to it take heed,
@@ -1182,7 +1187,12 @@ and lose your crown; which none receives, but he that continues to the end.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this go to all the churches of the saints.
+
+====
 
 [.centered]
 === Epistle 48.
@@ -1336,4 +1346,5 @@ And take heed of pride, but by the eternal spirit keep all that down, and judge 
 "`The sacrifices of the wicked are abomination to the Lord, and he hears not hypocrites;
 but the prayers of the righteous are heard.`"
 
+[.signed-section-signature]
 G+++.+++ F.

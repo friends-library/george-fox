@@ -394,7 +394,12 @@ And to you this is the counsel of God.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 To go amongst Friends everywhere.
+
+====
 
 [.centered]
 === Epistle 83.
@@ -446,6 +451,7 @@ may be led into all good order.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 15th of the 3d month, 1655.
 
 [.centered]
@@ -564,7 +570,12 @@ Amen.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 To be read among all Friends at their meetings.
+
+====
 
 [.centered]
 === Epistle 89.
@@ -796,6 +807,7 @@ and condemneth the contrary.
 In which power the Lord God Almighty preserve you to his glory.
 Amen.
 
+[.offset]
 Live in the life of God, and feel it.
 
 And, friends, take heed of being hurried with many thoughts;
@@ -1110,7 +1122,12 @@ that ye may all be ordered to his glory.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 This is to be read in all your meetings.
+
+====
 
 [.centered]
 === Epistle 105.
@@ -1177,4 +1194,5 @@ And keep out of janglings and parties,
 in that which is able to keep you above them all to God; and in that all wait.
 And the bustlings of the world keep out of, in the covenant of peace with God.
 
+[.signed-section-signature]
 G+++.+++ F.
