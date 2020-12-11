@@ -6,6 +6,7 @@
 [.blurb]
 ==== To all the elect and chosen of God in Christ Jesus, before the foundation of the world.
 
+[.salutation]
 Friends and brethren,
 
 It lies upon me from the Lord to write unto you these following lines.
@@ -216,8 +217,14 @@ Farewell.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this be read in the men and women`'s meetings, when Friends are assembled together.
 
+====
+
+[.signed-section-context-close]
 Swarthmore, the 12th of the 12th month, 1675.
 
 [.centered]
@@ -613,6 +620,7 @@ yea, even of the Prince of princes`' peace; which the world cannot take away fro
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Swarthmore, the 5th of the 9th month.
 
 [.centered]
@@ -1847,4 +1855,5 @@ which is poured upon them, but the hard-hearted are not sensible.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Marshgrainge, the 16th of the 9th month, 1676.
