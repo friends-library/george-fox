@@ -253,7 +253,12 @@ let copies be sent up of these things likewise.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this be sent among all Friends in all counties in this nation.
+
+====
 
 [.centered]
 === Epistle 141.
@@ -665,8 +670,12 @@ and here the first Adam and the second Adam are known and seen.
 [.signed-section-signature]
 G+++.+++ F.
 
-[.signed-section-context-close]
+[.postscript]
+====
+
 Let this be read amongst Friends everywhere.
+
+====
 
 [.centered]
 === Epistle 150.

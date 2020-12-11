@@ -339,8 +339,12 @@ and live in the mystery of the fellowship of the gospel, which is everlasting.
 [.signed-section-signature]
 G+++.+++ F.
 
-[.signed-section-context-close]
+[.postscript]
+====
+
 This is to go to all the meetings of Friends among them to be read.
+
+====
 
 [.signed-section-context-close]
 London, the 11th of the 3d month, 1658.
@@ -531,6 +535,7 @@ such may crucify Christ in themselves afresh.
 Therefore mind the daily suffering which the seed had, and have unity with that;
 so ye may rise with that, which destroyeth that which causeth it to suffer.
 
+[.offset]
 The Papist cries, higher powers, help, help, or else my mass will go down,
 and all my ceremonies.
 
@@ -800,8 +805,12 @@ to clothe and cover you.
 [.signed-section-signature]
 G+++.+++ F.
 
-[.signed-section-context-close]
+[.postscript]
+====
+
 This is for the men`'s meeting.
+
+====
 
 [.centered]
 === Epistle 176.
