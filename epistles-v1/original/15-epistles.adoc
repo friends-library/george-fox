@@ -50,11 +50,13 @@ as the wicked world stands up for unholiness.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Surrey, the 10th of the 7th month, 1668.
 
 [.centered]
 === Epistle 255.
 
+[.salutation]
 My dear friends,
 
 Live in the wisdom of God, which is gentle and pure from above, and easy to be entreated;
@@ -102,7 +104,12 @@ and make you watchful one over another for your good.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Let this be read in all your meetings.
+
+====
 
 [.centered]
 === Epistle 257.
@@ -172,6 +179,7 @@ G+++.+++ F.
 [.centered]
 === Epistle 258.
 
+[.salutation]
 My dear friends,
 
 Be faithful in the truth which the devil is out of;
@@ -1174,8 +1182,13 @@ so that no man or woman may be defiled or defamed with such things.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 Read this in the Men and Women`'s Meeting in the fear of the Lord,
 as often as you See occasion, and record it in your book.
+
+====
 
 [.centered]
 === Epistle 263.
@@ -2138,4 +2151,5 @@ by him are you quickened and raised from the dead,
 that henceforth you should not live to yourselves, but to him, and walk in him,
 who is the Amen, and over all, the first and last.
 
+[.signed-section-signature]
 G+++.+++ F.

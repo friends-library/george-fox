@@ -43,6 +43,7 @@ and vessels fitted to receive the treasures of the Lord.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 16th of the 9th month, 1666.
 
 [.centered]
@@ -458,10 +459,16 @@ have neither patience to themselves nor others; for the word of patience,
 and the word of life, which is to be kept in all tribulations,
 was before death and impatient spirits were.
 
+[.blurb]
 === Concerning the worship of God, and the Jew outward, and the inward Jew`'s offering, with their garments.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ There was a worship at Jerusalem.
 
+[.numbered]
 2+++.+++ There was a worship at the mountain, where Jacob`'s well was.
 Jacob went down into Egypt with his family, and he died in Egypt,
 and his sons carried him out of Egypt, and buried him in the land of Canaan,
@@ -533,6 +540,8 @@ but that is and was the public and universal worship, set up by Christ the secon
 to the sons of Adam in the fall, which brings every man and woman to truth,
 and the spirit of God in their own hearts,
 in that spirit and truth they must worship God.
+
+====
 
 But, cries the world, did not they pray in the temple, the Jew outward,
 and must not you pray in the temple?
@@ -694,6 +703,7 @@ in Adam, in the fall from righteousness and holiness;
 for in righteousness there is peace, and in holiness people see God;
 and out of this holiness they do not see God.
 
+[.blurb]
 === Concerning who drink the new wine, and who drink the old, and who are the bottles that hold each. And whose teeth are set on edge, and whose not.
 
 Now all that are called Christendom, they do profess to believe in the name of Christ;
@@ -800,6 +810,7 @@ whose teeth are on edge with it, tearing and biting at the righteous, and one at
 but the righteous shall reign, and his seed shall have the victory,
 and God will break the teeth of the wicked.
 
+[.blurb]
 === Concerning gathering in the name of Jesus.
 
 Christ Jesus the second Adam, who came amongst the sons of fallen Adam,
@@ -1072,10 +1083,15 @@ that in nowise his name and truth be dishonoured.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.postscript]
+====
+
 So let this be read in all your men and women`'s meetings,
 who are to take notice of all such things.
 So no more, but my love in the universal seed of God, which never sinned,
 which is first and last, the top and corner-stone.
+
+====
 
 [.centered]
 === Epistle 251.
@@ -1170,6 +1186,7 @@ which gathers to God.
 [.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 1st of the 7th month, 1667.
 
 [.centered]
@@ -1213,4 +1230,5 @@ to take away the reproach of their transgressions from Friends.
 And let the faithful Friends amongst you meet together,
 to consider and take care about these things.
 
+[.signed-section-signature]
 G+++.+++ F.
