@@ -969,7 +969,7 @@ and a seasoned state above all the world.
 G+++.+++ F.
 
 [.centered]
-=== Epistle 179.footnote:[The 1831 American edition of Fox`'s [.book-title]#Complete Works# (from which this edition was created) omits the number _179_ when numbering Fox`'s epistles. As it is believed this omission was merely an accident, the editors of this edition have chosen to correct the numbering from this point forward. Therefore, epistles 179&mdash;320 in this work correspond to epistles 180&mdash;321 of the 1831 edition. Similarly, the 1831 edition skips the numbers _322&mdash;332,_ which has also been corrected, resulting in a difference of 11 for the numbering of epistles starting with 321 in this edition.]
+=== Epistle 179.footnote:[The 1831 American edition of Fox`'s [.book-title]#Complete Works# (from which this edition was created) omits the number _179_ when numbering Fox`'s epistles. As it is believed this omission was merely an accident, the editors of this edition have chosen to correct the numbering from this point forward. Therefore, epistles 179--320 in this work correspond to epistles 180--321 of the 1831 edition. Similarly, the 1831 edition skips the numbers _322--332,_ which has also been corrected, resulting in a difference of 11 for the numbering of epistles starting with 321 in this edition.]
 
 [.salutation]
 My dear friends,
