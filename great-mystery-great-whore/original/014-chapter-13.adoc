@@ -1,5 +1,5 @@
 [#ch-13.style-blurb, short="The Foot Out of the Snare"]
-== John Toldervey`'s book called, '`The Foot Out of the Snare.`'
+== John Toldervey`'s book called, [.book-title]#The Foot Out of the Snare.#
 
 [.heading-continuation-blurb]
 His principles: and these whose names were subscribed to the book, viz. Thomas Brooks,
