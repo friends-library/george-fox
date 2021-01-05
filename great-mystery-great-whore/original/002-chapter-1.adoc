@@ -4,13 +4,14 @@
 [.heading-continuation-blurb]
 Samuel Eaton,
 (who calls himself a teacher of the church of Christ, at Stockport in Cheshire,)
-in his book called, '`The Quakers Confuted,`' sent to the Parliament,
+in his book called, [.book-title]#The Quakers Confuted,# sent to the Parliament,
 
 Saith in his epistle to the parliament,
 then sitting at Westminster "`That they are not to judge of saintship,
 according to the large charity of some who are truly good,`" etc.
 
-Answer.
+[.discourse-part]
+_Answer._
 So here is another doctrine than Christ`'s was, who said,
 "`The tree is known by its fruits;`" and '`by their fruits ye shall know them.`'
 And the fruits of the spirit are known from the fruits of the flesh.
@@ -30,11 +31,13 @@ And again, in Heb. 8.
 know the Lord, for they shall all know him from the least to the greatest:
 for the Lord will write his law in their hearts, and put his spirit within them,`' etc.
 
-Principle.
+[.discourse-part]
+_Principle._
 He saith, '`he doth not believe that there is any substantial, essential,
 or personal union betwixt the eternal spirit and believers.`'
 
-Answer.
+[.discourse-part]
+_Answer._
 Although the scripture saith, the spirit dwells in the saints, 1 Cor. 6. and,
 '`He that is joined to the Lord is one spirit.`' 1 John
 1+++.+++ As though the saints had not union with God,

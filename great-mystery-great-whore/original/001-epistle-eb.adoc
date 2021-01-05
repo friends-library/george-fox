@@ -192,7 +192,11 @@ having no respect to receive or to wait for the gift of the holy spirit,
 to be made ministers thereby; and this is different from the apostles and true ministers,
 and equal and according to the false prophets and deceivers.
 
-Secondly.
+[.numbered-group]
+====
+
+[.numbered]
+_Secondly._
 Again you are not according,
 but contrary to the true ministry and ministers of Christ in practice;
 for they were led by the spirit of the Father which dwelt in them,
@@ -239,7 +243,8 @@ or otherwise to show that you are not of the same spirit,
 but contrary to the saints and apostles of old, and so not true successors of them,
 nor lawful ministers of Christ; as to all people it is, and shall be made manifest.
 
-Thirdly.
+[.numbered]
+_Thirdly._
 You disagree with and are contrary altogether to the true ministry, and to the apostles,
 in respect of your maintenance and wages;
 for the wages which Christ allowed his ministers, was,
@@ -269,7 +274,8 @@ and not as the true ministers and apostles of Christ were,
 but in a way and manner quite contrary, as it is manifest; and so herein it is proved,
 that you are not lawful successors of the apostles and ministers of Christ.
 
-Fourthly.
+[.numbered]
+_Fourthly._
 Again, you follow not the apostles and true ministers of Christ,
 but are contrary to them in doctrine, as this following volume will clearly manifest,
 which for this very end is collected from your own mouths and pens,
@@ -286,6 +292,8 @@ and they cannot be shut from declaring and crying against you,
 as such whom the Lord never sent, but are contrary to Christ, his prophets, and apostles,
 in all your ways and practices; and the hand of the Lord is certainly against you,
 and his power and dread will come over you, and lie upon your consciences.
+
+====
 
 Now, reader, whosoever thou art that readest this following volume, if thy mind be sober,
 and thy heart right towards God,
@@ -1245,6 +1253,8 @@ and the holy prophets and apostles shall rejoice over her: and this is coming to
 and this I have seen from the Lord, and received it from him,
 and thus it came upon me to write.
 
+[verse]
+____
 The waters have I seen dried up, the seat of that great whore,
 
 Who hath made all nations drunk, through her enticing power;
@@ -1332,11 +1342,15 @@ Ye prophets and apostles all, and heavenly children,
 When God hath you avenged, upon your enemies all,
 
 Then is the day of praises, for saints both great and small.
+____
 
+[.signed-section-closing]
 By a servant of Christ,
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 London, the Ninth-mo. 1658.
 
 [.asterism]
