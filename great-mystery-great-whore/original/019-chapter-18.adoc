@@ -1,5 +1,5 @@
 [#ch-18.style-blurb, short="Justifying Our Call Against the Quakers"]
-== Richard Baxter`'s book called '`A Second Sheet To the Ministry, Justifying Our Call Against the Quakers,`' Etc. His principles follow.
+== Richard Baxter`'s book called [.book-title]#A Second Sheet To the Ministry, Justifying Our Call Against the Quakers,# Etc. His principles follow.
 
 [.heading-continuation-blurb]
 Because the children of God cannot satisfy his ungodly lusts,

@@ -1,5 +1,5 @@
 [#ch-20.style-blurb, short="Innocency Above Impudency"]
-== Jeremiah Ives`' book, called '`Innocency Above Impudency, Or the Strength of Righteousness Exalted Above the Quakers`' Weakness and Wickedness.`' His principles follow.
+== Jeremiah Ives`' book, called [.book-title]#Innocency Above Impudency, Or the Strength of Righteousness Exalted Above the Quaker`' Weakness and Wickedness.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith,

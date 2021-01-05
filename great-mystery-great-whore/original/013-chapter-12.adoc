@@ -1,5 +1,5 @@
 [#ch-12.style-blurb, short="The Second Beacon Fired"]
-== Luke Fawnes, Samuel Gellibrand, Joshua Kirton, John Bothwell, Thomas Underhill, and Nathaniel Webbs, in a book called, '`The Second Beacon Fired.`'
+== Luke Fawnes, Samuel Gellibrand, Joshua Kirton, John Bothwell, Thomas Underhill, and Nathaniel Webbs, in a book called, [.book-title]#The Second Beacon Fired.#
 
 [.heading-continuation-blurb]
 Sent to the protector.

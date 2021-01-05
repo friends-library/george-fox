@@ -1,5 +1,5 @@
 [#ch-19.style-blurb, short="The Testimony of the True Jesus"]
-== Thomas Higginson`'s book, called, '`The Testimony Of the True Jesus.`' His principles follow.
+== Thomas Higginson`'s book, called, [.book-title]#The Testimony Of the True Jesus.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`The word is not righteousness without the flesh,`' etc.

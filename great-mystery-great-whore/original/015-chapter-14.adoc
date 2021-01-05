@@ -1,5 +1,5 @@
 [#ch-14.style-blurb, short="The Looking Glass for Quakers"]
-== Thomas Collier`'s book called, '`The Looking Glass For Quakers.`' His principles follow.
+== Thomas Collier`'s book called, [.book-title]#The Looking Glass For Quakers.# His principles follow.
 
 [.heading-continuation-blurb]
 And as for all his lies, they will be heaped upon his own head, and to his own sorrow.
