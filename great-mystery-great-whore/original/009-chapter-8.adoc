@@ -1,5 +1,5 @@
 [#ch-8.style-blurb, short="The Quaker`'s Catechism"]
-== Richard Baxter`'s book, called, '`The Quaker`'s Catechism.`' His principles follow,
+== Richard Baxter`'s book, called, [.book-title]#The Quaker`'s Catechism.# His principles follow,
 
 [.heading-continuation-blurb]
 And his works, which are to be condemned to the fire.

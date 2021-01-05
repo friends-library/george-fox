@@ -1,5 +1,5 @@
 [#ch-6.style-blurb, short="Apostacy from the Perfect Rule of Scriptures"]
-== John Timpson`'s book, called, '`The Quakers`' Apostacy From the Perfect Rule of the Scriptures Discovered.`'
+== John Timpson`'s book, called, [.book-title]#The Quakers`' Apostacy From the Perfect Rule of the Scriptures Discovered.#
 
 A true title is this, to his book, of his own condition,
 as his book doth witness himself in the apostacy,

@@ -1,5 +1,5 @@
 [#ch-9.style-blurb, short="The Quaking Mountebank"]
-== The author of the book called, '`The Quaking Mountebank,`' etc. His principles follow.
+== The author of the book called, [.book-title]#The Quaking Mountebank,# etc. His principles follow.
 
 [.heading-continuation-blurb]
 His words are seen in the light, and are condemned for the fire.
@@ -9,7 +9,7 @@ and the witness in thy conscience shall answer.
 [.discourse-part]
 P+++.+++ He saith,
 '`the Quakers are no conjurers,`' and yet he calls them '`mountebanks,`'
-in his libel called '`The Quaking Mountebank,`' etc.
+in his libel called [.book-title]#The Quaking Mountebank,# etc.
 See page 5.
 
 [.discourse-part]
