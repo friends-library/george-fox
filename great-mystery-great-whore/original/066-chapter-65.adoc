@@ -1,5 +1,5 @@
 [#ch-65.style-blurb, short="Antiquakers`' Assertions"]
-== Thomas Leadger`'s '`Antiquakers`' Assertions.`' His principles in it follow.
+== Thomas Leadger`'s [.book-title]#Antiquakers`' Assertions.# His principles in it follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`The divine nature is without mixture of sin,
