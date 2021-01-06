@@ -1,5 +1,5 @@
 [#ch-40.style-blurb, short="Antichrist Made Known"]
-== William Jefferies`' book, called '`Antichrist Made Known.`' In which are these principles following.
+== William Jefferies`' book, called [.book-title]#Antichrist Made Known.# In which are these principles following.
 
 [.discourse-part]
 P+++.+++ He saith, '`Men are mistaken in saying, the Romish whore of Babylon, is antichrist.

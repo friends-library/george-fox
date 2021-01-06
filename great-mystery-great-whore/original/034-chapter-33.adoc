@@ -1,5 +1,5 @@
 [#ch-33.style-blurb, short="Stablishing Against Shaking"]
-== Gyles Fermin, called pastor of the church at Shalfor in Essex, his book called, '`Stablishing Against Shaking.`' His principles follow.
+== Gyles Fermin, called pastor of the church at Shalfor in Essex, his book called, [.book-title]#Stablishing Against Shaking.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`Take away learning, and England becomes a dunghill.`'
