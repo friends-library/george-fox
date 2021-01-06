@@ -1,5 +1,5 @@
 [#ch-51.style-blurb, short="The Quakers`' Cause"]
-== A book entitled, '`The Quakers`' Cause.`' No name is found in it, but it is a book of darkness, railing, and lies. And because some leave father, and mother, and wife, therefore he rages, who is out of the light and doctrine of Christ. The principles in it are as followeth.
+== A book entitled, [.book-title]#The Quakers`' Cause.# No name is found in it, but it is a book of darkness, railing, and lies. And because some leave father, and mother, and wife, therefore he rages, who is out of the light and doctrine of Christ. The principles in it are as followeth.
 
 [.discourse-part]
 P+++.+++ Such as forsake husband and wife, to do the will of God,

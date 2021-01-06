@@ -1,5 +1,5 @@
 [#ch-57.style-blurb, short="Railing Rebuked, or a Defence of the Ministers"]
-== William Thomas, a minister of the gospel at Ubley, (so called,) in his book called, '`Railing Rebuked, or a Defence of the Ministers.`' His principles follow.
+== William Thomas, a minister of the gospel at Ubley, (so called,) in his book called, [.book-title]#Railing Rebuked, or a Defence of the Ministers.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`his epistle reflects upon two sorts of persons;

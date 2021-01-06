@@ -1,5 +1,5 @@
 [#ch-54.style-blurb, short="The Quakers`' Quaking Principles"]
-== Ellis Bradshaw`'s book, called '`The Quakers`' Quaking Principles,`' which he directs to the protector. His principles follow.
+== Ellis Bradshaw`'s book, called [.book-title]#The Quakers`' Quaking Principles,# which he directs to the protector. His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`That Christ who doth enlighten every man that cometh into the world,

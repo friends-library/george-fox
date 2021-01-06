@@ -1,5 +1,5 @@
 [#ch-55.style-blurb, short="A Discovery of a Generation of Men Called Quakers"]
-== Thomas Weld, Richard Prideaux, Samuel Hammond, William Coles, and William Durant, their book called, '`A Discovery of a Generation of Men Called Quakers.`' In it are the following principles.
+== Thomas Weld, Richard Prideaux, Samuel Hammond, William Coles, and William Durant, their book called, [.book-title]#A Discovery of a Generation of Men Called Quakers.# In it are the following principles.
 
 [.discourse-part]
 P+++.+++ First, '`that the soul is a part of the divine essence.`'

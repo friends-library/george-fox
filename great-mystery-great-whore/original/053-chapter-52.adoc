@@ -1,5 +1,5 @@
 [#ch-52.style-blurb, short="Strength in Weakness"]
-== John Jackson`'s book entitled, '`Strength in Weakness.`' His principles are as followeth.
+== John Jackson`'s book entitled, [.book-title]#Strength in Weakness.# His principles are as followeth.
 
 [.discourse-part]
 P+++.+++ '`One that is kept groaning and waiting for the adoption,

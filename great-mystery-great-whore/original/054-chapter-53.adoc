@@ -1,5 +1,5 @@
 [#ch-53.style-blurb, short="Hosanna to the Son of David"]
-== A book, title page called, '`Hosanna to the Son of David.`'
+== A book, title page called, [.book-title]#Hosanna to the Son of David.#
 
 [.heading-continuation-blurb]
 But the book is nameless, and so the writer reviles and rails, and hides himself in the dark.
@@ -358,7 +358,7 @@ So thou shouldst have been more meek and low in thy heart,
 and then thou wouldst have bridled thy tongue, and have learned of Christ,
 and so have come to the light, the sure foundation, out of the error of thy ways,
 and have kept in the footsteps of the flock.
-And if thy tongue had been shorter, and thy bridle straiter,
+And if thy tongue had been shorter, and thy bridle straighter,
 then wouldst thou not have mixed the covenant of God with man`'s spirit,
 and have compared it to the law of works,
 which Christ the light '`which doth enlighten every
