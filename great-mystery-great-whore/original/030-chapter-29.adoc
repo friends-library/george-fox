@@ -1,5 +1,5 @@
 [#ch-29.style-blurb, short="A Discover of the Quakers"]
-== Jonathan Clapham, '`a labourer of the gospel,`' as he saith, and William Jenkin: their book to the protector, called '`A Discovery of the Quakers`' Doctrine.`' Their principles, etc.
+== Jonathan Clapham, '`a labourer of the gospel,`' as he saith, and William Jenkin: their book to the protector, called [.book-title]#A Discovery of the Quakers`' Doctrine.# Their principles, etc.
 
 [.discourse-part]
 P+++.+++ He saith, '`I dare not say that I am infallible,
@@ -350,8 +350,8 @@ And is not this, that comes out from God, part of God?`"
 G+++.+++ F. intends that divine life, power, and virtue,
 by which Adam in soul and body came to live to God: not '`that the soul of man,
 as a mere creature, created capacity,
-is of God`'s own being and substance.`'`" +++[+++Wm. Penn`'s Works, vol.
-2, pp.
+is of God`'s own being and substance.`'`" [.book-title]#Wm. Penn`'s Works, vol.
+2,# pp.
 521, 522,]
 And doth not the scripture say,
 '`God is all and in all?`' And how dost thou here divide the word of God aright,

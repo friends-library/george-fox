@@ -1,5 +1,5 @@
 [#ch-24.style-blurb, short="The Perfect Pharisee"]
-== Thomas Weld, Richard Prideaux, Samuel Hammond, William Coale, and William Durant, ministers in Newcastle. Their book, called '`The Perfect Pharisee.`' Their principles follow.
+== Thomas Weld, Richard Prideaux, Samuel Hammond, William Coale, and William Durant, ministers in Newcastle. Their book, called [.book-title]#The Perfect Pharisee.# Their principles follow.
 
 [.discourse-part]
 P+++.+++ They say,
@@ -278,8 +278,7 @@ or steeple-houses to vent their doctrine,`' etc.
 
 [.discourse-part]
 A+++.+++ These are the marks they give to us,
-and to prove us according to the title of their book,
-'`Perfect Pharisees`'. The apostles preached as they went up and down, in towns, markets,
+and to prove us according to the title of their book, [.book-title]#Perfect Pharisees.# The apostles preached as they went up and down, in towns, markets,
 and synagogues; and they were not Pharisees, but those were that held up synagogues,
 and tithes, and temple, and priests;
 so ye have the mark of '`The Perfect Pharisee`'. The name is entered into your bowels,
