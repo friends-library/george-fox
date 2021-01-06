@@ -1,5 +1,5 @@
 [#ch-77.style-blurb, short="One Sheet for Ministers"]
-== Richard Baxter`'s principles, in that which he calls, '`One Sheet for the Ministers,`' which is two sheets, in whose mouth is found a lie, as in his title page is to be seen.
+== Richard Baxter`'s principles, in that which he calls, [.book-title]#One Sheet for the Ministers,# which is two sheets, in whose mouth is found a lie, as in his title page is to be seen.
 
 [.discourse-part]
 P+++.+++ '`That we are hated of all men for the name of Christ who are but ministers,

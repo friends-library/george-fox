@@ -1,5 +1,5 @@
 [#ch-76.style-blurb, short="The Form of Sound Words"]
-== S. Palmer, and R. Hooke, who say they are the Servants of Christ, their principles in a book, called '`The Form of Sound Words;`' and who direct their book to the Friends, Neighbours, and Parishioners of Gedling and Sowdham.
+== S. Palmer, and R. Hooke, who say they are the Servants of Christ, their principles in a book, called [.book-title]#The Form of Sound Words;# and who direct their book to the Friends, Neighbours, and Parishioners of Gedling and Sowdham.
 
 [.discourse-part]
 P+++.+++ '`That henceforth ye be not children tossed to and fro,
