@@ -1,5 +1,5 @@
 [#ch-44.style-blurb, short="The Duty and Danger of Swearing, Opened"]
-== Edward Boules, who calls himself a teacher of the gospel at York, in his book he calls, '`The Duty and Danger of Swearing, Opened, (as he saith) in a Sermon Preached at York, the Day of Swearing the Lord Mayor.`'
+== Edward Boules, who calls himself a teacher of the gospel at York, in his book he calls, [.book-title]#The Duty and Danger of Swearing, Opened, (as he saith) in a Sermon Preached at York, the Day of Swearing the Lord Mayor.#
 
 [.heading-continuation-blurb]
 This is the title of his book, which he directs to Stephen Watson, lord mayor,

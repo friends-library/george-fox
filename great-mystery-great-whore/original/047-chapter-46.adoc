@@ -1,5 +1,5 @@
 [#ch-46.style-blurb, short="Looking-glass"]
-== Priest Bennet`'s '`Looking-glass.`' These are some of his principles following.
+== Priest Bennet`'s [.book-title]#Looking-glass.# These are some of his principles following.
 
 [.discourse-part]
 P+++.+++ '`James asks the question,
