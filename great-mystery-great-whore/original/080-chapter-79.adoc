@@ -1,5 +1,5 @@
 [#ch-79.style-blurb, short="A View of All Religions"]
-== Alexander Ross`'s Book, which he calls, '`A View of All Religions.`' His Lies and Principles.
+== Alexander Ross`'s Book, which he calls, [.book-title]#A View of All Religions.# His Lies and Principles.
 
 [.discourse-part]
 P+++.+++ '`God is not in the quaking of the body.`'
@@ -52,7 +52,8 @@ and that which came out of him, is of him, and rejoiceth in him.
 Why wilt thou lie, in saying the Quakers deny the word?
 We say, it sanctifies them.
 
-His lies.
+[.discourse-part]
+_His lies._
 '`Christ is not ascended into heaven; that there is no heaven, nor hell,
 nor resurrection of the body; that we have no sacrament nor trinity.`'
 
