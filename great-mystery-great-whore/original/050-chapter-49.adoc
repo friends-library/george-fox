@@ -1,5 +1,5 @@
 [#ch-49.style-blurb, short="Recording to Truth, that Quakes Not, Nor Quails"]
-== W. P`'s. Principles, in his book entitled, '`Recording to Truth, that Quakes Not, Trembles Not, Nor Quails.`'
+== W. P`'s. Principles, in his book entitled, [.book-title]#Recording to Truth, that Quakes Not, Trembles Not, Nor Quails.#
 
 [.discourse-part]
 P+++.+++ They say, '`If the apostles had been put to preach upon a short text, or methodically,

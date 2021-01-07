@@ -1,5 +1,5 @@
 [#ch-43.style-blurb, short="The Great Mystery of Godliness, and Ungodliness"]
-== Ralph Farmer`'s book, called '`The Great Mystery of Godliness, and Ungodliness.`' In which are these principles following.
+== Ralph Farmer`'s book, called [.book-title]#The Great Mystery of Godliness, and Ungodliness.# In which are these principles following.
 
 [.discourse-part]
 P+++.+++ He saith, '`The soul is of an immortal and spiritual nature.
@@ -350,7 +350,7 @@ Was it not in all ages such as pretended to be ministers,
 and had not the life that gave forth scriptures, that called to the magistrates,
 to stop the mouths of blasphemers?
 Was not the mouth of the priests against Christ to the rulers at the council?
-and against the apostles, and against the prophets?
+And against the apostles, and against the prophets?
 and it is your mouth now to your magistrates in the apostacy since the days of the apostles.
 But do you think that the magistrates will let you get atop of their backs,
 and gallop upon them, to be their executioners?
