@@ -1,5 +1,5 @@
 [#ch-31.style-blurb, short="The Quakers Quaking"]
-== Jeremy Ives`' book, called '`The Quakers Quaking.`' His principles follow.
+== Jeremy Ives`' book, called [.book-title]#The Quakers Quaking.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`Have a care of slighting your watchmen,

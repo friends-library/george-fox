@@ -1,5 +1,5 @@
 [#ch-38.style-blurb, short="An Antidote"]
-== Thomas Moor, in his book called, '`An Antidote,`' etc. are these principles following.
+== Thomas Moor, in his book called, [.book-title]#An Antidote,# etc. are these principles following.
 
 [.discourse-part]
 P+++.+++ He saith,
