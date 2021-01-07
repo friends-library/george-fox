@@ -1,5 +1,5 @@
 [#ch-91.style-blurb, short="The Fulness and Freenes of God`'s Grace"]
-== Francis Duke`'s Book, entitled, '`The Fulness and Freeness of God`'s Grace.`' His Principles are as follow.
+== Francis Duke`'s Book, entitled, [.book-title]#The Fulness and Freeness of God`'s Grace.# His Principles are as follow.
 
 [.discourse-part]
 P+++.+++ '`God made man perfection of parts in this life, but not perfection in degrees.`'

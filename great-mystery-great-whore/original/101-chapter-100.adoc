@@ -1,5 +1,5 @@
 [#ch-100.style-blurb, short="The Relation of Quakers`' Shaking"]
-== A book called, '`The Relation of the Quakers`' Shaking,`' those whose names are to it, are John Gilpin, Thomas Craster, Thomas Sands, John Archer, Edw. Turner, priest Walker.
+== A book called, [.book-title]#The Relation of the Quakers`' Shaking,# those whose names are to it, are John Gilpin, Thomas Craster, Thomas Sands, John Archer, Edw. Turner, priest Walker.
 
 Who are like unto Jannes and Jambres who resist the truth, being men of corrupt minds,
 who blaze abroad in the nation to make truth odious, and to possess the hearts of people,
