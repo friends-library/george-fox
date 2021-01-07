@@ -190,28 +190,47 @@ May it therefore please your honours, upon the consideration of the premises, to
 may be taken for the speedy suppressing of these evils.
 And your petitioners shall ever pray, as in duty bound.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ George professed and avowed that he was equal with God.
 
+[.numbered]
 2+++.+++ He professed himself to be the eternal judge of the world.
 
+[.numbered]
 3+++.+++ He said he was the judge of the world.
 
+[.numbered]
 4+++.+++ He said he was the Christ, the way, the truth, the life.
 
+[.numbered]
 5+++.+++ He said, whosoever took a place of scripture, and made a sermon of it, and from it,
 was a conjuror, and his preaching conjuration.
 
+[.numbered]
 6+++.+++ He said that the scripture was carnal.
+
+====
 
 James Milner, a follower of the said Fox, professeth himself to be God and Christ;
 and gives out prophecies.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That the day of judgment shall be the 15th day of November.
 
+[.numbered]
 2+++.+++ That there shall never judge sit at Lancaster again.
 
+[.numbered]
 3+++.+++ That he must ere long shake the foundations of the great synagogue,
 meaning the parliament.
+
+====
 
 Leonard Fell professeth that Christ had never any body but his church.
 
@@ -219,10 +238,12 @@ Richard Huberthorn wrote, that Christ`'s coming in the flesh was but a figure.
 
 === The answer of George Fox, to the matters falsely charged upon him, by the petition and schedule aforesaid.
 
-Object.
+[.discourse-part]
+_Object._
 '`That George Fox and James Nayler, are persons disaffected to religion.`'
 
-Answer.
+[.discourse-part]
+_Answer._
 Whereas we are accused as persons disaffected to religion, it is false;
 for pure religion we own in our souls, which is, '`to visit the fatherless,
 and relieve the widows,
@@ -485,10 +506,12 @@ In whom also we are builded up together, for a habitation of God through the spi
 
 === More objections against George Fox, charged upon him, by the contrivers of the aforesaid petition; and answered by him, as followeth:
 
-Object. 1.
+[.discourse-part]
+_Object. 1._
 '`That he did affirm that he had the divinity essentially in him.`'
 
-Answer.
+[.discourse-part]
+_Answer._
 For the word essential, it is an expression of their own:
 but that the saints are the temples of God, and God doth dwell in them,
 that the scriptures do witness, 2 Cor. 6:1.
@@ -568,7 +591,8 @@ Where Christ dwells, must not he speak in his temple?
 
 === Queries propounded to George Fox, by some of the contrivers of the petition, and by him answered.
 
-Query--'`Whether there be one individual God distinguished into the Father, son,
+[.discourse-part]
+_Query--__'`Whether there be one individual God distinguished into the Father, son,
 and holy ghost, or not?`'
 
 [.discourse-part]
@@ -582,6 +606,7 @@ and he to whom the son is revealed; the son and word are one.
 '`He that hath ears to hear, let him hear what the spirit saith,`' for thou, natural man,
 knowest not the things of God.
 
+[.discourse-part]
 Q+++.+++ '`Whether a believer be justified by Christ`'s righteousness imputed, yea, or no?`'
 
 [.discourse-part]
@@ -589,6 +614,7 @@ A+++.+++ He that believeth is born of God;`' and he that
 is born of God is justified by Christ alone,
 without imputation.
 
+[.discourse-part]
 Q+++.+++ '`Whether he that believeth that Christ hath taken away his sin,
 is clean without sin in this life, as Christ himself, or not?`'
 
@@ -597,6 +623,7 @@ A+++.+++ '`He that believeth is born of God,`' and '`he that is born of God sins
 neither can he sin, because his seed remaineth in him:`' '`as he is,
 so are we in this present evil world.`'
 
+[.discourse-part]
 Q+++.+++ '`Whether a believer be without all sin in this life, or not?`'
 
 [.discourse-part]
@@ -608,6 +635,7 @@ and the children of the devil.`' All you that read these queries,
 read these things in yourselves, whether ye be the children of God,
 or the children of the devil; and whether ye understand what ye write, yea, or no.
 
+[.discourse-part]
 Q+++.+++ '`Whether his works, as well as his person, be perfectly holy and good or no?`'
 
 [.discourse-part]
@@ -618,6 +646,7 @@ it is a busy mind in thee that askest thou knowest not what:
 for '`God is no respecter of persons:`' he that respecteth persons commits sin,
 and he that commits sin transgresseth the law.
 
+[.discourse-part]
 Q+++.+++ '`Whether saints in this life, without any addition hereafter, are perfectly just,
 perfectly holy, completely glorious in this life,
 and are not capable of any addition after death, in the least degree,
@@ -634,6 +663,7 @@ God will not be mocked.`' Thou hypocrite, dissemble not with him:
 he that is perfectly holy is perfectly just: where this is revealed,
 there needs no addition; for the man of God is perfect.
 
+[.discourse-part]
 Q+++.+++ '`Whether the two sacraments, baptism and the breaking of bread,
 ought necessarily to continue in the church, or not?`'
 
@@ -651,6 +681,7 @@ The church is not the steeple- house, but the church is in God,
 and those that eat the bread of life live forever: the church is in God,
 and the bread of life is there, and it shall continue forever.
 
+[.discourse-part]
 Q+++.+++ '`Whether Christ in the flesh be a figure or not; and if a figure, how and in what?`'
 
 [.discourse-part]
@@ -661,6 +692,7 @@ before there be a rejoicing with him.
 Christ is an example for all to walk after; and if thou knewest what an example is,
 thou wouldst know what a figure, is to come up to the same fulness.
 
+[.discourse-part]
 Q+++.+++ '`Whether there be any heaven or hell, for the elect or reprobate after death,
 but in man in this life, or not?`'
 
@@ -673,6 +705,7 @@ Heaven is God`'s throne; and heavenly notions within shall be shaken; for God is
 and nothing that is unclean shall stand before him;
 and he hath said he will dwell in man.
 
+[.discourse-part]
 Q+++.+++ '`Whether the ministration of the ministry by man, is to continue till the end,
 or not.`'
 
@@ -697,6 +730,7 @@ wherein they show themselves to be antichrist.
 And see if thou do not uphold these antichrists, and say,
 they are the ministers of Christ.
 
+[.discourse-part]
 Q+++.+++ '`Whether the written word, I mean the scriptures, be the power of God unto salvation,
 to every one that believes, or not?`'
 
@@ -716,7 +750,11 @@ yet lest any that love the truth should be led on by these false reports to '`sp
 evil of these things they know not;`' I shall lay open the truth,
 as it is revealed in me, touching those things whereof I have been falsely accused.
 
-First, concerning Jesus Christ, that he is the eternal word of God,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ concerning Jesus Christ, that he is the eternal word of God,
 '`by whom all things were made,`' and are upheld; which was before all time,
 but manifested to the world in time, for the recovery of lost man.
 Which '`word became flesh, and dwelt amongst`' the saints; who is '`the same yesterday,
@@ -736,6 +774,7 @@ And none can witness redemption, further than Christ is thus revealed in them,
 to set them free from sin: which Christ I witness to be revealed in me in measure. Gal. 1:16.
 2 Cor. 13:5. Col. 1:27.
 
+[.numbered]
 2+++.+++ Concerning the scriptures.
 That they are a true declaration of that word which was in them that spoke them forth,
 and are of '`no private interpretation,`' but were
@@ -751,6 +790,7 @@ but they who read them with the same spirit that gave them forth;
 for '`the natural man understands not the things of God:
 for they are spiritually discerned.`'
 
+[.numbered]
 3+++.+++ Concerning baptism.
 The true baptism is that of the spirit, '`with the holy ghost,
 and with fire.`' '`Baptized by one spirit into one
@@ -761,6 +801,7 @@ they being but figures or shadows; but this baptism of Christ is the substance,
 whereby we are baptized into his death;
 and those '`that are baptized into Christ have put on Christ.`'
 
+[.numbered]
 4+++.+++ Concerning the Lord`'s supper.
 The true supper of the Lord is the spiritual eating and
 drinking of the flesh and blood of Christ spiritually;
@@ -776,6 +817,7 @@ of the body and blood of Christ;`' and call this a communion,
 but live in envy, strife, and debate, fighting, and going to law one with another,
 for earthly things.
 
+[.numbered]
 5+++.+++ Concerning the resurrection.
 That all shall arise to give an account,
 and receive at the last day '`according to their works,
@@ -794,6 +836,7 @@ that Christ is in heaven with a carnal body.
 Now that Christ, who is the first fruits, should be in heaven with a carnal body,
 and the saints with a spiritual body, is not proportionable.
 
+[.numbered]
 6+++.+++ Concerning magistracy.
 It is an ordinance of God, ordained '`for the punishment of evil doers,
 and an encouragement for them that do well;`' where
@@ -824,6 +867,7 @@ and the wrath of God turned from them;
 for those that be of God cannot rejoice in the sufferings of any,
 but would have all to turn and find mercy.
 
+[.numbered]
 7+++.+++ Concerning the ministry.
 The true ministers of Jesus Christ have always been, and are still,
 such as come not by the will of man, but by the will of God;
@@ -861,6 +905,8 @@ charge;`' neither ever had they any set means,
 but went about, having no certain dwelling place; never were masters,
 but '`servants to all for Christ`'s sake:`' nor ever went to law for tithes,
 or any other earthly thing.
+
+====
 
 Now all people, try your priests by the scriptures,
 whether they be of God or of the world,
@@ -1205,101 +1251,126 @@ Amen.
 
 === The examination of James Nayler, upon an indictment of blasphemy, at the sessions Appleby, in January, 1652.
 
-Justice Pearson.
+[.discourse-part]
+_Justice Pearson._
 Put off your hats.
 
-James.
+[.discourse-part]
+_James._
 I do it not in contempt of authority: for I honour the power as it is of God,
 without respecting persons, it being forbidden in scripture.
 He that respects men`'s persons commits sin,
 and is convinced of the law as a transgressor.
 
-Just.
+[.discourse-part]
+_Just._
 Pear.
 That is meant of respecting persons in judgment.
 
-James.
+[.discourse-part]
+_James._
 If I see one in goodly apparel and a gold ring, and see one in poor and vile raiment,
 and say to him in fine apparel, sit thou in a higher place than the poor, I am partial,
 and judged of evil thoughts.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 If thou wert in the parliament house, wouldst thou keep it on?
 
-Jam.
+[.discourse-part]
+_Jam._
 If God should keep me in the same mind I am in now I should.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 I knew thou wouldst contemn authority.
 
-Jam.
+[.discourse-part]
+_Jam._
 I speak in the presence of God, I do not contemn authority;
 but I am subject to the power as it is of God, for conscience`' sake.
 
-Just.
-Pear.
+[.discourse-part]
+_Just.
+Pear._
 Now authority commands thee put off thy hat, what sayest thou to it?
 
-Jam.
+[.discourse-part]
+_Jam._
 Where God commands one thing, and man another, I am to obey God rather than man.
 
-Col.
-Benson.
+[.discourse-part]
+_Col.
+Benson._
 See whether the law commands it, or your own wills.
 The indictment was read,
 wherein James was indicted for saying that '`Christ was
 in him,`' and '`that there was but one word of God.`'
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 Where wast thou born?
 
+[.discourse-part]
 Jam.
 At Ardislaw, two miles from Wakefield.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 How long livedst thou there?
 
+[.discourse-part]
 Jam.
 Until I was married; then I went unto Wakefield parish.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 What profession wast thou of?
 
+[.discourse-part]
 Jam.
 A husbandman.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 Wast thou a soldier?
 
+[.discourse-part]
 Jam.
 Yea; I was a soldier betwixt eight and nine years.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 Wast thou not at Burford among the levellers?
 
-Jam.
+[.discourse-part]
+_Jam._
 I was never there.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 I charge thee by the Lord that thou tell me whether thou wast or not?
 
-Jam.
+[.discourse-part]
+_Jam._
 I was then in the north,
 and was never taxed for any mutiny or any other thing while I served the parliament.
 
-Col.
-Brigs.
-What was the cause of thy coming into these parts.
+[.discourse-part]
+_Col.
+Brigs._
+What was the cause of thy coming into these parts?
 
-Jam.
+[.discourse-part]
+_Jam._
 If I may have liberty I shall declare it.
 I was at the plough, meditating on the things of God, and suddenly I heard a voice,
 saying unto me,
@@ -1309,11 +1380,13 @@ Whereupon I did exceedingly rejoice,
 that I had heard the voice of that God which I had professed from a child,
 but had never known him.
 
-Col.
-Brigs.
+[.discourse-part]
+_Col.
+Brigs._
 Didst thou hear that voice?
 
-Jam.
+[.discourse-part]
+_Jam._
 Yea, I did hear it; and when I came home, I gave up my estate, cast out my money;
 but not being obedient in going forth, the wrath of God was on me,
 so that I was made a wonder to all, and none thought I would have lived;
@@ -1327,213 +1400,278 @@ but when I had been there a little while.
 I had given me what I was to declare; and ever since I have remained,
 not knowing today what I was to do tomorrow.
 
-Col. Brigs.
+[.discourse-part]
+_Col. Brigs._
 What was the promise thou hadst given?
 
-Jam.
+[.discourse-part]
+_Jam._
 That God would be with me; which promise I find made good every day.
 
-Col. Brigs.
+[.discourse-part]
+_Col. Brigs._
 I never heard such a call as this is, in our time.
 
-Jam.
+[.discourse-part]
+_Jam._
 I believe thee.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Is Christ in thee?
 
-Jam.
+[.discourse-part]
+_Jam._
 I witness him in me; and if I should deny him before men,
 he would deny me before my Father which is in heaven.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Spiritual, you mean.
 
-Jam.
+[.discourse-part]
+_Jam._
 Yea, spiritual.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 By faith, or how?
 
-Jam.
+[.discourse-part]
+_Jam._
 By faith.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 What difference then between the ministers and you?
 
-Jam.
+[.discourse-part]
+_Jam._
 The ministers affirm Christ to be in heaven with a carnal body,
 but I with a spiritual body.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Which of the ministers say Christ is in heaven with a carnal body?
 
-Jam.
+[.discourse-part]
+_Jam._
 The minister so called of Kirkby Steven.
+
+[.small-break]
+'''
 
 Priest Higginson stood up, and affirmed it again openly before all the court.
 
-Jam.
+[.discourse-part]
+_Jam._
 If Christ be in heaven with a carnal body, and the saints with a spiritual body,
 it is not proportionable;
 neither was that a carnal body which appeared among the disciples, the doors being shut,
 and appeared in divers shapes.
 
-Quest.
+[.discourse-part]
+_Quest._
 Was Christ man, or not?
 
-Jam.
+[.discourse-part]
+_Jam._
 Yea, he was, and took upon him the seed of Abraham, and was real flesh and bone;
 but is a mystery not known to the carnal man; for he is begotten of the immortal seed,
 and those that know him, know him to be spiritual;
 for it was '`the word`' that '`became flesh,
 and dwelt amongst us;`' and if he had not been spiritual he had not wrought my redemption.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Is Christ in thee as man?
 
-Jam.
+[.discourse-part]
+_Jam._
 Christ filleth all places, and is not divided: separate God and man,
 and he is no more Christ.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 If we stand to dispute these things, we should have the ministers.
 
-Jam.
+[.discourse-part]
+_Jam._
 Perceiving priest Higginson offended,
 because he had told of his saying that Christ was in heaven with a carnal body,
 James said, '`Friend, I had not accused thee,
 had I not been asked what was the difference between the ministers and me:
 for I am not come to accuse any; for I am against accusations.`'
 
-Col. Brigs.
+[.discourse-part]
+_Col. Brigs._
 Wast thou not of a Kirk about Sawrby?
 
-Jam.
+[.discourse-part]
+_Jam._
 I was a member of an Independent church at Weedchurch.
 
-Col. Brigs.
+[.discourse-part]
+_Col. Brigs._
 Wast thou not excommunicated for thy blasphemous opinions?
 
-Jam.
+[.discourse-part]
+_Jam._
 I know not what they have done since I came forth; but before I was not to my knowledge.
+
+[.small-break]
+'''
 
 Col.
 Brigs called to Mr. Coale, saying, '`Did you ever hear such a call as this?
 Did you hear it?`'
 
-Coale.
+[.discourse-part]
+_Coale._
 Yea, I heard part of it.
 
-Col. Brigs.
+[.discourse-part]
+_Col. Brigs._
 Didst not thou write a paper, wherein was mentioned,
 that if thou thinkest to be saved by that Christ which died at Jerusalem,
 thou art deceived?
 
-Jam.
+[.discourse-part]
+_Jam._
 If I cannot witness Christ nearer than Jerusalem, I shall have no benefit by him;
 but I own no other Christ but that who '`witnessed a good confession before
 Pontius Pilate;`' which Christ I witness suffering in me now.
 
-Col. Brigs.
+[.discourse-part]
+_Col. Brigs._
 Wilt thou deny thy hand?
 
-Jam.
+[.discourse-part]
+_Jam._
 I will not deny my hand, if I may see it; and I desire that I may so much savour,
 that that paper may be kept as an evidence either with or against me.
 
+[.small-break]
+'''
+
 A large petition being read, wherein was something against quaking and trembling.
 
-Just. Pear.
+[.discourse-part]
+_Just. Pear._
 How comes it to pass that people quake and tremble?
 
-Jam.
+[.discourse-part]
+_Jam._
 The scriptures witness the same condition in the saints formerly; as David, Daniel,
 Habakkuk, and divers others.
 
-Just. Pear.
+[.discourse-part]
+_Just. Pear._
 Did they fall down?
 
-Jam.
+[.discourse-part]
+_Jam._
 Yea, some of them did so.
 
-Coale.
+[.discourse-part]
+_Coale._
 David said all his bones were broken, but these were whole.
 
-James.
+[.discourse-part]
+_James._
 So are these now.
 
-Coale.
+[.discourse-part]
+_Coale._
 Moses trembled; for he saw the face of God, and all Israel.
 
-James.
+[.discourse-part]
+_James._
 Did all Israel see the face of God?
 That crosseth the scriptures.
 
-Coale.
+[.discourse-part]
+_Coale._
 They saw his glory.
 I shall see the Lord with these eyes; putting his fingers to his eyes.
 
-James.
+[.discourse-part]
+_James._
 They must first be made spiritual: he cannot be seen with carnal eyes,
 for he is a spirit; and no flesh can see God, and live.
 
-Coale.
+[.discourse-part]
+_Coale._
 That light by which I am justified, is a created light.
 
-James.
+[.discourse-part]
+_James._
 That light by which I am justified, is not a created light.
 
-Coale.
+[.discourse-part]
+_Coale._
 That is true.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 To the word: what sayst thou to the scriptures?
 Are they the word of God?
 
-James.
+[.discourse-part]
+_James._
 They are a true declaration of the word that was in them who spoke them forth.
 
-Higginson.
+[.discourse-part]
+_Higginson._
 Is there not a written word?
 
-James.
+[.discourse-part]
+_James._
 Where readest thou in the scriptures of a written word?
 The word is spiritual, not seen with carnal eyes: but as for the scriptures,
 they are true, and I witness them true, in measure fulfilled in me,
 as far as I am grown up.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Why dost thou disturb the ministers in their public worship.
 
-James.
+[.discourse-part]
+_James._
 I have not disturbed them in their public worships.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Why dolt thou speak against tithes, which are allowed by the states?
 
-James.
+[.discourse-part]
+_James._
 I meddle not with the states; I speak against them that are hirelings,
 as they are hirelings; those that were sent of Christ, never took tithes,
 nor ever sued any for wages.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 Dost thou think we are so beggarly as the heathens,
 that we cannot afford our ministers maintainance?
 We give them it freely.
 
-James.
+[.discourse-part]
+_James._
 They are the ministers of Christ, who abide in the doctrine of Christ.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 But who shall judge?
 How shall we know them?
 
-James.
+[.discourse-part]
+_James._
 By their fruits you shall know them; they that abide not in the doctrine of Christ,
 make it appear they are not the ministers of Christ.
 
-Just. Pears.
+[.discourse-part]
+_Just. Pears._
 That is true.
 
 === Accusations against John Lawson, by him answered.
@@ -1682,4 +1820,4 @@ but are persecutors of them who know it and seek it.
 Praises, praises be to the Lord forever.
 
 [.the-end]
-END of VOL. III
+End of Vol. III
