@@ -1,5 +1,5 @@
 [#ch-92.style-blurb, short="The Doctrine of the Light Within"]
-== Enoch Howet of Lincoln. His principles as followeth, in his book which he calls, '`The Doctrine of the Light Within.`'
+== Enoch Howet of Lincoln. His principles as followeth, in his book which he calls, [.book-title]#The Doctrine of the Light Within.#
 
 [.discourse-part]
 P+++.+++ '`I have taken upon me as my duty, to forewarn all men of their doctrine,
