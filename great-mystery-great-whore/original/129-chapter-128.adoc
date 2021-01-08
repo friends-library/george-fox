@@ -35,7 +35,7 @@ London, printed 1654.
 Dear Hearts,--You love the Lord Jesus Christ, and not him alone, but Christ,
 with all his train.
 Great shall be your compensation: for your love you shall have loves,
-(Song. 7:12) Amores, a plurality and infinity of loves;
+(Song. 7:12) _Amores,_ a plurality and infinity of loves;
 which none but God in Christ hath to bestow.
 The best of his relations upon earth,
 have but single love (and it is happy they have love) to the brethren;
@@ -71,7 +71,7 @@ that you scorn to encounter with any below the degree of a saint?
 The Lord open your eyes and let you see,
 and give you hearts to consider your several duties.
 But tell me, ye sons of Levi,
-(as ye call yourselves,) ye that pretend a Jus Divinum to persecution; what will ye say,
+(as ye call yourselves,) ye that pretend a _Jus Divinum_ to persecution; what will ye say,
 when the son of man shall come in his glory, and all the holy angels with him,
 and shall sit upon the throne of his glory, and all nations shall be gathered before him?
 Mind ye what will be the great work of that great day;
@@ -716,7 +716,11 @@ yet lest any that love the truth should be led on by these false reports to '`sp
 evil of these things they know not;`' I shall lay open the truth,
 as it is revealed in me, touching those things whereof I have been falsely accused.
 
-First, concerning Jesus Christ, that he is the eternal word of God,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ concerning Jesus Christ, that he is the eternal word of God,
 '`by whom all things were made,`' and are upheld; which was before all time,
 but manifested to the world in time, for the recovery of lost man.
 Which '`word became flesh, and dwelt amongst`' the saints; who is '`the same yesterday,
@@ -736,6 +740,7 @@ And none can witness redemption, further than Christ is thus revealed in them,
 to set them free from sin: which Christ I witness to be revealed in me in measure. Gal. 1:16.
 2 Cor. 13:5. Col. 1:27.
 
+[.numbered]
 2+++.+++ Concerning the scriptures.
 That they are a true declaration of that word which was in them that spoke them forth,
 and are of '`no private interpretation,`' but were
@@ -751,6 +756,7 @@ but they who read them with the same spirit that gave them forth;
 for '`the natural man understands not the things of God:
 for they are spiritually discerned.`'
 
+[.numbered]
 3+++.+++ Concerning baptism.
 The true baptism is that of the spirit, '`with the holy ghost,
 and with fire.`' '`Baptized by one spirit into one
@@ -761,6 +767,7 @@ they being but figures or shadows; but this baptism of Christ is the substance,
 whereby we are baptized into his death;
 and those '`that are baptized into Christ have put on Christ.`'
 
+[.numbered]
 4+++.+++ Concerning the Lord`'s supper.
 The true supper of the Lord is the spiritual eating and
 drinking of the flesh and blood of Christ spiritually;
@@ -776,6 +783,7 @@ of the body and blood of Christ;`' and call this a communion,
 but live in envy, strife, and debate, fighting, and going to law one with another,
 for earthly things.
 
+[.numbered]
 5+++.+++ Concerning the resurrection.
 That all shall arise to give an account,
 and receive at the last day '`according to their works,
@@ -794,6 +802,7 @@ that Christ is in heaven with a carnal body.
 Now that Christ, who is the first fruits, should be in heaven with a carnal body,
 and the saints with a spiritual body, is not proportionable.
 
+[.numbered]
 6+++.+++ Concerning magistracy.
 It is an ordinance of God, ordained '`for the punishment of evil doers,
 and an encouragement for them that do well;`' where
@@ -824,6 +833,7 @@ and the wrath of God turned from them;
 for those that be of God cannot rejoice in the sufferings of any,
 but would have all to turn and find mercy.
 
+[.numbered]
 7+++.+++ Concerning the ministry.
 The true ministers of Jesus Christ have always been, and are still,
 such as come not by the will of man, but by the will of God;
@@ -861,6 +871,8 @@ charge;`' neither ever had they any set means,
 but went about, having no certain dwelling place; never were masters,
 but '`servants to all for Christ`'s sake:`' nor ever went to law for tithes,
 or any other earthly thing.
+
+====
 
 Now all people, try your priests by the scriptures,
 whether they be of God or of the world,
@@ -1384,7 +1396,7 @@ Was Christ man, or not?
 
 Jam.
 Yea, he was, and took upon him the seed of Abraham, and was real flesh and bone;
-but is a mystery not known to the carnal man; for he is begotten of the immortal seed,
+but is a mystery not known to the carnal man; for he is begotten of the _immortal seed,_
 and those that know him, know him to be spiritual;
 for it was '`the word`' that '`became flesh,
 and dwelt amongst us;`' and if he had not been spiritual he had not wrought my redemption.

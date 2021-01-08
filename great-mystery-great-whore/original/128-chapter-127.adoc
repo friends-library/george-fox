@@ -30,18 +30,18 @@ In the Latin and English copies, it is,
 // lint-disable invalid-characters
 in the Greek, it is in men, ἐν ἀνθρώποις 1 Cor. 15:31.
 In our English copies it is, I protest by your rejoicing, etc.
-Now, I protest is added, for there is nothing for it in the Greek,
+Now, _I protest_ is added, for there is nothing for it in the Greek,
 // lint-disable invalid-characters
 καθ`' ἡμέραν ἀποθνῄσκω 1 Cor. 2:6.
 '`We speak wisdom among them that are perfect,`' in the Greek it is,
 // lint-disable invalid-characters
-in them that are perfect, ἐν τοῖς τελείοις Rom. 8:29.
+_in them that are perfect,_ ἐν τοῖς τελείοις Rom. 8:29.
 In the English and Latin copies it is,
 '`that he might be the first born among many brethren,`' in the Greek it is,
 // lint-disable invalid-characters
-in many brethren, ἐν πολλοῖς ἀδελφοῖς Matt. 28:19.
+_in many brethren,_ ἐν πολλοῖς ἀδελφοῖς Matt. 28:19.
 In the English and Latin copies it is,
-'`baptizing them in the name,`' in the Greek it is, into the name,
+'`baptizing them in the name,`' in the Greek it is, _into the name,_
 // lint-disable invalid-characters
 βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα Matt. 6:7.
 In the English copies it is,
@@ -51,24 +51,24 @@ in their much speaking, ἐν τῇ πολυλογίᾳ 1 Tim. 3:16.
 In our English and Latin copies it is,
 '`great is the mystery of godliness, God was manifest in the flesh,
 justified in the spirit, seen of angels,
-preached unto the Gentiles;`' in the Greek it is, preached in the Gentiles,
+preached unto the Gentiles;`' in the Greek it is, _preached in the Gentiles,_
 // lint-disable invalid-characters
 ἐκηρύχθη ἐν ἔθνεσιν Rom. 11:2.
 In the Latin and English copies it is,
-'`wot ye not what the scripture saith of Elias;`' but in the Greek it is, in Elias,
+'`wot ye not what the scripture saith of Elias;`' but in the Greek it is, _in Elias,_
 // lint-disable invalid-characters
 ἐν Ἠλίᾳ Heb. 1:1.
 // lint-disable invalid-characters
 '`God, etc. spoke to the Fathers, by the prophets;`' in the Greek it is,
 // lint-disable invalid-characters
-God spoke to the fathers in the prophets, ἐν τοῖς προφήταις
+_God spoke to the fathers in the prophets,_ ἐν τοῖς προφήταις
 
 '`Hath in the last days spoken unto us, by his son;`' in the Greek it is,
 // lint-disable invalid-characters
-hath spoken unto us, in his son, ἐν Υἱῷ Rom. 15:6.
+_hath spoken unto us, in his son,_ ἐν Υἱῷ Rom. 15:6.
 '`That you may with one mind, and one mouth, glorify God;`'
 // lint-disable invalid-characters
-in the Greek it is, in one mouth, ἐν ἑνὶ στόματι Rom. 1:19.
+in the Greek it is, _in one mouth,_ ἐν ἑνὶ στόματι Rom. 1:19.
 In the Greek, Latin, and English copies it is,
 (speaking of the Gentiles,) '`that which is known of God, is manifest in them,`' or,
 // lint-disable invalid-characters
@@ -95,8 +95,8 @@ and pitched his tent in us. Heb. 10:20.
 In the English copies it is,
 '`by a new and living way;`' in the Greek it is, '`of late slain,
 // lint-disable invalid-characters
-and living way,`' πρόσφατον properly signifies recens mactatus, lately, or of late slain,
-saith Leigh and Pasor.
+and living way,`' πρόσφατον properly signifies _recens mactatus,_ lately,
+or of late slain, saith Leigh and Pasor.
 
 '`If any one want light, let him look upon the law and the testimony,
 whether they speak after this meaning; if he do not this, he stumbles and suffers hunger,
