@@ -1,3 +1,4 @@
+[#testimonies.style-blurb, short="Testimonies Concerning George Fox"]
 == The substance of some other Brethren`'s Testimonies concerning G. F.
 
 Luke Howard, together with the rest of the Friends of the quarterly meeting in Kent,
@@ -306,9 +307,11 @@ I in truth of heart subscribe my name, as above written.
 
 The 20th of the 5th month, 1691.
 
-* * *
+[.asterism]
+'''
 
-====== A Testimony from Friends of Berkshire, viz. Oliver Samsom, John Buy, John Giddens, and others, of the labours and travels of our dear friend, G. F.
+[.blurb]
+=== A Testimony from Friends of Berkshire, viz. Oliver Samsom, John Buy, John Giddens, and others, of the labours and travels of our dear friend, G. F.
 
 He was a father and an honourable elder in the church of God, a faithful pastor,
 and a diligent and careful overseer over the whole flock of Christ in his time;
@@ -352,6 +355,7 @@ which made him a blessing to the nation.
 
 The 30th of the 11th month, 1691.
 
+[.blurb]
 === Oxfordshire Friends`' Testimony.--For that faithful and honourable servant of God, and minister of the everlasting gospel of Christ Jesus, G. F.
 
 He was a true and faithful labourer in the work and service the Lord called him unto,
