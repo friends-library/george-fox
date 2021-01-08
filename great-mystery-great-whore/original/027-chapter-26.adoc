@@ -1,5 +1,5 @@
 [#ch-26.style-blurb, short="Satan Enthroned in his Chair"]
-== Ralph Farmer`'s book, called '`Satan Enthroned in his Chair.`' etc. His principles follow.
+== Ralph Farmer`'s book, called [.book-title]#Satan Enthroned in his Chair.# etc. His principles follow.
 
 [.heading-continuation-blurb]
 Which is a title suitable to himself,

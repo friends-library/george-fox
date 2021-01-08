@@ -1,5 +1,5 @@
 [#ch-22.style-blurb, short="The Religion of the Northern Quakers"]
-== Francis Higginson`'s book, called '`A Brief Relation Of the Religion Of the Northern Quakers.`' His principles follow.
+== Francis Higginson`'s book, called [.book-title]#A Brief Relation Of the Religion Of the Northern Quakers.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith in his epistle,
@@ -101,17 +101,45 @@ and kill that which ye have begotten.
 
 [.discourse-part]
 P+++.+++ He saith, '`I shall mention their errors.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ They hold their speakings are a declaration of the word Christ in them.
+
+[.numbered]
 2+++.+++ That the letter of scripture is carnal.
+
+[.numbered]
 3+++.+++ That Jesus Christ is come in their flesh, that he is in them as man.
+
+[.numbered]
 4+++.+++ And that the scriptures are not the written word of God.
+
+[.numbered]
 5+++.+++ That the soil is a part of God, or a divine essence.
+
+[.numbered]
 6+++.+++ That they enjoy God here, and Christ here.
+
+[.numbered]
 7+++.+++ And attain to a state of perfection.
+
+[.numbered]
 8+++.+++ That sprinkling of infants is a mark of the beast.
+
+[.numbered]
 9+++.+++ And our church, and worship, and temple, are idols`' temples, and beast-houses.
+
+[.numbered]
 10+++.+++ And not to be called of men master.
+
+[.numbered]
 11+++.+++ And the not speaking to a single person in the plural number,`' etc.
+
+====
+
 These he calls errors.
 
 [.discourse-part]

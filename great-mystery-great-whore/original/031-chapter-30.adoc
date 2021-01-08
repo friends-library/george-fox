@@ -1,5 +1,5 @@
 [#ch-30.style-blurb, short="A Vindication of the Scriptures and Ministers"]
-== William Thomas, called Minister of the Gospel of Ubley, his book called '`A Vindication of the Scriptures and Ministers.`' His principles follow.
+== William Thomas, called Minister of the Gospel of Ubley, his book called [.book-title]#A Vindication of the Scriptures and Ministers.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`Christ directs to look for life in the scriptures,

@@ -1,5 +1,5 @@
 [#ch-25.style-blurb, short="Holy Scripture Clearing Itself from Scandals"]
-== Thomas Pollard, a member of the church about Litchfield, in his book which he calls, '`The Holy Scripture Clearing Itself from Scandals.`' His principles follow.
+== Thomas Pollard, a member of the church about Litchfield, in his book which he calls, [.book-title]#The Holy Scripture Clearing Itself from Scandals.# His principles follow.
 
 [.discourse-part]
 P+++.+++ He saith, '`It is a cavil to say "`thee`" and "`thou`" to a single person.`'
@@ -127,7 +127,8 @@ They that obey it not are condemned, and neglect their salvation.
 P+++.+++ He saith, '`They lay in wait to deceive,
 who call the breaking of bread carnal,`' page 18.
 
-A: We cannot say that the outward bread is spiritual,
+[.discourse-part]
+A+++.+++ We cannot say that the outward bread is spiritual,
 the bread which perisheth is carnal; and we say Christ is the bread which is spiritual,
 and they deceive people who say outward bread is spiritual, and not carnal.
 
