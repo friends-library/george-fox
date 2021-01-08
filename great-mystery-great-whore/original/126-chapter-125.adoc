@@ -1,5 +1,5 @@
 [#ch-125.style-blurb, short="A Parson`'s Guide, Concerning Tithes and the Law of Tithes"]
-== W. S.`'s book, called '`A Parson`'s Guide, Concerning Tithes and the Law of Tithes.`'
+== W. S.`'s book, called [.book-title]#A Parson`'s Guide, Concerning Tithes and the Law of Tithes.#
 
 [.discourse-part]
 P+++.+++ And he saith he supposes, '`that taking away tithes from ministers,

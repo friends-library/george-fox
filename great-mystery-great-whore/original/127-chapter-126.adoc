@@ -1,5 +1,5 @@
 [#ch-126.style-blurb, short="Scripture Catechism"]
-== Thomas Hodges, bachelor of divinity, rector of Soldren in Oxfordshire, his principles in a book, called '`Scripture Catechism,`' as followeth, where he goes about to confute errors, who confutes himself among them.
+== Thomas Hodges, bachelor of divinity, rector of Soldren in Oxfordshire, his principles in a book, called [.book-title]#Scripture Catechism,# as followeth, where he goes about to confute errors, who confutes himself among them.
 
 [.discourse-part]
 P+++.+++ Thou sayst,
@@ -241,4 +241,4 @@ and the everlasting gospel shall be preached to them that dwell upon the earth,
 to all nations, and kindreds and tongues, which is the power of God,
 which brings people into unity with God and the scriptures,
 and the mystery of God is revealed, and the mystery of iniquity discovered,
-and he that was dead is alive again, and lives forevermore..
+and he that was dead is alive again, and lives forevermore.
