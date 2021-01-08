@@ -1,75 +1,4 @@
-
-== The
-
-== Works
-
-== of 
-
-== George Fox
-
-== Vol.
-IV
-
-== GOSPEL TRUTH DEMONSTRATED,
-
-=== 
-
-==== 
-
-===== IN
-
-=== 
-
-==== 
-
-===== A COLLECTION
-
-====== OF
-
-== DOCTRINAL BOOKS,
-
-=== 
-
-==== 
-
-===== GIVEN FORTH BY THAT FAITHFUL MINISTER OF JESUS CHRIST,
-
-=== 
-
-==== GEORGE FOX:
-
-===== CONTAINING
-
-===== PRINCIPLES ESSENTIAL TO CHRISTIANITY AND SALVATION, HELD AMONG THE PEOPLE CALLED
-
-== QUAKERS.
-
-=== 
-
-==== 
-
-===== "`Seeing we have this ministry, as we have received mercy, we faint not: but have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully, not by the manifestation of truth, commending ourselves to every man`'s conscience in the sight of God.`"--2 Cor. 4:1-2.
-
-=== 
-
-==== 
-
-===== IN THREE VOLUMES
-
-=== 
-
-==== 
-
-===== VOL.
-I.
-
-== An Epistle
-
-=== 
-
-==== 
-
-===== By way of preface to the Unprejudiced Reader.
+== An Epistle / By way of preface to the Unprejudiced Reader.
 
 The books and treatises in the following collection being perused,
 we find the doctrine of our blessed Lord and Saviour Jesus Christ, and those matters,
@@ -139,7 +68,7 @@ John Kent, George Oldner, George, Chalkley, John Tomkins
 
 London, the 24th of the tenth month, 1705.
 
-====== The substance of some other Brethren`'s Testimonies concerning G. F.
+== The substance of some other Brethren`'s Testimonies concerning G. F.
 
 Luke Howard, together with the rest of the Friends of the quarterly meeting in Kent,
 testify concerning the Lord`'s faithful servant, George Fox:
@@ -164,7 +93,8 @@ he withstood that spirit that hath risen up to oppose God`'s work.
 
 Kent, the 5th of the 8th month, 1691.
 
-*   *   *
+[.asterism]
+'''
 
 Ambrose Rigge, concerning G. F.--That the Lord visited him early in our age,
 with his gospel day of life and salvation,
@@ -200,7 +130,8 @@ This testimony laid upon me to give.
 
 Ryegate in Surrey, the 6th of the 12th month, 1690.
 
-*   *   *
+[.asterism]
+'''
 
 John Taylor:--In the name and power of the Lord,
 I give this short testimony for that worthy and honourable man of God, George Fox;
@@ -239,7 +170,8 @@ that he over all may have the glory and praise for ever, and ever, amen.
 
 York, the 2d month, 1691.
 
-*   *   *
+[.asterism]
+'''
 
 Richard Robinson`'s Testimony of G. F.--That the
 Lord raised him up and made use of him in early days,
@@ -282,7 +214,8 @@ to rest in the paradise of his pleasure for evermore.
 
 Countersell, Yorkshire, the 21st of the 12th month, 1690.
 
-*   *   *
+[.asterism]
+'''
 
 John Bowater`'s Testimony.--A short testimony for our honourable brother in the faith,
 G+++.+++ F. It is about thirty years since I first heard him; his matter was sound and weighty,
@@ -320,7 +253,8 @@ should not entangle himself with the things of this world.
 The Lord took him away from the evil to come,
 and delivered him out of the hands of his enemies, who hated him without a cause.
 
-*   *   *
+[.asterism]
+'''
 
 Edward Bourn`'s Testimony.--After a long night of apostacy,
 the great God raised up our dear brother, G. F. to publish the everlasting gospel,
@@ -348,7 +282,8 @@ will remain as a blessed memorial to generations to come.
 
 Worcester, the 24th of the 4th month, 1692.
 
-*   *   *
+[.asterism]
+'''
 
 Leonard Fell`'s Testimony.--My testimony for my dear, true,
 and well-beloved friend and father in Christ, George Fox. 
@@ -367,7 +302,8 @@ where his abiding place must be for ever, and evermore.
 
 London, the 13th of the 4th month, 1691.
 
-*   *   *
+[.asterism]
+'''
 
 Thomas Robertson`'s Testimony of G. F.--The blessed everlasting day of the Lord dawned,
 upon him in our age; he preached the blessed light, and many became children of it,
@@ -379,7 +315,8 @@ that they may profit themselves and others.
 
 The 20th of the 7th month, 1691.
 
-*   *   *
+[.asterism]
+'''
 
 Stephen Hubbersty`'s Testimony of G. F.--He was a
 man filled with the divine power and wisdom of God,
@@ -392,7 +329,8 @@ by which he suffered deeply; he sought the honour of God, by whom he was highly 
 and of all good men; and the Lord took him in everlasting mercy to himself,
 and the same mercy will be unto all those that walk in his steps unto the end.
 
-*   *   *
+[.asterism]
+'''
 
 Robert Jones`'s Testimony.--A few words by way of testimony,
 according to the knowledge and experience that I had of my dear friend,
@@ -484,7 +422,7 @@ which made him a blessing to the nation.
 
 The 30th of the 11th month, 1691.
 
-====== Oxfordshire Friends`' Testimony.--For that faithful and honourable servant of God, and minister of the everlasting gospel of Christ Jesus, G. F.
+=== Oxfordshire Friends`' Testimony.--For that faithful and honourable servant of God, and minister of the everlasting gospel of Christ Jesus, G. F.
 
 He was a true and faithful labourer in the work and service the Lord called him unto,
 in turning many from darkness to light, and from the power of Satan to Christ,
@@ -569,23 +507,23 @@ John Long, Sen., Daniel Flaxney.
 
 == To All That Would Know the Way to the Kingdom
 
-=== 
 
-==== 
 
-===== Whether they be in forms, without forms, or got above all forms.
 
-=== 
 
-==== 
+Whether they be in forms, without forms, or got above all forms.
 
-===== A direction to turn your mind within, where the voice of God is to be heard, whom you ignorantly worship as afar off; and to wait upon him for the true wisdom.
 
-=== 
 
-==== 
 
-===== That you may know truth from error, the word from the letter, the power from the form, and the true prophets from the false.
+
+A direction to turn your mind within, where the voice of God is to be heard, whom you ignorantly worship as afar off; and to wait upon him for the true wisdom.
+
+
+
+
+
+That you may know truth from error, the word from the letter, the power from the form, and the true prophets from the false.
 
 Given forth by one of those whom the world in scorn call Quakers.--G. F.
 
@@ -1073,13 +1011,10 @@ and with the light they see their deeds are wrought in God, to the praise of God
 and joy, and comfort of themselves.
 
 == The Vials of the Wrath of God poured forth upon the Man of Sin, and upon all Professors of the World, who deny the Light of Christ, which he hath enlightened every one withal, and walk contrary to it; with it they are condemned.
+
 By him who is called George Fox.
 
-=== 
-
-==== 
-
-===== The World`'s Profession without Foundation: with several precious Notes to great Men, and rich Men.
+=== The World`'s Profession without Foundation: with several precious Notes to great Men, and rich Men.
 
 All profession of the world is without ground, and the foundation:
 for the light is denied of the world, and hated: professors, priests, and people,
@@ -1272,11 +1207,9 @@ Now you have time prize it; this is the day of your visitation.
 
 == A Word from the Lord, to All the World,
 
-=== 
-
-==== 
-
-===== And all Professors in the World; spoken in Parables: wherein all may come to read themselves through the Parables, and see where they are.
+[.heading-continuation-blurb]
+And all Professors in the World; spoken in Parables:
+wherein all may come to read themselves through the Parables, and see where they are.
 By G. F.
 
 Man being drove into the earth out of Paradise, and death having passed over all men,
@@ -1635,19 +1568,18 @@ and you that hate the light, there is your condemnation.
 
 == The Following Paper Was Published 1654, with Several Papers of Other Friends
 
-=== 
 
-==== 
 
-===== To all who love the Lord Jesus Christ, mercy and peace be multiplied unto you.
+
+
+To all who love the Lord Jesus Christ, mercy and peace be multiplied unto you.
 
 Who have been scattered abroad in the cloudy dark day from mountain to mountain,
 and worshipping that which you know not, following the imagination of others,
 which they spoke from the divination of their own brain,^
 footnote:[Ezek. 34:12]
 and not from the mouth of the Lord,^
-footnote:[Jer.
-23.]
+footnote:[Jer. 23.]
 shepherds that fed themselves, and clothed themselves with the wool,
 and sought after the fleece,^
 footnote:[Ezek. 34:23]
@@ -2207,13 +2139,10 @@ Isaiah 3. And are ye not out of the apostle`'s doctrine, who saith,
 "`Not wearing of gold, nor broidered attire, nor plaiting of hair;
 but the adorning which, is the hidden man of the heart.`"
 
-*   *   *
+[.asterism]
+'''
 
-=== 
-
-==== 
-
-===== To all the Rulers of the Earth.
+=== To all the Rulers of the Earth.
 
 Oh all ye rulers of the earth, from the foundation of the world, to this day,
 who have been in the transgression of the law of God, of the life of God,
@@ -2304,17 +2233,17 @@ G+++.+++ F.
 
 == A Visitation to the Jews
 
-=== 
 
-==== 
 
-===== From them whom the Lord hath visited from on High, among whom he hath, performed his Promise made to Abraham, Isaac, and Jacob.
 
-=== 
 
-==== 
+From them whom the Lord hath visited from on High, among whom he hath, performed his Promise made to Abraham, Isaac, and Jacob.
 
-===== The mighty Day of the Lord is come, and coming, who dwells not in Temples made with Hands, nor is He worshipped with Men`'s Hands, but in the Spirit, from whom the Scripture was given forth.
+
+
+
+
+The mighty Day of the Lord is come, and coming, who dwells not in Temples made with Hands, nor is He worshipped with Men`'s Hands, but in the Spirit, from whom the Scripture was given forth.
 By G. F.
 
 To the Jews scattered, who are of the seed of Abraham, to whom the promise belongs,
@@ -3381,19 +3310,13 @@ and he that believes not in the light, doth not believe in God, who is light,
 nor know his Son, who enlighteneth every man that cometh into the world.
 And to you this is the word of the Lord.
 
-== A Visitation 
+== A Visitation / to All You That Have Long Had the Scriptures,
 
-=== 
 
-==== 
 
-===== to All You That Have Long Had the Scriptures,
 
-=== 
 
-==== 
-
-===== But are found out of the Life of them that gave them forth, that are stumbling about the words, fighting and contending about them, imprisoning and persecuting them that witness the Life, that gave them forth.--By G, F.
+But are found out of the Life of them that gave them forth, that are stumbling about the words, fighting and contending about them, imprisoning and persecuting them that witness the Life, that gave them forth.--By G, F.
 
 To all you who are from the life of the law, and the prophets, which is light,
 and from the spirit of understanding, which gave forth the scripture,
@@ -4033,17 +3956,17 @@ And to you this is the word of the Lord.
 
 == A Declaration 
 
-=== 
 
-==== 
 
-===== of the Difference of the Ministers of the Word, from the Ministers of the World; Who Calls the Writings the Word.
 
-=== 
 
-==== 
+of the Difference of the Ministers of the Word, from the Ministers of the World; Who Calls the Writings the Word.
 
-===== The Ministers of the Word now lay in Prisons, for witnessing Christ the Word, by them who have the Writings, who are filling up the Measure of their Fathers, who had the Writings, and persecuted the Word, and the Ministers of the Word.--By G. F.
+
+
+
+
+The Ministers of the Word now lay in Prisons, for witnessing Christ the Word, by them who have the Writings, who are filling up the Measure of their Fathers, who had the Writings, and persecuted the Word, and the Ministers of the Word.--By G. F.
 
 They that were ministers of the word,
 took in hand to set forth in order a declaration of those things,
@@ -4440,17 +4363,17 @@ but know not the word.
 
 == A Cry for Repentence, unto the Inhabitants of London, Chiefly,
 
-=== 
 
-==== 
 
-===== And unto all those whose Fruits do shame their Profession, that they may come to Yea and Nay, in all their Communications, and Dealings, that their Life may judge the World; for who are out of that, are in the Evil, and fall into Condemnation.
 
-=== 
 
-==== 
+And unto all those whose Fruits do shame their Profession, that they may come to Yea and Nay, in all their Communications, and Dealings, that their Life may judge the World; for who are out of that, are in the Evil, and fall into Condemnation.
 
-===== Given forth for the Information of the Simple, that they may know the Way of Life, out of the evil communication which corrupts good manners.
+
+
+
+
+Given forth for the Information of the Simple, that they may know the Way of Life, out of the evil communication which corrupts good manners.
 By G. F.
 
 Repent ye tradesmen of London, repent ye merchants and great men of the city,
@@ -4635,17 +4558,17 @@ lest the Lord come upon you like mortar and clay, and tread you to pieces like p
 
 == The Woman Learning in Silence, 
 
-=== 
 
-==== 
 
-===== or the Mystery of the Woman`'s Subjection to Her Husband.
 
-=== 
 
-==== 
+or the Mystery of the Woman`'s Subjection to Her Husband.
 
-===== As also the Daughter prophesying, wherein the Lord hath fulfilled and is fulfilling what he spoke by the Prophet Joel: "`I will pour out my spirit upon all flesh,`" etc.
+
+
+
+
+As also the Daughter prophesying, wherein the Lord hath fulfilled and is fulfilling what he spoke by the Prophet Joel: "`I will pour out my spirit upon all flesh,`" etc.
 Given forth by George Fox.
 
 "`Quench not the Spirit.`"
@@ -4956,11 +4879,11 @@ they have received the spirit of prophecy.
 
 == A Declaration Concerning Fasting, and the Prayer that God Accepts.
 
-=== 
 
-==== 
 
-===== Given forth by G. F.
+
+
+Given forth by G. F.
 
 To all you that be keeping fasts, who smite with the fist of wickedness,
 and fast for strife and debate; against you hath the voice cried aloud like a trumpet.
@@ -5128,11 +5051,11 @@ the glory of the Lord is the rearward.
 
 == The Promise of God Proclaimed:
 
-=== 
 
-==== 
 
-===== Which is Christ, the everlasting Covenant of God to the Jews, Gentiles, and all People upon the Earth, of which God spoke by his Prophets, and was preached by the Apostles, and by his Servants and Messengers, sent forth since for Barbadoes, New England, Virginia, the East and West Indies, and the South and North Parts of the World, to go to them all.--By G. F.
+
+
+Which is Christ, the everlasting Covenant of God to the Jews, Gentiles, and all People upon the Earth, of which God spoke by his Prophets, and was preached by the Apostles, and by his Servants and Messengers, sent forth since for Barbadoes, New England, Virginia, the East and West Indies, and the South and North Parts of the World, to go to them all.--By G. F.
 
 The promise of the most high God, that lives for evermore,
 which he promised to the Gentiles by his prophets in the days of old, Isa. 11:10.
@@ -5299,13 +5222,13 @@ and was clad with zeal as a cloak. Isa. 59:17.
 
 
 
-== An Epistle To All People on Earth;
+== An Epistle / To All People on Earth;
 
-=== 
 
-==== 
 
-===== Shewing the Ignorance of all the World, both Professors and Teachers, of the Birth that must be Silent, and of the Birth that is to Speak, which declares God; and the Difference betwixt Silence and Speaking, that they may come to an Understanding of themselves, and may know that Christ Jesus, the Light of the World, is their Teacher, or their Condemnation: Also shewing that it was the Practice of many to wait in Silence upon God, to hear his Word, and know his Voice.--By G. F.
+
+
+Shewing the Ignorance of all the World, both Professors and Teachers, of the Birth that must be Silent, and of the Birth that is to Speak, which declares God; and the Difference betwixt Silence and Speaking, that they may come to an Understanding of themselves, and may know that Christ Jesus, the Light of the World, is their Teacher, or their Condemnation: Also shewing that it was the Practice of many to wait in Silence upon God, to hear his Word, and know his Voice.--By G. F.
 
 You are not come to know the time to keep silence before the time to speak, Ecc. 3:7.
 but are such as Jeremiah speaks of, Jer.
@@ -6120,11 +6043,11 @@ G+++.+++ F.
 
 == The Fashions of the World Made Manifest
 
-=== 
 
-==== 
 
-===== also A Few Words to the City of London.
+
+
+also A Few Words to the City of London.
 
 What a world is this?
 How doth the devil garnish himself, and how obedient are people to do his will and mind,
@@ -6278,7 +6201,8 @@ it is time to cry against all your fashions,
 for the devil hath carried you to such a height, who are in the wisdom that is earthly,
 sensual, and devilish, it is time it was set upon the wall.
 
-*   *   *
+[.asterism]
+'''
 
 Oh!
 London, thou art fatted in the flesh, whose flesh is as the flesh of horses,
@@ -6313,11 +6237,11 @@ G+++.+++ F.
 
 == The Second Covenant,
 
-=== 
 
-==== 
 
-===== Which doth manifestly make known the End of the First Covenant and Priesthood, which could not continue by reason of Death.
+
+
+Which doth manifestly make known the End of the First Covenant and Priesthood, which could not continue by reason of Death.
 Or the New Covenant of Light, Life, and Peace,
 wherein the Lord in Righteousness establisheth the Hearts of his People;
 where they are taught of the Lord.
@@ -6918,13 +6842,10 @@ as every one is taught with this anointing which they have in them,
 they shall continue in the Son, and in the Father:
 and to you this is the word of the Lord God.
 
-*   *   *
+[.asterism]
+'''
 
-=== 
-
-==== 
-
-===== Christ`'s Way and Judas`'s Way.
+=== Christ`'s Way and Judas`'s Way.
 
 Christ Jesus which is the unchangeable priest, is the way to the Father,
 who is the light, he is the way to the Father of light,
@@ -7051,17 +6972,17 @@ which was glorified with the Father, with the glory which he had before the worl
 
 == A Warning to All the Merchants in London,  
 
-=== 
 
-==== 
 
-===== and Such as Buy and Sell.
 
-=== 
 
-==== 
+and Such as Buy and Sell.
 
-===== With Advice to them to lay aside their Superfluity, and with it to Nourish the Poor.--By G. F.
+
+
+
+
+With Advice to them to lay aside their Superfluity, and with it to Nourish the Poor.--By G. F.
 
 For them to keep to yea and nay to all people in their common occasions,
 for whatsoever is more than these, cometh of evil;
@@ -7228,11 +7149,11 @@ So your day is not past, while you have time, prize it.
 
 == The Pearl Found in England.
 
-=== 
 
-==== 
 
-===== This is for the poor, distressed, scattered Ones in foreign Nations.
+
+
+This is for the poor, distressed, scattered Ones in foreign Nations.
 From the Royal Seed of God, and Heirs of Salvation, called Quakers,
 who are the Church of the Living God, built up together of Living Stones in England:
 A Visitation and Uniting to the Pearl of God, which is hid in all the World,
@@ -7851,11 +7772,11 @@ G+++.+++ F.
 
 == The Lamb`'s Officer
 
-=== 
 
-==== Is Gone Forth with the Lamb`'s Message
 
-===== Which is the Witness of God in all Consciences, to call them up to the Bar, the Judgment of the Lamb, in this his Day which is come.
+Is Gone Forth with the Lamb`'s Message
+
+Which is the Witness of God in all Consciences, to call them up to the Bar, the Judgment of the Lamb, in this his Day which is come.
 To all the Parish Clerks, Vicars, Curates, and Professors in England, Ireland,
 and Scotland, and elsewhere in the whole Christendom;
 for you all to come up to the Lamb`'s Bar, in this his Day,
@@ -9184,7 +9105,8 @@ so from a lover of your souls, and your eternal good.
 
 G+++.+++ F.
 
-*   *   *
+[.asterism]
+'''
 
 Come, away with your self-righteousness, and your feigned humility,
 and your will-worship, and your carnal security, and take heed of drunkenness,
@@ -9208,11 +9130,11 @@ This is to be read among the people of Uxbridge.
 
 == A Word in Behalf of the King,
 
-=== 
 
-==== 
 
-===== That he may see who they are that honour all Men, and love the Brotherhood, that fear God, and honour the King; according as it is written in the Scriptures of Truth.
+
+
+That he may see who they are that honour all Men, and love the Brotherhood, that fear God, and honour the King; according as it is written in the Scriptures of Truth.
 1+++.+++ Pet.
 2. 17.--By G. F.
 
@@ -9565,11 +9487,11 @@ and thereby came the love to enemies.
 
 == To the Turk,
 
-=== 
 
-==== 
 
-===== And all that are under his Authority, to read this over, which concerns their Salvation.--By G. F.
+
+
+And all that are under his Authority, to read this over, which concerns their Salvation.--By G. F.
 
 Friends,--The mighty God of heaven and earth, that created all things,
 that hath given you breath, and life, and strength to this day,
@@ -9800,11 +9722,11 @@ From England.
 
 == Some Papers Given Forth to the Magistrates of the Isle of Milita
 
-=== 
 
-==== 
 
-===== And to the Emperor of the House of Austria, and to all the Princes under him.
+
+
+And to the Emperor of the House of Austria, and to all the Princes under him.
 To the King of France, and to all the Powers that be under him; and to the King of Spain,
 and lastly, to the Pope.--By G. F.
 
@@ -9947,11 +9869,11 @@ whose dread and power is to be sounded over all nations.
 
 == To the Emperor of the House of Austria, and All the Princes under Him
 
-=== 
 
-==== 
 
-===== Friends, read this over, which is for your general and universal good, and consider as you read, and then you will see what hath been up and reigned since the Apostles`' Days, and where you are, and what you act, and by what Weapons you hold up your Religion, since the Apostles`' Days.--By G. F.
+
+
+Friends, read this over, which is for your general and universal good, and consider as you read, and then you will see what hath been up and reigned since the Apostles`' Days, and where you are, and what you act, and by what Weapons you hold up your Religion, since the Apostles`' Days.--By G. F.
 
 Friends,--There hath been a mighty breach in Germany, about religion,
 and much killing and slaying one another,
@@ -10286,11 +10208,11 @@ G+++.+++ F.
 
 == To the King of France.
 
-=== 
 
-==== 
 
-===== Read this over, it concerns thy general good, and all the Powers that be under thee, which are suitable things to this present age.--By G. F.
+
+
+Read this over, it concerns thy general good, and all the Powers that be under thee, which are suitable things to this present age.--By G. F.
 
 Friend,--Let none in all thy dominion under thee be imprisoned till death, or persecuted,
 or banished concerning religion, church, or ministry, or about the scriptures, Christ`'s,
@@ -10806,11 +10728,21 @@ George Fox.
 
 == To the Pope.
 
-=== 
-
-==== 
-
-===== Friend, read this over, and the sad Lamentation that is over thee thou mayest behold, how that thy field is afield of blood, and how that thou art naked, thy Emperors and thy Princes, from the Spiritual Weapons, and the Armour of God, who hast had the Form, but out of the Power since the Apostles`' Days, for yet thee, nor any of thy company durst ever adventure a meeting in the field with them that have the Spiritual Weapons, (as in the book called the Papist`'s Strength Broken, may be seen.) Therefore, they, and all the Emperors and Princes, and thyself, having not the Spiritual Weapons, nor the Armour of God, ye have set up your Inquisitions, your Racks, your Tortures, your Prisons, your Banishments, and this showeth you have no Rule nor Government by the Power of God: Therefore read this over, that you may see what you are got up into, since the Apostles`' Days, and how you have killed and mangled, martyred and tortured, which is not the work of a true Christian, but to love Enemies.--By G. F.
+[.heading-continuation-blurb]
+Friend, read this over, and the sad Lamentation that is over thee thou mayest behold,
+how that thy field is afield of blood, and how that thou art naked,
+thy Emperors and thy Princes, from the Spiritual Weapons, and the Armour of God,
+who hast had the Form, but out of the Power since the Apostles`' Days, for yet thee,
+nor any of thy company durst ever adventure a meeting
+in the field with them that have the Spiritual Weapons,
+(as in the book called the Papist`'s Strength Broken, may be seen.)
+Therefore, they, and all the Emperors and Princes, and thyself,
+having not the Spiritual Weapons, nor the Armour of God,
+ye have set up your Inquisitions, your Racks, your Tortures, your Prisons,
+your Banishments, and this showeth you have no Rule nor Government by the Power of God:
+Therefore read this over, that you may see what you are got up into,
+since the Apostles`' Days, and how you have killed and mangled,
+martyred and tortured, which is not the work of a true Christian, but to love Enemies.--By G. F.
 
 Friend, and friends, innocent blood hath long cried for vengeance to the Lord,
 the earth almost swims with innocent blood, and the cry of it is heard,
@@ -11059,11 +10991,11 @@ and with none of your inventions.
 
 == For the Emperor of China, and His Subordinate Kings and Princes
 
-=== 
 
-==== 
 
-===== From the People of God in England, in English called Quakers.--By G. F.
+
+
+From the People of God in England, in English called Quakers.--By G. F.
 
 Friends,--There is a power above all powers, and this power is making itself manifest:
 and this is God, whose power this is, who is an overruler, the creator, and former,
@@ -11163,11 +11095,12 @@ in the face of Jesus Christ.
 
 == To All the Nations under the Whole Heavens
 
-=== 
 
-==== 
 
-===== And to all those who have ministered the Letter, and yet are ignorant, and have kept others in Ignorance both of the Letter and Spirit also.
+
+
+And to all those who have ministered the Letter, and yet are ignorant,
+and have kept others in Ignorance both of the Letter and Spirit also.
 From those People who are despitefully called Quakers,
 who Tremble at the Word of God in their Hearts:
 To which Word all the holy Men of God have brought
@@ -11180,8 +11113,7 @@ have not all those prophets and teachers followed their own spirit,
 and have seen nothing, that say they have not the same power and spirit the apostles had?
 And have not all you prophets been like the foxes that have worried the lambs,
 and have not stood in the gap,^
-footnote:[Ezek.
-13, 14]
+footnote:[Ezek. 13, 14]
 and worse than them that have preached for the handfuls of barley, and pieces of bread;
 for you have done worse, that by force have taken it away by cart-loads,
 and cast into prison till death: besides, this shows the idol in your hearts,
@@ -11576,11 +11508,11 @@ G+++.+++ F.
 
 == To Both Houses of Parliament
 
-=== 
 
-==== 
 
-===== Friends, here is a few things for you to take into consideration.--By G. F.
+
+
+Friends, here is a few things for you to take into consideration.--By G. F.
 
 I+++.+++ In righteousness and truth dwell, for that preserves both governors, and government,
 and people in peace.
@@ -11833,11 +11765,11 @@ George Fox.
 
 == Truth`'s Triumph in the Eternal Power, over the Dark Inventions of Fallen Man
 
-=== 
 
-==== 
 
-===== The Quaker`'s just Allegiance is to hurt none of God`'s Creatures upon the Earth, and their Supremacy is the Power of God.
+
+
+The Quaker`'s just Allegiance is to hurt none of God`'s Creatures upon the Earth, and their Supremacy is the Power of God.
 Also some particulars of what they own, and what they deny.--By G. F.
 
 In the name and power of the Lord Jesus Christ, we deny all popery,
@@ -12043,7 +11975,8 @@ our souls are subject for conscience sake, which is for the praise of them that 
 
 G+++.+++ F.
 
-*   *   *
+[.asterism]
+'''
 
 Mordecai did not deny the higher power,
 because he could not bow in the king`'s court to Haman,
@@ -12407,11 +12340,10 @@ Who are in the wisdom of God, that is pure and gentle from above, mind these thi
 
 G+++.+++ F.
 
-=== 
+[.asterism]
+'''
 
-==== 
-
-===== Concerning the Spirit.
+=== Concerning the Spirit.
 
 A manifestation of the spirit is given to every man to profit withal, 1 Cor.
 12. now every man profiting is in the spiritual things, and the things that be of God,
@@ -12615,11 +12547,12 @@ God regards not their prayers, nor thanks, nor worship, nor fellowship,
 it is out of the true understanding, knowledge, and wisdom,
 and the spirit that intercedes to God.
 
-=== 
 
-==== 
+[.asterism]
+'''
 
-===== Concerning Faith.
+
+=== Concerning Faith.
 
 The faith heals, being obedient to it,
 and the true church is established in the faith that gives victory,
@@ -12736,11 +12669,13 @@ Gal. 3.
 
 == A Declaration to the Jews,
 
-=== 
 
-==== 
 
-===== For them to read over: in, which they may see that the Messiah is come, according to their own Prophets, and Gabriel the Angel, and according to their own Number of Time and Years, out of Daniel 9.--By G. F.
+
+
+For them to read over: in, which they may see that the Messiah is come,
+according to their own Prophets, and Gabriel the Angel,
+and according to their own Number of Time and Years, out of Daniel 9.--By G. F.
 
 From the building of the temple at Jerusalem, spoken of by Daniel in the ninth chapter,
 was seven weeks, or forty-nine years, in which the temple was built;
@@ -13126,11 +13061,11 @@ From a lover of all souls, and of the whole creation of God.
 
 == To All That Profess Christianity, Are These Following Particulars
 
-=== 
 
-==== 
 
-===== Concerning their Name of Christians, Loving Enemies, the Worship in Spirit, Gospel Fellowship, their many Heads and Baptisms, their many Churches, their disagreeing about Scripture Interpretation.--By G. F.
+
+
+Concerning their Name of Christians, Loving Enemies, the Worship in Spirit, Gospel Fellowship, their many Heads and Baptisms, their many Churches, their disagreeing about Scripture Interpretation.--By G. F.
 
 I+++.+++ Friends,--You have had the name of christians, which name hath come by tradition,
 and succession, and hath been so kept up since the apostles`' days; but the life,
@@ -13334,11 +13269,11 @@ and not in the faith that works by love, their fruits declare it.
 
 == Christ`'s Light
 
-=== 
 
-==== 
 
-===== The only Antidote to overcome and expel the Poison of Satan`'s greatest Temptations.--By G. F.
+
+
+The only Antidote to overcome and expel the Poison of Satan`'s greatest Temptations.--By G. F.
 
 The ground of desperation is out of the light,
 for Cain when he despaired went from the light, that killed the just;^
@@ -13469,11 +13404,11 @@ to whom be all honour and glory for ever.
 
 == A Measuring Rule Concerning Liberty and Persecution.
 
-=== 
 
-==== 
 
-===== And who have been the Persecutors, and who have been the Sufferers from the Beginning.--By G. F.
+
+
+And who have been the Persecutors, and who have been the Sufferers from the Beginning.--By G. F.
 
 Christians should love one another, that is the command of Christ,
 and is a mark by which they are known to be his disciples.
@@ -13733,11 +13668,11 @@ G+++.+++ F.
 
 == To All Rulers of Families
 
-=== 
 
-==== 
 
-===== Of what sort soever, herein concerned.--By G. F.
+
+
+Of what sort soever, herein concerned.--By G. F.
 
 I+++.+++ To all rulers of families of what sort soever,
 who have an authority and command of children and servants,
@@ -13913,19 +13848,23 @@ so you are not only apostatized from the apostles`' doctrine and religion,
 but also from your own; and what may all men say of you?
 Now you are manifest to open view.
 
-=== 
-
-==== 
-
-===== From a friend of your everlasting souls, and ever was one that never turned his back nor cheek from your smiting, nor his hair away from your plucking it off, who have plucked and struck till you have tumbled yourselves into the ditch, for we thrust you not in; and if you have not enough, our backs are ready still, and we have yet a cow, and a little corn, and can give bread and drink to our enemies, if they want it; and also we have a pot, and platter, and a horse, and credit, who were so vilified by you, which you in your day thought to have taken all away.
+[.emphasis]
+From a friend of your everlasting souls,
+and ever was one that never turned his back nor cheek from your smiting,
+nor his hair away from your plucking it off,
+who have plucked and struck till you have tumbled yourselves into the ditch,
+for we thrust you not in; and if you have not enough, our backs are ready still,
+and we have yet a cow, and a little corn, and can give bread and drink to our enemies,
+if they want it; and also we have a pot, and platter, and a horse, and credit,
+who were so vilified by you, which you in your day thought to have taken all away.
 
 == Some Queries
 
-=== 
 
-==== 
 
-===== To all the Teachers and Professors of Christianity to answer.--By G. F.
+
+
+To all the Teachers and Professors of Christianity to answer.--By G. F.
 
 Query I. Where did ever the christians in the primitive times set up dancing schools,
 and fencing schools, and send their youth to learn to dance and fence,
@@ -14563,15 +14502,18 @@ G+++.+++ F.
 
 == Gospel Liberty, and The Royal Law of Love.
 
-=== 
 
-==== 
 
-===== From Christ Jesus, who hath all Power in Heaven and Earth given unto him; set above Artaxerxes, and Nebuchadnezzar`'s Law and Commands; and above the Medes and Persians, and Darius`'s Decrees; being a Plain and Full Testimony against Persecutions for tender consciences sake.--By G. F.
 
-Christ Jesus saith, "`all power in heaven and earth is given unto me.`"
-Matt.
-28. And when Christ sent messengers into a village of the Samaritans,
+
+[.heading-continuation-blurb]
+From Christ Jesus, who hath all Power in Heaven and Earth given unto him;
+set above Artaxerxes, and Nebuchadnezzar`'s Law and Commands;
+and above the Medes and Persians, and Darius`'s Decrees;
+being a Plain and Full Testimony against Persecutions for tender consciences sake.--By G. F.
+
+Christ Jesus saith, "`all power in heaven and earth is given unto me.`" Matt. 28.
+And when Christ sent messengers into a village of the Samaritans,
 to make ready for him, and they did not receive him;
 and when his disciples James and John saw this, they said, "`Lord,
 wilt thou that we command fire to come down from heaven, and consume them,
@@ -15404,11 +15346,11 @@ they turn against the gospel, and bring destruction upon themselves, in persecut
 
 == Concerning the Act
 
-=== 
 
-==== 
 
-===== That prohibits, that not above four or five may meet.--By G. F.
+
+
+That prohibits, that not above four or five may meet.--By G. F.
 
 This act would have taken hold upon Christ and his disciples, had he been in your days.
 Christ it is known had twelve apostles, and seventy disciples, which often met together;
@@ -16414,39 +16356,39 @@ G+++.+++ F.
 
 == A Hammer
 
-=== 
 
-==== 
 
-===== To break down all Invented Images, Image-makers, and Image-worshippers.
+
+
+To break down all Invented Images, Image-makers, and Image-worshippers.
 Showing how contrary they are both to the Law and Gospel.
 
-=== 
-
-==== 
-
-===== By this, therefore, shall the Iniquity of Jacob be purged, and this is all the Fruit to take away his Sin; when he makes all the stones of the altar like chalk-stones that are beaten in sunder, the groves and images shall not stand up. Isa. 27:9.
 
 
-=== 
-
-==== 
-
-===== Thou sawest till that a Stone was cut out of the Mountain without Hands, which smote the Image upon his Feet, that were of Iron and Clay; and break them to pieces. Dan. 2:34.
 
 
-=== 
+By this, therefore, shall the Iniquity of Jacob be purged, and this is all the Fruit to take away his Sin; when he makes all the stones of the altar like chalk-stones that are beaten in sunder, the groves and images shall not stand up. Isa. 27:9.
 
-==== 
 
-===== Ye shall defile the covering of thy graven Images of silver, and the ornament of thy molten Images of gold: thou shalt cast them away as a menstruous cloth, thou shalt say unto it, `"get thee hence.`"
+
+
+
+
+Thou sawest till that a Stone was cut out of the Mountain without Hands, which smote the Image upon his Feet, that were of Iron and Clay; and break them to pieces. Dan. 2:34.
+
+
+
+
+
+
+Ye shall defile the covering of thy graven Images of silver, and the ornament of thy molten Images of gold: thou shalt cast them away as a menstruous cloth, thou shalt say unto it, `"get thee hence.`"
 Isa. 30.:22.
 
-=== 
 
-==== 
 
-===== Thy graven Images also will I cut off; and thy standing Images out of the midst of thee; and thou shalt no more worship the Works of thy Hands. Micah 5:13.
+
+
+Thy graven Images also will I cut off; and thy standing Images out of the midst of thee; and thou shalt no more worship the Works of thy Hands. Micah 5:13.
 By G. F.
 
 The Lord God made man and woman in his own image, and in his own likeness,
@@ -17487,26 +17429,22 @@ to underprop the vessels called the great sea,
 and those of lions, which he caused to be set unto his throne.
 Josephus, p. 204.
 
-=== The Heathen`'s Divinity, Set upon the Heads of All Called Christians
-
-==== 
-
-===== That say they had not known that there had been a God, or a Christ, unless the Scripture had declared it to them.
-
-*   *   *
-
-==== 
-
-===== They are such Prophets, that said,`" Thus saith the Lord,`" and the Lord never spoke to them.
-
-==== 
-
-===== You have not heard his voice at any time, nor seen his shape; and the Word of God abideth not in you. John 5:37-38.
+== The Heathen`'s Divinity, Set upon the Heads of All Called Christians
 
 
-==== 
 
-===== Who have the Form of Godliness, and deny the Power thereof; from such turn away.--By G. F.
+That say they had not known that there had been a God, or a Christ, unless the Scripture had declared it to them.
+
+They are such Prophets, that said,`" Thus saith the Lord,`" and the Lord never spoke to them.
+
+
+
+You have not heard his voice at any time, nor seen his shape; and the Word of God abideth not in you. John 5:37-38.
+
+
+
+
+Who have the Form of Godliness, and deny the Power thereof; from such turn away.--By G. F.
 
 Gen.
 12. We read how Abraham went down into Egypt, with his wife,
@@ -18480,17 +18418,17 @@ who leads them into all the truth of them.
 
 == To All Professors in the Christian World:
 
-=== 
 
-==== 
 
-===== Also to the Jews and Turks throughout the whole world; that they may see who are the true worshippers of God, that he seeks, and in what he is worshipped.
 
-=== 
 
-==== 
+Also to the Jews and Turks throughout the whole world; that they may see who are the true worshippers of God, that he seeks, and in what he is worshipped.
 
-===== An exhortation to them to read it over, that they may see what they have all grieved, vexed, and quenched, and what they have walked despitefully, and rebelled, and kicked against, and stopped their ears, and closed their eyes to; so that they may all return again, and turn within, and see what they have professed and not possessed; so that they may come to be the true possessors of the Truth, and true worshippers in the Spirit of the True and Living God, who is a Spirit, which is the Perfect Worship, which Christ the Truth and Perfect One set up, above 1600 years since.--By G. F.
+
+
+
+
+An exhortation to them to read it over, that they may see what they have all grieved, vexed, and quenched, and what they have walked despitefully, and rebelled, and kicked against, and stopped their ears, and closed their eyes to; so that they may all return again, and turn within, and see what they have professed and not possessed; so that they may come to be the true possessors of the Truth, and true worshippers in the Spirit of the True and Living God, who is a Spirit, which is the Perfect Worship, which Christ the Truth and Perfect One set up, above 1600 years since.--By G. F.
 
 When the woman of Samaria said unto Christ, our fathers worshipped God in this mountain,
 which was the mountain where Jacob`'s well was; and said she again,
