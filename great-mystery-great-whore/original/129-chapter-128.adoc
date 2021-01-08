@@ -1263,8 +1263,8 @@ He that respects men`'s persons commits sin,
 and is convinced of the law as a transgressor.
 
 [.discourse-part]
-_Just._
-Pear.
+_Just.
+Pear._
 That is meant of respecting persons in judgment.
 
 [.discourse-part]
@@ -1333,7 +1333,7 @@ Brigs._
 What profession wast thou of?
 
 [.discourse-part]
-Jam.
+_Jam._
 A husbandman.
 
 [.discourse-part]
@@ -1458,9 +1458,7 @@ Which of the ministers say Christ is in heaven with a carnal body?
 _Jam._
 The minister so called of Kirkby Steven.
 
-[.small-break]
-'''
-
+[.offset]
 Priest Higginson stood up, and affirmed it again openly before all the court.
 
 [.discourse-part]
@@ -1519,9 +1517,7 @@ Wast thou not excommunicated for thy blasphemous opinions?
 _Jam._
 I know not what they have done since I came forth; but before I was not to my knowledge.
 
-[.small-break]
-'''
-
+[.offset]
 Col.
 Brigs called to Mr. Coale, saying, '`Did you ever hear such a call as this?
 Did you hear it?`'
@@ -1551,9 +1547,7 @@ _Jam._
 I will not deny my hand, if I may see it; and I desire that I may so much savour,
 that that paper may be kept as an evidence either with or against me.
 
-[.small-break]
-'''
-
+[.offset]
 A large petition being read, wherein was something against quaking and trembling.
 
 [.discourse-part]
