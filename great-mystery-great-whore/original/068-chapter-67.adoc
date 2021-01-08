@@ -1,5 +1,5 @@
 [#ch-67.style-blurb, short="Antichrist in Spirit"]
-== James Brown`'s book, called, '`Antichrist in Spirit.`' His expressions and principles as followeth.
+== James Brown`'s book, called, [.book-title]#Antichrist in Spirit.# His expressions and principles as followeth.
 
 [.discourse-part]
 P+++.+++ '`That the light in every man is a certain guide and rule in all things;

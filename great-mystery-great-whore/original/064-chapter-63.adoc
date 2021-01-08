@@ -1,5 +1,5 @@
 [#ch-63.style-blurb, short="The Holy Scripture Clearing Itself"]
-== Henry Hagger`'s Book, called '`The Holy Scripture Clearing Itself.`' His principles in it follow.
+== Henry Hagger`'s Book, called [.book-title]#The Holy Scripture Clearing Itself.# His principles in it follow.
 
 [.discourse-part]
 P+++.+++ '`David never boasted of perfection, nor Paul, nor John,
