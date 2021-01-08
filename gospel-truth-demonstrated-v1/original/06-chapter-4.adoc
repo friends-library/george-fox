@@ -1,3 +1,4 @@
+[#ch4, short="A Paper Published in 1654"]
 == The Following Paper Was Published 1654 / with Several Papers of Other Friends
 
 [.heading-continuation-blurb]
