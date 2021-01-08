@@ -1,8 +1,20 @@
 == To All Professors in the Christian World:
 
-Also to the Jews and Turks throughout the whole world; that they may see who are the true worshippers of God, that he seeks, and in what he is worshipped.
+[.heading-continuation-blurb]
+Also to the Jews and Turks throughout the whole world;
+that they may see who are the true worshippers of God,
+that he seeks, and in what he is worshipped.
 
-An exhortation to them to read it over, that they may see what they have all grieved, vexed, and quenched, and what they have walked despitefully, and rebelled, and kicked against, and stopped their ears, and closed their eyes to; so that they may all return again, and turn within, and see what they have professed and not possessed; so that they may come to be the true possessors of the Truth, and true worshippers in the Spirit of the True and Living God, who is a Spirit, which is the Perfect Worship, which Christ the Truth and Perfect One set up, above 1600 years since.--By G. F.
+[.heading-continuation-blurb]
+An exhortation to them to read it over, that they may see what they have all grieved,
+vexed, and quenched, and what they have walked despitefully,
+and rebelled, and kicked against, and stopped their ears, and closed their eyes to;
+so that they may all return again, and turn within,
+and see what they have professed and not possessed;
+so that they may come to be the true possessors of the Truth,
+and true worshippers in the Spirit of the True and Living God,
+who is a Spirit, which is the Perfect Worship,
+which Christ the Truth and Perfect One set up, above 1600 years since.--By G. F.
 
 When the woman of Samaria said unto Christ, our fathers worshipped God in this mountain,
 which was the mountain where Jacob`'s well was; and said she again,
@@ -361,9 +373,5 @@ Amen.
 
 G+++.+++ F.
 
-===
-
-====
-
-===== End of Vol.
-4
+[.the-end]
+End of Vol. 4

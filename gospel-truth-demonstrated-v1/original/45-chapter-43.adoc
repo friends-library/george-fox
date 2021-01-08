@@ -1,5 +1,6 @@
 == To All Rulers of Families
 
+[.heading-continuation-blurb.centered]
 Of what sort soever, herein concerned.--By G. F.
 
 I+++.+++ To all rulers of families of what sort soever,
@@ -176,7 +177,7 @@ so you are not only apostatized from the apostles`' doctrine and religion,
 but also from your own; and what may all men say of you?
 Now you are manifest to open view.
 
-[.emphasis]
+[.emphasized.offset]
 From a friend of your everlasting souls,
 and ever was one that never turned his back nor cheek from your smiting,
 nor his hair away from your plucking it off,
