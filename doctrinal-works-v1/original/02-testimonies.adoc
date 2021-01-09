@@ -1,5 +1,5 @@
 [#testimonies.style-blurb, short="Testimonies Concerning George Fox"]
-== The substance of some other Brethren`'s Testimonies concerning G. F.
+== The substance of some other Brethren`'s Testimonies Concerning G. F.
 
 Luke Howard, together with the rest of the Friends of the quarterly meeting in Kent,
 testify concerning the Lord`'s faithful servant, George Fox:
@@ -22,6 +22,7 @@ We have often felt the life and love of God in his ministry,
 and never saw him applaud or set up himself; but in the Lord`'s name and power,
 he withstood that spirit that hath risen up to oppose God`'s work.
 
+[.signed-section-signature]
 Kent, the 5th of the 8th month, 1691.
 
 [.asterism]
@@ -59,6 +60,7 @@ that whosoever grieved him, or smote at him, in words or writings,
 must bear their own burden in the day of account.
 This testimony laid upon me to give.
 
+[.signed-section-context-close]
 Ryegate in Surrey, the 6th of the 12th month, 1690.
 
 [.asterism]
@@ -99,6 +101,7 @@ and walk in the holy order, and under the rule and government of our Lord and ma
 Jesus Christ, our captain and bishop of our souls,
 that he over all may have the glory and praise forever, and ever, amen.
 
+[.signed-section-context-close]
 York, the 2d month, 1691.
 
 [.asterism]
@@ -143,6 +146,7 @@ uniting and preserving the Lord`'s people out of rents and divisions;
 and it hath been sealed upon my spirit, that his soul is with the Lord,
 to rest in the paradise of his pleasure forevermore.
 
+[.signed-section-context-close]
 Countersell, Yorkshire, the 21st of the 12th month, 1690.
 
 [.asterism]
@@ -211,6 +215,7 @@ and whose works follow them; and his works and writings,
 for the exalting of the ever blessed truth, and for the debasing of deceit,
 will remain as a blessed memorial to generations to come.
 
+[.signed-section-context-close]
 Worcester, the 24th of the 4th month, 1692.
 
 [.asterism]
@@ -231,6 +236,7 @@ tribulations and exercises,
 he hath laid down his head in peace and great joy with the Lord in his kingdom,
 where his abiding place must be forever, and evermore.
 
+[.signed-section-context-close]
 London, the 13th of the 4th month, 1691.
 
 [.asterism]
@@ -244,6 +250,7 @@ and through judgment received mercy and refreshment from the presence of the Lor
 let all that are called to it tread in the same steps, and teach the same things,
 that they may profit themselves and others.
 
+[.signed-section-context-close]
 The 20th of the 7th month, 1691.
 
 [.asterism]
@@ -305,6 +312,7 @@ and has left a good savour behind him.
 To this as a testimony for, and in behalf of my dear friend deceased,
 I in truth of heart subscribe my name, as above written.
 
+[.signed-section-context-close]
 The 20th of the 5th month, 1691.
 
 [.asterism]
@@ -353,6 +361,7 @@ desiring it may stand to posterity, for the honour and glory of the ever-living 
 who so gloriously appeared, and dwelt, and wrought in him,
 which made him a blessing to the nation.
 
+[.signed-section-context-close]
 The 30th of the 11th month, 1691.
 
 [.blurb]
@@ -434,6 +443,7 @@ in whose behalf our souls have cause to bless the name of the Lord,
 and to render to him the praise, honour, glory and thanksgiving, for he only is worthy,
 who is over all the heavens and the earth, God, blessed forever, and forevermore.
 
+[.signed-section-signature]
 Thomas Gillpin, Bray Dolly, Silas Morten, Thomas Nickolis, Thomas Gilks,
 Christopher Barratt, Nathaniel Falkner, Richard Vivers, John Haynes, Jeremiah Wearing,
 Timothy Burborrow, Thomas Penn, John Watts, Alexander Harris, John Hewes, Henry Franklin,

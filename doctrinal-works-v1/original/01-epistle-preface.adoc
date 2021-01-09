@@ -27,12 +27,17 @@ and his kingdom; and although he gave preference to the holy spirit,
 as all true spiritual christians do, yet his true love to, and sincere esteem of,
 the holy scriptures, (being given by divine inspiration.) was clearly manifest.
 
-1st. In his frequent advice to Friends to keep to scripture language, terms,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ In his frequent advice to Friends to keep to scripture language, terms,
 words and doctrines, as taught by the Holy Ghost, in matters of faith, religion,
 controversy and conversation, and not to be imposed upon,
 and drawn into unscriptural terms, invented by men in their human wisdom.
 
-2d. In his great industry in searching the holy scriptures, and frequently quoting,
+[.numbered]
+_2d._ In his great industry in searching the holy scriptures, and frequently quoting,
 reciting, aptly applying and opening the same in his writings,
 as will appear in the following collection.
 He truly testified, both in his ministry and writings, for Christ Jesus,
@@ -47,6 +52,8 @@ and its deceit and hypocrisy under all professions;
 and in the Lord`'s hand and power was instrumental in turning many to righteousness,
 and from darkness to light, and from the power of Satan unto God,
 that they might receive remission of sin, through faith in his dear son Christ Jesus.
+
+====
 
 He gave a thorough stroke in his ministry and writings against the son of perdition,
 antichrist, Babylon, the beast and false prophet,
@@ -70,8 +77,10 @@ Hallelujah.
 
 Signed at our Second-day morning meeting.
 
+[.signed-section-signature]
 George Whitehead, Francis Camfield, William Bingley, John Butcher, William Warren,
 Thomas Lower, Theodore Eccleston, Richard Needham, William Robinson, Daniel Monro,
 John Kent, George Oldner, George, Chalkley, John Tomkins
 
+[.signed-section-context-close]
 London, the 24th of the tenth month, 1705.
