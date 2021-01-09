@@ -3,9 +3,14 @@
 [.heading-continuation-blurb]
 Friends, here is a few things for you to take into consideration.--By G. F.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ In righteousness and truth dwell, for that preserves both governors, and government,
 and people in peace.
 
+[.numbered]
 II. Let no man that is a curser, a swearer, a drunkard, heady, highminded, furious, rash,
 covetous, and loves gifts and rewards, and respects persons, bear office and rule;
 for such will not he like meek Moses,
@@ -20,6 +25,7 @@ that knew not the kingdom of the Most High to rule in sons of men;
 therefore to the witness of God in you come down to, and consider of these things,
 that the nations and dominions may be ruled as a family.
 
+[.numbered]
 III.
 And let no one be put to death for cattle, or money, or any such outward things,
 for by the law of God they were to restore four-fold, and if they had it not,
@@ -35,6 +41,7 @@ and evil,`" Jam.
 and doth truth and justice at yea and nay in any places they are put in, or court,
 according to Christ and the apostles`' commands, who is our Lord and Master.
 
+[.numbered]
 IV. And let none be persecuted because they cannot for conscience sake towards God,
 put off their hats, and respect men`'s persons,
 at which many hath been imprisoned and fined, which hath been like the pharisees,
@@ -45,6 +52,7 @@ and have all men in esteem, and say, that they that rule well in truth, in justi
 and in righteousness, are worthy of double honour;
 for every one that hath murder in his heart, may give honour with the hat deceitfully.
 
+[.numbered]
 V+++.+++ And let none he persecuted for not maintaining a ministry
 that they know in their conscience is not of God,
 which destroys both edification and comfort, quencheth the spirit,
@@ -60,12 +68,15 @@ glory and honour be to the Lord God forever.
 And meek Moses said, "`he would that all the Lord`'s people were prophets,
 and stopped and rebuked him that complained of them.`" Num. 11:29.
 
+[.numbered]
 VI. And let none be persecuted and imprisoned for warning drunkards, cursers, cheaters,
 fighters, and quarrellers to repent, in streets, markets, cities, and towns,
 and to tell them that they be out of the life of Christ and the apostles,
 and shame their profession; which magistrates that be faithful, and fearing God,
 should have kept down these things, and not have turned their sword upon the righteous,
 and men that hath reproved sin in their gates, hath been to them a prey.
+
+====
 
 Consider these things, for it is your time now, and consider them in your time,
 that to the Lord God you be faithful and valiant for his truth upon earth,
@@ -148,4 +159,5 @@ in which spirit and truth, the God of all truth, who is a spirit, is worshipped.
 From a lover of your souls, and eternal good,
 and that righteousness and truth may be established among you.
 
+[.signed-section-signature]
 G+++.+++ F. a prisoner in Lancaster Castle.
