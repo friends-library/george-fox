@@ -238,17 +238,23 @@ and taught their own traditions for doctrine, which they have not received from 
 nor the apostles; and if men do not observe them, they are judged and persecuted,
 and imprisoned, and their goods spoiled?
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Is not this your own tradition, and not from Christ and the apostles,
 to persecute one another about religion and worship?
 for doth not the apostles say, "`who art thou that judgeth another man`'s servant?`"
 for they must all stand and fall to their own master,
 and every one must give an account to God.
 
+[.numbered]
 II. And is not this your own tradition to persecute one another about days, and meats,
 and clothes, and outward things, which the kingdom of God stands not in?
 for doth not the apostle tell you, "`let every one be fully persuaded in his own mind?`"
 and here have not you left his commandment, and have followed your own traditions?
 
+[.numbered]
 III.
 And is not this your own tradition and commandment, to set up a forced maintenance,
 and tithes, for a christian ministry, whether they preach to them or no?
@@ -262,6 +268,7 @@ Nay, are not they taking thought for themselves, and their families, like the he
 and they will have no call now from God, except it be to a larger benefice?
 And when was the commission of Christ changed?
 
+[.numbered]
 IV. And is not this your own tradition, who will suffer none to preach but yourselves,
 and if any do, they come under your judgment, and are persecuted as deceivers,
 though they be truer than yourselves; and do speak freely, as Christ commandeth,
@@ -270,6 +277,7 @@ and so are these ministers ever like to convert either Jew or heathen,
 that will not go out of their parishes except it be to a larger;
 and will neither obey the command of Christ themselves, nor suffer others that would?
 
+[.numbered]
 V+++.+++ And is not this your tradition and custom, and not Christ`'s and the apostles,
 for christians to use carnal weapons in their warfare to heaven,
 and about worship and religion, seeing that the apostles said,
@@ -284,6 +292,7 @@ in the convincing of them;`" but the casting into prison,
 or persecuting people concerning religion, will not stop their mouths, nor convince them;
 and this was not the apostles`' custom, or Christ`'s, but the heathen, and the Jews.
 
+[.numbered]
 VI. And is not this your own custom or tradition, that such must preach that be covetous,
 and strikers, and hirelings, when Christ telleth you, "`that a hireling will flee,
 and leave the flock;`" and the apostle telleth you,
@@ -291,6 +300,7 @@ and leave the flock;`" and the apostle telleth you,
 nor given to filthy lucre:`" so mark your own custom, and mind the apostles`' words,
 and obey them.
 
+[.numbered]
 VII.
 And is not this your own tradition and custom, to make your ministers by the will of men,
 when the apostle saith, "`that lie was made a minister of Christ, not of men, nor by men,
@@ -301,6 +311,8 @@ is not this your own tradition and custom, and not from Christ,
 (and the apostles,) who said, "`freely ye have received, freely give?`"
 and the apostle saith, "`that they did not make merchandize of the word of God,
 neither did they teach for filthy lucre.`"
+
+====
 
 Christendom hath not been rightly planted, nor the same planters as the apostles were,
 and so not by the same power and spirit that the apostles were in;
@@ -576,4 +588,5 @@ and lightness begetteth lightness, and such work the light airy spirit doth,
 to pass away his time, and with plays, and shows, games, and sports, and light vain talk,
 among whom seriousness and soberness hath no place.
 
+[.signed-section-signature]
 G+++.+++ F.
