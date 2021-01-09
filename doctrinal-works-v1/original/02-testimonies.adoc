@@ -1,8 +1,8 @@
 [#testimonies.style-blurb, short="Testimonies Concerning George Fox"]
 == The substance of some other Brethren`'s Testimonies Concerning G. F.
 
-Luke Howard, together with the rest of the Friends of the quarterly meeting in Kent,
-testify concerning the Lord`'s faithful servant, George Fox:
+_Luke Howard, together with the rest of the Friends of the quarterly meeting in Kent,
+testify concerning the Lord`'s faithful servant, George Fox:_
 That he was an honourable elder in the church and family of God,
 a man of an excellent spirit, with whom was God`'s power, council and wisdom,
 and that it dwelt with him, in doctrine,
@@ -28,7 +28,7 @@ Kent, the 5th of the 8th month, 1691.
 [.asterism]
 '''
 
-Ambrose Rigge, concerning G. F.--That the Lord visited him early in our age,
+_Ambrose Rigge, concerning G. F._--That the Lord visited him early in our age,
 with his gospel day of life and salvation,
 and made him his messenger of glad tidings to many,
 and an able minister of the New Testament (or covenant) not of the letter,
@@ -66,7 +66,7 @@ Ryegate in Surrey, the 6th of the 12th month, 1690.
 [.asterism]
 '''
 
-John Taylor:--In the name and power of the Lord,
+_John Taylor:_--In the name and power of the Lord,
 I give this short testimony for that worthy and honourable man of God, George Fox;
 that he was an instrument by whom I was convinced of, and confirmed in the blessed truth,
 and gathered into the fellowship of the gospel, which he was a true minister of,
@@ -107,7 +107,7 @@ York, the 2d month, 1691.
 [.asterism]
 '''
 
-Richard Robinson`'s Testimony of G. F.--That the
+_Richard Robinson`'s Testimony of G. F._--That the
 Lord raised him up and made use of him in early days,
 in his young years, and sent him abroad in his power, endued him with his wisdom,
 and made him prosperous in his hand, to the gathering many to the Lord,
@@ -152,7 +152,7 @@ Countersell, Yorkshire, the 21st of the 12th month, 1690.
 [.asterism]
 '''
 
-John Bowater`'s Testimony.--A short testimony for our honourable brother in the faith,
+_John Bowater`'s Testimony._--A short testimony for our honourable brother in the faith,
 G+++.+++ F. It is about thirty years since I first heard him; his matter was sound and weighty,
 though not with enticing words of man`'s wisdom,
 but in the demonstration of the spirit and power of God, opening many weighty things;
@@ -191,7 +191,7 @@ and delivered him out of the hands of his enemies, who hated him without a cause
 [.asterism]
 '''
 
-Edward Bourn`'s Testimony.--After a long night of apostacy,
+_Edward Bourn`'s Testimony._--After a long night of apostacy,
 the great God raised up our dear brother, G. F. to publish the everlasting gospel,
 in the nation of England, and abroad in other nations,
 whereby many were turned to the Lord, and found him whom their souls loved,
@@ -221,7 +221,7 @@ Worcester, the 24th of the 4th month, 1692.
 [.asterism]
 '''
 
-Leonard Fell`'s Testimony.--My testimony for my dear, true,
+_Leonard Fell`'s Testimony._--My testimony for my dear, true,
 and well-beloved friend and father in Christ, George Fox.
 
 He was a man that loved righteousness, and hated iniquity;
@@ -242,7 +242,7 @@ London, the 13th of the 4th month, 1691.
 [.asterism]
 '''
 
-Thomas Robertson`'s Testimony of G. F.--The blessed everlasting day of the Lord dawned,
+_Thomas Robertson`'s Testimony of G. F._--The blessed everlasting day of the Lord dawned,
 upon him in our age; he preached the blessed light, and many became children of it,
 whereby the darkness was driven away; he had the word of reconciliation,
 whereby many were brought to God out of sin and evil,
@@ -256,7 +256,7 @@ The 20th of the 7th month, 1691.
 [.asterism]
 '''
 
-Stephen Hubbersty`'s Testimony of G. F.--He was a
+_Stephen Hubbersty`'s Testimony of G. F._--He was a
 man filled with the divine power and wisdom of God,
 which made him very honourable in the churches of Christ;
 my soul loved him from the first; he was a father in Christ to me, and to many thousands;
@@ -270,7 +270,7 @@ and the same mercy will be unto all those that walk in his steps unto the end.
 [.asterism]
 '''
 
-Robert Jones`'s Testimony.--A few words by way of testimony,
+_Robert Jones`'s Testimony._--A few words by way of testimony,
 according to the knowledge and experience that I had of my dear friend,
 and honourable in the Lord his God, G. F.
 
