@@ -3,6 +3,10 @@
 [.heading-continuation-blurb.centered]
 Of what sort soever, herein concerned.--By G. F.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ To all rulers of families of what sort soever,
 who have an authority and command of children and servants,
 and who should train them up in the fear of God, and in modesty, civility, sobriety,
@@ -32,6 +36,7 @@ for many old people have encouraged youth and young people into the same actions
 which shows gravity is lost, but old people should be grave, and old people moderate,
 and young sober, and temperate.
 
+[.numbered]
 II. And also all ye masters of colleges and schools, of what sort soever,
 do you not shame to hear of the abuses of your scholars?
 Have not you been often told of it, and it laid before you?
@@ -53,6 +58,7 @@ and the training up children in the fear of God is lost amongst you;
 and doth not this shame christianity to all forms;
 for many of the heathen have not been so bad towards us.
 
+[.numbered]
 III.
 All ye heads of colleges, do you not shame, are you not ashamed to see your scholars,
 or hear of their rudeness, and of their unvirtuousness, and of their unsoberness,
@@ -88,6 +94,7 @@ and manners, and render to all strangers the uncivility of their schools?
 For more gravity have we found among the heathen, than these two eyes of the nation,
 which have not the name of piety, whose actions declare against it; therefore, amend.
 
+[.numbered]
 IV. And all ye ministers and overseers, do you not shame to see your people so rude,
 so light and so vain, and so immodest, and so intemperate, what drunkenness,
 and what swearing and profaneness is amongst you?
@@ -120,6 +127,8 @@ if you cannot come so high as to a christian`'s life,
 as to the gospel which is to love enemies,
 which love out of a pure heart is the end of the law, yet at least come to obey the law,
 which is to do as you would be done by.
+
+====
 
 Friends,--You have had a day of persecuting, of prisoning,
 of spoiling the goods of the people of God, denying the light,
