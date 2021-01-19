@@ -1114,7 +1114,7 @@ G+++.+++ F.
 === Epistle 386.
 
 [.blurb]
-==== An epistle to Friends, against pride, haughtiness, and the vain customs and fashions of the world.
+=== An epistle to Friends, against pride, haughtiness, and the vain customs and fashions of the world.
 
 [.salutation]
 Friends,
@@ -1128,7 +1128,7 @@ And now Christ renews them up into the image of God again, to serve him in humil
 And all that are in the image of God are of one mind.
 
 [.blurb]
-=== To all Friends and Brethren everywhere.
+==== To all Friends and Brethren everywhere.
 
 Peace from God and the Lord Jesus Christ be multiplied in you, who by his grace, light,
 and spirit, are turned towards the Lord, to receive it from him;
@@ -1314,7 +1314,7 @@ and all the children of pride are subject to the prince of the air, the god of t
 who is the king of pride, in whom there is no truth.
 
 [.blurb]
-=== Now concerning vain fashions, deckings, and customs, etc.
+==== Now concerning vain fashions, deckings, and customs, etc.
 
 The Lord forbids his people, by Jeremiah, to follow them,
 or to learn the way of the heathen, for the customs of the people were vain,
@@ -1375,7 +1375,7 @@ that they may be fashioned like unto his glorious body.`" Phil. 3:21.
 This is the fashion that all true christians are to look at.
 
 [.blurb]
-=== Now concerning wearing and putting on of apparel.
+==== Now concerning wearing and putting on of apparel.
 
 Isaiah testifieth against vanity in apparel, and the changeable suits among the Jews.
 Isa. 3.
@@ -1670,10 +1670,8 @@ And whatsoever you do, do it in the name of Jesus, to the praise and glory of Go
 [.signed-section-signature]
 G+++.+++ F.
 
-[.postscript]
-====
-
-=== Postscript: A testimony out of the Old Testament and New, of the Lord sending his prophets to declare his judgments against the disobedience and pride of the Jews; and how his judgments were fulfilled upon them that did not repent; and how the apostle did admonish and reprove such as went into pride and the fashions of the world.
+[.blurb]
+==== Postscript: A testimony out of the Old Testament and New, of the Lord sending his prophets to declare his judgments against the disobedience and pride of the Jews; and how his judgments were fulfilled upon them that did not repent; and how the apostle did admonish and reprove such as went into pride and the fashions of the world.
 
 The Lord saith, "`Because the daughters of Zion are haughty,
 and walk with stretched forth necks and wanton eyes, walking and mincing as they go,
@@ -1779,8 +1777,6 @@ and daily obey and love the lust of your eye, the lust of your flesh,
 and the pride of your life, "`which is not of the Father, but of the world.`"
 And the apostle John tells you, "`He that loves the world,
 the love of the Father is not in him.`"
-
-====
 
 [.signed-section-signature]
 G+++.+++ F.
