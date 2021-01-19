@@ -1,7 +1,4 @@
-== Volume I.
-
-[discrete]
-=== Chapter I.
+== Chapter I.
 
 [.chapter-synopsis]
 * 1624-1647.
