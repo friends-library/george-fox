@@ -2,7 +2,7 @@
 == A book called [.book-title]#A Serious Review of Some Principles of the Quakers.#
 
 [.discourse-part]
-P+++.+++ '`No man hath reason to say that the spiritual substance is in the creature,
+_Principle._ '`No man hath reason to say that the spiritual substance is in the creature,
 the divine essence is subject to change as is the soul of man,
 and every one is enlightened that comes into the world by the light of Christ,`' and
 this he calls '`a natural light.`' And '`that some persons are come up out of the fall,
@@ -11,7 +11,7 @@ I do not own a perfection without sin,
 and it is an error to say there is any perfection without sin.`'
 
 [.discourse-part]
-A+++.+++ All erring is in the fall,
+_Answer._ All erring is in the fall,
 and that which is come up out of the fall is come out of the error, into the second Adam,
 where no error is, which many witness, for all error is in the first Adam in the fall,
 and in him that tempted.
@@ -36,7 +36,7 @@ God doth not change in his being, neither doth that which comes from him,
 that which he hath in his hand, and in his power.
 
 [.discourse-part]
-P+++.+++ He saith, '`That which is imperfect can be reconciled to God,
+_Principle._ He saith, '`That which is imperfect can be reconciled to God,
 and that they are poor blind creatures that say the light
 doth enlighten every man that cometh into the world,
 and need no light and discovery to help,
@@ -46,7 +46,7 @@ To speak in the singular number is nonsense,
 and they that translated the words thee and thou, might have translated them you.`'
 
 [.discourse-part]
-A+++.+++ The spirit gave to speak the proper language, singular and plural;
+_Answer._ The spirit gave to speak the proper language, singular and plural;
 and spake such words as cannot be condemned.
 And if translators that are out of that,
 translate the words given forth from the spirit into what form soever they will,
@@ -67,13 +67,13 @@ and Christ the word, which was before they were given forth, comes to fulfill th
 and that which is imperfect is done away.
 
 [.discourse-part]
-P+++.+++ '`To say that God is substantially in man, as essentially one with him,
+_Principle._ '`To say that God is substantially in man, as essentially one with him,
 can be no other but the man of sin, the devil himself,
 having transformed himself into an angel of light,
 and if it were possible would deceive the very elect.`'
 
 [.discourse-part]
-A+++.+++ The scripture saith, that God will dwell in man, and walk in him,
+_Answer._ The scripture saith, that God will dwell in man, and walk in him,
 and the saints had unity with the Father and the son;
 and all that hate the light which Christ the light hath enlightened them with,
 have not the Father and the son.

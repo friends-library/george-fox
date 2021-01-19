@@ -2,11 +2,11 @@
 == Thomas Hodges, bachelor of divinity, rector of Soldren in Oxfordshire, his principles in a book, called [.book-title]#Scripture Catechism,# as followeth, where he goes about to confute errors, who confutes himself among them.
 
 [.discourse-part]
-P+++.+++ Thou sayst,
+_Principle._ Thou sayst,
 '`What godly heart without sorrow should see Christ`'s witnesses prophesy in sackcloth.`'
 
 [.discourse-part]
-A+++.+++ Instead of sorrowing, you are they that kill them, and persecute them,
+_Answer._ Instead of sorrowing, you are they that kill them, and persecute them,
 and prison them, as you have done many that have prophesied in sackcloth,
 and with ashes on their heads in this nation amongst you, the false church,
 who are in sheep`'s clothing, since the woman went into the wilderness;
@@ -23,18 +23,18 @@ among them that drink the blood of the saints, with sheep`'s clothing,
 having not the spirit as the sheep had, nor in their nature, so in the error?
 
 [.discourse-part]
-P+++.+++ Thou sayst, '`The scripture speaks of God after the manner of men.`'
+_Principle._ Thou sayst, '`The scripture speaks of God after the manner of men.`'
 
 [.discourse-part]
-A+++.+++ The scripture speaks of God after the manner of the spirit, and to the spirit,
+_Answer._ The scripture speaks of God after the manner of the spirit, and to the spirit,
 whereby men might receive him, and know him by the spirit, which natural men cannot.
 
 [.discourse-part]
-P+++.+++ Thou queries to know, '`whether the holy ghost be a distinct person,
+_Principle._ Thou queries to know, '`whether the holy ghost be a distinct person,
 and the worship of God in three persons.`'
 
 [.discourse-part]
-A+++.+++ Art thou going about to confute the Papists`' errors, and hold them up,
+_Answer._ Art thou going about to confute the Papists`' errors, and hold them up,
 and justify them, which the scripture doth not?
 Matt.
 xxviii.
@@ -198,12 +198,12 @@ know not the error of their ways, as you may see yourselves what you have run in
 whose fruits are come to public view.
 
 [.discourse-part]
-P+++.+++ Thou speakest '`of Christ speaking in the synagogue, and false Christs,
+_Principle._ Thou speakest '`of Christ speaking in the synagogue, and false Christs,
 and false teachers in corners and chambers, and ministers must prove by scripture,
 for with that they convince the Jews.`'
 
 [.discourse-part]
-A+++.+++ Christ went into the synagogues, and the apostles, to show the fulfilling,
+_Answer._ Christ went into the synagogues, and the apostles, to show the fulfilling,
 and him who was come to fulfill that which they had in the synagogues,
 and the apostles showed them out of the prophets and the law that Jesus was the Christ.
 And the apostle was not a false Christ, nor a false teacher,

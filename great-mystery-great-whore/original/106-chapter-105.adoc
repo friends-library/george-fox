@@ -2,7 +2,7 @@
 == Philip Taverner of West Drayton, in the county of Middlesex, his principles as follows, in a reply to a book to Edward Burrough, whom he in scorn calls Quaker.
 
 [.discourse-part]
-P+++.+++ '`Who art thou that judgest another man`'s servant?
+_Principle._ '`Who art thou that judgest another man`'s servant?
 Such who lord it over the faith and consciences of their brethren,
 a spirit wholly disowned by the apostle.
 Not that we have dominion over your faith;
@@ -11,7 +11,7 @@ Call no man your father upon earth, neither be ye called of men master; that is,
 have no men`'s persons in admiration, as to count them your oracles in things of faith.`'
 
 [.discourse-part]
-A+++.+++ Such as serve the man of sin, are to be judged.
+_Answer._ Such as serve the man of sin, are to be judged.
 We judge that man and servant both.
 And such as are spoken of in the Romans, who judge another man`'s servant in the truth,
 standing and falling to his master, every one in his measure, such we do not judge;
@@ -36,28 +36,28 @@ cannot call any man father upon the earth, such as are born of the immortal seed
 heirs of the world which hath no end.
 
 [.discourse-part]
-P+++.+++ '`We through patience and comfort of the scriptures have hope.`'
+_Principle._ '`We through patience and comfort of the scriptures have hope.`'
 
 [.discourse-part]
-A+++.+++ He who hath Christ in whom the scriptures end,
+_Answer._ He who hath Christ in whom the scriptures end,
 hath the hope and comfort of the scriptures,
 Christ who was before the scriptures were given forth.
 He who hath not Christ Jesus hath not comfort.
 
 [.discourse-part]
-P+++.+++ '`The scriptures are able to make wise unto salvation.`'
+_Principle._ '`The scriptures are able to make wise unto salvation.`'
 
 [.discourse-part]
-A+++.+++ Without the faith the scriptures are not, for the Pharisees had the scriptures,
+_Answer._ Without the faith the scriptures are not, for the Pharisees had the scriptures,
 and were not wise unto salvation, but were out of the faith,
 and knew not Christ the salvation.
 
 [.discourse-part]
-P+++.+++ '`Fear hath its rise from faith and hope in God,
+_Principle._ '`Fear hath its rise from faith and hope in God,
 by the means of Christ which is made known in the scriptures.`'
 
 [.discourse-part]
-A+++.+++ The scriptures testify of faith, of God, of fear; but people receive not hope,
+_Answer._ The scriptures testify of faith, of God, of fear; but people receive not hope,
 nor faith, nor God, nor fear, from the scriptures, but from God,
 as they did that gave forth the scriptures, who feared him.
 For many that had the scriptures, were out of the true fear of the Lord,
@@ -68,7 +68,7 @@ and such are never like to receive God and Christ until
 their ears and eyes are open to that of God in them.
 
 [.discourse-part]
-P+++.+++ '`If we say we have no sin, we deceive ourselves, and the truth is not in us;
+_Principle._ '`If we say we have no sin, we deceive ourselves, and the truth is not in us;
 and there is not a just man upon earth that doth good and sinneth not;
 and in many things we offend all.
 And the state is not attained in this life,
@@ -77,7 +77,7 @@ The highest attainments of saints, is but a spark, but the dawning of the day;
 that highest enjoyments are not to the attainment of desires.`'
 
 [.discourse-part]
-A+++.+++ It is the truth that lets men see they have sinned,
+_Answer._ It is the truth that lets men see they have sinned,
 and lets them see they have sin within them, and it brings them to confess it,
 and forsake it; and '`the blood of Jesus Christ, the son of God,
 cleanseth from all sin.`' Then '`he that is born of God doth not commit sin,
@@ -111,7 +111,7 @@ and so were not always desiring, but they witnessed their bread from above,
 which they that ate of should hunger no more, nor thirst any more.
 
 [.discourse-part]
-P+++.+++ '`The light which is in every man is but darkness,
+_Principle._ '`The light which is in every man is but darkness,
 being compared with a revelation of Christ in the saints.
 Our justification hath its rise from what Christ hath done and suffered for us,
 not from what he hath done in us.
@@ -120,7 +120,7 @@ distinct one from the other; justification is not sanctification,
 nor sanctification justification, but two things, really distinct in their nature.`'
 
 [.discourse-part]
-A+++.+++ The light which every man that cometh into the world is lightened withal, is Christ,
+_Answer._ The light which every man that cometh into the world is lightened withal, is Christ,
 and this light reveals Christ, and is the saints`' light,
 and this light is condemnation to the world, which hates it.
 And no man knoweth justification, but as he knoweth it wrought within, from Christ.
@@ -142,7 +142,7 @@ and thou art rebuked who makes two of them, and distinct, when they are but one 
 the same that justifies, sanctifies.
 
 [.discourse-part]
-P+++.+++ '`If the fulfilling of the righteous law in us be justification,
+_Principle._ '`If the fulfilling of the righteous law in us be justification,
 then Christ died in vain.
 Justification is the direct opposite to condemnation;
 that which makes a change in the heart of the creature,
@@ -151,7 +151,7 @@ faith doth not save nor justify by virtue of any worth or excellency found in it
 nor merely because Christ is the object of it.`'
 
 [.discourse-part]
-A+++.+++ He that fulfils the righteousness of the law in us, is Christ the justification;
+_Answer._ He that fulfils the righteousness of the law in us, is Christ the justification;
 hereby men come to know him to redeem them from under the law,
 and they are led by the spirit; and they know he is their intercession,
 and that he died not in vain: and he ends the law, who fulfils it.
@@ -173,11 +173,11 @@ and from God who is the author of it, in which faith men please God,
 and are justified and are saved through and by this faith, as the scripture witnesseth.
 
 [.discourse-part]
-P+++.+++ '`Faith doth not save or justify by its virtue,
+_Principle._ '`Faith doth not save or justify by its virtue,
 but by the gracious good pleasure of God who hath appointed faith.`'
 
 [.discourse-part]
-A+++.+++ That which God hath given to men as his gift, in that faith there is virtue,
+_Answer._ That which God hath given to men as his gift, in that faith there is virtue,
 and the grace is known with which men are justified and saved,
 and there is virtue in the gift of God;
 and so through this faith he knows the purpose of the Lord, and his counsel,
@@ -186,12 +186,13 @@ and no man is justified but through faith that is received, nor wise unto salvat
 but through faith in Christ Jesus.
 
 [.discourse-part]
-P+++.+++ '`The ministers in England in many places are no better than wolves in sheep`'s clothing,
+_Principle._
+'`The ministers in England in many places are no better than wolves in sheep`'s clothing,
 and the ministers taking what the states allow them of particular persons,
 this is not preaching for hire, divining for money.`'
 
 [.discourse-part]
-A+++.+++ The ministers, who are so called in England, have gotten the name,
+_Answer._ The ministers, who are so called in England, have gotten the name,
 but are found the ministers of unrighteousness,
 and are wolves indeed in sheep`'s clothing, out of the lives of the apostles;
 for how are they tearing the lambs before courts and into prisons for speaking to them,
@@ -225,10 +226,10 @@ So the judgment of the apostle is come upon you, that those that would not work,
 should not eat.
 
 [.discourse-part]
-P+++.+++ '`Christ made use of the scripture to resist the devil.`'
+_Principle._ '`Christ made use of the scripture to resist the devil.`'
 
 [.discourse-part]
-A+++.+++ In Christ the scripture ends,
+_Answer._ In Christ the scripture ends,
 and the devil who was out of the scriptures is left out of the scriptures: so Christ,
 who was before scripture was, bruised his head.
 And as for the rest of thy stuff in thy book, it is not worth mentioning,

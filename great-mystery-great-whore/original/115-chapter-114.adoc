@@ -2,10 +2,10 @@
 == John Hume, Priest of Lesmahaga. His Principles as follows, who got into a steeple-house, and shut the door upon him; thus he taught the people.
 
 [.discourse-part]
-P+++.+++ '`That which was to be known of God, was manifest by the things that are created.`'
+_Principle._ '`That which was to be known of God, was manifest by the things that are created.`'
 
 [.discourse-part]
-A+++.+++ Contrary to the apostle`'s doctrine, Rom. 1:19.
+_Answer._ Contrary to the apostle`'s doctrine, Rom. 1:19.
 '`For whatsoever may be known of God is manifest in them;
 for the invisible things of him from the creation of the world are clearly seen,
 being understood by the things that are made, even his eternal power and godhead,
@@ -14,10 +14,11 @@ they know the invisible things from the foundation of the world,
 and with that they see the godhead.
 
 [.discourse-part]
-P+++.+++ '`That God was to be known by the things that were made, as the sun, moon, and stars.`'
+_Principle._
+'`That God was to be known by the things that were made, as the sun, moon, and stars.`'
 
 [.discourse-part]
-A+++.+++ But Jesus Christ said, Matt. 11:27. '`No man knows the Father but the son,
+_Answer._ But Jesus Christ said, Matt. 11:27. '`No man knows the Father but the son,
 and he to whomsoever the son will reveal him,`' and the heathens know not God,
 nor had the Jews seen his shape.
 And his servants and workmen did throw water, stones, and lime, and persecuted,
