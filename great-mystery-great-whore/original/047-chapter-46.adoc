@@ -2,14 +2,14 @@
 == Priest Bennet`'s [.book-title]#Looking-glass.# These are some of his principles following.
 
 [.discourse-part]
-P+++.+++ '`James asks the question,
+_Principle._ '`James asks the question,
 Can one fountain send forth sweet water and bitter?`' He says,
 '`It is a new fancy to say there is a light in every
 man which will guide him to salvation.`' And says,
 '`There is a fancy of perfection.`'
 
 [.discourse-part]
-A+++.+++ One fountain cannot send forth sweet water and bitter,
+_Answer._ One fountain cannot send forth sweet water and bitter,
 and yet it is bitter to them that are in the transgression;
 for the righteousness of God revealed to the wicked, is a terror to him;
 but the righteousness of God revealed to the saints, is their joy, as is the truth:
@@ -30,23 +30,23 @@ but denies the power,`' and art not a preacher of that which people should belie
 that is the light.
 
 [.discourse-part]
-P+++.+++ '`The scriptures are the lanterns of Israel.
+_Principle._ '`The scriptures are the lanterns of Israel.
 The scriptures are the wisdom of the cross.`'
 
 [.discourse-part]
-A+++.+++ The word of God is the lantern of Israel, as says David;
+_Answer._ The word of God is the lantern of Israel, as says David;
 and Christ Jesus is the wisdom of the cross; Christ the wisdom of God;
 and the cross of Christ is the power of God.
 And Abraham had a lantern, and Enoch and Abel, before the scriptures were written.
 
 [.discourse-part]
-P+++.+++ Thou sayst, '`The corruptions of the damned in hell shall never be destroyed;
+_Principle._ Thou sayst, '`The corruptions of the damned in hell shall never be destroyed;
 and it would be good news if the Quakers should go
 and preach to the spirits in hell.`' And thou sayst,
 '`David would open his mouth in dark sayings of old.`'
 
 [.discourse-part]
-A+++.+++ The scriptures, and David`'s words, to thee that art in darkness, are dark,
+_Answer._ The scriptures, and David`'s words, to thee that art in darkness, are dark,
 but not to them that are in the light.
 And the Quakers have been among the prisoners that are in hell, and ministered to them,
 and the corruptions shall go into the fire that hath no end; and they that do wickedly,
@@ -61,12 +61,12 @@ And the end of Ezekiel is known, and the prophets, and Moses, Christ Jesus,
 the saviour and redeemer of the world.
 
 [.discourse-part]
-P+++.+++ '`That a natural man may preach the gospel in
+_Principle._ '`That a natural man may preach the gospel in
 the history.`' And thou brings Judas for an example.
 Thou sayst, '`Christ said, destroy ye this temple, and I will build another.`'
 
 [.discourse-part]
-A+++.+++ That which led Judas to minister was not natural,
+_Answer._ That which led Judas to minister was not natural,
 for the same condemned him when he went from Christ.
 And a natural man cannot preach the history of the gospel truly,
 for he cannot receive it; but natural men are giving other meanings to it,
@@ -80,10 +80,10 @@ but he meant the temple of his body, in which God dwelt,
 which the outward temple was a figure of.
 
 [.discourse-part]
-P+++.+++ '`That it is an absurdity to say the light is in every man to teach him.`'
+_Principle._ '`That it is an absurdity to say the light is in every man to teach him.`'
 
 [.discourse-part]
-A+++.+++ The '`light that doth enlighten every man that
+_Answer._ The '`light that doth enlighten every man that
 cometh into the world,`' which is Christ Jesus,
 is the teacher: and he that believes in it, receives Christ,
 and it teaches him that hates it to see his evil deeds, to see his evil ways,
@@ -93,12 +93,12 @@ and doth not come to receive the anointing within him,
 and so that light is his condemnation, and so he sees not Christ the head.
 
 [.discourse-part]
-P+++.+++ Thou sayst,
+_Principle._ Thou sayst,
 '`The ministers may receive a courtesy,`' and the scripture thou brings for it is,
 '`the earth shall help the woman.`'
 
 [.discourse-part]
-A+++.+++ The courtesy the saints received from them whose hearts were opened,
+_Answer._ The courtesy the saints received from them whose hearts were opened,
 that the Lord had opened by his power, is not condemned,
 but your taking tithes from people you do not work for,
 and casting into prison till death, for not giving it you.
@@ -117,13 +117,13 @@ and so unlike the ministers of Christ that received the courtesies of the people
 whose hearts the Lord opened.
 
 [.discourse-part]
-P+++.+++ Thou sayst, '`When people have no guide but what is within,
+_Principle._ Thou sayst, '`When people have no guide but what is within,
 and that this principle he rooted, it will turn all into Babel.`' And thou questions,
 '`whether it be not a principle of sedition to say,
 that every man hath a light within him.`'
 
 [.discourse-part]
-A+++.+++ All people in the world run into Babel and Babylon,
+_Answer._ All people in the world run into Babel and Babylon,
 and are building up and throwing down, and so go into confusion about law and gospel,
 prophets, Christ, and the apostles`' words,
 when they are from the spirit of truth within,
@@ -144,7 +144,7 @@ and every man that comes into the world is enlightened.
 '`He that believes is saved, and he that believes not is condemned already.`'
 
 [.discourse-part]
-P+++.+++ Thou queries, '`when the act of commission for the ministry was repealed,
+_Principle._ Thou queries, '`when the act of commission for the ministry was repealed,
 since Christ said he would be with them to the end of the world?`' And thou sayst,
 '`It is not said simply, they shall teach no more every man his neighbour;
 but it is added, "`Know the Lord.`"`' Thou sayst,
@@ -154,7 +154,7 @@ I bring John 4:23. '`to overthrow all outward worship.`' Thou sayst,
 '`you can praise God with your bodies and spirits.`'
 
 [.discourse-part]
-A+++.+++ In Matt.
+_Answer._ In Matt.
 vii. and Matt.
 xxiv.
 Christ said false prophets should come, and should be inwardly ravening wolves,

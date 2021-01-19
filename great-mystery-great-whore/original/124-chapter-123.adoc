@@ -2,12 +2,12 @@
 == A book I have received out of Holland, the title of which is called [.book-title]#A Catechism of Christian Religion,# printed at Amsterdam by John Frederick, stationer, at the sign of the Hope, 1639. The principles in it as followeth.
 
 [.discourse-part]
-P+++.+++ '`Out of the law, they say,
+_Principle._ '`Out of the law, they say,
 they learn they should love the Lord God with all their strength, and mind, and soul,
 and their neighbour as themselves.`'
 
 [.discourse-part]
-A+++.+++ Now these words are said, but where these words are performed,
+_Answer._ Now these words are said, but where these words are performed,
 the commandment is known, and God is loved, and his neighbour as himself,
 so he loves the creation, the workmanship of God: but where these words are talked of,
 and not done, and they say they have not power,
@@ -20,12 +20,12 @@ they abuse the power, and such were not justified; and may say they had not powe
 but that is false, it is a lie.
 
 [.discourse-part]
-P+++.+++ They say, '`they are not able to keep the word of God perfectly, that is to say,
+_Principle._ They say, '`they are not able to keep the word of God perfectly, that is to say,
 to love their neighbours as themselves, and love God;
 for man is prone to evil-hatred by nature.`'
 
 [.discourse-part]
-A+++.+++ That which brings men to keep the commandments of God is beyond nature,
+_Answer._ That which brings men to keep the commandments of God is beyond nature,
 to order nature, and to rule nature, and is above nature,
 and it is to subject that which is prone to evil, and that nature that the law goes upon;
 so he that looks into the law and loves God, is turned from the evil nature,
@@ -55,10 +55,10 @@ but such as were transgressors were destroyers and defacers of the workmanship o
 and not lovers of God, nor of their neighbour.
 
 [.discourse-part]
-P+++.+++ '`That the anger of God is most dreadful for the sins wherein they were born.`'
+_Principle._ '`That the anger of God is most dreadful for the sins wherein they were born.`'
 
 [.discourse-part]
-A+++.+++ Then you are not the believers, who were born in the sin, nor of believing parents,
+_Answer._ Then you are not the believers, who were born in the sin, nor of believing parents,
 if you own the apostle`'s doctrine, for the unbelieving is sanctified by the believing,
 '`else were their children unholy,
 but now are they clean,`' saith the apostle the minister of God,
@@ -74,11 +74,11 @@ let him.
 This was the apostles`' doctrine.
 
 [.discourse-part]
-P+++.+++ '`Because the justice of God requires that the same nature of man which had sinned,
+_Principle._ '`Because the justice of God requires that the same nature of man which had sinned,
 do itself make recompense for sin.`'
 
 [.discourse-part]
-A+++.+++ All that makes the recompense for sin, is he that never sinned, Christ,
+_Answer._ All that makes the recompense for sin, is he that never sinned, Christ,
 the second Adam, and not the first; so in this your blindness and darkness have appeared.
 And it is not the same nature that hath sinned, that destroys sin,
 but it is Christ that cleanseth the nature of man
@@ -88,11 +88,11 @@ and so Christ is called the sanctification, justification, redemption,
 cleansing man`'s nature, and blotting out the sin and transgression.
 
 [.discourse-part]
-P+++.+++ '`Salvation is not offered to all men who perished in Adam,
+_Principle._ '`Salvation is not offered to all men who perished in Adam,
 but only to those men who are grafted in him by true faith.`'
 
 [.discourse-part]
-A+++.+++ Salvation is purchased to all men that perished in Adam though they do not believe it;
+_Answer._ Salvation is purchased to all men that perished in Adam though they do not believe it;
 for he is the saviour of all men, especially of them that do believe,
 and an offering for the sin of the whole world, mark, the world,
 and doth enlighten every man that cometh into the world,
@@ -111,31 +111,32 @@ the believers passed from death, that came by Adam, to life,
 and so in that is a clean creation and holy generation.
 
 [.discourse-part]
-P+++.+++ '`All things contained in the gospel are summed up in the apostles`' creed.`'
+_Principle._ '`All things contained in the gospel are summed up in the apostles`' creed.`'
 
 [.discourse-part]
-A+++.+++ The apostles do not tell us of a creed, but the pope`'s canon-book,
+_Answer._ The apostles do not tell us of a creed, but the pope`'s canon-book,
 and common-prayer-book; and many things the apostles had to say,
 which were not lawful to utter, and many things Christ had to say,
 which they could not bear; but the gospel is the power of God,
 and that the scripture speaks of, but doth not say the epistles are it.
 
 [.discourse-part]
-P+++.+++ '`God hath manifested himself in his word, that these three distinct persons are one.`'
+_Principle._
+'`God hath manifested himself in his word, that these three distinct persons are one.`'
 
 [.discourse-part]
-A+++.+++ Neither the word nor the scripture doth tell us of three distinct persons,
+_Answer._ Neither the word nor the scripture doth tell us of three distinct persons,
 but it tells us of Father, and of son, and of holy ghost; but indeed, as I said before,
 the pope`'s canon-book, and mass-book doth so;
 for the holy ghost is not distinct from the son,
 and the son is not distinct from the Father, but they are all in one.
 
 [.discourse-part]
-P+++.+++ '`Having our chief hope placed in God,
+_Principle._ '`Having our chief hope placed in God,
 being assured that nothing may withdraw us from his love.`'
 
 [.discourse-part]
-A+++.+++ Yet you say you are not able to keep the commandments of God perfect;
+_Answer._ Yet you say you are not able to keep the commandments of God perfect;
 then you are drawn from the living God, and you are from the chief hope, Christ;
 for they who love God keep his commandments, and such have the chief hope, Christ,
 in whom the commandment ends; here love goes forth out of the pure heart:
@@ -147,11 +148,11 @@ and have taken up the possession of your hearts more than God?
 Therefore, they who keep them not perfectly, keep them not at all.
 
 [.discourse-part]
-P+++.+++ '`You say Christ hath ransomed your bodies and your souls from sin,
+_Principle._ '`You say Christ hath ransomed your bodies and your souls from sin,
 and by that one sacrifice of his body he hath redeemed you.`'
 
 [.discourse-part]
-A+++.+++ Are your bodies redeemed, and your souls and your spirits that are immortal,
+_Answer._ Are your bodies redeemed, and your souls and your spirits that are immortal,
 sanctified, and do you glorify God in your bodies, souls,
 and spirits which are the Lord`'s? And is there not sin in your bodies,
 and are not your spirits corrupted?
@@ -163,24 +164,24 @@ and the fruits show themselves by persecution, or envy, rage, malice, pride,
 or such wickedness, this shows not the fruits of redemption.
 
 [.discourse-part]
-P+++.+++ '`You say, that God in Christ loath put out the remembrance of your sins,
+_Principle._ '`You say, that God in Christ loath put out the remembrance of your sins,
 and of your corruptions within you, wherein you must fight all your lifetime.`'
 
 [.discourse-part]
-A+++.+++ Whilst the sins you are fighting with are not blotted out in your own particulars,
+_Answer._ Whilst the sins you are fighting with are not blotted out in your own particulars,
 this is not the life of the saints, they are not fighting all their lifetime,
 but come to the kingdom of God, witnessing sin and iniquity blotted out,
 and the everlasting covenant of peace and life with God.
 
 [.discourse-part]
-P+++.+++ You say, '`You are righteous before God through faith,
+_Principle._ You say, '`You are righteous before God through faith,
 though your consciences accuse you for your trespasses against the commands of God,
 being prone to evil, yet notwithstanding embrace the benefits of Christ,
 as if you never had committed any sin or corruption,
 and this is as if you yourselves had perfectly completed the obedience.`'
 
 [.discourse-part]
-A+++.+++ Where the conscience accuses it is impure, and that the true faith is out of,
+_Answer._ Where the conscience accuses it is impure, and that the true faith is out of,
 for the mystery of faith is held in a pure conscience, and that receives Christ,
 and which is not prone to evil, nor transgresseth the commands of God.
 But you are out of the perfect obedience, and the faith both, and are in the corruption,
@@ -191,11 +192,11 @@ that is your ignorance, for faith is held in a pure conscience,
 the conscience doth not accuse any but the unsanctified.
 
 [.discourse-part]
-P+++.+++ '`Not that we please God through the worthiness of our faith, for our works,
+_Principle._ '`Not that we please God through the worthiness of our faith, for our works,
 the best of them, are imperfect in this life, defiled with sin.`'
 
 [.discourse-part]
-A+++.+++ It is faith that brings men to please God, which faith comes from him,
+_Answer._ It is faith that brings men to please God, which faith comes from him,
 and gives victory over that men have lived in and not pleased God;
 so there is a worthiness in faith, it is the gift of God, by which men please God,
 and have access to him, and by which they are justified,
@@ -212,12 +213,12 @@ and these good works the saints witnessed when they were upon the earth,
 which are the works of faith that works by love.
 
 [.discourse-part]
-P+++.+++ '`Infants that are baptized belong as well to the covenant and church of God,
+_Principle._ '`Infants that are baptized belong as well to the covenant and church of God,
 as they of full age, they by baptism being grafted into the church of God,
 so discerned from the children of infidels, so this baptism succeeds circumcision.`'
 
 [.discourse-part]
-A+++.+++ Then by this all christendom that are baptized
+_Answer._ Then by this all christendom that are baptized
 are the church and grafted into the church,
 Papists and Protestants and all!
 And how is it that your church is in so much confusion then?
@@ -235,22 +236,22 @@ as you may read in the fifth of John; for none are grafted into Christ the body,
 but they who come to the light John bare witness of.
 
 [.discourse-part]
-P+++.+++ '`You say, though Christ is in heaven, and you on earth, you are flesh of his flesh,
+_Principle._ '`You say, though Christ is in heaven, and you on earth, you are flesh of his flesh,
 and bone of his bone.`'
 
 [.discourse-part]
-A+++.+++ And yet before you said your consciences accused you,
+_Answer._ And yet before you said your consciences accused you,
 and your best works in this life were sinful and imperfect,
 and you could not keep the commands of God; now this is confusion,
 they who are of the flesh and bone of Christ are with him,
 and sit with him in heavenly places, for their conversation is in heaven.
 
 [.discourse-part]
-P+++.+++ '`We are grafted into Christ by the holy ghost now,
+_Principle._ '`We are grafted into Christ by the holy ghost now,
 according to his human nature on earth.`'
 
 [.discourse-part]
-A+++.+++ Human nature is from the ground, this is old Adam, but Christ, according to the flesh,
+_Answer._ Human nature is from the ground, this is old Adam, but Christ, according to the flesh,
 was of Abraham and of David.
 The scripture doth not tell us of human nature, for human is from the ground,
 but Christ is from above;
@@ -260,11 +261,11 @@ He that is made of the dust is human, he that is the Lord from heaven, is not hu
 so you err in your understandings that do not distinguish.
 
 [.discourse-part]
-P+++.+++ '`Teaching the gospel and ecclesiastical discipline,
+_Principle._ '`Teaching the gospel and ecclesiastical discipline,
 by which the heaven is opened to believers and shut against the unbelievers.`'
 
 [.discourse-part]
-A+++.+++ Christ hath the key which opens to believers,
+_Answer._ Christ hath the key which opens to believers,
 and '`he is the light which doth enlighten every man that
 comes into the world,`' that through it they might believe,
 and they that do not believe in the light which Christ hath enlightened them with,
@@ -276,11 +277,11 @@ that which they should have believed in; that is,
 the light Christ hath enlightened them withal, which is the key.
 
 [.discourse-part]
-P+++.+++ '`And such you say that are wicked men, the sacrament is to them forbidden,
+_Principle._ '`And such you say that are wicked men, the sacrament is to them forbidden,
 and they are shut out of the congregation.`'
 
 [.discourse-part]
-A+++.+++ Do you not call baptism sacrament, and have you given them it,
+_Answer._ Do you not call baptism sacrament, and have you given them it,
 and did not you say they are grafted into the church by baptism?
 and cannot Judas take the sop?
 But for the word sacrament you may look in the old canon-book, the mass-book,
@@ -294,20 +295,20 @@ Read and judge yourselves, and amend your lives, and repent,
 that you may come into the spirit that baptizeth into the body of Christ.
 
 [.discourse-part]
-P+++.+++ You say, '`Christ hath redeemed you by his blood,
+_Principle._ You say, '`Christ hath redeemed you by his blood,
 and renewed you by his spirit to his image.`'
 
 [.discourse-part]
-A+++.+++ And yet your works before were sinful, and you break the command of God.
+_Answer._ And yet your works before were sinful, and you break the command of God.
 Now this shows still, that you have but the form, and are unrenewed in spirit, unchanged,
 unconverted, and not in the image of God,
 and not in the thankfulness of God out of a pure heart.
 
 [.discourse-part]
-P+++.+++ '`To mortify the old man is to be sorry for your sins.`'
+_Principle._ '`To mortify the old man is to be sorry for your sins.`'
 
 [.discourse-part]
-A+++.+++ A man may be sorry for the sin he hath acted, but that which puts off the body of sin,
+_Answer._ A man may be sorry for the sin he hath acted, but that which puts off the body of sin,
 is the spirit, and that which purifies the heart is the faith,
 and that which cleanseth from all sin, is the blood of Jesus,
 and that which blots out all sin and transgression, is Christ the covenant of God;
@@ -315,7 +316,7 @@ and Christ within, manifest in the flesh, condemns sin in the flesh;
 so having him within, the body is dead because of sin.
 
 [.discourse-part]
-P+++.+++ '`Thou shalt not make to thyself any graven image,
+_Principle._ '`Thou shalt not make to thyself any graven image,
 the likeness of any thing in heaven above, or in the earth beneath, or worship them,
 or bow down to them; thou shalt not take the name of the Lord in vain, etc.
 And remember thou keep holy the sabbath day,
@@ -323,7 +324,7 @@ for six days thou shalt labour and do all thou hast to do, but on the sabbath th
 nor thy ox, servant, or stranger shall do no manner of work.`'
 
 [.discourse-part]
-A+++.+++ Do you not make graven images and pictures of things in heaven,
+_Answer._ Do you not make graven images and pictures of things in heaven,
 and of things in the water, and of things in the earth,
 and so make similitudes and representations, and adore them,
 and set them up in your houses?
@@ -352,12 +353,12 @@ Christ, who is the restorer, gives rest to the creation, who was before days wer
 by whom all things were made.
 
 [.discourse-part]
-P+++.+++ You say, '`Thou shalt do no murder, thou shalt not steal,
+_Principle._ You say, '`Thou shalt do no murder, thou shalt not steal,
 thou shalt not covet thy neighbour`'s goods, house, or servant,
 nor any thing that is his, his wife, or ox, or ass,`' etc.
 
 [.discourse-part]
-A+++.+++ Do you do no murder?
+_Answer._ Do you do no murder?
 That was the law without; do you fulfill it in christendom?
 Then you do not murder the just principle of God in your particulars.
 Do you not quench the spirit in people, and suffer it not to have liberty?
@@ -384,12 +385,12 @@ And that which it ends in is Christ, and love keeps the commands of Christ,
 they that love do not covet, and they are not idolaters.
 
 [.discourse-part]
-P+++.+++ '`We are not to make any images to be tolerated in the churches and chapels,
+_Principle._ '`We are not to make any images to be tolerated in the churches and chapels,
 or figures of things made, for it is not seemly,
 for God will have his church be taught by living preaching.`'
 
 [.discourse-part]
-A+++.+++ How is it that your churches so called,
+_Answer._ How is it that your churches so called,
 are so full of pictures and images of males and females,
 representing a figure of Adam and Eve, the apostles, and Christ in your houses,
 and on signs, of fish in the sea, and lions and other creatures upon the earth,
@@ -404,13 +405,13 @@ and the devil may come with his carnal weapons and throw it down,
 but the church of Christ, the pillar of truth, is that which the devil is out of.
 
 [.discourse-part]
-P+++.+++ '`You say a man may swear before a magistrate,
+_Principle._ '`You say a man may swear before a magistrate,
 and that this kind of swearing is ordained by God`'s word,
 therefore well used of the saints,
 and it is not lawful to swear by the saints or other creatures.`'
 
 [.discourse-part]
-A+++.+++ Here ye are out of the doctrine of Christ, who saith,
+_Answer._ Here ye are out of the doctrine of Christ, who saith,
 '`swear not at all,`' and out of the magistrates`' state the apostle speaks of,
 and out of Christ`'s doctrine and the apostles`',
 and have broken the commands of Christ and the apostles`' doctrine, which say,
@@ -438,14 +439,14 @@ So now the fruits of false and true brethren are seen, who keep the commands of 
 and walk in the doctrine of the apostles, and who do not.
 
 [.discourse-part]
-P+++.+++ You say,
+_Principle._ You say,
 '`that in the fourth commandment God doth command that the ministers of the gospel,
 and the schools of learning, should be maintained,
 and on the sabbath frequent studiously divine assemblies, hear the word diligently,
 using the sacraments.`'
 
 [.discourse-part]
-A+++.+++ Your schools, your sacraments, your sabbath, your studies by men,
+_Answer._ Your schools, your sacraments, your sabbath, your studies by men,
 your ministers at your schools, you have made since the apostles, and not by the Lord,
 but among yourselves, who are apostatized from his spirit;
 for the apostles had not schools.
@@ -460,35 +461,35 @@ and outstrip all your teachers made in schools, and by the learning of men;
 and so are not of man, nor by man, but the outward schools are of men, and by men.
 
 [.discourse-part]
-P+++.+++ You say,
+_Principle._ You say,
 '`The fifth commandment enjoins you to yield obedience to
 the faithful commandments of them that are over you,
 and the catechism.`'
 
 [.discourse-part]
-A+++.+++ The fifth commandment enjoins that men should obey the command of God, not of men,
+_Answer._ The fifth commandment enjoins that men should obey the command of God, not of men,
 nor the catechism, nor such stuff as is in this catechism,
 but they who are come to Christ come to the end of the commandments, the end of the law,
 him by whom the world was made, and who was before it was made.
 
 [.discourse-part]
-P+++.+++ You say, '`The meaning of the seventh commandment is, that you should live temperate,
+_Principle._ You say, '`The meaning of the seventh commandment is, that you should live temperate,
 modest, and chaste, and holy in wedlock.`'
 
 [.discourse-part]
-A+++.+++ Is this so, have you not broken wedlock both with God and man,
+_Answer._ Is this so, have you not broken wedlock both with God and man,
 and lost the chaste virgin state; and so got up into intemperance, immodesty,
 unchasteness, into uncleanness, and filthiness,
 and so show by your fruits that you neither come to keep this commandment,
 nor to Christ the end of it?
 
 [.discourse-part]
-P+++.+++ You say, '`The eighth commandment doth not only forbid robbery,
+_Principle._ You say, '`The eighth commandment doth not only forbid robbery,
 but covetousness after other men`'s goods, evil, witchcraft,
 devices to seek after other men`'s goods.`'
 
 [.discourse-part]
-A+++.+++ Then are you not all found in this seeking and
+_Answer._ Then are you not all found in this seeking and
 endeavouring by force after other men`'s goods,
 and hath not this been much of your practice both by sea and land,
 of many people in the whole Christendom,
@@ -499,44 +500,44 @@ Therefore repent, and amend all your ways, doings, and lives,
 that you may return to the Lord, and find peace and rest in the time of need.
 
 [.discourse-part]
-P+++.+++ You say, '`The ninth commandment saith, bear not false witness against any man,
+_Principle._ You say, '`The ninth commandment saith, bear not false witness against any man,
 and you should shun lying, and not falsify any man`'s word, nor backbite, nor reproach,
 and shun all careless kind of lives,`' etc.
 
 [.discourse-part]
-A+++.+++ How is it then that there are so many false witnesses, backbiters, reproachers,
+_Answer._ How is it then that there are so many false witnesses, backbiters, reproachers,
 rash condemners, men living in such careless kind of lives and deceit, among you,
 which is the devil`'s works?
 This is all out of the commands of God and the law, and short of Christ the end of it,
 and the fruits of this have now showed themselves.
 
 [.discourse-part]
-P+++.+++ You say, '`No one that is converted unto God perfectly,
+_Principle._ You say, '`No one that is converted unto God perfectly,
 observes and keeps his commandments.`'
 
 [.discourse-part]
-A+++.+++ Then no man loves God amongst you, nor are you converted;
+_Answer._ Then no man loves God amongst you, nor are you converted;
 neither are you of the seed of the woman that keep the commands of God;
 neither are you the children of God that John speaks of,
 that keep the commandments of God, that love God; neither are you believers,
 for Christ is the end of the law to them that believe.
 
 [.discourse-part]
-P+++.+++ You say, '`There is no man in this life able to keep the law of God,
+_Principle._ You say, '`There is no man in this life able to keep the law of God,
 and why then should God`'s law be so exact and severe?`'
 
 [.discourse-part]
-A+++.+++ The law of God is just, is not so exact, nor so severe, but is just and equal,
+_Answer._ The law of God is just, is not so exact, nor so severe, but is just and equal,
 and righteous, and perfect, and good, and not, as you look upon it, exact and severe.
 Now Christ the righteousness of God is the end of the law,
 and the man that loves God keeps his commandments,
 and comes to the end of the commandments, that is, love out of a pure heart.
 
 [.discourse-part]
-P+++.+++ You say, '`Christ teacheth you to call God Father, in the beginning of your prayers.`'
+_Principle._ You say, '`Christ teacheth you to call God Father, in the beginning of your prayers.`'
 
 [.discourse-part]
-A+++.+++ Christ taught that to his disciples who were his children, his sheep,
+_Answer._ Christ taught that to his disciples who were his children, his sheep,
 but that was not spoken to the world that did not believe in '`the light that enlightens
 every man that comes into the world;`' for the Pharisees could call him Father and Lord,
 but did not the things he commanded them, and such Christ said were of the devil,
@@ -549,10 +550,10 @@ whom he hath not begotten, the transgressor`'s birth, that is a bastard,
 a false conception.
 
 [.discourse-part]
-P+++.+++ You say, '`Forgive us, as we forgive them that trespass against us.`'
+_Principle._ You say, '`Forgive us, as we forgive them that trespass against us.`'
 
 [.discourse-part]
-A+++.+++ Is it so?
+_Answer._ Is it so?
 Do ye do so?
 And would you be forgiven no otherwise,
 but as ye forgive others that have trespassed against you?
@@ -564,12 +565,12 @@ And whether you can witness you are forgiven that do not forgive others?
 Whether you have the assurance within you?
 
 [.discourse-part]
-P+++.+++ You say, '`The particle amen, means the things sure, out of doubt,
+_Principle._ You say, '`The particle amen, means the things sure, out of doubt,
 for your prayers are much more certainly heard of God,
 than you feel in your hearts that you unfeignedly desire the same.`'
 
 [.discourse-part]
-A+++.+++ Amen, or so be it, for the promise is to the seed, yea and amen,
+_Answer._ Amen, or so be it, for the promise is to the seed, yea and amen,
 which fetches up the seed out of time who hath been in prison in time,
 and brings it by the power of God where there is no time, and there is yea and amen;
 and the Lord accepts no prayer from the corrupt heart, or such whose works are sinful,

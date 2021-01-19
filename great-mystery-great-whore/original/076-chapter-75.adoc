@@ -2,11 +2,11 @@
 == John Owen, who calls himself a Minister of the Gospel, in his Catechism, which he gives forth, 1657, has these principles.
 
 [.discourse-part]
-P+++.+++ '`All truth concerning God and ourselves, is to be learned from the holy scripture,
+_Principle._ '`All truth concerning God and ourselves, is to be learned from the holy scripture,
 the word of God.`'
 
 [.discourse-part]
-A+++.+++ There was truth learned before the scriptures were written;
+_Answer._ There was truth learned before the scriptures were written;
 and the scriptures of truth are the words of God, which end in Christ the word;
 and there is no truth learned, but as the spirit doth lead into all truth,
 which comes from Christ the truth, which was before the scripture was written.
@@ -16,29 +16,29 @@ but as the spirit leads them, and reveals him;
 and so he hath excluded Christ and the spirit.
 
 [.discourse-part]
-P+++.+++ '`There is one God in three persons,`' etc.
+_Principle._ '`There is one God in three persons,`' etc.
 
 [.discourse-part]
-A+++.+++ Where doth the apostle tell us of three persons, but tells us of Father, son,
+_Answer._ Where doth the apostle tell us of three persons, but tells us of Father, son,
 and holy ghost; but thou and you get this out of the mass-book,
 and old common-prayer-book, who are the mutterers about three persons.
 
 [.discourse-part]
-P+++.+++ '`I am conceived in sin, and born in iniquity.`'
+_Principle._ '`I am conceived in sin, and born in iniquity.`'
 
 [.discourse-part]
-A+++.+++ Then thy parents were not believers, so children unholy.
+_Answer._ Then thy parents were not believers, so children unholy.
 For, '`by nature children of wrath,`' that is in the unconverted state,
 in the transgression, unbelievers; for they who by nature are children of wrath,
 are not born of the believers; for the unbelievers are sanctified by the believers,
 else were their children unholy, but now are they clean.
 
 [.discourse-part]
-P+++.+++ '`We have not kept the commandments of God, but are all sinners,
+_Principle._ '`We have not kept the commandments of God, but are all sinners,
 and transgressors of them.`'
 
 [.discourse-part]
-A+++.+++ We do believe thee, John Owen, and the rest of you,
+_Answer._ We do believe thee, John Owen, and the rest of you,
 who call yourselves ministers of the gospel, and yet have not kept the ten commandments,
 and would include all men with you to be sinners and transgressors of them.
 Nay, John was separated from you, who said, '`He that loves God,
@@ -63,10 +63,10 @@ And are you not ashamed to set forth such a catechism,
 who say you keep not the commandments?
 
 [.discourse-part]
-P+++.+++ '`The sacraments are the seals of the covenant of grace.`'
+_Principle._ '`The sacraments are the seals of the covenant of grace.`'
 
 [.discourse-part]
-A+++.+++ It is God that seals the son, and sent him into the world, and not outward shadows.
+_Answer._ It is God that seals the son, and sent him into the world, and not outward shadows.
 And as for thy word sacraments, the pope was the author of them in his common-prayer-book.
 And as for the rest of thy work in thy book of catechism,
 it is like unto the old doctors of the Jews that broke the commands of God,
