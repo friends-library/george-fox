@@ -1429,21 +1429,29 @@ he desires a good work:`' so now ye bishops and elders,
 who say the scripture is your rule, come and be tried by this scripture,
 you that desire this office, this good work.
 
-First.
-'`A bishop must be unreprovable and blameless; are you so?
+[.numbered-group]
+====
 
-Secondly.
+[.numbered]
+_First._
+A bishop must be unreprovable and blameless; are you so?
+
+[.numbered]
+_Secondly._
 He must be the husband of one wife, watching, sober, modest, given to hospitality,
 apt to teach: now mark, are ye found in these practises?
 Let your fruits and the consciences of people speak.
 
-Thirdly.
+[.numbered]
+_Thirdly._
 '`Not given to wine, no striker, +++[+++mark, no striker nor persecutor,]
 not given to filthy lucre, but gentle, no flatterers, not covetous;`' so consider,
 ye bishops in Christendom; are ye no strikers, not given to wine nor filthy lucre?
 Are you gentle and not covetous, nor fighters?
 let the country and your consciences, and your fruits speak,
 and God and the scripture judge.
+
+====
 
 Further, a bishop must be one that can rule his own house honestly,
 having children under obedience with all honesty; for if he cannot rule his own house,
@@ -2403,6 +2411,8 @@ and according to their example that gave it forth in life and practice; for if y
 ye are judged and reproved by the holy scripture, and the spirit of God and Christ,
 by which they were given forth.
 
+[.signed-section-signature]
 G+++.+++ Fox.
 
+[.signed-section-context-close]
 Worcester Prison, the 11th month, 1674.
