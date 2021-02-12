@@ -253,11 +253,13 @@ are not you judged by the law of God, to be out of the practice of the old coven
 And so, short of the new, in the practice of the heathen,
 and not in the practice of the old covenant nor new?
 
-Object.
+[.discourse-part]
+_Object._
 And now if any of you should object,
 that Paul did shave his head after he was a christian. Acts 21.
 
-Answer.
+[.discourse-part]
+_Answer._
 The cause of that act of his, was this, viz. there was a report amongst the Jews,
 that he taught against the law of Moses, and was against circumcision; and therefore,
 James and the elders did advise Paul, saying unto him, '`purify thyself,
@@ -1040,8 +1042,10 @@ that are come to Jesus, their Mediator; who hath made their peace betwixt them a
 and so hath received him; who is come, and hath given them an understanding to know him;
 and they that have him, have life everlasting.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 10th month, 1678.
 
 === Postscript.
