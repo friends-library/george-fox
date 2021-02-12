@@ -867,7 +867,10 @@ and to the Father in the perfect oneness.
 [.blurb]
 === Now concerning Schisms and Errors amongst the Christians
 
-First, you presbyterians and other sects, that say you have not the same Holy Ghost,
+[.numbered-group]
+====
+
+_First,_ you presbyterians and other sects, that say you have not the same Holy Ghost,
 and spirit, and power as the apostles and primitive church had;
 and the papists manifest by their fruits,
 they have not the same power and Holy Ghost as the primitive church had; it is,
@@ -886,7 +889,8 @@ and to make you members of his body, and to graft you into Christ by belief.
 So hating the light you are erred from the body, and are not of the body of Christ,
 of his true church.
 
-Secondly, you turning not at the reproof of the Holy Ghost, which is for your sin,
+[.numbered]
+_Secondly,_ you turning not at the reproof of the Holy Ghost, which is for your sin,
 and for your righteousness, and judgment, and unbelief,
 you cannot be lead into all truth, so no ministers of the truth,
 and so are in no true substantial, standing comfort,
@@ -898,7 +902,8 @@ for how should you, if you will not turn at the reproofs of the Holy Ghost,
 which proceeds from the Father and the Son; for it takes of Christ,
 and gives unto them that are led by him, as is aforesaid.
 
-Thirdly, you say, there is no assurance of salvation on this side the grave;
+[.numbered]
+_Thirdly,_ you say, there is no assurance of salvation on this side the grave;
 we grant that you have none, but the church of Christ hath assurance,
 though you have not; and what is the reason you have not?
 Because ye turn the grace of God into wantonness,
@@ -907,6 +912,8 @@ the grace of God is not sufficient to teach, and bring their salvation,
 and therefore they dare not trust in it, the grace of God which taught the saints,
 and brought their salvation, and taught them to deny ungodliness and worldly lusts,
 and established their hearts.
+
+====
 
 And this grace (God said to Paul,) was sufficient;
 and this grace the apostle exhorted the church unto, which the true church knew then,
@@ -1117,6 +1124,8 @@ and confidence, and boldness in Christ Jesus, the life and their salvation,
 and to rejoice in him, their head, in whom they had victory,
 who made them more than conquerors.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Marshgrange, the 9th of the 3d month, 1676.

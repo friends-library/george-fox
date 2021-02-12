@@ -70,11 +70,13 @@ for if they escape not that refused him that spake on earth,
 much more shall not we escape if we turn away from
 him that speaks from heaven.`' Heb. 12:25.
 
-Object.
+[.discourse-part]
+_Object._
 But now you may object, and say, how shall we hear him?
 And where, and when?
 
-Answer.
+[.discourse-part]
+_Answer._
 God poured out his spirit upon the house of Israel, to whom he gave his law,
 which was holy, just, and good; that by God`'s spirit that was poured upon them,
 they might understand his law, and hear his voice; as in Ezek. 39:29.
@@ -151,10 +153,12 @@ So if all men have and know salvation, it is brought to them by this grace of Go
 their teacher; which grace brought salvation to the church in the primitive times,
 and which grace brings the salvation to the true church now in our times.
 
-Object.
+[.discourse-part]
+_Object._
 Now if you should enquire, or ask from whence comes this grace?
 
-Answer.
+[.discourse-part]
+_Answer._
 The law came by Moses to the Jews, the house of Israel,
 upon whom God poured out of his spirit that they might understand his law.
 
@@ -1535,4 +1539,5 @@ that takes care for all, and is over all his works,
 who was and is the speaker by his Son, to the christians, the first and the last,
 direct you all, for all are to incline their ear and hear him, that their souls may live.
 
+[.signed-section-context-close]
 The 5th day of the 10th month, 1676.
