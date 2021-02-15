@@ -534,8 +534,10 @@ and in the psalms concerning me;`' so the law and the prophets are fulfilled in 
 and he is the end of them; who is the first and the last, the beginning and the ending,
 the amen.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 The 1st day of the 7th month, 1676.
 
 === Postscript.
@@ -630,4 +632,5 @@ And they do see Christ, the second established, a priest forever,
 made higher than the heavens, who is over all from everlasting to everlasting,
 the first and last.
 
+[.signed-section-signature]
 G+++.+++ F.

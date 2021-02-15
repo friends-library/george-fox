@@ -14,6 +14,9 @@ and Christ`'s, who hath redeemed and bought them.--By G. F.
 It hath often been said, '`that the people of God in scorn called Quakers,
 love none but themselves.`'
 
+[.numbered-group]
+====
+
 To this I answer, such are mistaken in their judgment,
 and I fear it is their own conditions, for we love God that created all things,
 and his Son, by whom all things were made, who was conceived by the Holy Ghost,
@@ -23,18 +26,22 @@ and sits at the right hand of God;
 by whom God will judge the world according to the gospel, that is,
 according to the invisible power which is preached to every creature.
 
-Secondly.
+[.numbered]
+_Secondly._
 We love all men and women, simply as they are men and women,
 and as they are God`'s workmanship,
 and so as brethren and children of Adam and Eve by generation.
 
-Thirdly.
+[.numbered]
+_Thirdly._
 We love them all as they come to be the sons of God by adoption, and can say,
 Abba Father, in the heavenly brotherly fellowship,
 and we are commanded to do good unto all, especially to the household of faith:
 for Christ commands us to love one another, and not so only, but to love enemies,
 and it is a mark by which his were known to be his disciples,
 viz. by their loving each other.
+
+====
 
 And we are to pray for enemies, and our persecutors,
 by the command of Christ and the apostles.
@@ -578,4 +585,5 @@ and is our rock and our foundation in this our age and generation,
 who bruises the serpent`'s head, who is the first and last,
 who is the love of God to mankind; glory to God forever.
 
+[.signed-section-signature]
 G+++.+++ F.
