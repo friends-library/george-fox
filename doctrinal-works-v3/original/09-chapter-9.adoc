@@ -1,3 +1,4 @@
+[#ch9.style-blurb, short="Against the Pomps of the World"]
 == A Paper to Friends, and others, against the pomps of the world, followed and used by many tradesmen, in their vocations, contrary unto many of their sureties, promises, and vows.
 
 Friends, stand in the eternal power of God, witnesses for the eternal God,
@@ -98,7 +99,8 @@ to whom be glory forever; whose glory is over all the works of his hands;
 who is worthy to be served, worshipped, and honoured forevermore.
 Amen.
 
-* * *
+[.asterism]
+'''
 
 And therefore it is good for all, to wait patiently upon the Lord;
 for some of you do know, when truth first broke forth in London,

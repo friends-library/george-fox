@@ -1,3 +1,4 @@
+[#ch4.style-blurb, short="The Protestant Christian Quaker"]
 == The Protestant Christian Quaker, a sufferer by Relics of Popery, under all powers, for thirty years last past, who have Persecuted for Religion, yet call the Holy Scriptures their rule, that justifieth no such practice. By G. F.
 
 The apostle exhorts the christians,
@@ -515,8 +516,8 @@ and you are all brethren;`' and that '`they should not exercise lordship one ove
 like the Gentiles; and be called lords; for it should not be so amongst them.`'
 
 And the apostle Peter exhorted, '`that they should feed the flock of God,
-but not to be as lords over God`'s heritage,`' as in 1 Pet.
-5. '`In the world there be lords many; but to us but one Lord Jesus Christ,
+but not to be as lords over God`'s heritage,`' as in 1 Pet. 5.
+'`In the world there be lords many; but to us but one Lord Jesus Christ,
 by whom were all things made; and one Lord God, the creator of all; and one faith,
 and one baptism;`' and Christ alone is the one saving baptiser.
 
@@ -659,6 +660,10 @@ So as Modes the servant was faithful over his house in the old covenant,
 and the law of works; so Christ the son of God is over his spiritual house,
 in his new covenant of light, life, and grace, whose house we are.
 
+[.asterism]
+'''
+
+[.blurb]
 === Concerning the upright and good conversation of the Saints in Christ, and in heaven.
 
 David saith, '`The wicked have drawn out the sword, and have bent their bow,
