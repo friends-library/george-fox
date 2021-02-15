@@ -11262,7 +11262,7 @@ and all the voices of natural Adam`'s sons and daughters below.
 
 G+++.+++ Fox.
 
-=== The Saints, (or they that are born of the Spirit,) their Heavenly and Spiritual worship, Unity, and Communion; and the Ministers of the Spirit in the New Testament, preached the word of Life, which was in the beginning, which they had heard, seen, and handled, and brought the Church of Christ to the same word: and they brought the Church of Christ to have fellowship with the Father and his Son.And concerning the Supper, that Christ calls his brethren unto, after that he was arisen, and ascended at the right hand of God. By G. F.
+== The Saints, (or they that are born of the Spirit,) their Heavenly and Spiritual worship, Unity, and Communion; and the Ministers of the Spirit in the New Testament, preached the word of Life, which was in the beginning, which they had heard, seen, and handled, and brought the Church of Christ to the same word: and they brought the Church of Christ to have fellowship with the Father and his Son.And concerning the Supper, that Christ calls his brethren unto, after that he was arisen, and ascended at the right hand of God. By G. F.
 
 You that are believers in the light, which is the life in Christ, the word,
 by which all things were made and created, and are become the children of the light,
@@ -11819,14 +11819,13 @@ Amen.
 and the glory of God doth enlighten it,
 and the lamb is the light thereof.`' Rev. 21:22-23.
 
-Geo.
-Fox.
+Geo. Fox.
 
 Kingston, the 9th of the 9th Month, 1684.
 
-* * *
+== A word of admonition to such as wander from the anointing and teaching within, and from the Father and the son.
 
-===== A word of admonition to such as wander from the anointing and teaching within, and from the Father and the son.As also concerning the supper of the Lord, before he was crucified; and his marriage supper after he was risen and ascended.
+As also concerning the supper of the Lord, before he was crucified; and his marriage supper after he was risen and ascended.
 And who are they that declare the generation of Christ,
 distinct from the generation of natural Adam;
 and the reason why all become not the sons and daughters of God that are called Christians;
@@ -12273,9 +12272,11 @@ and therefore the judgments of God`'s spirit stands over the head of such,
 who will not believe in Christ, and follow him, who bruises the serpent`'s head,
 that you might have life and salvation in Christ.
 
-* * *
+[.asterism]
+'''
 
-===== Concerning God`'s God`'s promise to Cain, and how by disobedience he fell short of it.
+[.blurb]
+=== Concerning God`'s God`'s promise to Cain, and how by disobedience he fell short of it.
 
 And the Lord said to Cain, '`If thou dost well, shalt thou not be accepted?
 and if not, sin lies at thy door.`' Here was the promise of God to Cain,
@@ -12469,9 +12470,11 @@ and call upon him while he is nigh;`' who would have all men to be saved,
 and come to the knowledge of the truth.
 '`Your hearts shall live that seek God.`' Ps. 69:32.
 
-* * *
+[.asterism]
+'''
 
-===== The Christians`' righteousness must exceed the righteousness of the Scribes and Pharisees, or else they cannot enter into the kingdom of God; and such as persecute the righteous, are full of dead men`'s bones, and their throats are open sepulchres; and such as envy their brethren, are menslayers, and have not eternal life abiding in them.
+[.blurb]
+=== The Christians`' righteousness must exceed the righteousness of the Scribes and Pharisees, or else they cannot enter into the kingdom of God; and such as persecute the righteous, are full of dead men`'s bones, and their throats are open sepulchres; and such as envy their brethren, are menslayers, and have not eternal life abiding in them.
 
 Christ saith,
 '`Except your righteousness exceed the righteousness of the scribes and Pharisees,
@@ -12590,8 +12593,7 @@ and so the wicked persecuted the righteous and just in all ages.
 
 G+++.+++ F.
 
-===== Concerning such such as shall enter into the kingdom of God, and New and Heavenly Jerusalem, and such as shall not.
-By G. F.
+== Concerning such such as shall enter into the kingdom of God, and New and Heavenly Jerusalem, and such as shall not. By G. F.
 
 Christ Jesus saith, '`No man can see the kingdom of God,
 nor enter into the kingdom of God, except he be born again of water, and of the spirit.
@@ -12804,9 +12806,7 @@ you may see Christ`'s judgments upon the wicked,
 and their end, and the happiness and eternal state of the righteous,
 which Christ calleth his sheep.
 
-* * *
-
-===== Concerning Condemnation.
+== Concerning Condemnation.
 
 He that believeth on Christ in his light, which is the life in him, is not condemned;
 but he that believeth not in the light, as Christ commands, '`is condemned already.
@@ -12896,9 +12896,7 @@ and who enter into the kingdom of God, and into the heavenly Jerusalem, and who 
 
 G+++.+++ F.
 
-* * *
-
-===== Concerning such as have forbidden preaching, or teaching in the name of Jesus, and such as are ashamed to confess Him before men, and call not on the name of the Lord, etc.
+== Concerning such as have forbidden preaching, or teaching in the name of Jesus, and such as are ashamed to confess Him before men, and call not on the name of the Lord, etc.
 
 Here you may see who, and what they were, that forbade the apostles to preach, or teach,
 or speak in the name of Jesus;
@@ -13001,9 +12999,7 @@ G+++.+++ F.
 
 The 6th of the 10th month, 1684.
 
-* * *
-
-===== To the Chief Magistrates, Rulers, Ministers, Justices of the Peace, and other Officers; who profess Christ and Christianity, and are called by that worthy name, and great title of Christians; which is from the King of kings, and Lord of lords, Christ Jesus.
+== To the Chief Magistrates, Rulers, Ministers, Justices of the Peace, and other Officers; who profess Christ and Christianity, and are called by that worthy name, and great title of Christians; which is from the King of kings, and Lord of lords, Christ Jesus.
 
 1st. And you professing the holy scriptures of truth,
 and confessing to the new testament and new covenant, and the law and the prophets,
@@ -13158,7 +13154,7 @@ G+++.+++ F.
 
 London, the 17th of the 9th month, 1684.
 
-Postscript
+=== Postscript
 
 Where do ye ever read, that the Jews, when they had conquered any nation or kingdom,
 did by the law force them to the Jewish religion, or to be circumcised?
@@ -13194,10 +13190,9 @@ Matt. 9:13.
 Christ saith, Learn what that meaneth, I will have mercy,
 and not sacrifice.`'
 
-===== An exhortation to all people, to pureness, cleanness, and holiness, and faithfulness to the Lord.
+== An exhortation to all people, to pureness, cleanness, and holiness, and faithfulness to the Lord.
 
-===== Here you may see who they are that dwell with everlasting burnings, and in God`'s tabernacle and holy mountain, and who not.
-By G. F.
+Here you may see who they are that dwell with everlasting burnings, and in God`'s tabernacle and holy mountain, and who not. By G. F.
 
 David saith, '`Who shall ascend unto the hill of the Lord?
 and who shall stand in his holy place?`' David answers, and saith,
@@ -13275,9 +13270,7 @@ and to revive the heart of the contrite ones.`' Isa. 57:15.
 Therefore is it not good to wait upon the Lord,
 and trust in him?
 
-* * *
-
-===== Concerning such as eat up God`'s people like bread, and such as make Idols and Images, and worship them, are without the true understanding, and are fools that hate knowledge; and such as go into Adultery and Uncleanness, are void of the wisdom of God, and true understanding; and God`'s fury is upon all such as do not call upon his name.
+== Concerning such as eat up God`'s people like bread, and such as make Idols and Images, and worship them, are without the true understanding, and are fools that hate knowledge; and such as go into Adultery and Uncleanness, are void of the wisdom of God, and true understanding; and God`'s fury is upon all such as do not call upon his name.
 
 David saith, '`Have all the workers of iniquity no knowledge,
 who eat up my people as they eat bread?`' Ps. 14:4. Here the workers of iniquity,
@@ -13357,9 +13350,7 @@ and the Lord taketh care for them that fear him,
 as in Ex. 1:21. Therefore it is good to live in the fear of the Lord,
 which ye must if ye would know his secrets.
 
-* * *
-
-===== The cause of drought, and barrenness, famine and plagues, for disobeying the Lord, and grieving his Spirit.
+== The cause of drought, and barrenness, famine and plagues, for disobeying the Lord, and grieving his Spirit.
 
 The cause of drought, barrenness, and famine.
 '`The Lord turneth rivers into a wilderness, and the water-springs into dry ground,
@@ -13457,7 +13448,8 @@ and so turn from the Lord into sin and wickedness,
 such cannot expect to escape these plagues and judgments, that God and his prophets,
 Christ and his apostles, have pronounced against them in the holy scriptures of truth.
 
-===== Concerning such as overcome the Beast, and Dragon, and Whore, and False Prophet.
+== Concerning such as overcome the Beast, and Dragon, and Whore, and False Prophet.
+
 Rev. 11:7.
 '`The beast shall overcome the two witnesses of God,
 and kill them.`' Rev. 13:7. '`And the beast shall make war with the saints,
@@ -13529,9 +13521,7 @@ and bend their bows to shoot their arrows, even bitter words.`' Ps. 64:2-3.
 
 G+++.+++ F.
 
-* * *
-
-===== A distinction between the two suppers of Christ; namely, the last supper in the same night that he was betrayed, before he was crucified; and the supper after he was risen and ascended at the right hand of God, which he calls people to in Rev. 3. To hear his voice, and open the door, and he will sup with them, and they shall sup with him.Likewise, something concerning Christ, the resurrection of the just and unjust.And also, concerning the stone cut out of the mountain without hands, which smote the image.
+== A distinction between the two suppers of Christ; namely, the last supper in the same night that he was betrayed, before he was crucified; and the supper after he was risen and ascended at the right hand of God, which he calls people to in Rev. 3. To hear his voice, and open the door, and he will sup with them, and they shall sup with him.Likewise, something concerning Christ, the resurrection of the just and unjust.And also, concerning the stone cut out of the mountain without hands, which smote the image.
 Dan. 2.And concerning Christ, the vine, and the Jews,
 how that God planted them a noble vine, but they degenerated,
 and destroyed the Lord`'s servants, and son, that came to look for fruits.
@@ -14129,7 +14119,7 @@ Amen.
 
 G+++.+++ F.
 
-Postscript
+=== Postscript
 
 Christ saith, '`It is written, behold I send my messenger before thy face,
 which shall prepare thy way before thee.`' And Christ saith, '`Verily I say unto you,
@@ -14173,9 +14163,7 @@ and all such have communion and fellowship in the holy ghost.
 
 G+++.+++ F.
 
-* * *
-
-===== Concerning Christ, the resurrection of the just and unjust.
+== Concerning Christ, the resurrection of the just and unjust.
 
 Christ saith to Martha, '`Thy brother Lazarus shall rise again.`' Martha said unto Jesus,
 '`I know he shall rise in the resurrection at the last day.`' Jesus said unto Martha,
@@ -14267,21 +14255,21 @@ how in the bush God spake unto him, saying, I am the God of Abraham,
 and the God of Isaac, and the God of Jacob.
 (Luke 20:38) He is not the God of the dead, but the God of the living,
 for all live to him.`' And Christ said unto the Sadducees, '`Ye do greatly err,`' etc. Mark 12:13.
-20. 27. Matt. 22:23. 28. 30,
-31. '`For he that believeth shall not perish, but have everlasting life.`' John 3:15.
+20. 27. Matt. 22:23. 28. 30, 31.
+'`For he that believeth shall not perish, but have everlasting life.`' John 3:15.
 
 And you may see how the apostles were witnesses of
 the resurrection of Christ from the dead,
-and that his soul was not left in hell, neither did his flesh see corruption. Acts 2:30-31.
-and iv.
-33. But the preaching the resurrection of Christ to the philosophers, Epicureans,
+and that his soul was not left in hell, neither did his flesh see corruption.
+Acts 2:30-31. and 4:33.
+But the preaching the resurrection of Christ to the philosophers, Epicureans,
 and Stoics, they called it babbling, and so mocked at it;
 as in Acts 17:18.22. And there see how they opposed the apostle,
 when he preached Christ the resurrection from the dead, Acts 23:6.
 And the apostle said, '`that there shall be a resurrection of the dead,
 both of the just and unjust;`' and for preaching the resurrection of the dead, (namely,
-Christ Jesus,) he was called in question. Acts 24:15.
-21. For all men being dead in Adam,
+Christ Jesus,) he was called in question. Acts 24:15. 21.
+For all men being dead in Adam,
 Christ by the grace of God hath tasted death for every man,
 and is risen for their justification; he is the quickening spirit,
 and is the resurrection and the life, and the first born from the dead,
@@ -14336,9 +14324,7 @@ destroyeth the devil and his works, who through death destroyeth death, yea, the
 the power of death, and bruiseth the serpent`'s head, and casts the devil,
 the old serpent, and the dragon, and the beast,
 and the false prophet into the lake of fire.
-Rev. xviiii.
-20. and xx.
-10.
+Rev. 18:20. and 20:10.
 
 Now Christ, who is the beginning and ending, the first and the last,
 all that believe in him, and are grafted into him, and put him on, and walk in him,
@@ -14448,7 +14434,7 @@ The sting of death is sin, and the strength of sin is the law; but thanks be to 
 which giveth us (mark, us,) the victory, through our Lord Jesus Christ.`' 1 Cor.
 xv. Isa. 25:8. Hos. 13.
 
-Postscript
+=== Postscript
 
 Peter saith to the church,
 '`I will not be negligent to put you always in mind,`' (namely,
@@ -14482,9 +14468,7 @@ there is a natural body,
 and there is a spiritual body.`' The natural body may be seen with the natural eye,
 but the spiritual body must be seen with the spiritual eye.
 
-* * *
-
-===== Concerning the stone that smote the image; and concerning Christ the vine, and the Jews, how that God planted them a noble vine, but they degenerated, and destroyed the Lord`'s servants and son, that came to look for fruits.
+== Concerning the stone that smote the image; and concerning Christ the vine, and the Jews, how that God planted them a noble vine, but they degenerated, and destroyed the Lord`'s servants and son, that came to look for fruits.
 
 Daniel saith, '`The stone that was cut out of the mountain without hands,
 which brake to pieces the great image of iron, clay, brass, silver, and gold,
@@ -14846,9 +14830,7 @@ and all who profess christianity are to mind that, that they may enjoy it.
 
 G+++.+++ F.
 
-* * *
-
-===== To all all Kings, Princes, Rulers, Governors, Bishops, and Clergy, that profess christianity in Christendom.
+== To all all Kings, Princes, Rulers, Governors, Bishops, and Clergy, that profess christianity in Christendom.
 
 ===== Being a distinction between the laws, commandments, and ordinances of the higher powers, for the punishment of evil doers, and for the praise of them that do well.
 
@@ -15605,7 +15587,7 @@ for they shall obtain mercy.`' Matt. 5:7.
 
 And again Christ saith, '`Be ye merciful, as your heavenly Father is merciful.`' Luke 6.
 
-Postscript
+=== Postscript
 
 After Cyrus, king of Persia,
 had made a proclamation throughout all his kingdom in writing, saying,
@@ -15817,10 +15799,7 @@ which will separate the wheat from the tares.`' Matt. 13:30 to 41.
 
 G+++.+++ F.
 
-* * *
-
-===== A distinction between true liberty and false.
-By G. F.
+== A distinction between true liberty and false. By G. F.
 
 God pouring out of his spirit on all flesh, both on sons and daughters,
 handmaids and servants, etc. all are to walk in the liberty of this holy, pure,
@@ -16003,8 +15982,7 @@ G+++.+++ F.
 
 London, the 12th of the 8th month, 1685.
 
-===== How the unchangeable God is, and how all people may know him, and in what he is worshipped and served.
-By G. F.
+== How the unchangeable God is, and how all people may know him, and in what he is worshipped and served. By G. F.
 
 The Lord '`hath measured the waters in the hollow of his hand.`' So the Lord,
 the incomparable God knoweth the measures of the waters in the seas, brooks, rivers,
@@ -16157,10 +16135,7 @@ and worship and serve the living God in his spirit and truth.
 
 G+++.+++ F.
 
-* * *
-
-===== A true account of the sensible, thankful, and holy stale of God`'s people; and of his speaking to them, both in the Old and New Covenant.
-By G. F.
+== A true account of the sensible, thankful, and holy stale of God`'s people; and of his speaking to them, both in the Old and New Covenant. By G. F.
 
 Here you may see that all God`'s people were a living and a sensible people,
 and did always, for all things, give thanks to God the Father,
@@ -16254,9 +16229,7 @@ through Christ Jesus, who is worthy of all thanks, glory, honour, and praise, fo
 Amen,
 G+++.+++ F.
 
-* * *
-
-===== How the Lord spake unto Moses in the outward Tabernacle in the Old Testament, and God speaks now by his Son in the New Testament, in the Tabernacle and hearts of his people.
+== How the Lord spake unto Moses in the outward Tabernacle in the Old Testament, and God speaks now by his Son in the New Testament, in the Tabernacle and hearts of his people.
 
 The Lord said unto Moses, when he and the Jews were to make the tabernacle,
 '`Thou shalt put the mercy-seat above the ark,
@@ -16567,13 +16540,7 @@ and put to death for the sins of the whole world, in the new covenant.
 
 G+++.+++ F.
 
-* * *
-
-===== To all Magistrates in Christendom that do profess Christianity.
-Concerning Christian gospel-liberty, against persecution, and one Christian, forcing,
-persecuting, imprisoning, and spoiling the goods of another,
-because they will not be of their faith, worship, or religion.
-By G. F.
+== To all Magistrates in Christendom that do profess Christianity. Concerning Christian gospel-liberty, against persecution, and one Christian, forcing, persecuting, imprisoning, and spoiling the goods of another, because they will not be of their faith, worship, or religion. By G. F.
 
 Christ saith, '`Let the tares and the wheat grow together till the harvest,
 which is the end of the world;`' and then Christ`'s
@@ -16687,7 +16654,7 @@ For the body, or church of Christ, is edified, knit, and united,
 and built up together with the love of God. Ephesians 4:16.
 Colossians 2:19.
 
-Postscript
+=== Postscript
 
 Do not all christians that profess christianity, say these words in the Lord`'s prayer,
 '`forgive us our trespasses, as we forgive our trespassers?`' And doth not Christ say,
@@ -16705,10 +16672,7 @@ And if they do forgive, they will not hate nor persecute, but love.
 
 G+++.+++ F.
 
-* * *
-
-===== How God`'s people are not to take the names of the heathen gods in their mouths, nor follow their customs, nor learn their ways.
-By G. F.
+== How God`'s people are not to take the names of the heathen gods in their mouths, nor follow their customs, nor learn their ways. By G. F.
 
 Thus saith the Lord to the house of Israel, '`Learn not the way of the heathen,
 and be not dismayed at the signs of heaven; for the heathen are dismayed at them,
@@ -16829,14 +16793,13 @@ and they shall no more be remembered by their name.`' Hos. 2:17.
 
 G+++.+++ F.
 
-===== A testimony for God`'s truth: First, concerning new and heavenly Jerusalem, and Jerusalem from below.
+== A testimony for God`'s truth: First, concerning new and heavenly Jerusalem, and Jerusalem from below.
 
-===== Secondly, concerning Christ, the great mountain that fills the whole earth.
+Secondly, concerning Christ, the great mountain that fills the whole earth.
 
-===== Thirdly, how man and woman was created in the image of God, and to be meet-helps one to another.
+Thirdly, how man and woman was created in the image of God, and to be meet-helps one to another.
 
-===== Fourthly, how every one ought to improve the talent God gives them, to his glory, and their eternal happiness.
-By G. F.
+Fourthly, how every one ought to improve the talent God gives them, to his glory, and their eternal happiness. By G. F.
 
 The apostle writes to the church of Christ, and saith,
 '`Jerusalem which is above is free,
@@ -17006,9 +16969,10 @@ viz. '`the free born children of Jerusalem from above.`'
 
 G+++.+++ F.
 
-* * *
+[.asterism]
+'''
 
-===== How all nations may see with the light, the life in Christ, him the great mountain that fills the whole earth.
+=== How all nations may see with the light, the life in Christ, him the great mountain that fills the whole earth.
 
 Concerning the stone cut out of the mountain without hands,
 spoken of in Daniel 2. which did dash to pieces the image whose head was fine gold,
@@ -17127,9 +17091,10 @@ and his seed I will make endure forever, and his throne as the days of heaven.
 
 G+++.+++ F.
 
-* * *
+[.asterism]
+'''
 
-===== Here you may see how male and female were meet-helps in the government, when God made them in his image of righteousness and holiness, and how Christ restores man up into his image again, and how that male and female are all one in him, and of the increase of Christ`'s government and peace there is no end.
+=== Here you may see how male and female were meet-helps in the government, when God made them in his image of righteousness and holiness, and how Christ restores man up into his image again, and how that male and female are all one in him, and of the increase of Christ`'s government and peace there is no end.
 
 God said, '`Let us make man in our image, after our likeness,
 and let them have dominion over the fish of the sea, and over the fowls of the air,
@@ -17280,9 +17245,10 @@ men witnesses,) every word is established among men,
 but the witness of God is greater`' than the witness of men.
 He that hath an ear, let him understand these things. 1 John 3:7-8.
 
-* * *
+[.asterism]
+'''
 
-===== Here you may see how every one is to improve his talent which Christ gives them, if not, it will be taken from them, and they cast into utter darkness.
+=== Here you may see how every one is to improve his talent which Christ gives them, if not, it will be taken from them, and they cast into utter darkness.
 
 Christ Jesus saith,
 '`The kingdom of heaven is as a man travelling into
@@ -17333,9 +17299,7 @@ G+++.+++ F.
 Kingston upon Thames, the 7th of the 10th month.
 1687.
 
-* * *
-
-===== Concerning the apostate Christians, that think to do miracles by dead men`'s bones, etc. of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead.
+== Concerning the apostate Christians, that think to do miracles by dead men`'s bones, etc. of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead.
 Concerning purgatory, and making a God or Christ of the elements of bread and wine.
 Concerning the traditions the Jews taught,
 which made the word and commandment of God of none effect,
@@ -17373,9 +17337,10 @@ Let them produce one example if they can.
 Let all the apostate christians produce one scripture where ever
 the saints got the bones of the saints to do miracles by.
 
-* * *
+[.asterism]
+'''
 
-===== Of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead.
+=== Of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead.
 
 Let all the apostate christians produce one scripture
 for their vain tradition of praying for the dead,
@@ -17383,10 +17348,7 @@ or to the dead, or asking counsel of the dead;
 but Saul when he had transgressed the command of God, and disobeyed him,
 he went to the witch of Endor, pretending to raise up Samuel, to ask counsel of the dead;
 but what was the end of Saul?
-You may see in 1 Sam.
-xxviii.
-and xxxi.
-chapters.
+You may see in 1 Sam. 28. and 31. chapters.
 
 And David prayed to God while his child was living; but when the child was dead,
 he gave over praying to God for it, and fasting, and said, '`Now the child is dead,
@@ -17403,9 +17365,10 @@ And Solomon saith, '`The dead know not anything.`' Ecc. 9:5,
 And yet do not you pray to them that know not any thing?
 Is not that madness?
 
-* * *
+[.asterism]
+'''
 
-===== Concerning the apostate christians`' tradition of a purgatory, after they are dead.
+=== Concerning the apostate christians`' tradition of a purgatory, after they are dead.
 
 Solomon saith, '`All turneth to dust again;
 and who knoweth the spirit of man that goeth upward;`' and the spirit
@@ -17494,7 +17457,10 @@ that they may add sin to sin.`'
 So here you may see what is the portion of all such that cover with a covering,
 but not of God`'s spirit; and ask counsel, but not of him.
 
-===== Concerning the apostate Christians.
+[.asterism]
+'''
+
+=== Concerning the apostate Christians.
 traditions, of making a God or Christ of bread and wine; and of their bowing to him,
 and worshipping him, and eating him when they have done.
 We never read that the heathens, nor the apostate Jews,
@@ -17569,9 +17535,10 @@ but he found no place of repentance; and therefore, how are any like to repent,
 and come out of the grave and purgatory, as you call it, after they are dead,
 when Esau could not find repentance upon the earth?
 
-* * *
+[.asterism]
+'''
 
-===== Concerning the traditions of the Jews, and apostate Christians.
+=== Concerning the traditions of the Jews, and apostate Christians.
 
 Christ said to the Pharisees,
 '`Why do you transgress the command of God by your traditions?
@@ -17649,9 +17616,10 @@ Glory to God forever, through the Lord Jesus Christ,
 who is the only one mediator between God and man, even the man Christ Jesus,
 who makes peace between us and God; the same today, yesterday, and forever.
 
-* * *
+[.asterism]
+'''
 
-===== Christ is the rock and foundation which the heavenly Father revealed to Peter, on which he builds his church, and not on Peter, nor that which flesh and blood had revealed to Peter.
+=== Christ is the rock and foundation which the heavenly Father revealed to Peter, on which he builds his church, and not on Peter, nor that which flesh and blood had revealed to Peter.
 
 Jesus asked his disciples,
 '`Whom do men say that I the son of man am?`' and the disciples answered and said,
@@ -17735,9 +17703,10 @@ Amen.
 
 G+++.+++ F.
 
-* * *
+[.asterism]
+'''
 
-===== Now concerning whom the scripture saith is the true rock and foundation.
+=== Now concerning whom the scripture saith is the true rock and foundation.
 
 David saith, '`The Lord is my rock and my fortress,
 and my deliverer.`' Ps. 18:2. And again, David saith, '`For who is God save the Lord,
@@ -17773,7 +17742,10 @@ Christ Jesus himself being the chief corner stone;`'
 so the rock and foundation of God stands sure.
 Christ Jesus, the same yesterday, and today, and so forever.
 
-===== The antiquity of our Cross.
+[.asterism]
+'''
+
+=== The antiquity of our Cross.
 
 The apostle saith to the church of Christ,
 that '`the preaching of the cross is to them that perish foolishness;
@@ -17832,9 +17804,7 @@ G+++.+++ F.
 
 The 2d month, 1688.
 
-* * *
-
-===== The speech or declaration of Sultan Mahomet, the Great Turk, which he sent to the emperor of Germany, dated March 25th, 1683, from Adrianople, just after the Baron Saphonara, the Emperor`'s Ambassador, had his last audience of the Prince Vizier, wherein the said Ambassador could not comply with the extravagant demands of the Turk; which caused the said Grand Seignior to transmit the same to his Imperial Majesty: which is faithfully translated out of High Dutch.
+== The speech or declaration of Sultan Mahomet, the Great Turk, which he sent to the emperor of Germany, dated March 25th, 1683, from Adrianople, just after the Baron Saphonara, the Emperor`'s Ambassador, had his last audience of the Prince Vizier, wherein the said Ambassador could not comply with the extravagant demands of the Turk; which caused the said Grand Seignior to transmit the same to his Imperial Majesty: which is faithfully translated out of High Dutch.
 
 Mahomet the Fourth, son of emperors, and of the famous and renowned God;
 emperor of the Turks, king of Greece, Macedonia, Moldavia, Samaria, and Hegha;
@@ -17876,10 +17846,7 @@ You will do well to forsake your religion,
 otherwise I will give order to consume you with fire.
 This is enough to let you understand my will, if you will be so wise as to know it.
 
-* * *
-
-===== An answer to the speech or declaration of the great Turk, etc.
-By G. F.
+=== An answer to the speech or declaration of the great Turk, etc. By G. F.
 
 Sultan Mahomet,
 
@@ -18349,10 +18316,7 @@ by the resurrection from the dead. Rom. 1:3-4.
 
 G+++.+++ F.
 
-* * *
-
-===== Concerning daily Sacrifices and Offerings.
-By G. F.
+== Concerning daily Sacrifices and Offerings. By G. F.
 
 The priests under the law daily offered sacrifices;
 but Christ our high priest need not daily, as those priests,
@@ -18472,10 +18436,7 @@ that his plague broke out upon them; as in Ps. 106:28-29.
 
 G+++.+++ F.
 
-* * *
-
-===== Concerning the antiquity of the people of God called Quakers; their worship; their mother, new and heavenly Jerusalem; their faith, and who is the author and finisher of it; their belief their way, their original; their hope, distinct from the hope of the hypocrite that perishes; their gospel, the true ministers, their leader and teacher, and that which gives them knowledge; their mediator, their overseer, the church of Christ`'s prayer, and in what is their cross, and their baptism.
-By G. F.
+== Concerning the antiquity of the people of God called Quakers; their worship; their mother, new and heavenly Jerusalem; their faith, and who is the author and finisher of it; their belief their way, their original; their hope, distinct from the hope of the hypocrite that perishes; their gospel, the true ministers, their leader and teacher, and that which gives them knowledge; their mediator, their overseer, the church of Christ`'s prayer, and in what is their cross, and their baptism. By G. F.
 
 I+++.+++ Concerning the antiquity of our worship.
 
@@ -19280,7 +19241,8 @@ So Christ, the heavenly king and Lord, rules, orders,
 and governs in the hearts and souls of his children,
 who is the bishop and chief shepherd of the soul to oversee and feed his sheep.
 
-===== Concerning our Baptism.
+[.blurb]
+=== Concerning our Baptism.
 
 The apostle saith, '`There is one baptism.`' Eph. 4:5. And '`by one spirit,
 we are all baptized into one body; whether we be Jews or Gentiles;
@@ -19302,7 +19264,7 @@ G+++.+++ F.
 
 Edmondton, the 2d month, 1688.
 
-Postscript--The antiquity of our Cross.
+=== Postscript.--__The antiquity of our Cross.__
 
 The apostle saith to the church of Christ,
 that '`the preaching of the cross is to them that perish, foolishness;
@@ -19336,8 +19298,7 @@ the power of God.
 
 G+++.+++ F.
 
-===== A spiritual or Heavenly salutation to all the tender-hearted in Christendom, that are seeking the kingdom of God, and the righteousness thereof; which I desire and entreat them to read over, in the love of God, in which they are sent to them, from him that desires the good of all mankind here, and their eternal happiness hereafter.
-By G. F.
+== A spiritual or Heavenly salutation to all the tender-hearted in Christendom, that are seeking the kingdom of God, and the righteousness thereof; which I desire and entreat them to read over, in the love of God, in which they are sent to them, from him that desires the good of all mankind here, and their eternal happiness hereafter. By G. F.
 
 To all the tender-hearted in Christendom,
 whose faces are turned towards heavenly Jerusalem,
@@ -19501,7 +19462,7 @@ and therefore love God and Christ, and one another, and enemies,
 for love and charity is the most excellent way,
 above all tinkling cymbals and sounding brass; for they that dwell in love, dwell in God.
 
-Postscript
+=== Postscript
 
 And all you teachers that make a scoff and a mock
 at the motion or moving of the spirit of God;
@@ -19659,7 +19620,7 @@ and many tongues have risen up in judgment against us that are taught of God,
 but God hath restrained the weapons,
 and given power to his children to condemn their false judgments, and evil tongues.
 
-===== Now concerning Prayer and Singing.
+=== Now concerning Prayer and Singing.
 
 The apostle said, '`I will pray with the spirit, and pray with the understanding also.
 I will sing with the spirit,
@@ -19708,9 +19669,7 @@ blessed be God forever.
 
 G+++.+++ F.
 
-* * *
-
-===== A Scripture testimony against persecution for religion; and a persuasive to take off all the laws in Christendom, made to force or bind the tender consciences, which is God`'s prerogative.
+== A Scripture testimony against persecution for religion; and a persuasive to take off all the laws in Christendom, made to force or bind the tender consciences, which is God`'s prerogative.
 
 Haman would have destroyed all the seed of the Jews, because their laws, religion,
 and worship, were contrary to Ahasuerus the king; but Haman was destroyed himself,
@@ -19895,7 +19854,7 @@ G+++.+++ F.
 
 * * *
 
-===== The inward and spiritual warfare, and the false pretence of it.
+== The inward and spiritual warfare, and the false pretence of it.
 and a distinction between the true liberty and the false.
 And how God hath anointed the ministers of Christ and his church,
 and they have the anointing in them.
@@ -20088,9 +20047,10 @@ Amen.
 
 G+++.+++ F.
 
-* * *
+[.asterism]
+'''
 
-===== Here you may see how several of the Prophets and the Apostles were Shepherds, Husbandmen, and Tradesmen, who preached the word of God, and set forth his glory, and were despised and persecuted by the world, and the ministers of the letter without life.
+=== Here you may see how several of the Prophets and the Apostles were Shepherds, Husbandmen, and Tradesmen, who preached the word of God, and set forth his glory, and were despised and persecuted by the world, and the ministers of the letter without life.
 
 Righteous Abel was a keeper of sheep, or a shepherd;
 and by faith Abraham sojourned in the land of promise, as in a strange country,
@@ -20266,9 +20226,10 @@ which is by faith,`' and was not Noah a husbandman?
 
 G+++.+++ F.
 
-* * *
+[.asterism]
+'''
 
-===== Here you may see all was to be purified by fire and water before it went into the camp of God, in the old testament; and all must be purified by the baptism of the holy ghost, and by fire, and the circumcision of the spirit; and washed by the water of the word, and made clean, before they go into the kingdom of our God, and heavenly Jerusalem.
+=== Here you may see all was to be purified by fire and water before it went into the camp of God, in the old testament; and all must be purified by the baptism of the holy ghost, and by fire, and the circumcision of the spirit; and washed by the water of the word, and made clean, before they go into the kingdom of our God, and heavenly Jerusalem.
 
 The Jews in the old covenant and testament, when they went to war,
 this was the ordinance and law of God to them, whatsoever they took in the wars,
@@ -20303,8 +20264,8 @@ and no unclean thing enters into the kingdom of God, as you may see in the Revel
 And though the gates of heavenly Jerusalem are not shut at all by day,
 for there is no night there,
 '`there shall in nowise enter into it any thing that defileth,
-neither whosoever worketh abomination, or maketh a lie.`' Rev. 21:27. and xxii.
-14, 15.
+neither whosoever worketh abomination, or maketh a lie.`'
+Rev. 21:27. and 22:14-15.
 
 So here you may see all must be purified by the spirit, and by the heavenly fire,
 and washed by the water of the word,
@@ -20337,9 +20298,10 @@ by Jesus Christ, as in 1 Pet. 2:5. 9. and that you may not be dwarfs,
 but eat of the heavenly bread,
 and grow that you may offer the spiritual sacrifice as before.
 
-* * *
+[.asterism]
+'''
 
-===== Concerning the ministers of Christ, and his church, and the testimony of them.
+=== Concerning the ministers of Christ, and his church, and the testimony of them.
 How God hath anointed the ministers of Christ, and his church,
 and they have the anointing in them.
 
@@ -20626,9 +20588,10 @@ and do works meet for repentance.`' Acts 26:18-20.
 So here you may see, it is no new thing for the ministers of Christ,
 to turn people from darkness to light, and from the power of Satan to the power of God.
 
-* * *
+[.asterism]
+'''
 
-===== Concerning such who ignorantly do say that Christ reconcileth the serpent, Satan, devil, and enmity: for Christ comes to destroy the devil, etc. and slay the enmity.
+=== Concerning such who ignorantly do say that Christ reconcileth the serpent, Satan, devil, and enmity: for Christ comes to destroy the devil, etc. and slay the enmity.
 
 The apostle saith, all things are of God,
 who hath reconciled us to himself by Jesus Christ,
@@ -20692,7 +20655,10 @@ nor none of his works, but destroys them, and slays the enmity;
 and yet God by Christ doth reconcile all things unto himself; by him, I say,
 whether they he things in the earth, or things in the heaven. Col. 3:20.
 
-===== Here you may see how the son of perdition betrayed Christ to the Chief Priests without, and how the son of perdition since Christ`'s ascension gets into the temple, and betrays Christ within, where Christ and his truth should be.
+[.asterism]
+'''
+
+=== Here you may see how the son of perdition betrayed Christ to the Chief Priests without, and how the son of perdition since Christ`'s ascension gets into the temple, and betrays Christ within, where Christ and his truth should be.
 
 The devil, who abode not in the truth, tempted Adam and Eve to disobey God,
 and to go into a false liberty, out of truth, to eat of that which God had forbid,
@@ -20881,9 +20847,11 @@ and will be when they are gone; and in Christ there is no division, but peace,
 for he is not divided; and in him God Almighty preserve all his people.
 Amen.
 
-A postscript concerning prayer.
+[.blurb]
+=== A postscript concerning prayer.
 
-===== Here you may see is a scripture testimony of the apostle of Christ to the Christians and church of Christ, how and what they were to pray by, and in; and that the apostles did not make them prayers, and give them books and other things to pray by.
+[.heading-continuation-blurb]
+Here you may see is a scripture testimony of the apostle of Christ to the Christians and church of Christ, how and what they were to pray by, and in; and that the apostles did not make them prayers, and give them books and other things to pray by.
 
 The apostle writes to the church of Christ, the Ephesians,
 (Eph. 5:18-19) and exhorts them, and saith,
@@ -20967,10 +20935,9 @@ or were they prayers by and in the spirit, which they offered up to God?
 
 G+++.+++ F.
 
-* * *
+== Several treatises worthy of every true Christian`'s serious consideration, By G. F.
 
-===== Several treatises worthy of every true Christian`'s serious consideration, By G. F.
-
+// TODO - this is a huge sort of semi-continuation, along with next one II+++.+++
 I+++.+++ A distinction betwixt the prophets of God, Christ, and his ministers,
 and the messengers of Satan; for the one preaches up Christ`'s works and things,
 and the other preaches up Satan`'s works and his evil things.
@@ -21159,13 +21126,12 @@ and justified by the blood of Christ.
 
 The Lord said, Noah was a just and perfect man in his generation, and walked with God.
 The Lord said to Abraham, '`I am God Almighty, walk before me,
-and be thou perfect.`' Gen. 6:9. and xvii.
-1+++.+++ And the Lord said unto Israel, '`Thou shalt be perfect with the Lord thy God.`' Duet.
-xviii.
-13. The Lord said Job was a perfect and upright man,
-one that feared God and eschewed evil. Job 1:1.
-and ii.
-3+++.+++ Solomon saith,
+and be thou perfect.`' Gen. 6:9. and 17:1
+And the Lord said unto Israel, '`Thou shalt be perfect with the Lord thy God.`'
+Duet. 18:13.
+The Lord said Job was a perfect and upright man,
+one that feared God and eschewed evil. Job 1:1. and 2:3.
+Solomon saith,
 '`The path of the just is a shining light which shines more and
 more unto the perfect day.`' Prov. 4:18. And Christ saith,
 '`Be ye therefore perfect,
@@ -21175,8 +21141,8 @@ and walked in all the commandments and ordinances of the Lord blameless. Luke 1:
 The apostle saith to the Corinthians,
 '`That ye be perfectly joined together in the same mind
 and in the same judgment.`' And again the apostle saith,
-'`We speak wisdom among them that are perfect.`' 1 Cor. 1:10. and ii.
-6+++.+++ And the apostle saith,
+'`We speak wisdom among them that are perfect.`' 1 Cor. 1:10. and 2:6.
+And the apostle saith,
 '`Let us cleanse ourselves from all filthiness of the flesh and spirit,
 perfecting holiness in the fear of the Lord`' 2 Cor.
 7:1. And the apostle saith to the Corinthians,
@@ -21185,9 +21151,8 @@ Finally brethren, farewell, be ye perfect, be of good comfort, be of one mind,`'
 11. And James saith, '`Let patience have its perfect work,
 that ye may be perfect and entire, wanting nothing.`' James 1:4. And the apostle said,
 strong meat belongeth to them that are of full age, or perfect;
-let us go on to perfection. Heb. 5:14.
-and vi.
-1+++.+++ And Peter saith to the saints,
+let us go on to perfection. Heb. 5:14. and 6:1.
+And Peter saith to the saints,
 '`The God of all grace who hath called us into his eternal glory by Christ Jesus,
 after that ye have suffered awhile, make you perfect, establish,
 strengthen and settle you.`' 1 Pet. 5:10. And the apostle saith,
@@ -21472,7 +21437,7 @@ I come to do the will of God,
 by which will we are sanctified through the offering
 of the body of Jesus Christ once for all;
 for by one offering he hath perfected forever them that are sanctified. Hebrews 9:26.
-and x. 9, 10. 14.
+and 10:9,10,14.
 
 Now here you may see Christ putteth away sin, and we are sanctified by his will,
 in and through the offering of his body once for all,
@@ -21506,8 +21471,8 @@ Surely they kept the commandments and ordinances of the Lord then,
 if they walked in them blameless, as before.
 And the apostle said to the Galatians, all '`the law is fulfilled in one word,
 even in this,
-thou shalt love thy neighbour as thyself.`' Gal.
-5:14. And the apostle saith to the Romans,
+thou shalt love thy neighbour as thyself.`' Gal. 5:14.
+And the apostle saith to the Romans,
 owe no man any thing, but to love one another;
 for he that loves another fulfilleth the law, for he that loveth God,
 will not make any other gods.
@@ -21600,11 +21565,10 @@ and without the great shops of old histories and authors, and the world`'s philo
 which things may puff up the fowls of the air, and the vultures and ravenous beasts,
 with the outward tree of knowledge without life.
 The Lord with,
-'`Every man is brutish by his knowledge.`' And again
-he saith,`' Every man is brutish in his knowledge;
-the pastors are become brutish,
-and have not sought the Lord.`' Jeremiah 10:14. 21. and lvii.
-17.
+'`Every man is brutish by his knowledge.`'
+And again he saith, '`Every man is brutish in his knowledge;
+the pastors are become brutish, and have not sought the Lord.`'
+Jeremiah 10:14. 21. and 57:17.
 
 Here you may see what men get by their outward knowledge;
 for when Adam and Eve fed upon the tree of knowledge,
@@ -21665,9 +21629,8 @@ Was not this a proud whore, the false church, that rideth upon the beast,
 that rose out of the sea, in the devil`'s seat, power and authority?
 Must not this proud whore, the false church, be burnt, and this proud devil, dragon,
 and beast, and their followers go into perdition, and the lake of fire?
-Rev. 17. and xix.
-20. and xx.
-10. And the Lamb and the saints will have the victory.
+Rev. 17. and 19:20. and 20:10.
+And the Lamb and the saints will have the victory.
 Hallelujah.
 
 And Job saith, '`Though after my skin worms destroy this body,
@@ -21687,8 +21650,8 @@ Now these were not Job`'s words,
 but Eliphas`' the Temanite, which contended against Job, as in Job 4:1. 17, 18. and xv.
 14, 15. and Bildad the Shuhite`'s words that contended against Job,
 as in Job 25:5. For God said Job was '`a perfect and upright man,
-that feared God and eschewed evil.`' Job 1:8. and ii.
-3+++.+++ So these were the words with which Job`'s miserable comforters contended against Job,
+that feared God and eschewed evil.`' Job 1:8. and 2:3.
+So these were the words with which Job`'s miserable comforters contended against Job,
 which Satan`'s ministers bring against perfection.
 
 And John saw '`an hundred and forty-four thousand,
@@ -21699,8 +21662,7 @@ John said he saw a great multitude, which no man could number, of all nations, k
 and tongues, stand before the throne, and before the lamb, clothed with white robes,
 and palms in their hands, crying with a loud voice, saying,
 salvation unto our God which sitteth upon the throne, and unto the Lamb.
-Rev. 7:5 to the 11th. and xiv.
-1 to the 6th.
+Rev. 7:5 to the 11th. and 14:1 to the 6th.
 
 Now the messengers and ministers of Satan do not see these,
 but he is a minister of Christ that sees these holy people that follow the Lamb,
@@ -21709,10 +21671,11 @@ that was without fault or guile.
 And Peter saith in his General Epistle to the church of Christ,
 '`Ye are a chosen generation, a holy nation, built up a spiritual house,
 a holy royal priesthood to offer up spiritual sacrifices,
-acceptable to God by Jesus Christ,`' as in 1 Pet. 2:5. 8,
-9+++.+++ Then surely these have put off the body of death, and sins of the flesh,
+acceptable to God by Jesus Christ,`' as in 1 Pet. 2:5. 8, 9.
+Then surely these have put off the body of death, and sins of the flesh,
 and the old man with his deceitful lusts.
 
+// TODO here is the next one
 II. Priests the chief promoters of persecution, in the prophets, Christ,
 and the apostles`' days, and since,
 and now the Lord is opening the eyes of people`'s understandings,
@@ -21722,14 +21685,12 @@ for his wages of unrighteousness.
 Here you may see, how the priests in all ages turned against the righteous,
 and persecuted and killed them.
 See how Cain the priest was full of wrath, and killed righteous Abel in the field,
-and what was the end of Cain. Gen. 4:5.
-8.
+and what was the end of Cain. Gen. 4:5. 8.
 
 And you may see how Korah and his company, and Dathan and Abiram opposed Moses and Aaron,
 and how the Lord did consume them (as in Num. 16. chap.
 throughout) in their rebellion; and what became of old Eli that reproved his two sons,
-but did not restrain them, as you may see in 1 Sam.
-iv. chap.
+but did not restrain them, as you may see in 1 Sam. 4. chap.
 throughout; and the badness of the priests you may see in the second chapter.
 And how the Lord sent Samuel the child to admonish old Eli,
 for not restraining his sons from their wickedness;
@@ -21741,20 +21702,19 @@ You may see what priests they ordained, 2 Chron. 11:15.
 And you may see what work Josiah made with Balaam`'s altars,
 and his idols and priests, how he purged the land of them.
 2 Chron. 34:3 to 9. And you may see what work Jehu made with Baal`'s worshippers,
-prophets and priests.
-2 Kings x. And the Lord commanded Jehu.
+prophets and priests. 2 Kings 10.
+And the Lord commanded Jehu.
 And it had been well for him and his children,
 if they had not followed the sins of Jeroboam, who made Israel to sin,
 but walked in the law of God.
 And you may see how Manasses made Israel to sin by rearing up altars for Balaam,
 for which cause the Lord carried them into captivity.
 2 Chron. 33:1 to 13. And see what work Josiah made with Manasses`' images, altars,
-and priests.
-2 Kings xxiii.
+and priests. 2 Kings 23.
 And how did Ahab and Jezabel with all her Baal`'s
 priests and prophets persecute the Lord`'s people,
-and what became of them in the end, see 1 Kings xxi.
-and 2 Kings ix.
+and what became of them in the end, see 1 Kings 21.
+and 2 Kings 9.
 And you may see what Isaiah saith,
 because of the wickedness of the priests and others who had defiled the earth,
 therefore the Lord would empty the land of them.
@@ -21769,15 +21729,14 @@ every one for their gain, from their quarter.
 May not this practice be applied to many of the shepherds,
 priests and watchmen now of our times?
 as in Isaiah 56:10-12. And see how Jeremiah testifies against the priests,
-and how the Lord had made him a brazen wall, and an iron pillar against the priests, etc. Jer. 1:18.
-ii.
-8+++.+++ And Jeremiah saith, '`Every one is given to covetousness;
+and how the Lord had made him a brazen wall, and an iron pillar against the priests, etc.
+Jer. 1:18. 2:8.
+And Jeremiah saith, '`Every one is given to covetousness;
 from the prophet to the priest,
 every one deals falsely.`' Jer. 6:13. And again Jeremiah saith,
 '`A wonderful horrible thing is committed in the land, the prophets prophesy falsely,
 and the priests bear rule by their means,
-and my people love to have it so.`' Jer. 5:30-31. and viii.
-10, 11.
+and my people love to have it so.`' Jer. 5:30-31. and 8:10, 11.
 
 And did not Pashur son of Immer the high priest, strike Jeremiah,
 and put him in the stocks, for declaring the truth to him? Jer. 20:1.
@@ -21800,8 +21759,8 @@ Ezek. 34. throughout; and was not that Christ?
 And see how the Lord sent Hosea to cry against the priest, saying,
 '`I will also reject thee, and thou shalt be no priest to me,
 seeing thou hast also forgot the law of thy God.`' So like priest, like people;
-and the Lord saith he will punish them for their ways. Hosea 4:6.
-9+++.+++ And have not the priests now forgot the law and command of Christ,
+and the Lord saith he will punish them for their ways. Hosea 4:6. 9.
+And have not the priests now forgot the law and command of Christ,
 '`freely you have received freely give,`' and to keep the gospel without charge?
 And '`as a troop of robbers wait for a man,
 so the company of priests murder in the way by consent,
@@ -21840,8 +21799,7 @@ And the Lord said, '`I will cut off the remnant of Baal from Jerusalem,
 and the names of the Chemarims with the priests;
 the prophets are light and treacherous persons,
 their priests have polluted the sanctuary,
-they have done violence to the law.`' Zeph. 1:4, and iii.
-4.
+they have done violence to the law.`' Zeph. 1:4, and 3:4.
 
 Here you may see all along in the Old Testament the wickedness of the priests and prophets,
 and how the Lord sent his holy prophets to declare against them;
@@ -21853,9 +21811,8 @@ consulted to put Christ to death. Matt. 26:34.
 And in Matt. 27. the chief priests and elders
 took counsel together against Jesus to put him to death.
 And did not Judas that betrayed Christ,
-sell him for thirty pieces of silver unto the chief priests, etc. Matt. 26:14-15.
-and xxvii.
-1, 2. and Mark 14:10.
+sell him for thirty pieces of silver unto the chief priests, etc.
+Matt. 26:14-15. and 27:1-2. and Mark 14:10.
 
 And did not the chief priests and elders persuade
 the multitude that they should ask of Pilate,
@@ -21886,13 +21843,12 @@ as in Acts 5:17-19. And when that the chief priests
 took counsel together to put the apostles to death,
 Gamaliel`'s counsel stopped them, as in Acts 5:33 to the end.
 
-And did not the high priest examine Stephen in his counsel when he was put to death? Acts 6:15.
-and vii.
-1+++.+++ And did not Paul say he had authority from the
+And did not the high priest examine Stephen in his counsel when he was put to death?
+Acts 6:15. and 7:1.
+And did not Paul say he had authority from the
 chief priests to shut up the saints in prison,
-and when that they were put to death he gave his voice against them. Acts 8:3.
-and xxvi.
-10. And did not Ananias the high priest, with the elders,
+and when that they were put to death he gave his voice against them. Acts 8:3. and 26:10.
+And did not Ananias the high priest, with the elders,
 and a certain orator named Tertullus, inform the governor Felix against Paul,
 and called Paul a pestilent fellow, and a mover of sedition,
 and sought to take away his life, as in Acts 24. to the end.
@@ -21955,6 +21911,7 @@ Were not many of them posting to Rome, their mother church, as they call it,
 (let all the sober judge,) and forsaking Jerusalem, which is above, which is free,
 the mother of all true Christians? Gal. 4:26.
 
+// TODO here too?
 III.
 And what a scabbed flock the bishops and priests have, which should oversee them;
 and how the magistrates are troubled with them, to send them to the jails,
@@ -21991,11 +21948,8 @@ And pray, consider, are you not like them that do not profit the people at all,
 but seek you own profit, and your own hire, and tithes, and your gain from your quarter?
 And therefore, is it not time for you either to amend and look better to your flocks,
 or give over your pretence?
-Read Isa. 56. to the end. Jer. 5:29-31.
-and xxiii.
-chap.
-throughout, and Micah 3:10-12. and Ezek. 13. chap.
-throughout.
+Read Isa. 56. to the end. Jer. 5:29-31. and 23. chap. throughout,
+and Micah 3:10-12. and Ezek. 13. chap. throughout.
 
 Now if you priests, bishops, and shepherds, had an outward shepherd that you hired,
 and let your sheep be so scabbed and corrupted, and that they should run so astray,
@@ -22003,6 +21957,7 @@ and he not watch over them nor oversee them better, would not you soon turn him 
 I pray you look into your bishoprics and parishes, and make application upon yourselves,
 as before.
 
+// TODO another
 IV. How no persecutor upon the earth, for faith, worship, and religion,
 can exercise a good conscience towards God and man, until they be converted.
 
@@ -22013,8 +21968,7 @@ This he declared before Felix, the governor,
 when he was accused by the high priests and elders of the Jews,
 which said Paul was a pestilent fellow,
 and a mover of sedition among all the Jews throughout the world,
-and a ringleader of the sect of the Nazarenes.
-undefined. 24:15-16.
+and a ringleader of the sect of the Nazarenes. Acts 24:15-16.
 
 Now here you may see when, the apostle Paul was turned from the Jews`' temple worships,
 and the priests that took tithes.
@@ -22031,9 +21985,8 @@ that if I found any of that way,
 I might bring them bound to Jerusalem.`' And as he was coming near unto Damascus,
 Jesus Christ did convert him; and after a while he preached Christ in Damascus,
 where he was going to persecute, and confounded the Jews,
-and the Jews took counsel to kill him, as in Acts 9:1 to the 28th. and xxvi.
-8, 9, 10, 11, 12. and xxiv.
-16.
+and the Jews took counsel to kill him,
+as in Acts 9:1 to the 28th. and 26:8,9,10,11,12. and 24:16.
 
 Now while Paul was persecuting and imprisoning,
 and consenting to the death of the followers of Christ; and having his packet of letters,
@@ -22112,10 +22065,7 @@ And did not Balaam cause Balak to build altars, and offer up rams and oxen?
 But for all Balak`'s and Balaam`'s offerings, that he might curse the children of Israel,
 instead of that, the Lord made him to bless them.
 So Balaam angered Balak, that he missed his honour, and his wages of unrighteousness,
-though he loved it.
-Num. 22. xxiii.
-xxiv.
-chap. 2 Pet. 2:15-16.
+though he loved it. Num. 22. 23. 24. chap. 2 Pet. 2:15-16.
 
 And do not our spiritual Balaam`'s that ride upon the dumb asses,
 so love the wages of unrighteousness, that they would destroy all the Lord`'s people,
@@ -22134,6 +22084,7 @@ so that his holy people can sing hallelujah over them, and learn of Christ,
 who is meek and low in heart, and in him they have found rest for their souls, who saith,
 '`Freely you have received, freely give.`'
 
+// TODO
 V+++.+++ And the bad example of Gehazi and Simon Magus, to be shunned.
 
 Naaman, captain of the host of Assyria, he was a leper, and had a leprosy,
@@ -22209,6 +22160,7 @@ and bond of iniquity to people that will not give them means for their gift,
 which they sell to people; but Christ who gives gifts to his people, saith,
 freely you have received, freely give.
 
+// TODO
 VI. Concerning the priests and professors, that say they must do as the priests say,
 not as they do.
 
@@ -22313,8 +22265,8 @@ not rejoice at such as preach Christ out of envy and strife,
 which added afflictions to his bonds; but such that had the form of godliness,
 denying the power thereof, they were to turn away from.
 
-VII.
-To all you priests, teachers, and professors,
+// TODO
+VII. To all you priests, teachers, and professors,
 that mock and scoff at the motions of the spirit.
 
 All you priests, teachers, and professors,
@@ -22384,8 +22336,8 @@ But now after that ye have known God, or rather are known of God,
 how turn you again to the weak and beggarly elements, or rudiments,
 whereunto ye desire again to be brought into bondage?
 Ye observe days and months, and times and years;`' the apostle said,
-'`I am afraid of you, lest I have bestowed upon you labour in vain.`' Gal. 3:1. 3,
-4. 9, 10, 11.
+'`I am afraid of you, lest I have bestowed upon you labour in vain.`'
+Gal. 3:1. 3, 4. 9, 10, 11.
 
 Now let all Protestants, and professors of the reformed churches consider these things,
 and the apostle`'s labour, and these foolish Galatians,
@@ -22393,8 +22345,8 @@ that went into these weak elements and rudiments that brought them into bondage,
 that had begun in the spirit, and thought to have been made perfect in the flesh;
 and therefore pray consider, you that set up these days, for people to observe.
 
-And do not you say to your people in your steeple houses, '`Six days thou shalt labour,
-and do all that thou hast to do,`' etc.
+And do not you say to your people in your steeple houses,
+'`Six days thou shalt labour, and do all that thou hast to do,`' etc.
 And then do not you stand up in the same steeple houses,
 and bid your holy days and mass days; and have your paritors,
 and other officers to trouble people for opening their shops on many of those days,
@@ -22443,9 +22395,7 @@ but not the forefathers the apostles and the church of Christ in the primitive t
 
 And did ever the Jews in the old testament observe Adam and Eve`'s days, or Noah`'s day,
 who by faith built the ark, who was a just man, and perfect in his generation,
-and walked with God, or Enoch`'s day, who walked with God. Gen. 5:22.
-and vi.
-9.
+and walked with God, or Enoch`'s day, who walked with God. Gen. 5:22. and 6:9.
 
 And did ever the Jews observe Abraham`'s day, or Isaac`'s, or Jacob`'s, or Moses`',
 or Aaron`'s, or Joshua`'s, or any of the prophets of God`'s days?
@@ -22659,8 +22609,8 @@ and your eternal happiness hereafter.
 
 G+++.+++ F.
 
-VIII.
-A reformation from Heathenism and Popery, etc. concerning the observation of days,
+// TODO
+VIII. A reformation from Heathenism and Popery, etc. concerning the observation of days,
 months, times, and years, etc. the beggarly elements of the world.
 
 The apostle saith to the Galatians, '`For when we were children,
@@ -22668,8 +22618,8 @@ we were in bondage under the elements of the world; but now after that ye have k
 or rather are known of God, how turn ye back again to weak and beggarly elements,
 whereunto ye desire again to be brought into bondage?
 Ye observe days, months, times, and years.
-I am afraid of you, lest I have bestowed upon you labour in vain.`' Gal. 4:3. 9, 10,
-11.
+I am afraid of you, lest I have bestowed upon you labour in vain.`'
+Gal. 4:3. 9, 10, 11.
 
 Now here you may see, observing of the Jewish days, months, times, and years,
 which they were commanded of God, the apostle saith, when they were children,
@@ -22766,6 +22716,7 @@ He that hath an ear to hear, let him hear, and read these things.
 
 G+++.+++ F.
 
+// TODO
 IX. Concerning the builders that reject the corner stone;
 and the husbandmen that kill the Lord`'s servants and son;
 and how Cain built the city Nod, and Nimrod the city and tower Babel;
@@ -22869,6 +22820,7 @@ and the lamb is the light thereof.
 Hallelujah forever.
 And the nations of them that are saved walk in the light of this city.
 
+// TODO
 X+++.+++ News, news!
 Cain, Ishmael, Esau, Korah, Dathan, and Abiram, Balaam, and old Simon Magus,
 and his followers, turned outward Christians.
@@ -22910,7 +22862,8 @@ they are and have been very angry, and full of wrath, envy, and malice,
 and persecuted us; but they are known to all true christians to be of the seed of Balaam,
 and of old Simon Magus, and not of Christ.
 
-XL. Here you may see the heavenly and spiritual gifts
+// TODO
+XI. Here you may see the heavenly and spiritual gifts
 that God and Christ gives to his ministers,
 are not to be bought and sold for money, and they that do, are in the bond of iniquity,
 and gall of bitterness, like Simon Magus.
@@ -23098,8 +23051,8 @@ by which wisdom the world knows not God nor his things,
 and so are ministers of the letter and old authors.
 and not of the spirit.
 
-XII.
-How that such as kill and persecute people, are not like to convert them,
+// TODO
+XII. How that such as kill and persecute people, are not like to convert them,
 as the apostles did.
 
 And if that Christ had caused fire to come down from
@@ -23143,8 +23096,8 @@ do contrary to the law and the prophets, Christ and the apostles,
 (to wit,) to love thy neighbour as thyself, and to do to others,
 as you would have others do unto you?
 
-XIII.
-Concerning the Papists making the flesh and blood of Christ of bread and wine;
+// TODO
+XIII. Concerning the Papists making the flesh and blood of Christ of bread and wine;
 and the apostle saith, they knew Christ no more after the flesh;
 and how the formal Christians take the bread and wine kneeling,
 in remembrance of Christ`'s death, and his disciples took it sitting.
@@ -23163,8 +23116,7 @@ any thing that he commanded them to take or eat?
 And all the figures and shadows, or types,
 where did the Lord ever command the Jews to bow or kneel down to such things,
 but they were to bow down to the Lord, and serve and worship him?^
-footnote:[Ex. 12:10-11. and xx.
-4, 5. Duet. 5:8-9.]
+footnote:[Ex. 12:10-11. and 20:4, 5. Duet. 5:8-9.]
 For do not you, after you have consecrated the elements of bread and wine,
 and made you a Christ and a God of it, do not some of you bow down, and kneel down to it?
 And it is but elements of bread and wine when you have done.
@@ -23232,8 +23184,7 @@ he is in the midst; and the church of Christ is the golden candlestick,
 and Christ is in the midst.
 So he is a light in the midst of the seven golden candlesticks.
 So unto God be glory in the church by Jesus Christ, throughout all ages,
-world without end.
-Amen. Eph. 3:21.
+world without end. Amen. Eph. 3:21.
 
 And the Jews in the first covenant had ordinances of divine service,
 and a worldly sanctuary, and a tabernacle, and a candlestick;
@@ -23242,8 +23193,7 @@ which were made and pitched by men?
 as in Heb. 9:1-2.
 
 But Christ our high priest is a minister of the sanctuary, and of the true tabernacle,
-which the Lord pitched, and not man.
-Heb. 8:1-2,
+which the Lord pitched, and not man. Heb. 8:1-2,
 
 And the apostle saith, '`Henceforth know we no man after the flesh, yea,
 though we have known Christ after the flesh,
@@ -23332,12 +23282,12 @@ yet his flesh saw no corruption, and did not change; for the apostle saith,
 
 '`And therefore,`' it is said, '`did my heart rejoice, my tongue was glad: moreover also,
 my flesh shall rest in hope,`' whom God raised from the dead to sit upon his throne,
-and his flesh saw no corruption. Acts 2:26-27.
-31, 32. And therefore now you Papists.
+and his flesh saw no corruption. Acts 2:26-27. 31, 32.
+And therefore now you Papists.
 come out and try your great monster and miracle, as before.
 
-XIV.
-The trial of the Pope`'s Spirit.
+// TODO
+XIV. The trial of the Pope`'s Spirit.
 
 Will the pope let the Protestants have their meetings peaceable in France, Spain,
 Portugal, Italy, and Rome, and in all the cities or dominions, where he,
@@ -23354,6 +23304,7 @@ he is below the law and the prophets, and short of a christian;
 and if his actions be below the law, and the prophets, and christianity,
 it is then a shame to talk of infallibility and holiness.
 
+// TODO
 XV. Concerning the kingdom of God.
 
 The law and the prophets were until John, who was the greatest prophet born of a woman,
@@ -23465,4 +23416,5 @@ it is with a spiritual eye.
 
 G+++.+++ F.
 
+[.the-end]
 End of Vol VI.
