@@ -1,10 +1,15 @@
+[#ch29.style-blurb, short="To All Kings, Princes, Rulers, Governers, Bishops, and Clergy"]
 == To all all Kings, Princes, Rulers, Governors, Bishops, and Clergy, that profess christianity in Christendom.
 
-===== Being a distinction between the laws, commandments, and ordinances of the higher powers, for the punishment of evil doers, and for the praise of them that do well.
+[.heading-continuation-blurb]
+Being a distinction between the laws, commandments,
+and ordinances of the higher powers, for the punishment of evil doers,
+and for the praise of them that do well.
 
-===== And the ordinances, doctrines and commands of men, concerning religion and worship, which are not to be touched, tasted nor handled.
-And the hand writing of ordinances among the Jews, which Christ hath blotted out.
-By G. F.
+[.heading-continuation-blurb]
+And the ordinances, doctrines and commands of men,
+concerning religion and worship, which are not to be touched, tasted nor handled.
+And the hand writing of ordinances among the Jews, which Christ hath blotted out. By G. F.
 
 You all owning one God, the Father, the creator of all, and one Lord Jesus Christ,
 by whom all things were created; and you all do profess that you own one God,
@@ -112,8 +117,8 @@ but for such like sinners as be hath before mentioned.
 So it is clear that the christians in the primitive times,
 whom the apostle doth teach that their souls were to be subject to the higher powers,
 and to every ordinance of man for the Lord`'s sake,
-for the punishment of such evil doers as he speaketh of 1 Tim.
-i. which all true christians now, their souls are subject to every such high power,
+for the punishment of such evil doers as he speaketh of 1 Tim. i.
+which all true christians now, their souls are subject to every such high power,
 and every such ordinance of man, for the punishment of such evil doers, that are lawless,
 and disobedient, and ungodly, and that murder their fathers and mothers,
 and are unholy and profane; and are men-slayers, and are whoremongers,
@@ -302,8 +307,8 @@ because they would not be of their opinion in their religions, ways, and worship
 and misapplied the scriptures the apostle speaketh of, which saith,
 '`Let every soul be subject to the higher powers,
 and to every ordinance of man for the Lord`'s sake,
-for the punishment of evil doers,`' as the apostle speaks of in 1 Tim.
-i. So by this means have they persecuted people,
+for the punishment of evil doers,`' as the apostle speaks of in 1 Tim. 1.
+So by this means have they persecuted people,
 and destroyed men`'s lives for their opinions about their religions and their worships;
 though we know that the law is good in its place,
 if a man use it lawfully against such as the apostle saith it was made for, to wit,
@@ -376,8 +381,8 @@ And this is according to the scripture, in Rom. 13. where the apostle saith,
 '`Let every soul be subject to the higher powers;`' and 1 Pet. 2:13-14,
 '`Submit yourselves to every ordinance of man for the Lord`'s sake,
 for the punishment of evil doers; which is for the praise of them that do well.`' Mark.
-This was for the punishment of such evil doers as the apostle speaks of, 1 Tim.
-i. but he doth not say that they were to be subject to every
+This was for the punishment of such evil doers as the apostle speaks of, 1 Tim. 1.
+but he doth not say that they were to be subject to every
 ordinance of man for to punish people for matters of faith,
 religion, and worship; for the apostle clears that, and makes a distinction,
 when he saith to the church of Christ, the Colossians,
@@ -421,15 +426,15 @@ The christians, though they lived in the world,
 yet they were not to be subject to the rudiments of the world,
 nor the commandments nor doctrines.
 Nay, they were not to taste them, nor handle them, that were dead, with Christ from them.
-Col. 2 20 21, 22.
+Col. 2:20-22.
 
 So here you may see the apostles made a clear distinction between the ordinances of men,
 and the higher power which is for the punishment
 of such evil doers as the apostle speaketh of,
 and the praise of them that do well; which was not to punish people for matters of faith,
 and serving and worshipping God,
-but for such evil doers as the apostle speaketh of 1 Tim.
-i. And likewise such ordinances and commandments, and doctrines of men, yea,
+but for such evil doers as the apostle speaketh of 1 Tim. I.
+And likewise such ordinances and commandments, and doctrines of men, yea,
 of the Jews and Gentiles, concerning men`'s religions and worships,
 which the christians were not to touch, taste nor handle;
 and happy had all Christendom been if they had kept
@@ -719,8 +724,7 @@ but left them to the spirit of God, '`which helpeth our infirmities,
 and makes intercession,`' etc. teaches us to pray as we ought,
 '`with sighs and groans that cannot be uttered.`'
 
-And undefined. 2:17. Joel 2:28. '`God poureth
-out his spirit upon all flesh,`' namely,
+And Acts 2:17. Joel 2:28. '`God poureth out his spirit upon all flesh,`' namely,
 men and women: that all in the spirit of God might pray to him, and serve, fear,
 and worship him in his spirit and truth; and not to grieve, rebel against, vex,
 or quench the motions of the spirit of God; for if they do, they go into bondage,
@@ -755,6 +759,7 @@ for they shall obtain mercy.`' Matt. 5:7.
 
 And again Christ saith, '`Be ye merciful, as your heavenly Father is merciful.`' Luke 6.
 
+[.blurb]
 === Postscript
 
 After Cyrus, king of Persia,
@@ -804,9 +809,7 @@ informers these heathens were against the Jews,
 who had been long in captivity by the Babylonians, and the Assyrians,
 though Cyrus before had opened the two leaved gates, both of the Assyrians,
 and the Caldeans, for the Jews to go out of captivity,
-as in 2 Chron. 36:22. Jer. 25:12. and xxix.
-10. Isa. 44:28. and xlv.
-13.
+as in 2 Chron. 36:22. Jer. 25:12. and 29:10. Isa. 44:28. and 45:13.
 
 And now is it not a shame that any that do profess christianity
 should take a text from these heathen pensioners,

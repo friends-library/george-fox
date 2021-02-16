@@ -1,3 +1,4 @@
+[#ch21.style-blurb, short="To Magistrates, Rulers, Ministers, Justices, and Other Officers"]
 == To the Chief Magistrates, Rulers, Ministers, Justices of the Peace, and other Officers; who profess Christ and Christianity, and are called by that worthy name, and great title of Christians; which is from the King of kings, and Lord of lords, Christ Jesus.
 
 1st. And you professing the holy scriptures of truth,
@@ -153,6 +154,7 @@ G+++.+++ F.
 
 London, the 17th of the 9th month, 1684.
 
+[.blurb]
 === Postscript
 
 Where do ye ever read, that the Jews, when they had conquered any nation or kingdom,
@@ -183,8 +185,7 @@ as they would have them to do unto them,`' should show forth the nobility of tru
 and the nature of the lamb, Christ, which is far above all Turks and heathens.
 
 G+++.+++ F.
-Matt. 5:7.
-'`Blessed are the merciful, for they shall obtain mercy.`'
-Matt. 9:13.
-Christ saith, Learn what that meaneth, I will have mercy,
-and not sacrifice.`'
+
+Matt. 5:7. '`Blessed are the merciful, for they shall obtain mercy.`'
+Matt. 9:13. Christ saith,
+'`Learn what that meaneth, I will have mercy, and not sacrifice.`'
