@@ -1048,6 +1048,7 @@ G+++.+++ F.
 [.signed-section-context-close]
 The 10th month, 1678.
 
+[.blurb]
 === Postscript.
 
 And there is one faith, which Christ is the author and finisher of,
