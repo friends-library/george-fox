@@ -175,7 +175,7 @@ G+++.+++ F.
 
 Gouses in Essex, the 13th day of the 2d month, 1683.
 
-[.inline]
+[.blurb]
 === A distinction between the Wars and the Weapons, and the Arms and the Armour in the Old Testament and the New; for in the Old Testament they were carnal, and in the New Testament Spiritual.
 
 The apostle bids the church of Christ, '`Put on the whole armour of God,
@@ -459,7 +459,7 @@ for such will not defend them from the devil. 1 Thess. 5:8.
 
 G+++.+++ F.
 
-[.inline]
+[.blurb]
 === Concerning Cain.
 
 And the Lord God said unto Cain, '`If thou dost well, shalt thou not be accepted?
@@ -617,7 +617,7 @@ and enter into his kingdom, that he hath prepared for them.
 
 G+++.+++ F.
 
-[.inline]
+[.blurb]
 === Uniformity and Conformity proclaimed to the whole world, in the name of the eternal God, and his Son Christ Jesus.
 
 God so loved the world, that he gave his only begotten son,
@@ -776,7 +776,7 @@ who is God all-sufficient, and a sufficient teacher.
 
 G+++.+++ F.
 
-[.inline]
+[.blurb]
 === The Authority of the Church of Christ.
 
 The apostle saith to the Corinthians, '`I told you before, and foretell you,
@@ -866,7 +866,7 @@ So here you may see the church of Christ hath power from Christ to judge the ang
 to judge the world, and to judge in outward matters of things that pertain to this life.
 1 Cor. 6.
 
-[.inline]
+[.blurb]
 === Concerning Exhortation and Admonition.
 
 Concerning exhortation, Judas and Silas, etc. exhorted the brethren with many words,
@@ -1008,7 +1008,7 @@ exhort, judge, reprove, and rebuke in his power and spirit.
 
 G+++.+++ F.
 
-[.inline]
+[.blurb]
 === Concerning such as cry against Orders.
 
 God is a God of order, and not of confusion;
@@ -1116,10 +1116,10 @@ who is the author and finisher of it.
 
 G+++.+++ F.
 
-[.inline]
+[.blurb]
 === Concerning meeting in Houses, Ships, Streets, Mountains, and High-Ways, and in what places the Prophet Jeremiah, Christ, and the apostles taught or preached in, may be seen in this book.
 
-[.inline]
+[.blurb]
 === And how Christ and the apostles were haled out of their meetings, when, or while they were speaking. John 18:1. Matt. 26:47. Mark 16:17. Acts 4:2-3. and 5:24-27. By G. F.
 
 Here you may see, how Christ and his apostles, and John Baptist,

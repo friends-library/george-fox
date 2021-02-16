@@ -1,6 +1,7 @@
+[#ch44.style-blurb, short="Several Treatises"]
 == Several treatises worthy of every true Christian`'s serious consideration, By G. F.
 
-// TODO - this is a huge sort of semi-continuation, along with next one II+++.+++
+[.heading-continuation-blurb]
 I+++.+++ A distinction betwixt the prophets of God, Christ, and his ministers,
 and the messengers of Satan; for the one preaches up Christ`'s works and things,
 and the other preaches up Satan`'s works and his evil things.
@@ -210,8 +211,9 @@ And the apostle saith,
 perfecting holiness in the fear of the Lord`' 2 Cor.
 7:1. And the apostle saith to the Corinthians,
 '`We wish even your perfection.
-Finally brethren, farewell, be ye perfect, be of good comfort, be of one mind,`' etc. 2 Cor. 13:9.
-11. And James saith, '`Let patience have its perfect work,
+Finally brethren, farewell, be ye perfect, be of good comfort, be of one mind,`'
+etc. 2 Cor. 13:9. 11.
+And James saith, '`Let patience have its perfect work,
 that ye may be perfect and entire, wanting nothing.`' James 1:4. And the apostle said,
 strong meat belongeth to them that are of full age, or perfect;
 let us go on to perfection. Heb. 5:14. and 6:1.
@@ -433,10 +435,10 @@ ministers, hearers, and teachers, are not in this true belief,
 born of God that overcomes the wicked world, neither are they in the true faith,
 which Christ is the author of, which overcometh the world,
 and gives the victory over the world which lieth in wickedness,
-and is the shield that quenches all the fiery darts of Satan. 1 John 4:5.
-19. And John saith to the followers of Christ,
-'`Little children ye have overcome them, (to wit,
-Satan and his ministers,) because greater is he that is in you,
+and is the shield that quenches all the fiery darts of Satan. 1 John 4:5. 19.
+And John saith to the followers of Christ,
+'`Little children ye have overcome them, (to wit, Satan and his ministers,)
+because greater is he that is in you,
 than he that is in the world.`' 1 John 4:3-4. And again,
 John saith to the believers in Christ, '`Every man that hath this hope, purifies himself,
 even as he is pure.`' 1 John 3:3. Col. 1:27.
@@ -680,7 +682,8 @@ and the world worshipped this proud dragon and the beast,
 and the beast opened his mouth in the devil`'s power, in blasphemy against God,
 to blaspheme his name, tabernacle, and them that dwelt in heaven,
 after the dragon was east out of heaven.
-So here you may see some dwelt in heaven, and sat in the heavenly places in Christ Jesus. Rev. 12:13.
+So here you may see some dwelt in heaven,
+and sat in the heavenly places in Christ Jesus. Rev. 12:13.
 And John said, '`I saw a woman sit upon a scarlet coloured beast,
 full of names of blasphemy, having seven heads and ten horns,`' and this woman,
 the false church, that rid upon the beast, was arrayed in purple, scarlet colour,
@@ -738,7 +741,7 @@ acceptable to God by Jesus Christ,`' as in 1 Pet. 2:5. 8, 9.
 Then surely these have put off the body of death, and sins of the flesh,
 and the old man with his deceitful lusts.
 
-// TODO here is the next one
+[.inline]
 II. Priests the chief promoters of persecution, in the prophets, Christ,
 and the apostles`' days, and since,
 and now the Lord is opening the eyes of people`'s understandings,
@@ -812,8 +815,8 @@ Here you may see the priests had a hand in the persecution of Jeremiah.
 
 And the Lord sent Ezekiel to cry against the priests, and said,
 they had violated his law, and profaned his holy things,
-and put no difference betwixt the holy and profane. Ezek. 22:25-26.
-28. and how the prophets, etc. were like roaring lions,
+and put no difference betwixt the holy and profane. Ezek. 22:25-26. 28.
+and how the prophets, etc. were like roaring lions,
 and daubed with untempered mortar,
 and how the Lord sent Ezekiel to prophesy against the shepherds of Israel,
 and how he would gather his people from among them,
@@ -836,8 +839,8 @@ for speaking the truth.
 And you may see how Nehemiah cries to the Lord,
 because the priests had defiled the priesthood. Neh. 13:29.
 And said, neither our kings, princes, priests,
-nor our fathers had kept the law of God. Neh. 9:32.
-34. And Micah said they built up '`Zion with blood,
+nor our fathers had kept the law of God. Neh. 9:32. 34.
+And Micah said they built up '`Zion with blood,
 and Jerusalem with iniquity; the heads thereof judge for reward,
 the priests thereof teach for hire,
 and the prophets thereof divine for money,`' and yet they would lean upon the Lord,
@@ -899,8 +902,9 @@ and gave money to tell lies.
 
 And did not the high priests and the kindred of the high priests,
 gather together against the apostles for preaching Christ after he was risen?
-And did not they threaten them, and charge them not to speak at all in the name of Jesus? Acts 4:6.
-18. And did not the high priests rise against the apostles with indignation,
+And did not they threaten them,
+and charge them not to speak at all in the name of Jesus? Acts 4:6. 18.
+And did not the high priests rise against the apostles with indignation,
 and put them into the common prison, but the Lord delivered them,
 as in Acts 5:17-19. And when that the chief priests
 took counsel together to put the apostles to death,
@@ -974,9 +978,8 @@ Were not many of them posting to Rome, their mother church, as they call it,
 (let all the sober judge,) and forsaking Jerusalem, which is above, which is free,
 the mother of all true Christians? Gal. 4:26.
 
-// TODO here too?
-III.
-And what a scabbed flock the bishops and priests have, which should oversee them;
+[.inline]
+III. And what a scabbed flock the bishops and priests have, which should oversee them;
 and how the magistrates are troubled with them, to send them to the jails,
 and transport them.
 
@@ -1020,7 +1023,7 @@ and he not watch over them nor oversee them better, would not you soon turn him 
 I pray you look into your bishoprics and parishes, and make application upon yourselves,
 as before.
 
-// TODO another
+[.inline]
 IV. How no persecutor upon the earth, for faith, worship, and religion,
 can exercise a good conscience towards God and man, until they be converted.
 
@@ -1147,7 +1150,7 @@ so that his holy people can sing hallelujah over them, and learn of Christ,
 who is meek and low in heart, and in him they have found rest for their souls, who saith,
 '`Freely you have received, freely give.`'
 
-// TODO
+[.inline]
 V+++.+++ And the bad example of Gehazi and Simon Magus, to be shunned.
 
 Naaman, captain of the host of Assyria, he was a leper, and had a leprosy,
@@ -1223,7 +1226,7 @@ and bond of iniquity to people that will not give them means for their gift,
 which they sell to people; but Christ who gives gifts to his people, saith,
 freely you have received, freely give.
 
-// TODO
+[.inline]
 VI. Concerning the priests and professors, that say they must do as the priests say,
 not as they do.
 
@@ -1328,7 +1331,7 @@ not rejoice at such as preach Christ out of envy and strife,
 which added afflictions to his bonds; but such that had the form of godliness,
 denying the power thereof, they were to turn away from.
 
-// TODO
+[.inline]
 VII. To all you priests, teachers, and professors,
 that mock and scoff at the motions of the spirit.
 
@@ -1672,7 +1675,7 @@ and your eternal happiness hereafter.
 
 G+++.+++ F.
 
-// TODO
+[.inline]
 VIII. A reformation from Heathenism and Popery, etc. concerning the observation of days,
 months, times, and years, etc. the beggarly elements of the world.
 
@@ -1773,13 +1776,14 @@ and he is the beginning of a new world with his heavenly things,
 who makes all things new.
 
 And the apostle saith to the Corinthians, upon them the ends of the world are come,
-that is, the end of all outward worldly things; and he calleth them babes in Christ, Cor.
-x. 11. he could not speak to them but as unto babes in Christ, who were not of this world.
+that is, the end of all outward worldly things;
+and he calleth them babes in Christ, 1 Cor. 10:11.
+he could not speak to them but as unto babes in Christ, who were not of this world.
 He that hath an ear to hear, let him hear, and read these things.
 
 G+++.+++ F.
 
-// TODO
+[.inline]
 IX. Concerning the builders that reject the corner stone;
 and the husbandmen that kill the Lord`'s servants and son;
 and how Cain built the city Nod, and Nimrod the city and tower Babel;
@@ -1883,7 +1887,7 @@ and the lamb is the light thereof.
 Hallelujah forever.
 And the nations of them that are saved walk in the light of this city.
 
-// TODO
+[.inline]
 X+++.+++ News, news!
 Cain, Ishmael, Esau, Korah, Dathan, and Abiram, Balaam, and old Simon Magus,
 and his followers, turned outward Christians.
@@ -1925,7 +1929,7 @@ they are and have been very angry, and full of wrath, envy, and malice,
 and persecuted us; but they are known to all true christians to be of the seed of Balaam,
 and of old Simon Magus, and not of Christ.
 
-// TODO
+[.inline]
 XI. Here you may see the heavenly and spiritual gifts
 that God and Christ gives to his ministers,
 are not to be bought and sold for money, and they that do, are in the bond of iniquity,
@@ -2114,7 +2118,7 @@ by which wisdom the world knows not God nor his things,
 and so are ministers of the letter and old authors.
 and not of the spirit.
 
-// TODO
+[.inline]
 XII. How that such as kill and persecute people, are not like to convert them,
 as the apostles did.
 
@@ -2159,7 +2163,7 @@ do contrary to the law and the prophets, Christ and the apostles,
 (to wit,) to love thy neighbour as thyself, and to do to others,
 as you would have others do unto you?
 
-// TODO
+[.inline]
 XIII. Concerning the Papists making the flesh and blood of Christ of bread and wine;
 and the apostle saith, they knew Christ no more after the flesh;
 and how the formal Christians take the bread and wine kneeling,
@@ -2349,7 +2353,7 @@ and his flesh saw no corruption. Acts 2:26-27. 31, 32.
 And therefore now you Papists.
 come out and try your great monster and miracle, as before.
 
-// TODO
+[.inline]
 XIV. The trial of the Pope`'s Spirit.
 
 Will the pope let the Protestants have their meetings peaceable in France, Spain,
@@ -2367,7 +2371,7 @@ he is below the law and the prophets, and short of a christian;
 and if his actions be below the law, and the prophets, and christianity,
 it is then a shame to talk of infallibility and holiness.
 
-// TODO
+[.inline]
 XV. Concerning the kingdom of God.
 
 The law and the prophets were until John, who was the greatest prophet born of a woman,

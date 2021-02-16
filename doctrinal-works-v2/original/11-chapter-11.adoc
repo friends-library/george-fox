@@ -540,6 +540,7 @@ G+++.+++ F.
 [.signed-section-context-close]
 The 1st day of the 7th month, 1676.
 
+[.blurb]
 === Postscript.
 
 '`Unto the tribes of Levi, Moses gave no inheritance,

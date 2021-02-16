@@ -1,17 +1,5 @@
-== The inward and spiritual warfare, and the false pretence of it.
-and a distinction between the true liberty and the false.
-And how God hath anointed the ministers of Christ and his church,
-and they have the anointing in them.
-And shepherds, husbandmen, fishermen, and tradesmen made prophets and apostles,
-to preach the word of God, and set forth his glory.
-Concerning purification by fire and water, in the old and new testament,
-and the eating of the heavenly bread, that people may grow thereby, and not be dwarfs.
-And how the son of perdition betrayed Christ without;
-and since his ascension betrays Christ within.
-And such who ignorantly say Christ reconciles the devil,
-etc. who destroys him and his works, and slays the enmity.
-And concerning prayer by the spirit, without the book.
-By G. F.
+[#ch43.style-blurb, short="The Inward and Spiritual Warfare"]
+== The inward and spiritual warfare, and the false pretence of it. and a distinction between the true liberty and the false. And how God hath anointed the ministers of Christ and his church, and they have the anointing in them. And shepherds, husbandmen, fishermen, and tradesmen made prophets and apostles, to preach the word of God, and set forth his glory. Concerning purification by fire and water, in the old and new testament, and the eating of the heavenly bread, that people may grow thereby, and not be dwarfs. And how the son of perdition betrayed Christ without; and since his ascension betrays Christ within. And such who ignorantly say Christ reconciles the devil, etc. who destroys him and his works, and slays the enmity. And concerning prayer by the spirit, without the book. By G. F.
 
 There are many people that do profess the apostle`'s words,
 concerning his inward warring and warfare,
@@ -85,7 +73,8 @@ in his new covenant, and new testament.
 '`Behold, the days come,`' saith the Lord,
 '`that I will make a new covenant with the house of Israel, and the house of Judah:
 not according to the covenant that I made with their fathers,
-in the day that I took them by the hand to bring them out of the land of Egypt,`' etc. Jer. 31:31-32.
+in the day that I took them by the hand to bring them out of the land of Egypt,`'
+etc. Jer. 31:31-32.
 Now here you may see the new covenant is not according to the old,
 with their priests, whose lips were to preserve people`'s knowledge,
 and circumcise the males outwardly, who had their outward Jerusalem,
@@ -100,8 +89,7 @@ and their bodies are the temples of the holy spirit of God,
 and Christ is the one offering for sins, once for all,
 and his blood cleanseth from all sin, and God writes his law in their hearts,
 and puts it in their minds that all may read the law in their hearts and minds,
-and know the Lord.
-Heb. 8.
+and know the Lord. Heb. 8.
 
 And the old covenant commanded them to take oaths, and swear,
 but in the new covenant Christ saith,
@@ -194,6 +182,7 @@ G+++.+++ F.
 [.asterism]
 '''
 
+[.blurb]
 === Here you may see how several of the Prophets and the Apostles were Shepherds, Husbandmen, and Tradesmen, who preached the word of God, and set forth his glory, and were despised and persecuted by the world, and the ministers of the letter without life.
 
 Righteous Abel was a keeper of sheep, or a shepherd;
@@ -225,9 +214,8 @@ And Jethro sent for Moses, and he went to him, and married Zipporah, Jethro`'s d
 and kept his sheep.
 And when forty years were expired,
 the Lord appeared to Moses in the wilderness of Mount Sinai and Horeb,
-in a flame of fire in a bush. Acts 7:23.
-30. Ex. 2:13. and iii.
-2+++.+++ So Moses kept sheep forty years,
+in a flame of fire in a bush. Acts 7:23. 30. Ex. 2:13. and 3:2.
+So Moses kept sheep forty years,
 for he was forty years old when he departed out of Egypt, and fled from Pharaoh;
 and he was eighty years old when he left Jethro his father-in-law,
 and when he came into Egypt to speak to Pharaoh,
@@ -373,6 +361,7 @@ G+++.+++ F.
 [.asterism]
 '''
 
+[.blurb]
 === Here you may see all was to be purified by fire and water before it went into the camp of God, in the old testament; and all must be purified by the baptism of the holy ghost, and by fire, and the circumcision of the spirit; and washed by the water of the word, and made clean, before they go into the kingdom of our God, and heavenly Jerusalem.
 
 The Jews in the old covenant and testament, when they went to war,
@@ -445,9 +434,12 @@ and grow that you may offer the spiritual sacrifice as before.
 [.asterism]
 '''
 
+[.blurb]
 === Concerning the ministers of Christ, and his church, and the testimony of them.
-How God hath anointed the ministers of Christ, and his church,
-and they have the anointing in them.
+
+[.heading-continuation-blurb]
+How God hath anointed the ministers of Christ,
+and his church, and they have the anointing in them.
 
 Now he who establishes the ministers of Christ, and his church in Christ,
 and hath anointed them, is God.
@@ -735,6 +727,7 @@ to turn people from darkness to light, and from the power of Satan to the power 
 [.asterism]
 '''
 
+[.blurb]
 === Concerning such who ignorantly do say that Christ reconcileth the serpent, Satan, devil, and enmity: for Christ comes to destroy the devil, etc. and slay the enmity.
 
 The apostle saith, all things are of God,
@@ -802,6 +795,7 @@ whether they he things in the earth, or things in the heaven. Col. 3:20.
 [.asterism]
 '''
 
+[.blurb]
 === Here you may see how the son of perdition betrayed Christ to the Chief Priests without, and how the son of perdition since Christ`'s ascension gets into the temple, and betrays Christ within, where Christ and his truth should be.
 
 The devil, who abode not in the truth, tempted Adam and Eve to disobey God,
@@ -995,7 +989,11 @@ Amen.
 === A postscript concerning prayer.
 
 [.heading-continuation-blurb]
-Here you may see is a scripture testimony of the apostle of Christ to the Christians and church of Christ, how and what they were to pray by, and in; and that the apostles did not make them prayers, and give them books and other things to pray by.
+Here you may see is a scripture testimony of the apostle of
+Christ to the Christians and church of Christ,
+how and what they were to pray by, and in;
+and that the apostles did not make them prayers,
+and give them books and other things to pray by.
 
 The apostle writes to the church of Christ, the Ephesians,
 (Eph. 5:18-19) and exhorts them, and saith,

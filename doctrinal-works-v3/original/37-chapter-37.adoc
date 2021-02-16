@@ -1,14 +1,5 @@
-== Concerning the apostate Christians, that think to do miracles by dead men`'s bones, etc. of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead.
-Concerning purgatory, and making a God or Christ of the elements of bread and wine.
-Concerning the traditions the Jews taught,
-which made the word and commandment of God of none effect,
-and the traditions the apostate Christians teach people to follow,
-and set up above the scriptures of truth.
-How Christ is the true rock, and not Peter.
-And that he is the head of the true Church, and so to he held by his members.
-The antiquity of the cross of Christ,
-which was and is acknowledged to he the power of God by his true Church.
-By G. F.
+[#ch37.style-blurb, short="Concerning the Apostate Christians"]
+== Concerning the apostate Christians, that think to do miracles by dead men`'s bones, etc. of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead. Concerning purgatory, and making a God or Christ of the elements of bread and wine. Concerning the traditions the Jews taught, which made the word and commandment of God of none effect, and the traditions the apostate Christians teach people to follow, and set up above the scriptures of truth. How Christ is the true rock, and not Peter. And that he is the head of the true Church, and so to he held by his members. The antiquity of the cross of Christ, which was and is acknowledged to he the power of God by his true Church. By G. F.
 
 The Lord saith, '`Whosoever toucheth the body of a man that is dead.
 or dieth in his tent, and purifieth not himself, he defileth the tabernacle of the Lord,
@@ -39,6 +30,7 @@ the saints got the bones of the saints to do miracles by.
 [.asterism]
 '''
 
+[.blurb]
 === Of praying to the saints that are dead, and asking counsel of the dead, and praying for the dead.
 
 Let all the apostate christians produce one scripture
@@ -67,6 +59,7 @@ Is not that madness?
 [.asterism]
 '''
 
+[.blurb]
 === Concerning the apostate christians`' tradition of a purgatory, after they are dead.
 
 Solomon saith, '`All turneth to dust again;
@@ -113,14 +106,13 @@ set up their vain traditions above the holy scriptures of truth,
 and allow the ignorant people to read their traditions,
 and deny them the reading of the scriptures,
 contrary to the holy men of God that gave them forth, to be read, believed, fulfilled,
-and practised, as in 2. Tim.
-iii. 16. John 7:38. Luke 24:25. 1 Thessalonians 5:27.
+and practised, as in 2. Tim. 3:16. John 7:38. Luke 24:25. 1 Thessalonians 5:27.
 
 '`Give attendance to reading,`' etc. 1 Tim. 4:13.
 And Christ exhorts his hearers to ask in his name,
 '`And whatsoever ye shall ask the Father in my name,
-he shall give it you,`' as in John 16:23. 25,
-26. And again Christ teacheth his disciples to pray, and say,
+he shall give it you,`' as in John 16:23. 25, 26.
+And again Christ teacheth his disciples to pray, and say,
 '`Our Father which art in heaven,`' etc.
 So that Christ never taught his believers to pray either to his mother, the virgin Mary,
 in his name, or to any saint, or in the name of any saint after they were dead,
@@ -159,12 +151,8 @@ but not of God`'s spirit; and ask counsel, but not of him.
 [.asterism]
 '''
 
-=== Concerning the apostate Christians.
-traditions, of making a God or Christ of bread and wine; and of their bowing to him,
-and worshipping him, and eating him when they have done.
-We never read that the heathens, nor the apostate Jews,
-when they had made gods and bowed to them, and worshipped them,
-eat them when they had done.
+[.blurb]
+=== Concerning the apostate Christians. traditions, of making a God or Christ of bread and wine; and of their bowing to him, and worshipping him, and eating him when they have done. We never read that the heathens, nor the apostate Jews, when they had made gods and bowed to them, and worshipped them, eat them when they had done.
 
 Christ`'s disciples said unto him, the day of unleavened bread,
 when the passover must be killed, '`Where wilt thou that we go and prepare,
@@ -237,6 +225,7 @@ when Esau could not find repentance upon the earth?
 [.asterism]
 '''
 
+[.blurb]
 === Concerning the traditions of the Jews, and apostate Christians.
 
 Christ said to the Pharisees,
@@ -246,16 +235,15 @@ This people draweth nigh me with their mouth, and honoureth me with their lips,
 but their heart is far from me.
 But in vain do you worship me,
 teaching for doctrines the commandments of men.`' Thus you have
-made the commandment of God of none effect by your traditions. Matt. 15:3.
-6, 7, 8, 9.
+made the commandment of God of none effect by your traditions.
+Matt. 15:3. 6, 7, 8, 9.
 
 And again Christ said unto the scribes and Pharisees,
 '`Laying aside the commandment of God, you hold the traditions of men,
 and of your elders;`' and again he saith unto them,
 '`Full well you reject the commandment of God, that ye may keep your own traditions,
 making the word of God of none effect through your traditions
-which you have delivered.`' Mark 7:3. 8,
-9. 13.
+which you have delivered.`' Mark 7:3. 8, 9. 13.
 
 Now is not this the condition of the apostate christians
 that set up their traditions above the scriptures of truth,
@@ -318,6 +306,7 @@ who makes peace between us and God; the same today, yesterday, and forever.
 [.asterism]
 '''
 
+[.blurb]
 === Christ is the rock and foundation which the heavenly Father revealed to Peter, on which he builds his church, and not on Peter, nor that which flesh and blood had revealed to Peter.
 
 Jesus asked his disciples,
@@ -405,6 +394,7 @@ G+++.+++ F.
 [.asterism]
 '''
 
+[.blurb]
 === Now concerning whom the scripture saith is the true rock and foundation.
 
 David saith, '`The Lord is my rock and my fortress,
@@ -444,6 +434,7 @@ Christ Jesus, the same yesterday, and today, and so forever.
 [.asterism]
 '''
 
+[.blurb]
 === The antiquity of our Cross.
 
 The apostle saith to the church of Christ,

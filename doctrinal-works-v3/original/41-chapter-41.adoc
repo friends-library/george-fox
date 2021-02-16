@@ -1,3 +1,4 @@
+[#ch41.style-blurb, short="A Salutation to All that are Seeking the Kingdom of God"]
 == A spiritual or Heavenly salutation to all the tender-hearted in Christendom, that are seeking the kingdom of God, and the righteousness thereof; which I desire and entreat them to read over, in the love of God, in which they are sent to them, from him that desires the good of all mankind here, and their eternal happiness hereafter. By G. F.
 
 To all the tender-hearted in Christendom,
@@ -301,8 +302,8 @@ And again the Lord saith,
 '`All the ends of the earth shall see the salvation
 of God:`' and that must be by his spirit;
 for the Lord saith, '`My righteousness shall be forever,
-and my salvation from generation to generation.`' Isaiah 51:8. and lii.
-10. '`Your strength is to sit still,`' (viz.) in the spirit and power of God. Isa. 30:7.
+and my salvation from generation to generation.`' Isaiah 51:8. and 52:10.
+'`Your strength is to sit still,`' (viz.) in the spirit and power of God. Isa. 30:7.
 They that wait upon the Lord shall renew their strength;
 they shall mount up with wings as eagles; they shall run and not be weary;
 they shall walk and not faint.
@@ -320,6 +321,7 @@ and many tongues have risen up in judgment against us that are taught of God,
 but God hath restrained the weapons,
 and given power to his children to condemn their false judgments, and evil tongues.
 
+[.blurb]
 === Now concerning Prayer and Singing.
 
 The apostle said, '`I will pray with the spirit, and pray with the understanding also.

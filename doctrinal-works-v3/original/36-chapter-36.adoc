@@ -1,10 +1,19 @@
-== A testimony for God`'s truth: First, concerning new and heavenly Jerusalem, and Jerusalem from below.
+[#ch36.style-blurb, short="A Testimony for God`'s Truth"]
+== A testimony for God`'s truth:
 
+[.heading-continuation-blurb]
+First, concerning new and heavenly Jerusalem, and Jerusalem from below.
+
+[.heading-continuation-blurb]
 Secondly, concerning Christ, the great mountain that fills the whole earth.
 
-Thirdly, how man and woman was created in the image of God, and to be meet-helps one to another.
+[.heading-continuation-blurb]
+Thirdly, how man and woman was created in the image of God,
+and to be meet-helps one to another.
 
-Fourthly, how every one ought to improve the talent God gives them, to his glory, and their eternal happiness. By G. F.
+[.heading-continuation-blurb]
+Fourthly, how every one ought to improve the talent God gives them,
+to his glory, and their eternal happiness. By G. F.
 
 The apostle writes to the church of Christ, and saith,
 '`Jerusalem which is above is free,
@@ -13,8 +22,7 @@ and led by the spirit of God.
 '`And as many as receive Christ, he gives them power to become the sons of God;
 even to them that believe in his name.`' And whosoever believes that Jesus is the Christ,
 is born of God;`' and they that believe in the light, the life in Christ,
-do become the children of light, as in John 1:12. and xii.
-36. and 1 John 5:1.
+do become the children of light, as in John 1:12. and 12:36. and 1 John 5:1.
 
 And now in this heavenly light, power, and spirit,
 they come to be heavenly Jerusalem`'s children, that is from above.
@@ -95,10 +103,8 @@ Here you may see New Jerusalem`'s children, and the name of God, and the holy ci
 and the name of Christ written upon them,
 and their father`'s name written in their foreheads,
 that they may know that they are the children of New Jerusalem, and of God and Christ;
-and they shall see his face, and his name shall be in their foreheads. Rev. 22:4.
-and iii.
-12. '`He that hath an ear,
-let him hear what the spirit saith to the churches,`'
+and they shall see his face, and his name shall be in their foreheads. Rev. 22:4. and 3:12.
+'`He that hath an ear, let him hear what the spirit saith to the churches,`'
 heavenly Jerusalem`'s and Zion`'s children.
 And therefore all that are born of the spirit, the children of the light,
 that believe in Christ, and receive him, their mother is new and heavenly Jerusalem;
@@ -177,6 +183,7 @@ G+++.+++ F.
 [.asterism]
 '''
 
+[.blurb]
 === How all nations may see with the light, the life in Christ, him the great mountain that fills the whole earth.
 
 Concerning the stone cut out of the mountain without hands,
@@ -257,10 +264,10 @@ and that every one with this true light, the life in Christ, both in Asia, Europ
 Africa, and America, both east, west, north, and south, that is come into the world;
 I say with this divine light, the life in Christ, they may see Christ, the mountain,
 in their own country, which fills the whole earth, for the light shines in their hearts,
-to give the knowledge of the glory of God in the face of Christ Jesus. John 1:4.
-9. 2 Cor. 4:4. And Christ saith, '`Believe in the light,
-that ye may become children of the light.`' John 12:36. So the light,
-which is the life in Christ, gives the knowledge of him in all places,
+to give the knowledge of the glory of God in the face of Christ Jesus. John 1:4. 9. 2 Cor. 4:4.
+And Christ saith, '`Believe in the light, that ye may become children of the light.`'
+John 12:36.
+So the light, which is the life in Christ, gives the knowledge of him in all places,
 who is the mountain that fills the whole earth, for the light is the life in Christ,
 that great glorious mountain, and they that believe in the light, the life in Christ,
 and are become children of the light, they see this everlasting glorious kingdom,
@@ -299,6 +306,7 @@ G+++.+++ F.
 [.asterism]
 '''
 
+[.blurb]
 === Here you may see how male and female were meet-helps in the government, when God made them in his image of righteousness and holiness, and how Christ restores man up into his image again, and how that male and female are all one in him, and of the increase of Christ`'s government and peace there is no end.
 
 God said, '`Let us make man in our image, after our likeness,
@@ -453,6 +461,7 @@ He that hath an ear, let him understand these things. 1 John 3:7-8.
 [.asterism]
 '''
 
+[.blurb]
 === Here you may see how every one is to improve his talent which Christ gives them, if not, it will be taken from them, and they cast into utter darkness.
 
 Christ Jesus saith,

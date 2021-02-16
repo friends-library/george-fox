@@ -1,3 +1,4 @@
+[#ch40.style-blurb, short="Concerning the Antiquity of the People of God Called Quakers"]
 == Concerning the antiquity of the people of God called Quakers; their worship; their mother, new and heavenly Jerusalem; their faith, and who is the author and finisher of it; their belief their way, their original; their hope, distinct from the hope of the hypocrite that perishes; their gospel, the true ministers, their leader and teacher, and that which gives them knowledge; their mediator, their overseer, the church of Christ`'s prayer, and in what is their cross, and their baptism. By G. F.
 
 I+++.+++ Concerning the antiquity of our worship.
@@ -211,8 +212,7 @@ So Christ, who is our leader, is our counsellor and salvation, and way to God,
 and there is no other way to the Father but by him, who hath died for our sins,
 and is risen for our justification.
 
-VII.
-Concerning the original.
+VII. Concerning the original.
 
 John saith, '`In the beginning was the word, etc.
 And all things were made by the word; and without the word was not any thing made,
@@ -225,7 +225,8 @@ and this is the word of faith which we preach.`' Rom. 10:8. And James saith,
 So God`'s people are begotten by the word of truth, being born again,
 not of corruptible seed, but of incorruptible, by the word of God, which lives,
 and abides, and endures forever;
-and so as new born babes desire the sincere milk of the word, that they may grow thereby. 1 Pet. 2:2.
+and so as new born babes desire the sincere milk of the word,
+that they may grow thereby. 1 Pet. 2:2.
 
 And John saith, '`That which was from the beginning, which we have heard,
 which we have seen with our eyes, and our hands have handled of the word of life;
@@ -248,8 +249,8 @@ which the priests and the world called the original.
 And Pilate set a superscription in letters of Hebrew, Greek, and Latin, upon Christ,
 when they crucified him.
 And the beast and the whore, and the false church,
-had power over the natural tongues and languages, as in Rev. 13:7. and xvii.
-15. But the word of God was before their tongues and languages were.
+had power over the natural tongues and languages, as in Rev. 13:7. and 17:15.
+But the word of God was before their tongues and languages were.
 And natural men with their natural arts and sciences, and tongues,
 do not know the things of God; for natural men, in their natural schools,
 may learn their natural arts and sciences, and their natural tongues,
@@ -269,8 +270,8 @@ that we may present every man perfect in Christ Jesus.`' Col. 1:27-28.
 even as he is pure.`' 1 John 3:3. And we are saved by hope,
 as in Rom. 8:24. So that all the saints may know what is the hope of their calling;
 for we being saved by hope, are saved by Christ, who is to dwell in our hearts by faith;
-for the apostle said, '`The Lord Jesus Christ, who is our hope.`' 1 Tim.
-i. And we are to hold fast this hope that is set before us,
+for the apostle said, '`The Lord Jesus Christ, who is our hope.`' 1 Tim. i.
+And we are to hold fast this hope that is set before us,
 which we have as an anchor of the soul, both sure and steadfast;
 and it entereth into that which is within the veil,
 where the forerunner is for us entered in, even Jesus. Heb. 6:18-20.
@@ -519,15 +520,15 @@ John 10.
 And Christ said, he would send his believers the comforter, the spirit of truth,
 which should proceed from the Father, which should guide them,
 and lead them into all truth.
-John 15. and xvi.
-chap.
+John 15. and 16. chap.
 So this was, and is the ministers, and teachers, and disciples, and believers in Christ,
 their leader and guider into all truth.
 For the apostle saith, that no prophecy of scripture came by the will of man,
 neither is it of any private interpretation;
 but holy men of God spake forth the scripture, as they were moved by the holy ghost.
 And so it is the holy ghost, the comforter, the spirit of truth,
-that leads Christ`'s believers into all truth, and into all the truth of the scriptures. 2 Pet. 1:21.
+that leads Christ`'s believers into all truth, and into all the truth of the scriptures.
+2 Pet. 1:21.
 
 And John saith, '`He that sitteth on the throne shall dwell among them,
 and they shall hunger and thirst no more.
@@ -826,6 +827,7 @@ G+++.+++ F.
 
 Edmondton, the 2d month, 1688.
 
+[.blurb]
 === Postscript.--__The antiquity of our Cross.__
 
 The apostle saith to the church of Christ,
