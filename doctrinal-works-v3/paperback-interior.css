@@ -1,0 +1,32 @@
+.chapter-heading--blurb h2 {
+  font-size: 1.05rem;
+}
+
+h3.blurb {
+  font-size: 1.05rem;
+}
+
+.heading-continuation-blurb + .heading-continuation-blurb {
+  margin-top: -1.75em;
+}
+
+h2 {
+  /* no new pages for chapters */
+  prince-page-group: auto;
+  margin-top: 0in;
+}
+
+.sect1 {
+  /* DON'T keep start of chapters on recto */
+  page-break-before: auto;
+}
+
+/* quasi-asterism */
+.sect1 + .sect1::before {
+  content: '* * *';
+  display: block;
+  letter-spacing: 5px;
+  text-align: center;
+  margin: 0.35in 0 0.25in 0;
+}
+
