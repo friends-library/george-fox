@@ -1,7 +1,11 @@
 [#ch21.style-blurb, short="To Magistrates, Rulers, Ministers, Justices, and Other Officers"]
 == To the Chief Magistrates, Rulers, Ministers, Justices of the Peace, and other Officers; who profess Christ and Christianity, and are called by that worthy name, and great title of Christians; which is from the King of kings, and Lord of lords, Christ Jesus.
 
-1st. And you professing the holy scriptures of truth,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ And you professing the holy scriptures of truth,
 and confessing to the new testament and new covenant, and the law and the prophets,
 which is, to love God above all, and your neighbours as yourselves,
 and the royal law of God, spoken of in the new testament; which is,
@@ -19,7 +23,8 @@ Would you say, this was according to the royal law of God,
 and the nobility of true christianity in them, TO DO UNTO ALL,
 AS THEY WOULD BE DONE UNTO, if they should serve you so?
 
-2dly.
+[.numbered]
+_2dly._
 And would you say, it was according to the royal law of God,
 to be haled from your peaceable meeting by officers and soldiers,
 for serving and worshipping God in his spirit and truth, that made you;
@@ -31,7 +36,8 @@ or Independents`' religion?
 would you not say, this was contrary to the royal law of God,
 and to the nature and nobility of true christianity in them, that should do so to you?
 
-3dly.
+[.numbered]
+_3dly._
 And if the Presbyterians, Independents, or Papists,
 should make you pay twenty pounds a month, or two-thirds of your estates,
 and bring quitam writs against you, as is now against many hundreds of us;
@@ -42,7 +48,8 @@ would you say, that this was according to the royal law of God,
 them?`' or according to the law and the prophets,
 '`to love their neighbours as themselves?`'
 
-4thly.
+[.numbered]
+_4thly._
 If the Papists, Presbyterians, or Independents,
 should banish you from your wives and children, or imprison you,
 (as many of us are now imprisoned,
@@ -57,7 +64,8 @@ would you not say this was contrary to the law and the prophets,
 as they would have them do unto them?`' and to the nobility of true christianity,
 in them that should do so unto you?
 
-5thly.
+[.numbered]
+_5thly._
 And would not you think it very hard from the Papists, Presbyterians or Independents,
 if they should premunire you, and cast your men, women, and widows into prison,
 (as many of us are now from their wives and children,) because
@@ -72,7 +80,8 @@ and the royal law of God,
 '`to love their neighbours as themselves,`' and '`to do unto all,
 as they would be done unto?`'
 
-6thly.
+[.numbered]
+_6thly._
 And would the bishops and priests believe, that it was according to the royal law of God,
 and according to the law and the prophets, for the Papists, Presbyterians,
 or Independents to excommunicate them, and cast them into prison,
@@ -84,6 +93,8 @@ this were '`to love their neighbours as themselves,`' and '`to do unto others,
 as they would have others do unto them;`' and that it was according
 to the nature and nobility of true christianity in them,
 that should do so unto you?
+
+====
 
 And now I do in humility desire you to consider,
 did ever Christ and his apostles force any to be of his true religion and worship;
@@ -150,8 +161,10 @@ and does pray for kings, princes, governors, and magistrates,
 that we may lead and live a holy, peaceable, and quiet life in all godliness under them:
 FOR MAGISTRATES ARE FOR A PRAISE OF THEM THAT DO WELL.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 London, the 17th of the 9th month, 1684.
 
 [.blurb]
@@ -184,8 +197,18 @@ and profess the holy scriptures of truth, and the royal law of God, which is,
 as they would have them to do unto them,`' should show forth the nobility of true christianity,
 and the nature of the lamb, Christ, which is far above all Turks and heathens.
 
+[.signed-section-signature]
 G+++.+++ F.
 
-Matt. 5:7. '`Blessed are the merciful, for they shall obtain mercy.`'
-Matt. 9:13. Christ saith,
-'`Learn what that meaneth, I will have mercy, and not sacrifice.`'
+[quote.scripture, , Matt 5. 7.]
+____
+
+Blessed are the merciful, for they shall obtain mercy.
+____
+
+[quote.scripture, , Matt 9:13]
+____
+
+Christ saith,
+Learn what that meaneth, I will have mercy, and not sacrifice.
+____
