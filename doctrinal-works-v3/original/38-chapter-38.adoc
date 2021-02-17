@@ -44,23 +44,39 @@ This is enough to let you understand my will, if you will be so wise as to know 
 [.blurb]
 === An answer to the speech or declaration of the great Turk, etc. By G. F.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Sultan Mahomet,
 
 I find in a paper, which is said to be thy declaration, directed to Leopold,
 the German emperor, dated the 25th of March, 1683, viz.
 
-First, thou sayst thou art a '`possessor of the sepulchre of your God,`' to wit,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ thou sayst thou art a '`possessor of the sepulchre of your God,`' to wit,
 the christians.
 And that thou art a great persecutor of the christians.
 
-Secondly, thou sayst thou art lord of all the emperors of the world,
+[.numbered]
+_Secondly,_ thou sayst thou art lord of all the emperors of the world,
 from the rising of the sun to the going down thereof.
 
-Thirdly, thou sayst thou art king of all kings, and lord of the tree of life.
+[.numbered]
+_Thirdly,_ thou sayst thou art king of all kings, and lord of the tree of life.
 
-Fourthly, thou sayst thou art commander and guardian of your crucified God, (to wit,
+[.numbered]
+_Fourthly,_ thou sayst thou art commander and guardian of your crucified God, (to wit,
 the christians,) and thou sayst, thou wilt '`pursue your crucified God,
 whose wrath I fear not, nor his coming to defend or deliver you out of my hands.`'
+
+====
+
+[.numbered-group]
+====
 
 Now, here is something in answer to the words of sultan Mahomet,
 the emperor of the Turks, saying, he is a great persecutor of the christians;
@@ -116,7 +132,8 @@ you Turks, and all others that are persecutors, who disobey the law of Jesus,
 he will be a witness against you in the day of judgment; yea, I say, against you Turks,
 and all other persecutors upon the earth.
 
-Secondly.
+[.numbered]
+_Secondly._
 Sultan Mahomet, emperor of the Turks, saith, he is lord of all the emperors of the world,
 from the rising of the sun to the going down thereof, king of all kings,
 and lord of the tree of life.
@@ -149,7 +166,8 @@ for God`'s divinity extends throughout all the earth; who inhabits eternity,
 and dwells with an humble heart; who beholds the proud and lofty afar off,
 and brings down the high looks, and abaseth the pride of men.
 
-Thirdly.
+[.numbered]
+_Thirdly._
 And again, Sultan Mahomet, emperor of the Turks, thou sayst,
 thou art lord of the tree of life.
 But the Turkish emperor must know he is not lord of the tree of life,
@@ -196,13 +214,17 @@ and his apostles preached and declared to men,
 and all the believers and converted to God and Christ, and that keep their command,
 did and do walk in this pure religion.
 
-Fourthly.
+[.numbered]
+_Fourthly._
 Sultan Mahomet, emperor of the Turks, thou sayst,
 thou art commander of the christians crucified God; and sayst,
 thou wilt '`pursue their crucified God, whose wrath thou fearest not,
 nor his coming to defend or deliver them out of thy hand.`'
 
-Answer.
+====
+
+[.discourse-part]
+_Answer._
 These high words are not spoken in the fear of God;
 for if thou knowest God thou wouldest know his son Jesus Christ,
 who was made of the seed of Abraham according to the flesh,
@@ -505,9 +527,11 @@ For God so loved the world, that he gave his only begotten son Jesus Christ,
 that whosoever believeth in him should not perish, but have everlasting life.
 And they that do believe in him have everlasting life. John 3:16.
 Rom. 5:18. Now concerning God`'s son, Jesus Christ our
-
 Lord, he was made of the seed of David according to the flesh,
 and declared to be the son of God with power, according to the spirit of holiness,
 by the resurrection from the dead. Rom. 1:3-4.
 
+[.signed-section-signature]
 G+++.+++ F.
+
+--
