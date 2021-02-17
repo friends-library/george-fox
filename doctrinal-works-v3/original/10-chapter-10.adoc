@@ -1,7 +1,11 @@
 [#ch10.style-blurb, short="A Way to Prevent the Judgments of God"]
 == A way to prevent the indignation and judgments of God from coming on a kingdom, nation, or family. Commended to the consciences of all concerned.
 
-First, all you vintners that sell wine, that keep taverns or such like houses;
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ all you vintners that sell wine, that keep taverns or such like houses;
 and all you innkeepers, and you that keep victualling-houses, ale-houses,
 strong-water-shops, etc. see that you never let any man or woman have any more wine, ale,
 strong drink, brandy, or strong waters, or other strong liquors,
@@ -12,15 +16,25 @@ For every creature of God is good, and ought to be received with thanksgiving.
 But if you do give or let men or women have so much wine, brandy, strong liquors,
 strong beer, or ale, till they be drunk, or to make them drunk:
 
+====
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ You destroy the good creatures of God.
 
+[.numbered]
 2+++.+++ You destroy them that have not power over their lusts, no more than a rat or a swine,
 who will drink till they are drunk.
 
+[.numbered]
 3+++.+++ You are a great cause of ruining them in their healths, purses, and estates,
 (their children and families,) in feeding of them in their lusts,
 by letting them have more than doth them good;
 which also tends to bring God`'s judgments upon you, to your own ruin and destruction.
+
+====
 
 For many, when they are full of wine, beer, or strong liquors,
 then they will cry for music, pipe, and harp, and it may be, their whores also.
@@ -83,7 +97,11 @@ nor they who let them have the creatures of God in excess,
 or immoderately till they are drunk and surfeited,
 for such do feed themselves without the fear of God.
 
-Secondly, let all who go under the name of Christian families,
+[.numbered-group]
+====
+
+[.numbered]
+_Secondly,_ let all who go under the name of Christian families,
 train up their children in the fear of God, and keep themselves in the fear of God,
 that they may keep all their servants and families in the fear of God;
 out of all looseness and wantonness, and vanities and excess, and from all drunkenness,
@@ -96,9 +114,16 @@ And therefore to shun all these evils, and to depart from them,
 and keeping in the fear of God; this is the way to bring the blessing of God upon a land,
 kingdom, nation, or family
 
+====
+
+[.signed-section-signature]
 G+++.+++ F.
 
-God will destroy them which destroy the earth. Rev. 11:18.
+[quote.scripture, , Rev. 11:18]
+____
+
+God will destroy them which destroy the earth.
+____
 
 Drunkenness makes a man worse than a beast, and makes a strong man weak,
 and a wise man a fool.
