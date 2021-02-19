@@ -1,7 +1,14 @@
 [#ch40.style-blurb, short="Concerning the Antiquity of the People of God Called Quakers"]
 == Concerning the antiquity of the people of God called Quakers; their worship; their mother, new and heavenly Jerusalem; their faith, and who is the author and finisher of it; their belief their way, their original; their hope, distinct from the hope of the hypocrite that perishes; their gospel, the true ministers, their leader and teacher, and that which gives them knowledge; their mediator, their overseer, the church of Christ`'s prayer, and in what is their cross, and their baptism. By G. F.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Concerning the antiquity of our worship.
+
+[.small-break]
+'''
 
 It is that which Christ set up above sixteen hundred years ago, which,
 when he put down the Jews`' worship at the temple at Jerusalem;
@@ -20,7 +27,11 @@ and all his worshippers are out of, and cannot come into, for there is no truth 
 And this is our pure and perfect standing worship,
 which Christ the son of God set up above sixteen hundred years ago.
 
+[.numbered]
 II. Concerning the antiquity of our religion.
+
+[.small-break]
+'''
 
 Which was set up by Christ in his apostles, above sixteen hundred years ago, who saith,
 that '`pure religion and undefiled before God is this:
@@ -35,8 +46,12 @@ And this is below the pure undefiled christian religion,
 that was set up among the primitive christians, in the apostles`' days,
 which is our pure undefiled religion.
 
+[.numbered]
 III.
 Concerning the antiquity of our mother, new and heavenly Jerusalem.
+
+[.small-break]
+'''
 
 She is the same as she was confessed to by the apostles, in the primitive times,
 above sixteen hundred years ago, who said, '`Jerusalem,
@@ -101,8 +116,12 @@ to be the mother of all true christians in the apostles`' days, and now.
 And in our mother heavenly Jerusalem`'s children, is love of loves, and joy of joys;
 above all joys and loves below, that will pass away.
 
+[.numbered]
 IV. Now concerning the antiquity from whence we have our faith,
 and who is the author and finisher of it.
+
+[.small-break]
+'''
 
 The apostle saith to the church of Christ, the Hebrews,
 '`Let us run with patience the race that is set before us;
@@ -134,7 +153,11 @@ in which holy faith the church of Christ did,
 and do build one another up which (as before) Christ the holy one,
 is the author and finisher of, and not men.
 
+[.numbered]
 V+++.+++ Concerning the antiquity of our belief.
+
+[.small-break]
+'''
 
 Christ, the heavenly man, and second Adam,
 doth enlighten every one that comes into the world, with his heavenly spiritual light,
@@ -173,7 +196,11 @@ is the true and living belief that Christ hath taught us.
 And he hath given us his light to believe in;
 which belief is distinct from all false beliefs that men make and teach.
 
+[.numbered]
 VI. Concerning the antiquity of our way.
+
+[.small-break]
+'''
 
 Christ Jesus said, '`I am the way, the truth, and the life; no man cometh to the Father,
 but by me.`' John 14:6.
@@ -212,7 +239,11 @@ So Christ, who is our leader, is our counsellor and salvation, and way to God,
 and there is no other way to the Father but by him, who hath died for our sins,
 and is risen for our justification.
 
+[.numbered]
 VII. Concerning the original.
+
+[.small-break]
+'''
 
 John saith, '`In the beginning was the word, etc.
 And all things were made by the word; and without the word was not any thing made,
@@ -258,9 +289,13 @@ and their natural religions, and so to be natural ministers.
 But they that hear Christ`'s voice, and learn of him, and are bred up in his school,
 are made able ministers of his everlasting word.
 
+[.numbered]
 VIII.
 Concerning the antiquity of our true hope, distinct from the hope of the hypocrite,
 that perishes.
+
+[.small-break]
+'''
 
 '`The mystery which hath been hid from ages and generations,
 is now made manifest to the saints, which is Christ in you, the hope of glory,
@@ -285,7 +320,11 @@ Here you may see the saints that are in this true and living hope,
 have an inheritance immortal and undefiled, who are kept by the power of God,
 through faith unto salvation.
 
+[.numbered]
 IX. Now concerning the antiquity of our gospel.
+
+[.small-break]
+'''
 
 The apostle tells the Romans,
 that '`the gospel of Christ is the power of God to salvation to every one that believes.
@@ -361,7 +400,11 @@ that professed the gospel in words, but did, nor do not come into the seed,
 in which all are blessed, and which brings life and immortality to light,
 to all them that are in Christ the seed.
 
+[.numbered]
 X+++.+++ Concerning the antiquity of the true ministers.
+
+[.small-break]
+'''
 
 Moses, and Aaron, and the prophets, were all sent of God, in the old testament.
 And the Lord commanded Moses to take twelve rods, and write every man`'s name,
@@ -499,7 +542,11 @@ and the natural man perceiveth not the things of the spirit of God,
 they are foolishness to him; neither can he know them,
 because they are spiritually discerned. 1 Cor. 2:11-14.
 
+[.numbered]
 XI. Concerning the antiquity of our leader, and that which gives us knowledge.
+
+[.small-break]
+'''
 
 The Lord said, speaking of Christ,
 in Isa. 55:3-4. '`I will make an everlasting covenant; and behold,
@@ -554,8 +601,12 @@ gives us the knowledge of the glory of God, in the face of Christ,
 (as before,) and without this light we have not the knowledge of the glory of God,
 in the face of Jesus Christ; as in 2 Cor. 4:6-7.
 
+[.numbered]
 XII.
 Now concerning the antiquity of our teacher in the new covenant.
+
+[.small-break]
+'''
 
 Christ saith, '`Is it not written in the prophets, ye shall be all taught of God?
 Every man therefore that hath heard and learned of the Father, cometh unto me;
@@ -630,8 +681,12 @@ which satisfies our thirsty souls. Isa. 4:1-2.
 and John 7:37. So that we do praise God, and sing hallelujah,
 through Jesus Christ.
 
+[.numbered]
 XIII.
 Concerning the antiquity of our mediator.
+
+[.small-break]
+'''
 
 The apostle saith, '`The law served, which was added because of transgression,
 till the seed should come, to whom the promise was made.`' Gal. 3:19.
@@ -650,8 +705,12 @@ the one mediator betwixt them and God.
 So here you may see, the apostle did not set up many mediators between God and man,
 but one mediator, Christ Jesus the son of God.
 
+[.numbered]
 XIV.
 Concerning the antiquity of overseers.
+
+[.small-break]
+'''
 
 The apostle saith unto the elders, '`and to all the flock,
 over which the holy ghost hath made you overseers,`' etc. Acts 20:28.
@@ -670,7 +729,11 @@ So here they were to wait in the holy ghost, that led them into all truth,
 and not to take thought nor follow their own thoughts, but to trust to the holy ghost,
 their leader and comforter.
 
+[.numbered]
 XV. Concerning the antiquity of the church of Christ`'s prayer, and in what.
+
+[.small-break]
+'''
 
 The apostle saith, '`The spirit helps our infirmities;
 we know not what we should pray for as we ought,
@@ -689,6 +752,8 @@ Here you may see it is the spirit that God poureth upon all flesh, and the holy 
 that the church of Christ, and all people are to sing and pray in,
 and serve and worship God in, and not to grieve the spirit of God, nor vex it,
 nor quench it, nor rebel against it.
+
+====
 
 After that God had made man and woman in his own image and likeness, and blessed them,
 and put them in paradise; and gave them a command to eat of every tree,
@@ -813,9 +878,9 @@ whether we be bond or free,
 and have been all made to drink into one spirit.`' So this is the one spiritual baptism,
 which was set up above sixteen hundred years ago.
 
-And you may see more of the distinction between John`'s-baptism and Christ`'s,
-in my book, entitled, '`A distinction between the two baptisms,
-and the two suppers of Christ.`'
+And you may see more of the distinction between John`'s baptism and Christ`'s,
+in my book, entitled, [.book-title]#A Distinction between the Two Baptisms,
+and the Two Suppers of Christ.#
 
 How that John`'s baptism, with the elements of water did decrease, and Christ`'s baptism,
 with fire and the holy ghost doth increase; who thoroughly purges his floor,
@@ -823,8 +888,10 @@ and burns up the chaff with unquenchable fire;
 and how Christ gathereth the wheat into his garner and this is our baptism,
 and baptizer.
 
+[.signed-section-signature]
 G+++.+++ F.
 
+[.signed-section-context-close]
 Edmondton, the 2d month, 1688.
 
 [.blurb]
@@ -860,4 +927,5 @@ that men have made with their hands, and bow down to them.
 For such as do worship the works of their own hands, are enemies to the cross of Christ,
 the power of God.
 
+[.signed-section-signature]
 G+++.+++ F.
