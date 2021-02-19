@@ -1,20 +1,8 @@
 [#ch44.style-blurb, short="Several Treatises"]
 == Several treatises worthy of every true Christian`'s serious consideration, By G. F.
 
-[.heading-continuation-blurb]
-I+++.+++ A distinction betwixt the prophets of God, Christ, and his ministers,
-and the messengers of Satan; for the one preaches up Christ`'s works and things,
-and the other preaches up Satan`'s works and his evil things.
-Wherein you may clearly see, the outward body of man and woman is not the body of death,
-nor sins of the flesh, nor the old man with his deceitful lusts, which must be put of;
-and how that men and women had outward bodies, before the body of death,
-and sins of the flesh, and the old man came into them,
-and by what means they came into man, and by what means they are cast out again,
-while men and women are upon the earth.
-And how that the ministers of Satan teach people,
-that they must carry about them a body of death, and sins of the flesh, and imperfection,
-whilst on this side the grave, which never did the prophets of God, Christ,
-nor his apostles preach any such doctrine.
+[.inline]
+=== I+++.+++ A distinction betwixt the prophets of God, Christ, and his ministers, and the messengers of Satan; for the one preaches up Christ`'s works and things, and the other preaches up Satan`'s works and his evil things. Wherein you may clearly see, the outward body of man and woman is not the body of death, nor sins of the flesh, nor the old man with his deceitful lusts, which must be put of; and how that men and women had outward bodies, before the body of death, and sins of the flesh, and the old man came into them, and by what means they came into man, and by what means they are cast out again, while men and women are upon the earth. And how that the ministers of Satan teach people, that they must carry about them a body of death, and sins of the flesh, and imperfection, whilst on this side the grave, which never did the prophets of God, Christ, nor his apostles preach any such doctrine.
 
 The Protestant priests, ministers, and teachers, preach to the people,
 and teach them both in public and private, that they must carry a body of sin,
