@@ -567,5 +567,5 @@ ____
 [.signed-section-signature]
 Geo. Fox.
 
-[.signed-section-signature]
+[.signed-section-context-close]
 Kingston, the 9th of the 9th Month, 1684.
