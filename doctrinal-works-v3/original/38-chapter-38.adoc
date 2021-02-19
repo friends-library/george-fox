@@ -75,9 +75,6 @@ whose wrath I fear not, nor his coming to defend or deliver you out of my hands.
 
 ====
 
-[.numbered-group]
-====
-
 Now, here is something in answer to the words of sultan Mahomet,
 the emperor of the Turks, saying, he is a great persecutor of the christians;
 but let him take heed, for the great God that made him, and heaven, and earth,
@@ -117,6 +114,10 @@ so then the Turks are not to be persecutors,
 if they do obey the command of the Lord Jesus Christ,
 and if they be the children of God the Father which is in heaven.
 
+[.numbered-group]
+====
+
+[.numbered]
 But the emperor of the Turks saith, he is a great persecutor of the christians;
 and you say in your Alcoran,
 that '`Jesus shall be a witness in the day of judgment against
