@@ -8,7 +8,7 @@ and prince of the earthly paradise; acknowledged prince and obedient son of Maho
 preserver of the cities of Hungaria; possessor of the sepulchre of your God;
 lord of all the emperors of the world,
 from the rising of the sun to the going down thereof: king of all kings,
-lord of the tree of life, conqueror of the Malonian Hegley, and the city Prokenix;
+lord of the tree of life, conqueror of the Malonian Hegley, and the city Prokenix;/em
 the great persecutor of the Christians, and all wicked people;
 joy of the flourishing world, commander and guardian of your crucified God,
 lord of the multitude of the heathens.
@@ -43,9 +43,6 @@ This is enough to let you understand my will, if you will be so wise as to know 
 
 [.blurb]
 === An answer to the speech or declaration of the great Turk, etc. By G. F.
-
-[.embedded-content-document.letter]
---
 
 [.salutation]
 Sultan Mahomet,
@@ -534,5 +531,3 @@ by the resurrection from the dead. Rom. 1:3-4.
 
 [.signed-section-signature]
 G+++.+++ F.
-
---
