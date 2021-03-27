@@ -1,4 +1,4 @@
-[#ch-46.style-blurb, short="Looking-glass"]
+[.style-blurb, short="Looking-glass"]
 == Priest Bennet`'s [.book-title]#Looking-glass.# These are some of his principles following.
 
 [.discourse-part]

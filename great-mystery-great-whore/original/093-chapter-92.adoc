@@ -1,4 +1,4 @@
-[#ch-92.style-blurb, short="The Doctrine of the Light Within"]
+[.style-blurb, short="The Doctrine of the Light Within"]
 == Enoch Howet of Lincoln. His principles as followeth, in his book which he calls, [.book-title]#The Doctrine of the Light Within.#
 
 [.discourse-part]

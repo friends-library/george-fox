@@ -1,4 +1,4 @@
-[#ch-58.style-blurb, short="R. Sherlock"]
+[.style-blurb, short="R. Sherlock"]
 == R. Sherlock`'s principles, as followeth.
 
 [.discourse-part]

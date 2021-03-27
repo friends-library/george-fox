@@ -1,4 +1,4 @@
-[#ch38.style-blurb, short="The Speech of Sultan Mahomet"]
+[.style-blurb, short="The Speech of Sultan Mahomet"]
 == The speech or declaration of Sultan Mahomet, the Great Turk, which he sent to the emperor of Germany, dated March 25th, 1683, from Adrianople, just after the Baron Saphonara, the Emperor`'s Ambassador, had his last audience of the Prince Vizier, wherein the said Ambassador could not comply with the extravagant demands of the Turk; which caused the said Grand Seignior to transmit the same to his Imperial Majesty: which is faithfully translated out of High Dutch.
 
 Mahomet the Fourth, son of emperors, and of the famous and renowned God;

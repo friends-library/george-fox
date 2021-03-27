@@ -1,4 +1,4 @@
-[#ch-59.style-blurb, short="John Wallace, William Moore, priest Kellet, priest Walker"]
+[.style-blurb, short="John Wallace, William Moore, priest Kellet, priest Walker"]
 == John Wallace, priest of Kendal; William Moore, priest of Kellet; and priest Walker. Their principles as followeth.
 
 [.discourse-part]

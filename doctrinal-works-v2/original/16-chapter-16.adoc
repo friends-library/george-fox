@@ -1,4 +1,4 @@
-[#ch16.style-blurb, short="To all the Kings, Princes, and Governers"]
+[.style-blurb, short="To all the Kings, Princes, and Governers"]
 == To all the Kings, Princes, and Governors in the whole world: and all that profess themselves Christians, and others, to read and consider.
 
 [.heading-continuation-blurb]

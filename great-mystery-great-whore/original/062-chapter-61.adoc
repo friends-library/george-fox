@@ -1,4 +1,4 @@
-[#ch-61.style-blurb, short="Ambrose Dickinson"]
+[.style-blurb, short="Ambrose Dickinson"]
 == Ambrose Dickinson`'s principles, as followeth.
 
 [.discourse-part]

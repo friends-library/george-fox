@@ -1,4 +1,4 @@
-[#ch-66.style-blurb, short="A Serious Review of Some Principles of the Quakers"]
+[.style-blurb, short="A Serious Review of Some Principles of the Quakers"]
 == A book called [.book-title]#A Serious Review of Some Principles of the Quakers.#
 
 [.discourse-part]

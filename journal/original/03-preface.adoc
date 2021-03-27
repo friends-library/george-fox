@@ -1,4 +1,4 @@
-[#preface, short="Preface by William Penn"]
+[short="Preface by William Penn"]
 == The Preface
 
 [.chapter-subtitle--blurb]

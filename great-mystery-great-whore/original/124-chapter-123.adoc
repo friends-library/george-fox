@@ -1,4 +1,4 @@
-[#ch-123.style-blurb, short="A Catechism of Christian Religion"]
+[.style-blurb, short="A Catechism of Christian Religion"]
 == A book I have received out of Holland, the title of which is called [.book-title]#A Catechism of Christian Religion,# printed at Amsterdam by John Frederick, stationer, at the sign of the Hope, 1639. The principles in it as followeth.
 
 [.discourse-part]

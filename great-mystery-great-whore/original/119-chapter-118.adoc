@@ -1,4 +1,4 @@
-[#ch-118.style-blurb, short="John Castaires"]
+[.style-blurb, short="John Castaires"]
 == John Castaires, called Minister of Glasgow, his Principles.
 
 [.discourse-part]

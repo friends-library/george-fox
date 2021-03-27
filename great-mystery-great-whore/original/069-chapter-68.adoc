@@ -1,4 +1,4 @@
-[#ch-68.style-blurb, short="Philip Bennet"]
+[.style-blurb, short="Philip Bennet"]
 == Some of Philip Bennet`'s principles, called Minister at Cartmel in Lancashire.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-85.style-blurb, short="Richard Heath"]
+[.style-blurb, short="Richard Heath"]
 == Richard Heath, Priest in Shrewsbury. His Principles as follows.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-10.style-blurb, short="The Quakers`' Whitest Devil"]
+[.style-blurb, short="The Quakers`' Whitest Devil"]
 == Ellis Bradshaw`'s book, called [.book-title]#The Quakers`' Whitest Devil.# His principles as follow.
 
 [.heading-continuation-blurb]

@@ -1,4 +1,4 @@
-[#ch-22.style-blurb, short="The Religion of the Northern Quakers"]
+[.style-blurb, short="The Religion of the Northern Quakers"]
 == Francis Higginson`'s book, called [.book-title]#A Brief Relation Of the Religion Of the Northern Quakers.# His principles follow.
 
 [.discourse-part]

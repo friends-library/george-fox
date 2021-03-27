@@ -1,4 +1,4 @@
-[#ch-79.style-blurb, short="A View of All Religions"]
+[.style-blurb, short="A View of All Religions"]
 == Alexander Ross`'s Book, which he calls, [.book-title]#A View of All Religions.# His Lies and Principles.
 
 [.discourse-part]

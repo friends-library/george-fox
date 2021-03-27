@@ -1,4 +1,4 @@
-[#ch-84.style-blurb, short="Thomas Hodges"]
+[.style-blurb, short="Thomas Hodges"]
 == Thomas Hodges, rector in Oxfordshire, bachelor in divinity, saith,
 
 [.discourse-part]

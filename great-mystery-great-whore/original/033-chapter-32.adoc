@@ -1,4 +1,4 @@
-[#ch-32.style-blurb, short="A Stumbling Stone"]
+[.style-blurb, short="A Stumbling Stone"]
 == William Dell`'s book, called, [.book-title]#A Stumbling Stone.# His principles follow.
 
 [.discourse-part]

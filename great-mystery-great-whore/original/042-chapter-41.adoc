@@ -1,4 +1,4 @@
-[#ch-41.style-blurb, short="Ministers in the County of Worcester"]
+[.style-blurb, short="Ministers in the County of Worcester"]
 == The agreement of Divers Ministers of Christ, so called, in the County of Worcester and parts adjacent, which are fifty-eight in number. Some of their principles follow.
 
 [.discourse-part]

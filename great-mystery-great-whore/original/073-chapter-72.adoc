@@ -1,4 +1,4 @@
-[#ch-72.style-blurb, short="George Johnson"]
+[.style-blurb, short="George Johnson"]
 == George Johnson, priest of Orford, said,
 
 [.discourse-part]

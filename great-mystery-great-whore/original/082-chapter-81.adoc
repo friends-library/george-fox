@@ -1,4 +1,4 @@
-[#ch-81.style-blurb, short="Seth Bushel"]
+[.style-blurb, short="Seth Bushel"]
 == Priest Bushel`'s principles. These words were given forth by Seth Bushel, priest of Whitley, as follows, the 25th day of the first month, 1658.
 
 [.discourse-part]

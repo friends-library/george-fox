@@ -1,4 +1,4 @@
-[#ch27.style-blurb, short="Concerning Christ the Resurrection"]
+[.style-blurb, short="Concerning Christ the Resurrection"]
 == Concerning Christ, the resurrection of the just and unjust.
 
 Christ saith to Martha, '`Thy brother Lazarus shall rise again.`' Martha said unto Jesus,

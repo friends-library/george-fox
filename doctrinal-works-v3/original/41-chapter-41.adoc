@@ -1,4 +1,4 @@
-[#ch41.style-blurb, short="A Salutation to All that are Seeking the Kingdom of God"]
+[.style-blurb, short="A Salutation to All that are Seeking the Kingdom of God"]
 == A spiritual or Heavenly salutation to all the tender-hearted in Christendom, that are seeking the kingdom of God, and the righteousness thereof; which I desire and entreat them to read over, in the love of God, in which they are sent to them, from him that desires the good of all mankind here, and their eternal happiness hereafter. By G. F.
 
 To all the tender-hearted in Christendom,

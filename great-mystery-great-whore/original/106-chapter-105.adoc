@@ -1,4 +1,4 @@
-[#ch-105.style-blurb, short="Philip Taverner"]
+[.style-blurb, short="Philip Taverner"]
 == Philip Taverner of West Drayton, in the county of Middlesex, his principles as follows, in a reply to a book to Edward Burrough, whom he in scorn calls Quaker.
 
 [.discourse-part]

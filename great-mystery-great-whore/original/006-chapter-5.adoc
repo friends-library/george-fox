@@ -1,4 +1,4 @@
-[#ch-5.style-blurb, short="Quaking Principles, Dashed to Pieces"]
+[.style-blurb, short="Quaking Principles, Dashed to Pieces"]
 == Henoch Howet`'s book, entitled, [.book-title]#The Quaking Principles, Dashed To Pieces by the Standing and Unshaken Truth.#
 
 He hath dashed himself to pieces upon the rock,

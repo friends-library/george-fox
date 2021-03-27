@@ -1,4 +1,4 @@
-[#ch33.style-blurb, short="How the Lord Spake Unto Moses, and Speaks Now"]
+[.style-blurb, short="How the Lord Spake Unto Moses, and Speaks Now"]
 == How the Lord spake unto Moses in the outward Tabernacle in the Old Testament, and God speaks now by his Son in the New Testament, in the Tabernacle and hearts of his people.
 
 The Lord said unto Moses, when he and the Jews were to make the tabernacle,

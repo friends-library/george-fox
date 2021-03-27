@@ -1,4 +1,4 @@
-[#ch-28.style-blurb, short="The Church of Christ in Bristol Recovering Her Veil"]
+[.style-blurb, short="The Church of Christ in Bristol Recovering Her Veil"]
 == Robert Simpson, Robert Parnell, John Andrews, Thomas Ewen, Bryan Hanson, and Richard Moon, in their book called, [.book-title]#The Church of Christ in Bristol Recovering Her Veil.# Their principles follow.
 
 [.heading-continuation-blurb]

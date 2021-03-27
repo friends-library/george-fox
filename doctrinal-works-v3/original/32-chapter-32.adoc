@@ -1,4 +1,4 @@
-[#ch32.style-blurb, short="The Sensible, Thankful, and Holy State of God`'s People"]
+[.style-blurb, short="The Sensible, Thankful, and Holy State of God`'s People"]
 == A true account of the sensible, thankful, and holy state of God`'s people; and of his speaking to them, both in the Old and New Covenant. By G. F.
 
 Here you may see that all God`'s people were a living and a sensible people,

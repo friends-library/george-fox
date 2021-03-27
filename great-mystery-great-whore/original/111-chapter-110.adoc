@@ -1,4 +1,4 @@
-[#ch-110.style-blurb, short="Daniel Roberts"]
+[.style-blurb, short="Daniel Roberts"]
 == Daniel Roberts, teacher to the Baptists at Reading, in Berkshire, did affirm,
 
 [.discourse-part]

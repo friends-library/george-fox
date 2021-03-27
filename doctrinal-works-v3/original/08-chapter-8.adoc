@@ -1,4 +1,4 @@
-[#ch8.style-blurb, short="How the Devil was and is the Old Informer"]
+[.style-blurb, short="How the Devil was and is the Old Informer"]
 == How the Devil was, and is the Old Informer against the Righteous. By G. F.
 
 He that is an informer, is a persecutor, and spoiler, and a destroyer;

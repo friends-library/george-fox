@@ -1,4 +1,4 @@
-[#ch3.style-blurb, short="To the Great Turk and King at Algiers"]
+[.style-blurb, short="To the Great Turk and King at Algiers"]
 == To the great Turk and King at Algiers: together with a Postscript of George Pattison`'s taking the Turks, and setting them on their own shore.
 
 In the name of the Great God, and Lord, creator and king of all things,

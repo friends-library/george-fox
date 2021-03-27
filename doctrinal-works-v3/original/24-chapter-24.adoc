@@ -1,4 +1,4 @@
-[#ch24.style-blurb, short="The Cause of Drought, Barrenness, Famine, and Plagues"]
+[.style-blurb, short="The Cause of Drought, Barrenness, Famine, and Plagues"]
 == The cause of drought, and barrenness, famine and plagues, for disobeying the Lord, and grieving his Spirit.
 
 The cause of drought, barrenness, and famine.

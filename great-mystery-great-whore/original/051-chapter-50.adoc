@@ -1,4 +1,4 @@
-[#ch-50.style-blurb, short="An Antidote Against the Infections of the Times"]
+[.style-blurb, short="An Antidote Against the Infections of the Times"]
 == The Elders and Messengers of the several Churches of Ilston, Abergevenny, Tredingnoge, Caermarthen, Hereford, Bredwerden, Cledacke, and Liangors, meeting at Brecknocke, whose book is titled, [.book-title]#An Antidote Against the Infections of the Times.#
 
 [.heading-continuation-blurb]

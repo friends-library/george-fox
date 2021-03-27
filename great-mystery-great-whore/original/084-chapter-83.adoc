@@ -1,4 +1,4 @@
-[#ch-83.style-blurb, short="Enoch Howet"]
+[.style-blurb, short="Enoch Howet"]
 == Enoch Howet`'s principles.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-88.style-blurb, short="The Brownists`' Principles"]
+[.style-blurb, short="The Brownists`' Principles"]
 == The Brownists`' Principles.
 
 [.discourse-part]

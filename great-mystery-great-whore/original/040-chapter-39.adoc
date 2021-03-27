@@ -1,4 +1,4 @@
-[#ch-39.style-blurb, short="The Deceiving Quaker Discovered"]
+[.style-blurb, short="The Deceiving Quaker Discovered"]
 == Matthew Caffin, in his book called, [.book-title]#The Deceiving Quaker Discovered.# His principles follow.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-34.style-blurb, short="Dialogue between a Minister of the Gospel and a Christian"]
+[.style-blurb, short="Dialogue between a Minister of the Gospel and a Christian"]
 == Thomas Collier`'s book, called [.book-title]#A Dialogue between a Minister of the Gospel, and an Inquiring Christian.# His principles follow.
 
 [.discourse-part]

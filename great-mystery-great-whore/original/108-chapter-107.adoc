@@ -1,4 +1,4 @@
-[#ch-107.style-blurb, short="Priest Tombes, Baptist, of Leominster"]
+[.style-blurb, short="Priest Tombes, Baptist, of Leominster"]
 == Priest Tombes, Baptist, of Leominster. His principles as followeth.
 
 [.discourse-part]

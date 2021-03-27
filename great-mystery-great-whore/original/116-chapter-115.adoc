@@ -1,4 +1,4 @@
-[#ch-115.style-blurb, short="Henry Foreside"]
+[.style-blurb, short="Henry Foreside"]
 == Henry Foreside, priest of the parish of Lingiah in Dunbartonshire, said in his preaching to the people,
 
 [.discourse-part]

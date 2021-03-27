@@ -1,4 +1,4 @@
-[#ch-93.style-blurb, short="Priest Fergison"]
+[.style-blurb, short="Priest Fergison"]
 == Priest Fergison`'s principles as followeth, who is a teacher in Kent, confessed to Ambrose Rigge.
 
 [.discourse-part]

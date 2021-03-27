@@ -1,4 +1,4 @@
-[#ch-89.style-blurb, short="John Turner"]
+[.style-blurb, short="John Turner"]
 == John Turner`'s Principles.
 
 [.discourse-part]

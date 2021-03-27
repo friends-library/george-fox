@@ -1,4 +1,4 @@
-[#ch-21.style-blurb, short="Queries to the Quakers"]
+[.style-blurb, short="Queries to the Quakers"]
 == Francis Harris`' book, called [.book-title]#Queries To the Quakers,`' etc. His principles follow.#
 
 [.discourse-part]

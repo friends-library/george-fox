@@ -1,4 +1,4 @@
-[#ch44.style-blurb, short="Several Treatises"]
+[.style-blurb, short="Several Treatises"]
 == Several treatises worthy of every true Christian`'s serious consideration, By G. F.
 
 [.inline]

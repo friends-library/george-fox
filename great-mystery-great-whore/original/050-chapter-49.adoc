@@ -1,4 +1,4 @@
-[#ch-49.style-blurb, short="Recording to Truth, that Quakes Not, Nor Quails"]
+[.style-blurb, short="Recording to Truth, that Quakes Not, Nor Quails"]
 == W. P`'s. Principles, in his book entitled, [.book-title]#Recording to Truth, that Quakes Not, Trembles Not, Nor Quails.#
 
 [.discourse-part]

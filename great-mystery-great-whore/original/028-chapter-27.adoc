@@ -1,4 +1,4 @@
-[#ch-27.style-blurb, short="The Scornful Quakers Answered"]
+[.style-blurb, short="The Scornful Quakers Answered"]
 == Magnus Byne`'s book, called, [.book-title]#The Scornful Quakers Answered.# His principles follow.
 
 [.discourse-part]

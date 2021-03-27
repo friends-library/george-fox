@@ -1,4 +1,4 @@
-[#ch-54.style-blurb, short="The Quakers`' Quaking Principles"]
+[.style-blurb, short="The Quakers`' Quaking Principles"]
 == Ellis Bradshaw`'s book, called [.book-title]#The Quakers`' Quaking Principles,# which he directs to the protector. His principles follow.
 
 [.discourse-part]

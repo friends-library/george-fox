@@ -1,4 +1,4 @@
-[#ch2.style-blurb, short="A Distinction Between the Old and New Covenent"]
+[.style-blurb, short="A Distinction Between the Old and New Covenent"]
 == A clear Distinction between the Old Covenant, or Old Testament, and the New Covenant, or New Testament; and how that Christ hath abolished and taken away the First Covenant and Testament, and established the Second. By G. F.
 
 For in Jer. 31:31. it is said, '`Behold the day cometh, saith the Lord,

@@ -1,4 +1,4 @@
-[#ch19.style-blurb, short="Christians in Name, Without the Nature of it"]
+[.style-blurb, short="Christians in Name, Without the Nature of it"]
 == A Demonstration to the Christians in Name, Without the Nature of it.
 
 [.heading-continuation-blurb]

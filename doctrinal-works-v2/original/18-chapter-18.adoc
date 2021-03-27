@@ -1,4 +1,4 @@
-[#ch18.style-blurb, short="A Testimony concerning the Blood of the Old Covenant"]
+[.style-blurb, short="A Testimony concerning the Blood of the Old Covenant"]
 == A Testimony concerning the Blood of the Old Covenant, and the Blood of the New Covenant, etc.--By G. F.
 
 Moses took the blood of the oxen and calves that were offered for sacrifices,

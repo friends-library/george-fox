@@ -1,4 +1,4 @@
-[#ch47, short="A Hammer to Break Down All Images"]
+[short="A Hammer to Break Down All Images"]
 == A Hammer
 
 [.heading-continuation-blurb]

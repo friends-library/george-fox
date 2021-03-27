@@ -1,4 +1,4 @@
-[#ch-111.style-blurb, short="Timothy Trever"]
+[.style-blurb, short="Timothy Trever"]
 == In answer to Timothy Trever`'s principles, propounded by way of queries.
 
 [.discourse-part]

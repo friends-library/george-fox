@@ -1,4 +1,4 @@
-[#ch-11.style-blurb, short="Choice Collections of Scriptures"]
+[.style-blurb, short="Choice Collections of Scriptures"]
 == Francis Blake`'s book called, [.book-title]#Choice Collections of Scriptures, Against the Practice of the Quakers,# etc. His principles follow.
 
 [.discourse-part]

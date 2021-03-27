@@ -1,4 +1,4 @@
-[#ch-74.style-blurb, short="George Larcum"]
+[.style-blurb, short="George Larcum"]
 == George Larcum, priest of Cockermouth, in Cumberland. His principles as followeth.
 
 [.discourse-part]

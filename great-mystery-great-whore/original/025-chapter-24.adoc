@@ -1,4 +1,4 @@
-[#ch-24.style-blurb, short="The Perfect Pharisee"]
+[.style-blurb, short="The Perfect Pharisee"]
 == Thomas Weld, Richard Prideaux, Samuel Hammond, William Coale, and William Durant, ministers in Newcastle. Their book, called [.book-title]#The Perfect Pharisee.# Their principles follow.
 
 [.discourse-part]

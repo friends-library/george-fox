@@ -1,4 +1,4 @@
-[#ch-7.style-blurb, short="Faithful Discovery of a Treacherous Design"]
+[.style-blurb, short="Faithful Discovery of a Treacherous Design"]
 == Joseph Kellet, John Pomroy, Paul Glisson, Christopher Feak, John Simpson, George Cocken, and Lawrence Wise; their principles in a book put forth by them, called, [.book-title]#A Faithful Discovery of a Treacherous Design of Mystical Antichrist, Displaying Christ`'s Banners,# are here laid open.
 
 [.discourse-part]

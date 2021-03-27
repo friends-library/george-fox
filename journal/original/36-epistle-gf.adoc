@@ -1,4 +1,4 @@
-[#gf-epistle, short="Epistle of George Fox"]
+[short="Epistle of George Fox"]
 == An Epistle of George Fox`'s,
 
 [.blurb]

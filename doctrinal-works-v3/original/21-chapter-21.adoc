@@ -1,4 +1,4 @@
-[#ch21.style-blurb, short="To Magistrates, Rulers, Ministers, Justices, and Other Officers"]
+[.style-blurb, short="To Magistrates, Rulers, Ministers, Justices, and Other Officers"]
 == To the Chief Magistrates, Rulers, Ministers, Justices of the Peace, and other Officers; who profess Christ and Christianity, and are called by that worthy name, and great title of Christians; which is from the King of kings, and Lord of lords, Christ Jesus.
 
 [.numbered-group]

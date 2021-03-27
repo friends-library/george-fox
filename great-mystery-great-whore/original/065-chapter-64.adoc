@@ -1,4 +1,4 @@
-[#ch-64.style-blurb, short="Discourse"]
+[.style-blurb, short="Discourse"]
 == Thomas Leadger`'s book, called [.book-title]#Discourse,# his principles in it follow.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-17.style-blurb, short="The Quakers`' Principles Quaking"]
+[.style-blurb, short="The Quakers`' Principles Quaking"]
 == Ralph Hall`'s book, called [.book-title]#The Quakers`' Principles Quaking.#
 
 [.heading-continuation-blurb]

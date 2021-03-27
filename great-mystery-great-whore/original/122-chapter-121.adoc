@@ -1,4 +1,4 @@
-[#ch-121.style-blurb, short="Henry Foreside"]
+[.style-blurb, short="Henry Foreside"]
 == Henry Foreside, Priest of Lingiah in Dunhartonshire, his doctrine and Principles.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch10.style-blurb, short="Concerning Revelation, Prophecy, Measure, and Rule"]
+[.style-blurb, short="Concerning Revelation, Prophecy, Measure, and Rule"]
 == Concerning Revelation, Prophecy, Measure, and Rule; and the Inspiration and Sufficiency of the Spirit.
 
 [.heading-continuation-blurb]

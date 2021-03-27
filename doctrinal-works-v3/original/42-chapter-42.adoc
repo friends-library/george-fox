@@ -1,4 +1,4 @@
-[#ch42.style-blurb, short="A Scripture Testimony Against Persecution for Religion"]
+[.style-blurb, short="A Scripture Testimony Against Persecution for Religion"]
 == A Scripture testimony against persecution for religion; and a persuasive to take off all the laws in Christendom, made to force or bind the tender consciences, which is God`'s prerogative.
 
 Haman would have destroyed all the seed of the Jews, because their laws, religion,

@@ -1,4 +1,4 @@
-[#ch34.style-blurb, short="To Magistrates in Christendom that Do Profess Christianity"]
+[.style-blurb, short="To Magistrates in Christendom that Do Profess Christianity"]
 == To all Magistrates in Christendom that do profess Christianity. Concerning Christian gospel-liberty, against persecution, and one Christian, forcing, persecuting, imprisoning, and spoiling the goods of another, because they will not be of their faith, worship, or religion. By G. F.
 
 Christ saith, '`Let the tares and the wheat grow together till the harvest,

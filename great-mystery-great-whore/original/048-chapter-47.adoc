@@ -1,4 +1,4 @@
-[#ch-47.style-blurb, short="The Seventh-day Sabbath"]
+[.style-blurb, short="The Seventh-day Sabbath"]
 == Thomas Tillam`'s book called, [.book-title]#The Seventh-day Sabbath.# His principles answered as followeth.
 
 [.discourse-part]

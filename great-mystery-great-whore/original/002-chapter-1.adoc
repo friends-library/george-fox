@@ -1,4 +1,4 @@
-[#ch-1.style-blurb, short="The Quakers Confuted"]
+[.style-blurb, short="The Quakers Confuted"]
 == An answer to many principles held forth by some of those called ministers, teachers, and professors in England; taken out of their several books, with their names to them. And also several other sayings and writings of the priests and professors of this nation, gathered together and answered.
 
 [.heading-continuation-blurb]

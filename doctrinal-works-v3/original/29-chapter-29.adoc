@@ -1,4 +1,4 @@
-[#ch29.style-blurb, short="To All Kings, Princes, Rulers, Governers, Bishops, and Clergy"]
+[.style-blurb, short="To All Kings, Princes, Rulers, Governers, Bishops, and Clergy"]
 == To all all Kings, Princes, Rulers, Governors, Bishops, and Clergy, that profess christianity in Christendom.
 
 [.heading-continuation-blurb]

@@ -1,4 +1,4 @@
-[#ch-103.style-blurb, short="Ministers in the County of Cork"]
+[.style-blurb, short="Ministers in the County of Cork"]
 == The agreement and resolution of several of the associated ministers in the county of Cork, for the ordination of ministers. Their principles in it as follow.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch9.style-blurb, short="Against the Pomps of the World"]
+[.style-blurb, short="Against the Pomps of the World"]
 == A Paper to Friends, and others, against the pomps of the world, followed and used by many tradesmen, in their vocations, contrary unto many of their sureties, promises, and vows.
 
 Friends, stand in the eternal power of God, witnesses for the eternal God,

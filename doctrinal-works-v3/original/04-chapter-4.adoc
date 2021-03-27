@@ -1,4 +1,4 @@
-[#ch4.style-blurb, short="The Protestant Christian Quaker"]
+[.style-blurb, short="The Protestant Christian Quaker"]
 == The Protestant Christian Quaker, a sufferer by Relics of Popery, under all powers, for thirty years last past, who have Persecuted for Religion, yet call the Holy Scriptures their rule, that justifieth no such practice. By G. F.
 
 The apostle exhorts the christians,

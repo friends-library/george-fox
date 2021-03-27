@@ -1,4 +1,4 @@
-[#ch-97.style-blurb, short="Priest Fowler, of Reading"]
+[.style-blurb, short="Priest Fowler, of Reading"]
 == Priest Fowler, of Reading, his principle.
 
 [.discourse-part]

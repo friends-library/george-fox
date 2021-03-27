@@ -1,4 +1,4 @@
-[#ch-9.style-blurb, short="The Quaking Mountebank"]
+[.style-blurb, short="The Quaking Mountebank"]
 == The author of the book called, [.book-title]#The Quaking Mountebank,# etc. His principles follow.
 
 [.heading-continuation-blurb]

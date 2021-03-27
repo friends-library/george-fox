@@ -1,4 +1,4 @@
-[#ch-45.style-blurb, short="The Quakers`' House Built on the Sands"]
+[.style-blurb, short="The Quakers`' House Built on the Sands"]
 == Samuel Hammond, in his book, called [.book-title]#The Quakers`' House Built on the Sands.# A very fit title for himself and the rest of his priests. These are some of his principles.
 
 [.discourse-part]

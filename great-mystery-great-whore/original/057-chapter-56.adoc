@@ -1,4 +1,4 @@
-[#ch-56.style-blurb, short="The Worcestershire Petition to the Parliament"]
+[.style-blurb, short="The Worcestershire Petition to the Parliament"]
 == '`The Worcestershire Petition to the Parliament,`' which is said to be signed by six thousand.
 
 [.discourse-part]

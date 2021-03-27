@@ -1,4 +1,4 @@
-[#ch-15.style-blurb, short="A Public Discovery of a Secret Deceit"]
+[.style-blurb, short="A Public Discovery of a Secret Deceit"]
 == John Deacon`'s book, called, [.book-title]#A Public Discovery of a Secret Deceit.# His principles follow.
 
 [.heading-continuation-blurb]

@@ -1,4 +1,4 @@
-[#ch-62.style-blurb, short="Quakery Slain"]
+[.style-blurb, short="Quakery Slain"]
 == Christopher Wade`'s book, called '`Quakery Slain.`' His principles follow.
 
 [.discourse-part]

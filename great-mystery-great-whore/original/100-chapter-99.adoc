@@ -1,4 +1,4 @@
-[#ch-99.style-blurb, short="William Greenhill"]
+[.style-blurb, short="William Greenhill"]
 == William Greenhill, priest of Stepny, who makes a trade of the scripture, his principle as followeth.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-82.style-blurb, short="Edward Price and Philip Langford"]
+[.style-blurb, short="Edward Price and Philip Langford"]
 == Hereford, the 8th day of the first month, 1658, these words were spoken in a meeting by Edward Price and Philip Langford, which are their principles.
 
 [.discourse-part]

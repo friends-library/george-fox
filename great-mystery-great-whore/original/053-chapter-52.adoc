@@ -1,4 +1,4 @@
-[#ch-52.style-blurb, short="Strength in Weakness"]
+[.style-blurb, short="Strength in Weakness"]
 == John Jackson`'s book entitled, [.book-title]#Strength in Weakness.# His principles are as followeth.
 
 [.discourse-part]

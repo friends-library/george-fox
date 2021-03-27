@@ -1,4 +1,4 @@
-[#ch-29.style-blurb, short="A Discover of the Quakers"]
+[.style-blurb, short="A Discover of the Quakers"]
 == Jonathan Clapham, '`a labourer of the gospel,`' as he saith, and William Jenkin: their book to the protector, called [.book-title]#A Discovery of the Quakers`' Doctrine.# Their principles, etc.
 
 [.discourse-part]

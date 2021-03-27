@@ -1,4 +1,4 @@
-[#ch-69.style-blurb, short="Adam Sands"]
+[.style-blurb, short="Adam Sands"]
 == Some of Adam Sands`' principles.
 
 [.discourse-part]

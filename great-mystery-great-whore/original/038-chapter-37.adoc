@@ -1,4 +1,4 @@
-[#ch-37.style-blurb, short="A Defence Against the Poison of Satan`'s Design"]
+[.style-blurb, short="A Defence Against the Poison of Satan`'s Design"]
 == Thomas Moore in his book, called [.book-title]#A Defence Against the Poison of Satan`'s Design.# These are his principles.
 
 [.discourse-part]

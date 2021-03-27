@@ -1,4 +1,4 @@
-[#ch-71.style-blurb, short="Richard Stoaks"]
+[.style-blurb, short="Richard Stoaks"]
 == Richard Stoaks, called minister at Grayrig chapel in Westmoreland.
 
 [.discourse-part]

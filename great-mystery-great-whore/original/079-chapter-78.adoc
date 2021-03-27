@@ -1,4 +1,4 @@
-[#ch-78.style-blurb, short="John Cole"]
+[.style-blurb, short="John Cole"]
 == John Cole`'s Book, (printed 1658,) his principles in it follow.
 
 [.discourse-part]

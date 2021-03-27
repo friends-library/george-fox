@@ -1,4 +1,4 @@
-[#ch-43.style-blurb, short="The Great Mystery of Godliness, and Ungodliness"]
+[.style-blurb, short="The Great Mystery of Godliness, and Ungodliness"]
 == Ralph Farmer`'s book, called [.book-title]#The Great Mystery of Godliness, and Ungodliness.# In which are these principles following.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-65.style-blurb, short="Antiquakers`' Assertions"]
+[.style-blurb, short="Antiquakers`' Assertions"]
 == Thomas Leadger`'s [.book-title]#Antiquakers`' Assertions.# His principles in it follow.
 
 [.discourse-part]

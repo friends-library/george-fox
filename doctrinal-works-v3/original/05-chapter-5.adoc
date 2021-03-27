@@ -1,4 +1,4 @@
-[#ch5.style-blurb, short="An Encouragement for All to Trust in the Lord"]
+[.style-blurb, short="An Encouragement for All to Trust in the Lord"]
 == An encouragement for all to trust in they Lord; who hath the breath of all mankind, and their souls in his hand. And how that not a sparrow shall full to the ground without the will of the Father. By G. F.
 
 The Lord God breathed into man the breath of life, and man became a living soul.`'^

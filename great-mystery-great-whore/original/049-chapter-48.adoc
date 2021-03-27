@@ -1,4 +1,4 @@
-[#ch-48.style-blurb, short="Some Gospel Truths Opened"]
+[.style-blurb, short="Some Gospel Truths Opened"]
 == John Burton, and John Bunyan, who call themselves ministers of the gospel, in their book called, [.book-title]#Some Gospel Truths Opened.# Their principles are as followeth.
 
 [.discourse-part]

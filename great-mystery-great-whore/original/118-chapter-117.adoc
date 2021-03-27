@@ -1,4 +1,4 @@
-[#ch-117.style-blurb, short="Lodowick Simerell"]
+[.style-blurb, short="Lodowick Simerell"]
 == Lodowick Simerell, priest of the new parish of Munckland, his Principles and Doctrines.
 
 [.discourse-part]

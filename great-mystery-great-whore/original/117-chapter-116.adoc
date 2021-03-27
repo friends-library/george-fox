@@ -1,4 +1,4 @@
-[#ch-116.style-blurb, short="James Dorranz"]
+[.style-blurb, short="James Dorranz"]
 == James Dorranz, called minister of Glasgow, his principles.
 
 [.discourse-part]

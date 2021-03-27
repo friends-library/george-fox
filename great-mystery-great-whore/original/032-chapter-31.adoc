@@ -1,4 +1,4 @@
-[#ch-31.style-blurb, short="The Quakers Quaking"]
+[.style-blurb, short="The Quakers Quaking"]
 == Jeremy Ives`' book, called [.book-title]#The Quakers Quaking.# His principles follow.
 
 [.discourse-part]

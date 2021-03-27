@@ -1,4 +1,4 @@
-.chapter-heading--blurb h2 {
+.chapter.style-blurb h2 {
   font-size: 1.05rem;
 }
 
@@ -10,23 +10,19 @@ h3.blurb {
   margin-top: -1.75em;
 }
 
-h2 {
+.chapter {
   /* no new pages for chapters */
   prince-page-group: auto;
+  /* DON'T keep start of chapters on recto */
+  page-break-before: auto;
   margin-top: 0in;
 }
 
-.sect1 {
-  /* DON'T keep start of chapters on recto */
-  page-break-before: auto;
-}
-
 /* quasi-asterism */
-.sect1 + .sect1::before {
+.chapter + .chapter::before {
   content: '* * *';
   display: block;
   letter-spacing: 5px;
   text-align: center;
   margin: 0.35in 0 0.25in 0;
 }
-

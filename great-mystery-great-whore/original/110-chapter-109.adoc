@@ -1,4 +1,4 @@
-[#ch-109.style-blurb, short="Dispute in Branspirth Castle"]
+[.style-blurb, short="Dispute in Branspirth Castle"]
 == This is a relation of some particulars and principles, affirmed by some of the priests of Bishopric, at a public dispute in Branspirth Castle upon the 21st day of the 7th month, 1658.
 
 [.discourse-part]

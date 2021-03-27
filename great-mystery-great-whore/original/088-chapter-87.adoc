@@ -1,4 +1,4 @@
-[#ch-87.style-blurb, short="The Quakers`' Rounds"]
+[.style-blurb, short="The Quakers`' Rounds"]
 == Philip Taverner, called Preacher of the Word, in his book called [.book-title]#The Quakers`' Rounds.# These are his Principles.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-2.style-blurb, short="Vindication of a Book Called Some Gospel Truths Opened"]
+[.style-blurb, short="Vindication of a Book Called Some Gospel Truths Opened"]
 == John Bunyan, Richard Spenceley, John Burton, and John Childe, in their book that they called [.book-title]#A Vindication of a Book Called Some Gospel Truth`'s Opened,# are these following principles.
 
 And as for Bunyan`'s lies and slanders, they will come upon himself;

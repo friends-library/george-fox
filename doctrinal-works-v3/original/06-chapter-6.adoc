@@ -1,4 +1,4 @@
-[#ch6.style-blurb, short="Epistle to All Christians, Jews, and Gentiles"]
+[.style-blurb, short="Epistle to All Christians, Jews, and Gentiles"]
 == An epistle to all Christians, Jews, and Gentiles, showing how that God dwells not in temples made with hands.
 
 '`Thus saith the Lord, heaven is my throne, and earth is my footstool:

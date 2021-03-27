@@ -1,4 +1,4 @@
-[#ch36.style-blurb, short="A Testimony for God`'s Truth"]
+[.style-blurb, short="A Testimony for God`'s Truth"]
 == A testimony for God`'s truth:
 
 [.heading-continuation-blurb]

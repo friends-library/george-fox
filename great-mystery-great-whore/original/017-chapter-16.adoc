@@ -1,4 +1,4 @@
-[#ch-16.style-blurb, short="Antichrist In Man the Greatest Idol"]
+[.style-blurb, short="Antichrist In Man the Greatest Idol"]
 == Joshua Miller`'s book called, [.book-title]#Antichrist In Man the Greatest Idol.#
 
 [.heading-continuation-blurb]

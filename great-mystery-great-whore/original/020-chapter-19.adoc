@@ -1,4 +1,4 @@
-[#ch-19.style-blurb, short="The Testimony of the True Jesus"]
+[.style-blurb, short="The Testimony of the True Jesus"]
 == Thomas Higginson`'s book, called, [.book-title]#The Testimony Of the True Jesus.# His principles follow.
 
 [.discourse-part]

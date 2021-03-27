@@ -1,4 +1,4 @@
-[#ch-90.style-blurb, short="The Ranter`'s Principles"]
+[.style-blurb, short="The Ranter`'s Principles"]
 == The Ranters`' Principles.
 
 [.discourse-part]

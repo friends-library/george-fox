@@ -1,4 +1,4 @@
-[#ch18.style-blurb, short="Concerning Such as Shall Enter the Kingdom of God"]
+[.style-blurb, short="Concerning Such as Shall Enter the Kingdom of God"]
 == Concerning such as shall enter into the kingdom of God, and New and Heavenly Jerusalem, and such as shall not. By G. F.
 
 Christ Jesus saith, '`No man can see the kingdom of God,

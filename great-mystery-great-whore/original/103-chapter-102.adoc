@@ -1,4 +1,4 @@
-[#ch-102.style-blurb, short="The Judgment and Advice of the Assembly of the Associated Ministers"]
+[.style-blurb, short="The Judgment and Advice of the Assembly of the Associated Ministers"]
 == A paper, called '`The Judgment and Advice of the Assembly of the Associated Ministers. By us, Richard Baxter, etc. Pastor of the Church of Kidderminster.`' Their principles in it follow.
 
 [.discourse-part]

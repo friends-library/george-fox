@@ -1,4 +1,4 @@
-[#ch-86.style-blurb, short="Daniel Gaudry"]
+[.style-blurb, short="Daniel Gaudry"]
 == Daniel Gaudry, Priest of great Billing in Northamptonshire. His Principles follow.
 
 [.discourse-part]

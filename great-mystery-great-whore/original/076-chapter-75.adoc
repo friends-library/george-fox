@@ -1,4 +1,4 @@
-[#ch-75.style-blurb, short="John Owen`'s Catechism"]
+[.style-blurb, short="John Owen`'s Catechism"]
 == John Owen, who calls himself a Minister of the Gospel, in his Catechism, which he gives forth, 1657, has these principles.
 
 [.discourse-part]

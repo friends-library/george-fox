@@ -1,4 +1,4 @@
-[#ch17.style-blurb, short="The Spirit of Man the Candle of the Lord"]
+[.style-blurb, short="The Spirit of Man the Candle of the Lord"]
 == The Spirit of Man the Candle of the Lord: the Candle of the Wicked often put out.
 
 [.heading-continuation-blurb]

@@ -1,4 +1,4 @@
-[#ch-23.style-blurb, short="A True Relation of a Dispute"]
+[.style-blurb, short="A True Relation of a Dispute"]
 == Francis Fullwood`'s book, called [.book-title]#A True Relation Of a Dispute.# His principles follow.
 
 [.discourse-part]

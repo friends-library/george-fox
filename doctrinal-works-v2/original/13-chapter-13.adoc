@@ -1,4 +1,4 @@
-[#ch13.style-blurb, short="Christ`'s Parable of Dives and Lazarus"]
+[.style-blurb, short="Christ`'s Parable of Dives and Lazarus"]
 == Christ`'s Parable of Dives and Lazarus, for all called Christians, and others, to consider.
 
 All people in Christendom, and elsewhere,

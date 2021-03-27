@@ -1,4 +1,4 @@
-[#ch-70.style-blurb, short="Roger Atkinson"]
+[.style-blurb, short="Roger Atkinson"]
 == Roger Atkinson, reader at Turver chapel in Lancashire.
 
 [.discourse-part]

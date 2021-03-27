@@ -1,4 +1,4 @@
-[#ch-63.style-blurb, short="The Holy Scripture Clearing Itself"]
+[.style-blurb, short="The Holy Scripture Clearing Itself"]
 == Henry Hagger`'s Book, called [.book-title]#The Holy Scripture Clearing Itself.# His principles in it follow.
 
 [.discourse-part]

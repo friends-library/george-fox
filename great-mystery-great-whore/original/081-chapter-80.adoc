@@ -1,4 +1,4 @@
-[#ch-80.style-blurb, short="Richard Mayo"]
+[.style-blurb, short="Richard Mayo"]
 == Richard Mayo, Priest of Kingston, his Doctrine and Principles, as follow.
 
 [.discourse-part]

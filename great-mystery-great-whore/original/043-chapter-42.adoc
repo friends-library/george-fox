@@ -1,4 +1,4 @@
-[#ch-42.style-blurb, short="The Reviler Rebuked"]
+[.style-blurb, short="The Reviler Rebuked"]
 == John Stalham, who calls himself '`a servant of the great bishop of souls, who watcheth over a flock at Terling in Essex,`' in his book called [.book-title]#The Reviler Rebuked.# These are some of his principles.
 
 [.discourse-part]

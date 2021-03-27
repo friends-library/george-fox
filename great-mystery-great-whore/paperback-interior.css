@@ -1,16 +1,13 @@
-h2 {
+.chapter {
   /* no new pages for chapters */
   prince-page-group: auto;
+  /* DON'T keep start of chapters on recto */
+  page-break-before: auto;
   margin-top: 0in;
 }
 
-.sect1 {
-  /* DON'T keep start of chapters on recto */
-  page-break-before: auto;
-}
-
 /* quasi-asterism */
-.sect1 + .sect1::before {
+.chapter + .chapter::before {
   content: '* * *';
   display: block;
   letter-spacing: 5px;

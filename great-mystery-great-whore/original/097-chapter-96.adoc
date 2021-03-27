@@ -1,4 +1,4 @@
-[#ch-96.style-blurb, short="Ellet and Crabs"]
+[.style-blurb, short="Ellet and Crabs"]
 == Ellet and Crabs`' principle, who are Baptists.
 
 [.discourse-part]

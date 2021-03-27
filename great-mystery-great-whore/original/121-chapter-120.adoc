@@ -1,4 +1,4 @@
-[#ch-120.style-blurb, short="John Nasmith"]
+[.style-blurb, short="John Nasmith"]
 == John Nasmith, Priest of Hambleton, his Principles.
 
 [.discourse-part]

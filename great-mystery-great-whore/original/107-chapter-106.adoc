@@ -1,4 +1,4 @@
-[#ch-106.style-blurb, short="The World`'s Wonder"]
+[.style-blurb, short="The World`'s Wonder"]
 == Edward Skip, teacher, who said that he is a servant in the gospel services, his book called [.book-title]#The World`'s Wonder.# His principles, as followeth.
 
 [.discourse-part]

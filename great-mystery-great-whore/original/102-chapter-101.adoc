@@ -1,4 +1,4 @@
-[#ch-101.style-blurb, short="Saints through the Immortal Seed"]
+[.style-blurb, short="Saints through the Immortal Seed"]
 == Thomas Collier, Nathaniel Strange, Thomas Glasseys; who call themselves servants of Christ, in their paper to all the churches, called '`Saints through the Immortal Seed.`'
 
 [.heading-continuation-blurb]

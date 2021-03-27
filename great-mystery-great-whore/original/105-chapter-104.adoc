@@ -1,4 +1,4 @@
-[#ch-104.style-blurb, short="Margin Notes"]
+[.style-blurb, short="Margin Notes"]
 == John Stillom`'s book, called [.book-title]#Margin Notes.# His principles as follow.
 
 [.discourse-part]

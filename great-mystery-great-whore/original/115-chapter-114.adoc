@@ -1,4 +1,4 @@
-[#ch-114.style-blurb, short="John Hume"]
+[.style-blurb, short="John Hume"]
 == John Hume, Priest of Lesmahaga. His Principles as follows, who got into a steeple-house, and shut the door upon him; thus he taught the people.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-14.style-blurb, short="The Looking Glass for Quakers"]
+[.style-blurb, short="The Looking Glass for Quakers"]
 == Thomas Collier`'s book called, [.book-title]#The Looking Glass For Quakers.# His principles follow.
 
 [.heading-continuation-blurb]

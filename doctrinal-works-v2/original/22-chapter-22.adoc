@@ -1,4 +1,4 @@
-[#ch22.style-blurb, short="A Warning to Beware of Covetousness"]
+[.style-blurb, short="A Warning to Beware of Covetousness"]
 == A Warning to all that profess Christianity, and others, to beware of Covetousness, which is Idolatry.--By G. F.
 
 All people that do profess Christ, and christianity, this is a warning to you all,

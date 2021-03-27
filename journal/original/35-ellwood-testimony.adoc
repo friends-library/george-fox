@@ -1,4 +1,4 @@
-[#ellwood-testimony.style-blurb, short="Testimony of Thomas Ellwood"]
+[.style-blurb, short="Testimony of Thomas Ellwood"]
 == Thomas Ellwood`'s Account of that Eminent and Honourable Servant of the Lord, George Fox.
 
 [.offset]

@@ -1,4 +1,4 @@
-[#ch-94.style-blurb, short="Priests of Lancashire"]
+[.style-blurb, short="Priests of Lancashire"]
 == The priests of Lancashire, their principles.
 
 Priest Jacus, the foreman of them, said, '`the letter and the spirit were inseparable.`'

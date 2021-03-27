@@ -1,4 +1,4 @@
-[#ch-126.style-blurb, short="Scripture Catechism"]
+[.style-blurb, short="Scripture Catechism"]
 == Thomas Hodges, bachelor of divinity, rector of Soldren in Oxfordshire, his principles in a book, called [.book-title]#Scripture Catechism,# as followeth, where he goes about to confute errors, who confutes himself among them.
 
 [.discourse-part]

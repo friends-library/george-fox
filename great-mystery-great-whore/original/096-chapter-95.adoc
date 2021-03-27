@@ -1,4 +1,4 @@
-[#ch-95.style-blurb, short="Edward Briggs"]
+[.style-blurb, short="Edward Briggs"]
 == The professors`' principles at Westmoreland. Edward Briggs the leader of them, said,
 
 [.discourse-part]

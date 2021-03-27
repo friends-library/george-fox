@@ -1,4 +1,4 @@
-[#scotland.style-blurb, short="Doctrines and Principles of the Priests of Scotland"]
+[.style-blurb, short="Doctrines and Principles of the Priests of Scotland"]
 == The Doctrines and Principles of the Priests of Scotland, Contrary to the Doctrine of Christ and the Apostles.
 
 [.heading-continuation-blurb]

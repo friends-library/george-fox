@@ -1,4 +1,4 @@
-[#ch-98.style-blurb, short="Lamb in the city of London"]
+[.style-blurb, short="Lamb in the city of London"]
 == Lamb in the city of London, the Baptists`' teacher, and some of his company. Their principles as follows.
 
 [.discourse-part]

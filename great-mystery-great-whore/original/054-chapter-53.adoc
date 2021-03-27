@@ -1,4 +1,4 @@
-[#ch-53.style-blurb, short="Hosanna to the Son of David"]
+[.style-blurb, short="Hosanna to the Son of David"]
 == A book, title page called, [.book-title]#Hosanna to the Son of David.#
 
 [.heading-continuation-blurb]

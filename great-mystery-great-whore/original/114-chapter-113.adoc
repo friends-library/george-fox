@@ -1,4 +1,4 @@
-[#ch-113.style-blurb, short="Hugh Archball"]
+[.style-blurb, short="Hugh Archball"]
 == Hugh Archball, priest of Stravan, in Anandale. These are his principles.
 
 [.discourse-part]

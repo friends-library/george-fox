@@ -1,4 +1,4 @@
-[#ch-40.style-blurb, short="Antichrist Made Known"]
+[.style-blurb, short="Antichrist Made Known"]
 == William Jefferies`' book, called [.book-title]#Antichrist Made Known.# In which are these principles following.
 
 [.discourse-part]

@@ -1,4 +1,4 @@
-[#ch-60.style-blurb, short="Gawen Eglesfield"]
+[.style-blurb, short="Gawen Eglesfield"]
 == Gawen Eglesfield`'s principles, as followeth.
 
 [.discourse-part]

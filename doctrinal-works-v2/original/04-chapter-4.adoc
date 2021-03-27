@@ -1,4 +1,4 @@
-[#ch4.style-blurb, short="What We Believe of Christ"]
+[.style-blurb, short="What We Believe of Christ"]
 == A testimony of what we believe of Christ, before he was manifest in the Flesh; and of his Birth and Preaching, and what he saith he is himself: as also of his Sufferings, Death, Resurrection, and Ascension; both as he was God, and as he was Man.
 
 [.heading-continuation-blurb]

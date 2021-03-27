@@ -1,4 +1,4 @@
-[#ch-108.style-blurb, short="A Form of Sound Words"]
+[.style-blurb, short="A Form of Sound Words"]
 == A paper I have received, the title of which is, '`A form of Sound Words, containing the first principles of the oracles of God, framed for the use and benefit of the inhabitants of two adjacent parishes in the county of Nottingham.`' Their principles in it as followeth.
 
 [.discourse-part]

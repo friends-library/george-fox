@@ -1,4 +1,4 @@
-[#testimonies.style-blurb, short="Testimonies Concerning George Fox"]
+[.style-blurb, short="Testimonies Concerning George Fox"]
 == The substance of some other Brethren`'s Testimonies Concerning G. F.
 
 _Luke Howard, together with the rest of the Friends of the quarterly meeting in Kent,

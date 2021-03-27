@@ -1,4 +1,4 @@
-[#ch-73.style-blurb, short="Priests of Orkney"]
+[.style-blurb, short="Priests of Orkney"]
 == These are the principles of the priests of Orkney.
 
 [.discourse-part]
