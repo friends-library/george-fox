@@ -295,10 +295,8 @@ G+++.+++ F.
 Kingston, the 1st of the 7th month, 1674.
 
 [.centered]
-=== Epistle 307.
-
-[.signed-section-context-open]
-Given forth in the time of his sickness in Worcester prison, 1674.
+=== Epistle 307.^
+footnote:[Given forth in the time of his sickness in Worcester prison, 1674.]
 
 My dear friends in England, and all parts of the word; the gospel,
 Which is the power of God, which you have received from the beginning, keep in it,

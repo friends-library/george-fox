@@ -1,19 +1,15 @@
 == Epistles 264 &#8212; 278
 
 [.centered]
-// lint-disable unexpected-asterisk
-=== Epistle 264.+++<sup>*</sup>+++
-
-[.emphasized.offset]
-// lint-disable unexpected-asterisk
-+++[*+++ The 1831 American edition of Fox`'s [.book-title]#Complete Works#
+=== Epistle 264.^
+footnote:[The 1831 American edition of Fox`'s [.book-title]#Complete Works#
 (from which this edition was created) omits the number _179_ when numbering Fox`'s epistles.
 As it is believed this omission was merely an accident,
 the editors of this edition have chosen to correct the numbering from that point forward.
 Therefore, epistles 264--320 in this work correspond to epistles 265--321 of the 1831 edition.
 Similarly, the 1831 edition skips the numbers _322--332,_ which has also been corrected,
 resulting in a difference of 11 for the numbering of
-epistles starting with 321 in this volume.+++]+++
+epistles starting with 321 in this volume.]
 
 All you that are believers in the light of Christ, which manifesteth darkness,
 ye are kept by the power of God unto the day of salvation.
